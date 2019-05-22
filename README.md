@@ -3,6 +3,7 @@ These are VERY EXPERIMENTAL override files for KoLMafia to make it understand th
 Guide
 =====
 Find your path below and follow the instructions:
+
 <b>Accordion Thief / Blender:</b>
 To Install type in KolMafia Console:
 <pre>
