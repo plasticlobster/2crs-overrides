@@ -2,8 +2,10 @@ These are VERY EXPERIMENTAL override files for KoLMafia to make it understand th
 
 Guide
 =====
-Find your path below and follow the instructions:
+Find your path below and follow the instructions. IF YOUR CLASS/MOON SIGN IS NOT LISTED, IT HAS NOT BEEN SPADED YET. Consider Spading it for us?
 
+VERY IMPORTANT! YOU MUST RESTART KOLMAFIA AFTER INSTALLING, REMOVING, OR UPDATING THIS BEFORE THE CHANGES WILL TAKE EFFECT!
+----------------------
 Accordion Thief / Blender:
 ----------------------
 To Install type in KolMafia Console:
@@ -13,6 +15,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/accordion
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-accordionthief-blender
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-accordionthief-blender
 </pre>
 Accordion Thief / Marmot:
 ----------------------
@@ -24,6 +30,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-accordionthief-marmot
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-accordionthief-marmot
+</pre>
 Accordion Thief / Mongoose:
 ----------------------
 To Install type in KolMafia Console:
@@ -33,6 +43,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/accordion
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-accordionthief-mongoose
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-accordionthief-mongoose
 </pre>
 Accordion Thief / Opossum:
 ----------------------
@@ -44,6 +58,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-accordionthief-opossum
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-accordionthief-opossum
+</pre>
 Accordion Thief / Packrat:
 ----------------------
 To Install type in KolMafia Console:
@@ -53,6 +71,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/accordion
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-accordionthief-packrat
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-accordionthief-packrat
 </pre>
 Accordion Thief / Platypus:
 ----------------------
@@ -64,6 +86,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-accordionthief-platypus
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-accordionthief-platypus
+</pre>
 Accordion Thief / Vole:
 ----------------------
 To Install type in KolMafia Console:
@@ -73,6 +99,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/accordion
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-accordionthief-vole
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-accordionthief-vole
 </pre>
 Accordion Thief / Wallaby:
 ----------------------
@@ -84,6 +114,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-accordionthief-wallaby
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-accordionthief-wallaby
+</pre>
 Accordion Thief / Wombat:
 ----------------------
 To Install type in KolMafia Console:
@@ -93,6 +127,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/accordion
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-accordionthief-wombat
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-accordionthief-wombat
 </pre>
 Disco Bandit / Blender:
 ----------------------
@@ -104,6 +142,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-discobandit-blender
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-discobandit-blender
+</pre>
 Disco Bandit / Marmot:
 ----------------------
 To Install type in KolMafia Console:
@@ -113,6 +155,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/discoband
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-discobandit-marmot
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-discobandit-marmot
 </pre>
 Disco Bandit / Packrat:
 ----------------------
@@ -124,6 +170,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-discobandit-packrat
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-discobandit-packrat
+</pre>
 Disco Bandit / Platypus:
 ----------------------
 To Install type in KolMafia Console:
@@ -133,6 +183,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/discoband
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-discobandit-platypus
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-discobandit-platypus
 </pre>
 Disco Bandit / Vole:
 ----------------------
@@ -144,6 +198,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-discobandit-vole
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-discobandit-vole
+</pre>
 Pastamancer / Blender:
 ----------------------
 To Install type in KolMafia Console:
@@ -153,6 +211,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/pastamanc
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-pastamancer-blender
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-pastamancer-blender
 </pre>
 Pastamancer / Marmot:
 ----------------------
@@ -164,6 +226,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-pastamancer-marmot
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-pastamancer-marmot
+</pre>
 Pastamancer / Opossum:
 ----------------------
 To Install type in KolMafia Console:
@@ -173,6 +239,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/pastamanc
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-pastamancer-opossum
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-pastamancer-opossum
 </pre>
 Pastamancer / Platypus:
 ----------------------
@@ -184,6 +254,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-pastamancer-platypus
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-pastamancer-platypus
+</pre>
 Pastamancer / Vole:
 ----------------------
 To Install type in KolMafia Console:
@@ -193,6 +267,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/pastamanc
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-pastamancer-vole
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-pastamancer-vole
 </pre>
 Pastamancer / Wallaby:
 ----------------------
@@ -204,6 +282,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-pastamancer-wallaby
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-pastamancer-wallaby
+</pre>
 Sauceror / Blender:
 ----------------------
 To Install type in KolMafia Console:
@@ -213,6 +295,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/sauceror/
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sauceror-blender
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sauceror-blender
 </pre>
 Sauceror / Marmot:
 ----------------------
@@ -224,6 +310,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sauceror-marmot
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sauceror-marmot
+</pre>
 Sauceror / Opossum:
 ----------------------
 To Install type in KolMafia Console:
@@ -233,6 +323,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/sauceror/
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sauceror-opossum
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sauceror-opossum
 </pre>
 Sauceror / Packrat:
 ----------------------
@@ -244,6 +338,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sauceror-packrat
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sauceror-packrat
+</pre>
 Sauceror / Platypus:
 ----------------------
 To Install type in KolMafia Console:
@@ -253,6 +351,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/sauceror/
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sauceror-platypus
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sauceror-platypus
 </pre>
 Sauceror / Vole:
 ----------------------
@@ -264,6 +366,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sauceror-vole
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sauceror-vole
+</pre>
 Sauceror / Wallaby:
 ----------------------
 To Install type in KolMafia Console:
@@ -273,6 +379,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/sauceror/
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sauceror-wallaby
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sauceror-wallaby
 </pre>
 Sauceror / Wombat:
 ----------------------
@@ -284,6 +394,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sauceror-wombat
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sauceror-wombat
+</pre>
 Seal Clubber / Blender:
 ----------------------
 To Install type in KolMafia Console:
@@ -293,6 +407,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/sealclubb
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sealclubber-blender
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sealclubber-blender
 </pre>
 Seal Clubber / Marmot:
 ----------------------
@@ -304,6 +422,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sealclubber-marmot
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sealclubber-marmot
+</pre>
 Seal Clubber / Mongoose:
 ----------------------
 To Install type in KolMafia Console:
@@ -313,6 +435,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/sealclubb
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sealclubber-mongoose
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sealclubber-mongoose
 </pre>
 Seal Clubber / Opossum:
 ----------------------
@@ -324,6 +450,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sealclubber-opossum
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sealclubber-opossum
+</pre>
 Seal Clubber / Packrat:
 ----------------------
 To Install type in KolMafia Console:
@@ -333,6 +463,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/sealclubb
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sealclubber-packrat
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sealclubber-packrat
 </pre>
 Seal Clubber / Platypus:
 ----------------------
@@ -344,6 +478,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sealclubber-platypus
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sealclubber-platypus
+</pre>
 Seal Clubber / Vole:
 ----------------------
 To Install type in KolMafia Console:
@@ -353,6 +491,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/sealclubb
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sealclubber-vole
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sealclubber-vole
 </pre>
 Seal Clubber / Wallaby:
 ----------------------
@@ -364,6 +506,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sealclubber-wallaby
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sealclubber-wallaby
+</pre>
 Seal Clubber / Wombat:
 ----------------------
 To Install type in KolMafia Console:
@@ -373,6 +519,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/sealclubb
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-sealclubber-wombat
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sealclubber-wombat
 </pre>
 Turtle Tamer / Blender:
 ----------------------
@@ -384,6 +534,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-turtletamer-blender
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-turtletamer-blender
+</pre>
 Turtle Tamer / Marmot:
 ----------------------
 To Install type in KolMafia Console:
@@ -393,6 +547,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/turtletam
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-turtletamer-marmot
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-turtletamer-marmot
 </pre>
 Turtle Tamer / Opossum:
 ----------------------
@@ -404,6 +562,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-turtletamer-opossum
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-turtletamer-opossum
+</pre>
 Turtle Tamer / Packrat:
 ----------------------
 To Install type in KolMafia Console:
@@ -413,6 +575,10 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/turtletam
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-turtletamer-packrat
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-turtletamer-packrat
 </pre>
 Turtle Tamer / Platypus:
 ----------------------
@@ -424,6 +590,10 @@ To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-turtletamer-platypus
 </pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-turtletamer-platypus
+</pre>
 Turtle Tamer / Wombat:
 ----------------------
 To Install type in KolMafia Console:
@@ -433,5 +603,9 @@ svn checkout https://github.com/plasticlobster/2crs-overrides/branches/turtletam
 To Remove type in KolMafia Console:
 <pre>
 svn delete plasticlobster-2crs-overrides-branches-turtletamer-wombat
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-turtletamer-wombat
 </pre>
 
