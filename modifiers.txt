@@ -5695,6 +5695,7 @@ Item	candy mountain oyster	Effect: "Sugar Rush", Effect Duration: 10
 Item	carrot cake	Effect: "Pla-see-bo", Effect Duration: 10
 Item	chaos popcorn	Effect Duration: 5
 Item	cheezburger	Effect: "Yes, Can Haz", Effect Duration: 50
+Item	chilly dog	Effect: "Chill Out, Dog", Effect Duration: 30
 Item	Choco-Mint patty	Effect: "Alpine Mintiness", Effect Duration: 25
 Item	circular CRIMBCOOKIE	Effect: "Mystic Circle", Effect Duration: 10
 # cold mashed potatoes: Selling Price: <b>1 Meat.</b><p><center><b><font color=blue>Deals <font color=blue>Cold Damage</font> based on your Mysticality when used as a combat item
@@ -5705,6 +5706,7 @@ Item	cool jelly donut	Effect: "Filled with Magic", Effect Duration: 30
 Item	cranberry cylinder	Effect: "Thanksgetting", Effect Duration: 20
 Item	Crimbo salad	Effect: "Salad Days", Effect Duration: 40
 Item	cupcake-in-a-cup	Effect: "Cake Caked", Effect Duration: 10
+Item	devil dog	Effect: "Devil Inside", Effect Duration: 30
 # dinner roll: Selling Price: <b>1 Meat.</b><p><center><b><font color=blue>Deals Physical Damage based on your Muscle when used as a combat item
 Item	Dinsey food-cone	Effect: "The Dinsey Way", Effect Duration: 30
 Item	disco biscuit	Effect: "Buttermilk Boogie", Effect Duration: 100
@@ -5719,10 +5721,12 @@ Item	expired can of franks 'n' beans	Effect: "Crimbo Nostalgia", Effect Duration
 Item	FDKOL hotcakes	Effect: "Hotcaked", Effect Duration: 50
 Item	festive sausage	Effect: "Sausage Festive", Effect Duration: 20
 Item	fireman's lunch	Effect: "You're Not Cooking", Effect Duration: 20
+Item	flower petal pie	Effect: "Flower Power", Effect Duration: 3
 Item	forbidden danish	Effect: "Danish Cunning", Effect Duration: 30
 Item	frozen danish	Effect: "Danish Cunning", Effect Duration: 30
 Item	fudgesicle	Effect: "Fudge Headache", Effect Duration: 30
 Item	gallon of milk	Effect: "Feeling Queasy", Effect Duration: 100
+Item	ghost dog	Effect: "Scaredy Dog", Effect Duration: 30
 Item	giant green gummi bear	Effect: "Gummibrain", Effect Duration: 40
 Item	giant red gummi bear	Effect: "Gummiheart", Effect Duration: 40
 Item	giant yellow gummi bear	Effect: "Gummiskin", Effect Duration: 40
@@ -5745,6 +5749,7 @@ Item	irradiated candy cane	Effect: "Festive Radiation", Effect Duration: 10
 Item	java cookie	Effect: "Updated", Effect Duration: 10
 Item	jawbruiser	Effect: "Sugar Rush", Effect Duration: 5
 Item	jumping horseradish	Effect: "Kicked in the Sinuses", Effect Duration: 50
+Item	junkyard dog	Effect: "Dog Breath", Effect Duration: 30
 Item	king cookie	Effect: "The Royal We", Effect Duration: 30
 Item	knight cookie	Effect: "Knightlife", Effect Duration: 30
 Item	knuckle sandwich	Effect: "Cruisin' for a Bruisin'", Effect Duration: 20
@@ -5769,6 +5774,7 @@ Item	natto pocky	Effect: "Ninja, Please", Effect Duration: 30
 Item	nut-shaped Crimbo cookie	Effect: "Nut-Rition", Effect Duration: 20
 Item	occult jelly donut	Effect: "Filled with Magic", Effect Duration: 30
 Item	old chum	Effect: "Fishy", Effect Duration: 5
+Item	one with everything	Effect: "Inner Dog", Effect Duration: 50
 Item	pawn cookie	Effect: "Pwnd", Effect Duration: 30
 Item	pecan pie	Effect: "Pecan Pied Piper", Effect Duration: 30
 Item	petit 4.1	Effect: "Petit Force", Effect Duration: 20
@@ -5786,11 +5792,13 @@ Item	queen cookie	Effect: "Towering Strength"
 Item	red drunki-bear	Effect: "Gummiheart", Effect Duration: 80
 Item	rocky road ice cream	Effect: "A Contender", Effect Duration: 40
 Item	rook cookie	Effect: "Towering Strength", Effect Duration: 30
+Item	savage macho dog	Effect: "Macho, Macho Dog", Effect Duration: 50
 Item	Scurvy and Sobriety Prevention	Skill: "Prevent Scurvy and Sobriety"
 Item	shadowy cat claw	Effect: "Feline Ferocity", Effect Duration: 30
 Item	shoo-fish pie	Effect: "Fishy", Effect Duration: 20
 Item	shrapnel jelly donut	Effect: "Filled with Magic", Effect Duration: 30
 Item	skull-shaped Crimboween cookie	Effect: "Bells in the Batfry", Effect Duration: 10
+Item	sly dog	Effect: "Top Dog", Effect Duration: 50
 Item	smashed danish	Effect: "Danish Cunning", Effect Duration: 30
 Item	smelted roe	Effect: "Sizzling with Fury", Effect Duration: 50
 Item	snow berries	Effect: "Berry Berry Cold", Effect Duration: 30
@@ -5820,12 +5828,14 @@ Item	triangular CRIMBCOOKIE	Effect: "Triangle, Man", Effect Duration: 10
 Item	ultrafondue	Effect: "Fondid", Effect Duration: 30
 Item	Ur-Donut	Effect: "Sugar Rush", Effect Duration: 10
 Item	very hot lunch	Effect: "Inner Warmth", Effect Duration: 100
+Item	video games hot dog	Effect: "Video Game Hot Dog", Effect Duration: 50
 Item	warbear feasting bread	Effect: "Gift of the Warbear", Effect Duration: 40
 Item	warbear thermoregulator bread	Effect: "Superheated Guts", Effect Duration: 40
 Item	warbear warrior bread	Effect: "Warriors, Come out to Playyyy", Effect Duration: 40
 Item	warm gravy	Effect: "Thanksgetting", Effect Duration: 20
 Item	warm war shawarma	Effect: "Shawarma Warm War", Effect Duration: 30
 Item	wasabi pocky	Effect: "Wasabi With You", Effect Duration: 30
+Item	wet dog	Effect: "Hangdog", Effect Duration: 30
 # whole turkey leg: Selling Price: <b>1 Meat.</b><p><center><b><font color=blue>Deals <font color=blueviolet>Sleaze Damage</font> based on your Moxie when used as a combat item
 Item	witch's bread	Effect: "Witch Breaded", Effect Duration: 20
 Item	wreath-shaped Crimbo cookie	Effect: "Wreathed in Merriment", Effect Duration: 10
@@ -5992,6 +6002,7 @@ Item	warbear feasting mead	Effect: "Warbear Loot Lust", Effect Duration: 40
 Item	wasabi-infused sake	Effect: "Wasabi With You", Effect Duration: 30
 Item	white Xanadian	Effect: "Flashing Eyes", Effect Duration: 10
 Item	world's most unappetizing beverage	Effect: "Literally Insane", Effect Duration: 10
+Item	zmobie	Wiki Name: "Zmobie (drink)"
 Item	Zoodriver	Effect: "Rampage!", Effect Duration: 5
 
 # Spleen Toxins section of modifiers.txt
