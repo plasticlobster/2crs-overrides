@@ -314,6 +314,20 @@ To Update type in KolMafia Console:
 <pre>
 svn update plasticlobster-2crs-overrides-branches-sauceror-marmot
 </pre>
+Sauceror / Mongoose:
+----------------------
+To Install type in KolMafia Console:
+<pre>
+svn checkout https://github.com/plasticlobster/2crs-overrides/branches/sauceror/mongoose
+</pre>
+To Remove type in KolMafia Console:
+<pre>
+svn delete plasticlobster-2crs-overrides-branches-sauceror-mongoose
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-sauceror-mongoose
+</pre>
 Sauceror / Opossum:
 ----------------------
 To Install type in KolMafia Console:
@@ -551,6 +565,20 @@ svn delete plasticlobster-2crs-overrides-branches-turtletamer-marmot
 To Update type in KolMafia Console:
 <pre>
 svn update plasticlobster-2crs-overrides-branches-turtletamer-marmot
+</pre>
+Turtle Tamer / Mongoose:
+----------------------
+To Install type in KolMafia Console:
+<pre>
+svn checkout https://github.com/plasticlobster/2crs-overrides/branches/turtletamer/mongoose
+</pre>
+To Remove type in KolMafia Console:
+<pre>
+svn delete plasticlobster-2crs-overrides-branches-turtletamer-mongoose
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-turtletamer-mongoose
 </pre>
 Turtle Tamer / Opossum:
 ----------------------
