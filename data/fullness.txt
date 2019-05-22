@@ -5,27 +5,27 @@
 # Food	Fullness	Level Req	quality	Adv	Musc	Myst	Moxie
 
 &quot;meat&quot; stick	1	5	good	3	15-25	0	0	50 Empty Inside (+50 Food Drop, +50 Booze Drop)
-normal pulsating 3vi1 pr0n m4nic0tti	3	3	good	6-9	0	0	60-63		
+normal pulsating 3vi1 pr0n m4nic0tti	3	3	good	6-9	0	0	60-63	10 A Little Bit Evil (+2 ML)	
 a dance upon the palate	1	1	crappy	2-4	2-20	2-20	2-20
 normal enchanted spinning abominable snowcone	3	1	good	6-9	5-15	5-15	5-15		5 Net Tea (Stench Resistance: +3)
 super-sized moldy upside-down acceptable bagel	5	1	crappy	5	2-3	2-3	2-3		
 acceptable mayolus	1	3	good	3	1-10	1-10	1-10
 toothsome accidental mutton	4	24	awesome	12-20	20-30	20-30	20-30		
-normal actual blood sausage	3	1	good	6-9	10-15	10-15	10-15		
+normal actual blood sausage	3	1	good	6-9	10-15	10-15	10-15	Vampyre	
 moldy actual tapas	4	11	crappy	4	30-50	0	0		
 decent wobbly Affirmation Cookie	3	1	good	6-9	0	0	0		
 tiny flavorless agnolotti arboli	1	9	decent	1-2	0	25-30	0		
-half-sized yummy wobbly Aldebaran sardines	2	4	awesome	6-10	10-20	10-20	10-20		
-enchanted bland alien meat	4	1	decent	4-8	0	0	0		15 Perception (Experience Percent (Moxie): +25)
-adequate alien sandwich	4	4	good	8-12	5-10	5-10	5-10		
-normal amok pudding	3	4	good	6-9	5-10	5-10	5-10		
+half-sized yummy wobbly Aldebaran sardines	2	4	awesome	6-10	10-20	10-20	10-20	60 Fishy	
+enchanted bland alien meat	4	1	decent	4-8	0	0	0	gain 5 turns of a random positive effect	15 Perception (Experience Percent (Moxie): +25)
+adequate alien sandwich	4	4	good	8-12	5-10	5-10	5-10	gain 10 turns of a random positive effect	
+normal amok pudding	3	4	good	6-9	5-10	5-10	5-10	20 Puddingface (+20 Sleaze Damage)	
 spoiled low-calorie bouncing dinner	1	1	crappy	1	0	8-10	0		
 ancient serpent roll	3	1		9-14	0	8-16	20-30	45/55 Fishy
 ancient unspeakable fruitcake	3	1	decent	3-6	15-20	15-20	15-20
 spoiled diet angel-food cake	1	1	crappy	1	0	0	0		
 angst burger	5	1	awesome	0	0	0	0	+10 PvP fights
 animal part cracker	3	4	good	8-10	8-10	8-10	8-10	30 Sprinkle in Your Eye (+25% Sprinkle drop)
-fancy bland huge packet of ketchup	6	1	decent	6-12	1-2	0	1-3		20 El Vibrations (Spell Damage Percent: +100)
+fancy bland huge packet of ketchup	6	1	decent	6-12	1-2	0	1-3	lose 3 HP	20 El Vibrations (Spell Damage Percent: +100)
 As Jus Gezund Heit	4	1		4-6	0	0	0
 flavorless jumbo squat asparagus lo mein	5	6	decent	5-10	10-14	10-14	0		
 decent asparagus stir-fry	4	3	good	8-12	3-5	2-5	0		
@@ -38,13 +38,13 @@ bag of QWOP	1	6	EPIC	5	0	0	0	10 QWOPped Up (-100% Init, Always Fumble)
 baked stuffing	2	1	awesome	8-10	0	0	10-20	leftovers, 20 Thanksgetting (Variable +meat, +item, +familiar weight, +all res)
 adequate skewed balaclava baklava	4	1	good	8-12	4-6	4-6	4-6		
 special bland ballroom blintz	4	1	decent	4-8	0	0	10-12		5 Updated (Muscle: +20, Mysticality: +20, Moxie: +20)
-adequate banana	3	1	good	6-9	1	1	1		
+adequate banana	3	1	good	6-9	1	1	1	banana peel	
 decent super-sized banana cream pie	5	7	good	10-15	1-100	1-100	1-100		
 banana milkshake	2	8	awesome	4-10	30-90	40-135	10-100
 banana-frosted king cake	3	1	crappy	3	0	0	0	brown plastic baby
 barrel cracker	1	4	good	3	0	0	0	40 Shortened (+25 sleaze dmg, +50 sleaze spell dmg, +2 sleaze res)
 barrel pickle	2	5	good	5-7	5-10	10-20	0	50 Briny Blood (+20 spell dmg, +40 MP)
-Bash-&#332;s cereal	2	1	crappy	2	0	3-5	0		35 Slimily Speedy (Moxie Percent: +50)
+Bash-&#332;s cereal	2	1	crappy	2	0	3-5	0	Bash-&#332;s boxtop	35 Slimily Speedy (Moxie Percent: +50)
 basic hot dog	1	1	crappy	1	0	0	0
 enchanted stale blurry bat haggis	3	2	decent	3-6	0	10-12	0		20 Retrograde Relaxation (HP Regen Min: 8, HP Regen Max: 10)
 tiny rotten special bat wing kabob	1	1	crappy	1	0	7-8	0		45 Blood-Gorged (Sleaze Damage: +40, Sleaze Spell Damage: +40)
@@ -55,7 +55,7 @@ adequate bean burrito	3	1	good	6-9	10-14	0	0
 bear claw	2	1	good	4-8	20-30	0	0	30 Bear Clawed (+100% weapon dmg)
 beautiful soup	2	5	good	4-8	34-49	0	0
 Beefy Crunch Pastaco	2	3	EPIC	11-12	60-100	0	0	40 Boletus Swoletus (+40 Mus)
-stale beefy fish meat	4	1	decent	4-8	4-8	0	0		5 Fishy
+stale beefy fish meat	4	1	decent	4-8	4-8	0	0	5/15 Fishy	5 Fishy
 beefy maki	3	1		7-12	8-16	0	0	45/55 Fishy
 beefy nigiri	2	1		4-8	8-16	0	0	20/30 Fishy
 fancy stale blinking mirror beer basted brat	3	11	decent	3-6	31-40	31-40	31-40		50 Disco Concentration (Item Drop: +20)
@@ -66,51 +66,51 @@ big merv's protein shakes	5	1	EPIC	60-80	220-400	0	0
 gigantic bland gray birthday party jellybean cheesecake	6	1	decent	6-12	20	20	20		
 bishop cookie	1	13	EPIC	4-6	0	45-50	0	30 Mitre Cut (+100..200% mys)
 Black Angus blackburger	2	1	good	5-7	0	0	0	100 The Power of Negative Thinking
-diet bland twirling forest cake	1	7	decent	1-2	0	25-50	0		
+diet bland twirling forest cake	1	7	decent	1-2	0	25-50	0	5 Sugar Rush	
 gigantic normal blinking forest ham	7	7	good	14-21	25-45	0	0		
 yummy immense bouncing pudding	7	7	awesome	21-35	10-12	10-12	9-12		
 stale half-sized huge blackberry	2	2	decent	2-4	2-4	2-4	2-4		
 blob-shaped Crimbo cookie	2	7	awesome	6-12	0	0	0	10/20 Amorphous Cheer (+50% all)
-flavorless blood roll-up	4	1	decent	4-8	20-25	20-25	20-25		
+flavorless blood roll-up	4	1	decent	4-8	20-25	20-25	20-25	Vampyre	
 rotten blood sausage	3	22	crappy	3	10-20	10-20	10-20		
-half-sized adequate enchanted blood snowcone	2	1	good	4-6	15-20	15-20	15-20		5 Crimbo Epiphany (Mysticality Percent: +10)
-big normal blood-soaked sponge cake	5	1	good	10-15	25-30	25-30	25-30		
-yummy bloodstick	4	1	awesome	12-20	5-10	5-10	5-10		
+half-sized adequate enchanted blood snowcone	2	1	good	4-6	15-20	15-20	15-20	Vampyre	5 Crimbo Epiphany (Mysticality Percent: +10)
+big normal blood-soaked sponge cake	5	1	good	10-15	25-30	25-30	25-30	Vampyre	
+yummy bloodstick	4	1	awesome	12-20	5-10	5-10	5-10	Vampyre	
 huge bland upside-down pulsating velvet cake	6	1	decent	6-12	0	0	0		
 blueberry-frosted king cake	3	1	crappy	3	0	0	0	blue plastic baby
 blunt cat claw	1	4	awesome	3-5	45-75	0	0	30 Feline Ferocity (+100% weapon dmg)
 bone meal	2	6	awesome	7-9	12-20	12-20	12-20
 adequate boring spaghetti	3	5	good	6-9	0	20-25	0		
-half-sized normal Boris's key lime pie	2	6	good	4-6	28-33	0	0		
-snack-sized toothsome boss brain	2	1	awesome	6-10	9-12	9-12	9-12		
+half-sized normal Boris's key lime pie	2	6	good	4-6	28-33	0	0	Boris's key	
+snack-sized toothsome boss brain	2	1	awesome	6-10	9-12	9-12	9-12	Zombie Slayer	
 Bouillabaise Coucher Avec Moi	5	1		5-9	0	0	0
-bland blurry bowl of Bounty-Os	3	3	decent	3-6	16-24	16-24	16-24		
+bland blurry bowl of Bounty-Os	3	3	decent	3-6	16-24	16-24	16-24	20 Broken Fast (+30% item drop)	
 snack-sized tasty bowl of cottage cheese	2	1	awesome	6-10	0	0	0		
 bowl of eyeballs	2	1	awesome	7-9	0	10-20	0	30 Your Eyes are Peeled! (+25% item drop)
 normal bowl of fishysoisse	3	8	good	6-9	48-74	67-70	52-70		
-thick bland skewed bowl of charms	5	1	decent	5-10	0	6-9	0		
+thick bland skewed bowl of charms	5	1	decent	5-10	0	6-9	0	50% chance of leprechaun hatchling	
 bowl of maggots	2	1	EPIC	10-12	10-20	0	0
 bowl of mummy guts	2	1	awesome	7-9	0	0	10-20	30 Guts Feeling (+50% meat drop)
 delicious squat bowl of oriole's nest soup	4	1	awesome	12-20	0	0	0		
 adequate bowl of rye sprouts	4	2	good	8-12	10-15	0	0		
-moldy bowl of Tastee-Wheet&trade;	3	5	crappy	3	5	5	5		
+moldy bowl of Tastee-Wheet&trade;	3	5	crappy	3	5	5	5	5 Video... Games? (+5 most modifiers)	
 stale gigantic wobbly bowl of topioca	9	1	decent	9-18	50-60	50-60	50-60		
 bowl of unidentifiable goo	5	1		9-16	9-10	9-10	9-10
 Brain Food Pastaco	2	3	EPIC	11-12	0	60-100	0	40 Omphalotus Omnipresence (+40 Mys)
-tasty brain-meltingly-hot chicken wings	3	10	awesome	9-15	15-30	15-30	0		
-rotten huge mirror brains casserole	7	1	crappy	7	0	8-10	0		
+tasty brain-meltingly-hot chicken wings	3	10	awesome	9-15	15-30	15-30	0	lose 5-8 HP	
+rotten huge mirror brains casserole	7	1	crappy	7	0	8-10	0	Zombie Slayer	
 bread line	2	1	good	5-7	10-20	0	0	40 Bread-Lined (+50% Muscle, +25 Weapon damage)
 bread roll	2	1	awesome	8-10	0	0	10-20	leftovers, 20 Thanksgetting (Variable +meat, +item, +familiar weight, +all res)
 breakfast mess	2	2	decent	3-5	1-5	1-5	1-5
 breakfast miracle	2	6	EPIC	12-14	25-50	25-50	25-50
 flavorless teal Chicken Sandwich	3	1	decent	3-6	-15-20	0	15-20		
-normal immense mirror brown sugar cane	8	7	good	16-24	1-5	1-5	5-20		
+normal immense mirror brown sugar cane	8	7	good	16-24	1-5	1-5	5-20	3 Sugar Rush	
 browser cookie	4	4	EPIC	20-22	40-60	40-60	40-60
 Brussels Sprout Stir-Fry	3	1	decent	4	0	0	0	10 Healthy, Elfy, and Wise (8-10 HP Regen)
 bucket of honey	1	4	good	3	0	0	0	50 Sugar Rush
 half-sized decent bunch of square grapes	2	7	good	4-6	1-5	5-20	1-5		
-toothsome skewed C.H.U.M. chum	3	1	awesome	9-15	0	0	0		
-massive moldy cactus fruit	8	7	crappy	8	6-20	1-5	1-5		
+toothsome skewed C.H.U.M. chum	3	1	awesome	9-15	0	0	0	20 Majorly Poisoned	
+massive moldy cactus fruit	8	7	crappy	8	6-20	1-5	1-5	lose 8-10 HP	
 can of Adultwitch&trade;	2	4	decent	2-4	0	0	0	20 Greasy Visage (+50 Sleaze Spell Damage, +100% Spell Damage)
 can of franks 'n' beans	3	1	good	8-10	20-40	20-40	20-40	50 Crimbo Nostalgia (+5 exp)
 can of sardines	1	4	awesome	3-4	20-25	0	0
@@ -136,7 +136,7 @@ carton of snake milk	1	1	EPIC	4-6	0	0	3
 huge moldy catgut taco	8	1	crappy	8	11-33	0	0		
 narrow catsup	1	1	crappy	1	0	0	0		
 Caviar Carbonara	3	1		7-11	0	0	0
-tasty centipede eggs	3	7	awesome	9-15	8-10	8-10	6-10		
+tasty centipede eggs	3	7	awesome	9-15	8-10	8-10	6-10	10 Somewhat Poisoned	
 chaos popcorn	1	1	decent	2	0	0	0
 cheezburger	3	1	awesome	11-13	5-12	5-12	5-12	50 Yes, Can Haz
 half-sized normal cherry	2	2	good	4-6	0	0	0		
@@ -158,7 +158,7 @@ normal club sandwich	3	5	good	6-9	18-24	0	0
 flavorless blinking cob of corn	3	2	decent	3-6	0	10-15	0		
 adequate immense cocktail onion	8	2	good	16-24	0	0	0		
 bland small enchanted cocoa eggshell fragment	2	1	decent	2-4	0	0	0		50 Destructive Resolve (Weapon Damage: +20, Spell Damage: +20)
-toothsome jumbo red hi mein	5	12	awesome	15-25	70-75	30-35	15-20		
+toothsome jumbo red hi mein	5	12	awesome	15-25	70-75	30-35	15-20	5 Cold Breath (combat skill)	
 cold mashed potatoes	1	4	awesome	4-5	0	0	0
 flavorless squat congratulatory cake	3	1	decent	3-6	0	0	0		
 bland big consummate bacon	5	1	decent	5-10	10-20	20-30	0		
@@ -197,10 +197,10 @@ moldy diet shaking cool mushroom casserole	1	1	crappy	1	0	35-40	0
 rotten corned-beef Reuben	3	9	crappy	3	28-34	0	0		
 stale immense cranberries	7	1	decent	7-14	0	0	0		
 cranberry cylinder	2	1	awesome	8-10	0	0	10-20	leftovers, 20 Thanksgetting (Variable +meat, +item, +familiar weight, +all res)
-gigantic decent crappy brain	10	1	good	20-30	1	1	1		
+gigantic decent crappy brain	10	1	good	20-30	1	1	1	Zombie Slayer	
 Crazy Dragon Shogun Buddha Roll	5	1	good	10-15	0	0	0
 normal snack-sized crazy Turkish delight	2	2	good	4-6	0	30-40	0		
-normal cream of pointy mushroom soup	4	1	good	8-12	0	0	35-40		
+normal cream of pointy mushroom soup	4	1	good	8-12	0	0	35-40	lose 3 HP	
 stale massive creamsicle	8	3	decent	8-16	8-10	8-10	8-10		
 Crepes a la Lune	2	3	awesome	9-10	10-20	10-20	15-20
 CRIMBCO Deluxe Reconstituted Gruel with Simulated Raisins	5	1		12-13	0	0	0	lose 30% boredom
@@ -211,57 +211,57 @@ huge moldy Crimbo pie	8	7	crappy	8	25-45	0	0
 Crimbo salad	2	1	good	5-7	10-20	0	0	40 Salad Days (+50 HP, +2 muscle stats/fight)
 bland gigantic bouncing Crimboysters Rockefeller	7	1	decent	7-14	10-40	10-40	10-40		
 huge stale crudles	7	9	decent	7-14	25-30	0	0		
-fancy cup of lukewarm tea	1	1	decent	1-2	0	0	0		20 Impregnably Delicious (Damage Reduction: 30)
+fancy cup of lukewarm tea	1	1	decent	1-2	0	0	0	20 Jittery (+1-3 MP Regen)	20 Impregnably Delicious (Damage Reduction: 30)
 cupcake-in-a-cup	2	7	awesome	4-9	5-10	15-20	5-10	10 Cake Caked (+50% mys)
-decent pearl onion	4	1	good	8-12	0	0	0		
-normal massive sea biscuit	8	3	good	16-24	0	0	0		
+decent pearl onion	4	1	good	8-12	0	0	0	1 Curse of the Black Pearl Onion (combat belches)	
+normal massive sea biscuit	8	3	good	16-24	0	0	0	10 Curse Magnet	
 gigantic bland fuchsia custard pie	10	5	decent	10-20	5-10	0	10-15		
-tiny decent maroon D roll	1	4	good	2-3	0	20-30	0		
+tiny decent maroon D roll	1	4	good	2-3	0	20-30	0	20 On a Roll (+25 Food Drop)	
 dead lights pie	2	2	awesome	7-9	5-10	20-40	5-10
 dead meat bun	3	4	decent	5	10	0	0
-miniature adequate gray decent brain	2	1	good	4-6	3-5	3-5	3-5		
+miniature adequate gray decent brain	2	1	good	4-6	3-5	3-5	3-5	Zombie Slayer	
 rotten dehydrated caviar	3	2	crappy	3	0	0	15		
 decent noodles	3	3	good	6-9	0	0	9-25		
-rotten salad	3	1	crappy	3	0	0	0		
+rotten salad	3	1	crappy	3	0	0	0	25% chance of tattoo	
 toothsome noodles	4	5	awesome	12-20	0	29-33	0		
-decent wobbly star salad	3	1	good	6-9	4	4	4		
+decent wobbly star salad	3	1	good	6-9	4	4	4	gain 3-5 stars	
 flavorless snack-sized wobbly swamp muck	2	4	decent	2-4	20-30	20-30	20-30		
 rotten deluxe layer cake	3	10	crappy	3	200-400	200-400	200-400		
-miniature decent twirling denastified haunch	2	1	good	4-6	5-10	5-10	5-10		
+miniature decent twirling denastified haunch	2	1	good	4-6	5-10	5-10	5-10	30 Faerie Fortune (+1 Rubee drop)	
 small normal enchanted desiccated apricot	2	2	good	4-6	15-17	0	0		45 Scorpio Rising (Initiative: +25)
 devil dog	3	1	awesome	11-13	0	0	0	+5 PvP fights, 30 Devil Inside (+30 Hot Damage, +3 Cold/Spooky Res)
 bland green devil hair pasta	3	6	decent	3-6	13	13	13		
 half-sized spoiled shaking pulsating maroon blinking devil's-food cake	2	1	crappy	2	0	0	0		
 deviled egg	1	5	EPIC	5-6	2-4	2-4	2-4
-moldy digital key lime pie	3	6	crappy	3	10-22	10-22	10-22		
+moldy digital key lime pie	3	6	crappy	3	10-22	10-22	10-22	8-10 white pixels	
 dinner roll	1	4	awesome	4-5	0	0	0
 Dinsey food-cone	2	5	EPIC	9-12	10-20	10-20	10-20	30 The Dinsey Way (+80% Meat drop)
-bite-sized stale dire fudgesicle	1	1	decent	1-2	0	8-10	0		
+bite-sized stale dire fudgesicle	1	1	decent	1-2	0	8-10	0	lose 2 HP	
 Disc-Shaped Nutrition Unit	4	5		6-9	0	0	0
 disco biscuit	1	6	EPIC	6-7	0	0	20-30	100 Buttermilk Boogie (+50% mox, +50 init, +20-40 HP regen)
 rotten huge Double Bacon Beelzeburger	6	1	crappy	6	15-20	-15-20	0		
 dragon snaps	1	1	crappy	1	0	0	5-10	5 Oh Snap (+10 mox exp)
-normal tiny bouncing Dreadsylvanian pocket	1	26	good	2-3	30-50	30-50	30-50		
-huge flavorless Dreadsylvanian hot pocket	6	26	decent	6-12	30-50	30-50	30-50		
-normal Dreadsylvanian shepherd's pie	3	15	good	6-9	20-40	20-40	20-40		
-spoiled Dreadsylvanian sleaze pocket	3	26	crappy	3	30-50	30-50	30-50		
-decent Dreadsylvanian pocket	3	26	good	6-9	30-50	30-50	30-50		
-tasty small green huge Dreadsylvanian stew	2	20	awesome	6-10	10-20	10-20	10-20		
-normal twirling Dreadsylvanian stink pocket	3	26	good	6-9	30-50	30-50	30-50		
+normal tiny bouncing Dreadsylvanian pocket	1	26	good	2-3	30-50	30-50	30-50	200 Dreadful Chill (+5 Sleaze/Stench Res)	
+huge flavorless Dreadsylvanian hot pocket	6	26	decent	6-12	30-50	30-50	30-50	200 Dreadful Heat (+5 Cold/Spooky Res)	
+normal Dreadsylvanian shepherd's pie	3	15	good	6-9	20-40	20-40	20-40	10 Shepherd's Breath (+30 Stench Dam)	
+spoiled Dreadsylvanian sleaze pocket	3	26	crappy	3	30-50	30-50	30-50	200 Dreadful Sheen (+5 Hot/Stench Res)	
+decent Dreadsylvanian pocket	3	26	good	6-9	30-50	30-50	30-50	200 Dreadful Fear (+5 Cold/Sleaze Res)	
+tasty small green huge Dreadsylvanian stew	2	20	awesome	6-10	10-20	10-20	10-20	50 You've Got a Stew Going (+500 Dreadsylvania Item Drop)	
+normal twirling Dreadsylvanian stink pocket	3	26	good	6-9	30-50	30-50	30-50	200 Dreadful Smell (+5 Hot/Spooky Res)	
 diet decent druidic s'more	1	4	good	2-3	30-50	30-50	30-50		
-big adequate bouncing dwarf bread	5	1	good	10-15	0	0	0		
+big adequate bouncing dwarf bread	5	1	good	10-15	0	0	0	lose 10-13 HP	
 wobbly eagle's milk	1	2	decent	1-2	0	0	0		
-jumbo stale edible alien plant bit	5	1	decent	5-10	0	0	0		
+jumbo stale edible alien plant bit	5	1	decent	5-10	0	0	0	gain 5 turns of a random positive effect	
 spoiled eldritch mushroom	3	1	crappy	3	11	11	11		
-tasty enchanted bite-sized ghostly eldritch mushroom pizza	1	12	awesome	3-5	333	333	333		40 Ermine Eyes (Item Drop: +5)
-tasty Eldritch snap	3	12	awesome	9-15	11	11	11		
+tasty enchanted bite-sized ghostly eldritch mushroom pizza	1	12	awesome	3-5	333	333	333	gain eldritch effluvium, 1 Eldritch Attunement	40 Ermine Eyes (Item Drop: +5)
+tasty Eldritch snap	3	12	awesome	9-15	11	11	11	3 Eldritch Attunement	
 electric ancient serpent roll	3	1		12-17	0	8-16	20-30	45/55 Fishy
 electric beefy maki	3	1		10-15	8-16	0	0	45/55 Fishy
 electric eleven oceans roll	3	1		12-17	20-30	20-30	28-46	45/55 Fishy
 electric giant dragon roll	3	1		12-17	28-46	0	0	45/55 Fishy
 electric glistening maki	3	1		10-15	0	8-16	0	45/55 Fishy
 electric Jack LaLanne roll	3	1		12-17	28-46	20-30	20-30	45/55 Fishy
-Kool-Aid	1	1	awesome	3-5	30-50	30-50	30-50		
+Kool-Aid	1	1	awesome	3-5	30-50	30-50	30-50	50 Electric, Kool	
 electric musclebound rabbit roll	3	1		12-17	8-16	20-30	0	45/55 Fishy
 electric python roll	3	1		12-17	8-16	0	20-30	45/55 Fishy
 electric slick maki	3	1		10-15	0	0	8-16	45/55 Fishy
@@ -272,29 +272,29 @@ electric white rabbit roll	3	1		12-17	0	28-46	0	45/55 Fishy
 electric wise dragon roll	3	1		12-17	20-30	8-16	0	45/55 Fishy
 electric wizened master roll	3	1		12-17	20-30	28-46	20-30	45/55 Fishy
 eleven oceans roll	3	1		9-14	20-30	20-30	28-46	45/55 Fishy
-gigantic fancy normal elf army field rations	7	1	good	14-21	0	0	0		35 Horrid, Torrid (Weapon Damage Percent: +10)
+gigantic fancy normal elf army field rations	7	1	good	14-21	0	0	0	Unspaded	35 Horrid, Torrid (Weapon Damage Percent: +10)
 immense decent Elfin shortbread	9	2	good	18-27	4-6	4-6	4-6		
 elven <i>limbos</i> gingerbread	3	5	good	5-8	22-40	22-40	22-40	20 Yuletide Industry (+50% all stats)
 elven hardtack	3	4	good	5-8	20-30	20-30	20-30
 rotten pulsating bean burrito	3	2	crappy	3	0	14-16	0		
 Energy Buzz Pastaco	2	3	EPIC	12-14	0	30-50	0	40 Stemonitis Storm (+50 max MP, +5-10 MP regen)
-Ent cider	1	1	awesome	3-5	0	0	30-45		
+Ent cider	1	1	awesome	3-5	0	0	30-45	70-80 MP	
 enticing mayolus	1	4	awesome	4-5	1-20	1-20	1-20
 escargotsicle	2	2	good	4-7	0	0	12-18	10 Extremely Poor Taste (+10 ML)
 Every Day is Like This Sundae	2	1	good	4-6	0	4-6	0	100 Smithsness Dinner (+10 Smithsness)
-moldy diet evil boring spaghetti	1	3	crappy	1	0	0	0		
-stale evil noodles	4	3	decent	4-8	0	0	1-45		
-miniature stale spinning evil noodles	2	5	decent	2-4	0	1-66	0		
-big rotten evil painful penne pasta	5	3	crappy	5	30-40	0	0		
-half-sized spoiled evil ravioli della hippy	2	3	crappy	2	0	1-45	0		
-adequate skewed evil noodles	4	4	good	8-12	1-8	1-8	1-8		
-adequate thick bouncing upside-down exotic jungle fruit	5	6	good	10-15	20-30	20-30	20-30		
+moldy diet evil boring spaghetti	1	3	crappy	1	0	0	0	Unspaded 10 A Little Bit Evil (+2 ML)	
+stale evil noodles	4	3	decent	4-8	0	0	1-45	10 A Little Bit Evil (+2 ML)	
+miniature stale spinning evil noodles	2	5	decent	2-4	0	1-66	0	10 A Little Bit Evil (+2 ML)	
+big rotten evil painful penne pasta	5	3	crappy	5	30-40	0	0	10 A Little Bit Evil (+2 ML)	
+half-sized spoiled evil ravioli della hippy	2	3	crappy	2	0	1-45	0	10 A Little Bit Evil (+2 ML)	
+adequate skewed evil noodles	4	4	good	8-12	1-8	1-8	1-8	10 A Little Bit Evil (+2 ML)	
+adequate thick bouncing upside-down exotic jungle fruit	5	6	good	10-15	20-30	20-30	20-30	25 Full of Fruit, Yourself (-25 ML)	
 expired can of franks 'n' beans	3	1	awesome	7-10	20-40	20-40	20-40	30 Crimbo Nostalgia (+5 exp)
 half-sized yummy purple extra-flat panini	2	11	awesome	6-10	0	0	50-80		
-moldy special extra-greasy slider	3	13	crappy	3	80-100	80-100	80-100		25 Nightlit (Muscle: +10, Mysticality: +10, Moxie: +10)
-toothsome mirror extra-toasted half sandwich	3	1	awesome	9-15	5-15	5-15	5-15		
+moldy special extra-greasy slider	3	13	crappy	3	80-100	80-100	80-100	-5 spleen	25 Nightlit (Muscle: +10, Mysticality: +10, Moxie: +10)
+toothsome mirror extra-toasted half sandwich	3	1	awesome	9-15	5-15	5-15	5-15	20 Stop the Presses! (Unimplemented)	
 miniature delicious beef jerky	2	9	awesome	6-10	0	48-58	0		
-half-sized rotten canap&eacute;s	2	5	crappy	2	25-40	25-40	25-40		
+half-sized rotten canap&eacute;s	2	5	crappy	2	25-40	25-40	25-40	French slippers (1 time)	
 adequate gigantic narrow FantasyRealm turkey leg	6	1	good	12-18	10-20	10-20	10-20		
 FDKOL hotcakes	6	1	awesome	23-27	0	0	0	50 Hotcaked
 festive sausage	3	1	good	8-10	10-20	10-20	10-20	Sausage Festive (5-10 MP regen)
@@ -308,31 +308,31 @@ fireman's lunch	2	4	decent	2-4	0	0	0	20 You're Not Cooking (+50 Hot Spell Damage
 flavorless spinning fish	3	8	decent	3-6	0	0	26-33		
 moldy fish casserole	4	9	crappy	4	0	0	38-44		
 snack-sized toothsome skewed fish lasagna	2	10	awesome	6-10	0	0	46-55		
-super-sized adequate huge mushroom	5	2	good	10-15	3-5	0	0		
+super-sized adequate huge mushroom	5	2	good	10-15	3-5	0	0	lose 3 HP	
 flask of peppermint oil	0	1	crappy	0	0	0	0
 bland super-sized flavorless gruel	5	4	decent	5-10	90-110	0	0		
 toothsome fleetwood mac 'n' cheese	3	8	awesome	9-15	30-40	30-40	30-40		
 flower petal pie	3	2	crappy	0	0	0	0	+1 PvP fight, 3 Flower Power (+20% all stats)
-bland bite-sized foie gras	1	2	decent	1-2	0	0	0		
+bland bite-sized foie gras	1	2	decent	1-2	0	0	0	1 Beaten Up	
 forbidden danish	1	4	awesome	3-5	0	45-75	0	30 Danish Cunning (+25% pickpocket)
-half-sized normal forbidden sausage	2	6	good	4-6	40	40	40		
-tasty wobbly skewed fortune cookie	4	1	awesome	12-20	0	0	0		
+half-sized normal forbidden sausage	2	6	good	4-6	40	40	40	Hot Damage	
+tasty wobbly skewed fortune cookie	4	1	awesome	12-20	0	0	0	semi-rare numbers	
 yummy huge frat brats	10	10	awesome	30-50	0	0	22-30		
-half-sized moldy fricasseed brains	2	1	crappy	2	0	4-5	0		
+half-sized moldy fricasseed brains	2	1	crappy	2	0	4-5	0	Zombie Slayer	
 fancy spoiled banquet	4	15	crappy	4	100-289	100-289	100-289		30 You Drank Fish Wine (Cold Damage: +20, Cold Spell Damage: +20)
 frozen danish	1	4	awesome	3-5	0	0	45-75	30 Danish Cunning (+25% pickpocket)
-normal mushroom	3	2	good	6-9	0	0	0		
+normal mushroom	3	2	good	6-9	0	0	0	lose 3 HP	
 decent blinking fruitcake	4	1	good	8-12	17-23	17-23	17-23		
 fudge bunny	10	8	EPIC	60-66	50-90	50-90	50-90
 fudgesicle	1	1	decent	2	0	0	0	30 Fudge Headache (+75% Fudge Finding)
 bland fusilli marrownarrow	4	7	decent	4-8	20-30	0	0		
 half-sized rotten blue fusillocybin	2	11	crappy	2	0	40-45	0		
 gallon of milk	15	1	awesome	70-75	500	500	500	100 Feeling Queasy (-10% item drop, -20% meat drop, -30% init)
-wobbly yellow Genalen&trade; Bottle	1	10	EPIC	4-6	15-30	15-30	0		
+wobbly yellow Genalen&trade; Bottle	1	10	EPIC	4-6	15-30	15-30	0	useless powder	
 decent shaking ghost cucumber	3	2	good	6-9	5-15	5-15	5-15		
 ghost dog	3	1	awesome	11-13	0	0	0	30 Scaredy Dog (-5% Combat Rate, +30 Spooky Dam, +3 Cold/Sleaze Res)
-flavorless olive ghost pepper	3	1	decent	3-6	60-100	60-100	60-100		
-super-sized moldy ghostly ectoplasm	5	1	crappy	5	0	0	0		
+flavorless olive ghost pepper	3	1	decent	3-6	60-100	60-100	60-100	Hot damage for 3 combats then 8-10 adventures	
+super-sized moldy ghostly ectoplasm	5	1	crappy	5	0	0	0	3 Haunted Stomach (+50% Meat drop, +25% Item drop)	
 spoiled jumbo narrow ghuol egg	5	1	crappy	5	-3	0	0		
 tasty blurry ghuol egg quiche	4	2	awesome	12-20	0	0	0		
 bland ghuol guolash	4	1	decent	4-8	0	20-30	0		
@@ -355,12 +355,12 @@ gingerbread robot	2	1	awesome	7-11	0	0	0	20 Gingerbread Robust (+100% all stats)
 gingerbread stir-fry	3	1		3-7	0	0	0	10 Sugar Rush
 glass of baboon milk	1	2	decent	2	3-5	0	0
 special pulsating glass of goat's milk	1	1	crappy	1	0	0	0		40 Turkey-Agitated (Item Drop: +25)
-toothsome glass of raw eggs	3	1	awesome	9-15	1-25	1-25	1-25		
-spoiled super-sized maroon glistening fish meat	5	1	crappy	5	0	4-8	0		5 Fishy
+toothsome glass of raw eggs	3	1	awesome	9-15	1-25	1-25	1-25	50 Boxing Day Breakfast (+50% gear drop, +50% weapon damage, +50% spell damage)	
+spoiled super-sized maroon glistening fish meat	5	1	crappy	5	0	4-8	0	5/15 Fishy	5 Fishy
 glistening maki	3	1		7-12	0	8-16	0	45/55 Fishy
 glistening nigiri	2	1		4-8	0	8-16	0	20/30 Fishy
 snack-sized bland glob of cream cheese	2	1	decent	2-4	0	0	0		
-miniature toothsome fungus	2	1	awesome	6-10	0	3-5	0		
+miniature toothsome fungus	2	1	awesome	6-10	0	3-5	0	8-10 MP	
 normal gnat lasagna	4	10	good	8-12	45-54	0	0		
 normal tumbling gnatloaf	3	8	good	6-9	25-50	0	0		
 big flavorless spinning gnatloaf casserole	5	9	decent	5-10	23-37	0	0		
@@ -368,7 +368,7 @@ moldy miniature gnocchetti di Nietzsche	2	6	crappy	2	0	47-52	0
 adequate half-sized goat cheese	2	1	good	4-6	0	0	0		
 moldy spinning cyan goat cheese pizza	4	2	crappy	4	0	0	15-18		
 adequate squat goat cheese taco	3	1	good	6-9	0	11-33	0		
-delicious low-calorie tumbling good brain	1	1	awesome	3-5	5-7	5-7	5-7		
+delicious low-calorie tumbling good brain	1	1	awesome	3-5	5-7	5-7	5-7	Zombie Slayer	
 bland good guava	4	1	decent	4-8	0	0	0		
 gooey lava globs	2	6	awesome	7-9	0	20-40	0	100 Inner Warmth (+5 Cold resist)
 government cheese	2	1	decent	2-4	5-10	0	0
@@ -385,7 +385,7 @@ Grimdrop Chow Mein	4	5		6-11	0	0	0
 Grimgerbread House	5	5		10-15	0	0	0
 stale blinking grue egg omelette	3	9	decent	3-6	35-45	35-45	35-45		
 gumdrop chow mein	5	1		9-17	0	0	0	10 Sugar Rush
-stale massive gunky chicken	10	5	decent	10-20	15-30	0	0		
+stale massive gunky chicken	10	5	decent	10-20	15-30	0	0	lose 5-10 HP, 20 Gunky Dory (+50 HP, +4-10 HP regen)	
 gunpowder burrito	2	1	good	0	0	0	0	+3 PvP fights
 haggis-wrapped haggis-stuffed haggis	2	2	decent	3-4	0	0	4-10	20 Highland Sheen (+10 mox)
 stale half double fruitcake	4	1	decent	4-8	0	0	0		
@@ -393,39 +393,39 @@ Halibut Alfredo	4	1	awesome	10-15	0	0	0
 decent miniature enchanted ham steak	2	5	good	4-6	30-50	0	0		30 Hot Buttoned (Hot Damage: +10, Hot Spell Damage: +10)
 hambrosier	3	1	awesome	11-13	0	0	0	50 The Power of Positive Thinking
 hamburger	2	5	awesome	8	18-22	18-22	18-22
-normal super-sized squat olive hamlet sandwich	5	1	good	10-15	1-11	1-11	1-11		
+normal super-sized squat olive hamlet sandwich	5	1	good	10-15	1-11	1-11	1-11	50 Oh Hamlet Hamlet Hamlet Hamlet (+50% HP, +50% MP, +50 damage vs Ghosts)	
 stale huge handful of nuts and berries	7	12	decent	7-14	0	50-60	0		
 decent handful of walnuts	3	10	good	6-9	0	0	20-30		
 special big stale Happy Birthday, Claude! cake	5	1	decent	5-10	0	0	0		50 So You Can Work More... (Meat Drop: +10)
 hardboiled egg	1	1	awesome	3-4	0	0	0	50 Too Noir For Snoir (+50 ML)
-rotten half-sized cherry pie	2	4	crappy	2	0	16-20	0		
-special adequate Hell ramen	4	6	good	8-12	37	37	37		30 Truly Gritty (Weapon Damage: +20, Muscle: +20)
-bland blurry twirling 	4	1	decent	4-8	0	0	0		
-flavorless blinking pizza	3	1	decent	3-6	0	0	0		
-adequate huge heart-shaped candy whetstone	4	4	good	8-12	20-40	20-40	20-40		
+rotten half-sized cherry pie	2	4	crappy	2	0	16-20	0	20 Haunted Stomach (+50% Meat drop, +25% Item drop)	
+special adequate Hell ramen	4	6	good	8-12	37	37	37	20-24 Meat, 20 Haunted Stomach (+50% Meat drop, +25% Item drop)	30 Truly Gritty (Weapon Damage: +20, Muscle: +20)
+bland blurry twirling 	4	1	decent	4-8	0	0	0	20 Haunted Stomach (+50% Meat drop, +25% Item drop)	
+flavorless blinking pizza	3	1	decent	3-6	0	0	0	20 Haunted Stomach (+50% Meat drop, +25% Item drop)	
+adequate huge heart-shaped candy whetstone	4	4	good	8-12	20-40	20-40	20-40	40 Sharpened Sweet Tooth (+25 Candy drop)	
 decent Hell broth	4	3	good	8-12	-5-9	0	-5-9		
 adequate Hell ramen	3	6	good	6-9	13	13	13		
-thick rotten herb brownies	5	1	crappy	5	0	0	8-9		
+thick rotten herb brownies	5	1	crappy	5	0	0	8-9	5 Confused (-30% mys)	
 moldy herbal stuffing	3	7	crappy	3	0	0	70-75		
-decent half-sized hibiscus petal	2	1	good	4-6	0	0	0		
-gigantic normal Hide-rox&trade; cookie	8	1	good	16-24	0	20-30	0		
+decent half-sized hibiscus petal	2	1	good	4-6	0	0	0	Unspaded	
+gigantic normal Hide-rox&trade; cookie	8	1	good	16-24	0	20-30	0	30 Broken Bone Nubs (+50% Myst, +25 MP, +25% Spell Dam)	
 high-calorie sugar substitute	1	4	awesome	3-4	0	20-25	0
-blue spinning hippy herbal tea	1	1	crappy	1	0	4-7	0		
+blue spinning hippy herbal tea	1	1	crappy	1	0	4-7	0	5 Sleepy (-30% mus)	
 holiday cheese log	3	1	good	8-10	10-20	10-20	10-20	Stands Alone (+10 Stench dmg)
 honey-dew	2	2	good	4-7	13-15	0	0	10 Mmmmmelon (+30% item drop)
 stale blurry wobbly hot buttered roll	3	1	decent	3-6	0	0	0		
 rotten immense hot date	10	7	crappy	10	0	0	20-30		
-stale hot hi mein	4	12	decent	4-8	70-75	15-20	30-35		
+stale hot hi mein	4	12	decent	4-8	70-75	15-20	30-35	5 Hot Breath (combat skill)	
 miniature flavorless fancy purple hot wing	2	1	decent	2-4	0	2-5	0		5 Brined Liver (Initiative Penalty: Varies, Item Drop Penalty: Varies, Meat Drop Penalty: Varies)
 humble pie	4	4	good	9-11	20-30	20-30	20-30
 Humpty Dumplings	4	5	awesome	13-16	0	70-77	0
-stale hunter brain	4	1	decent	4-8	9-12	9-12	9-12		
-yummy tumbling cyan hushed puppy	3	1	awesome	9-15	20-30	20-30	20-30		
+stale hunter brain	4	1	decent	4-8	9-12	9-12	9-12	Zombie Slayer	
+yummy tumbling cyan hushed puppy	3	1	awesome	9-15	20-30	20-30	20-30	100 Noise Cancelled (-300% init)	
 ice cream sandwich	2	4	decent	2-4	0	0	0	20 Cold Throat (+50 Cold Spell Damage, +100% Spell Damage)
 ice harvest	1	1	good	2-3	3-5	3-5	0	30 Icy Demeanor (+20 Max HP, +3 Hot Resist)
 iceberg lettuce	2	6	EPIC	11-13	20-30	0	0	50 Headstrong(+25 Weapon Damage, +50% Muscle, +100 HP)
 ice rice	1	1	EPIC	6-7	0	5-10	0
-bland idiot brain	3	1	decent	3-6	0	0	0		
+bland idiot brain	3	1	decent	3-6	0	0	0	Refund spent Zombie Slayer skill points	
 igloo pie	2	2	awesome	7-9	15-20	15-20	5-10
 imitation White Russian	1	6	decent	1-2	5-10	5-10	5-10		
 immense stale shaking immaculate egg salad sandwich	8	1	decent	8-16	5-10	30-40	5-10		
@@ -435,22 +435,22 @@ enchanted thick rotten spinning immaculate ice cream sandwich	5	1	crappy	5	5-10	
 super-sized rotten bouncing incredible pizza	5	9	crappy	5	20-30	20-30	20-30		
 initiative shawarma	1	5	awesome	4-6	0	0	10-20	30 Shawarma Initiative (+150 Init)
 tasty small wobbly insanely bean burrito	2	4	awesome	6-10	27-32	0	0		
-normal insanely bean burrito	4	5	good	8-12	0	28-32	0		
+normal insanely bean burrito	4	5	good	8-12	0	28-32	0	Chronic Indigestion skill	
 jumbo bland insanely jumping bean burrito	5	4	decent	5-10	0	0	33		
 irradiated candy cane	1	1	good	1-5	10-20	10-20	10-20	10 Festive Radiation (+5% all stats)
 it came from beyond dessert	4	1		6-12	7-8	7-8	7-8	10 Sugar Rush
 Jack LaLanne roll	3	1		9-14	28-46	20-30	20-30	45/55 Fishy
-bland Jarlsberg's key lime pie	3	6	decent	3-6	0	28-33	0		
+bland Jarlsberg's key lime pie	3	6	decent	3-6	0	28-33	0	Jarlsberg's key	
 java cookie	2	1	awesome	7-11	0	0	0	10 Updated (+20 all stats)
 jawbruiser	1	4	good	1-5	10-20	10-20	10-20	5 Sugar Rush, lose 35-45 HP
 jerky coins	1	1	EPIC	5-6	5-6	5-6	5-6
-tasty massive twirling jive turkey leg	6	1	awesome	18-30	5-10	0	0		
-Jumbo Dr. Lucifer	1	1	decent	1-2	0	0	0		
+tasty massive twirling jive turkey leg	6	1	awesome	18-30	5-10	0	0	50 Hollow Inside (+6 Maximum Hooch)	
+Jumbo Dr. Lucifer	1	1	decent	1-2	0	0	0	converts all HP to 9-10x MP	
 moldy jumbo olive	4	2	crappy	4	0	0	2-5		
 snack-sized yummy enchanted jittery jumping bean burrito	2	1	awesome	6-10	0	0	11-14		35 Flimsy Shield of the Pastalord
 rotten jumping bean taco	4	1	crappy	4	0	0	4-20		
 jumping horseradish	1	1	EPIC	5-6	15-20	15-20	15-20	50 Kicked in the Sinuses (+100 Meat drop)
-snack-sized spoiled jungle floor wax	2	6	crappy	2	5-10	5-10	10-20		
+snack-sized spoiled jungle floor wax	2	6	crappy	2	5-10	5-10	10-20	20 Wax On Your Shoes (+15 Mox, +25 Init)	
 stale narrow juniper berries	4	2	decent	4-8	0	0	10-15		
 toothsome blinking junk food	4	1	awesome	12-20	4-5	4-5	4-5		
 junkyard dog	3	1	awesome	11-13	0	0	0	30 Dog Breath (+5% Combat Rate, +30 Stench Dam, +3 Hot/Spooky Res)
@@ -490,7 +490,7 @@ adequate lemon meringue pie	3	2	good	6-9	8-10	0	0
 normal lemon popsicle	4	1	good	8-12	0	0	0		
 delicious libertagliatelle	4	10	awesome	12-20	0	35-40	0		
 licorice garrote	1	4	good	1-5	10-20	10-20	10-20	5 Sugar Rush
-normal yellow lihc eye pie	4	2	good	8-12	0	11-12	0		
+normal yellow lihc eye pie	4	2	good	8-12	0	11-12	0	5 Eye of the Lihc (+1 spooky res)	
 special flavorless lime	3	2	decent	3-6	0	0	0		35 Tasting the Rainbow (Hot Damage: +2, Cold Damage: +2, Stench Damage: +2, Spooky Damage: +2, Sleaze Damage: +2)
 limp broccoli	2	5	good	4-6	10-20	10-20	10-20	100 Nutrient-Rich (+4 exp, +50% HP, +25% MP)
 spoiled immense linguini immondizia bianco	8	8	crappy	8	0	0	25-30		
@@ -500,13 +500,13 @@ liver and let pie	2	1	good	5-7	5-10	5-10	5-10
 decent thick twirling liver popsicle	5	1	good	10-15	0	0	0		
 decent pulsating Loaded Baked Potato	4	1	good	8-12	0	50-60	30-40		
 loaf of alien bread	3	4	good	6-9	0	10-20	0
-adequate loaf of soda bread	3	1	good	6-9	0	0	0		
+adequate loaf of soda bread	3	1	good	6-9	0	0	0	15 Bread Burps (+10 MP, 4-5 MP Regen)	
 Lobster <i>qua</i> Grill	2	5	good	4-8	0	0	46-49
 spoiled pork casserole	4	9	crappy	4	0	37-51	0		
 half-sized decent pork chop sandwiches	2	8	good	4-6	0	25-35	0		
 stale pork lasagna	4	10	decent	4-8	0	46-55	0		
 special spoiled green pulsating Lord of the Flies-sized fries	3	1	crappy	3	0	15-20	-15-20		15 Sweet, Nuts (Mysticality: +5)
-normal squat bouncing Lucky Surprise Egg	4	1	good	8-12	0	0	0		
+normal squat bouncing Lucky Surprise Egg	4	1	good	8-12	0	0	0	series 1 tiny plastic	
 Ludovico Pastaco	2	3	EPIC	12-14	0	0	20-40	40 Tremella Tremens (+40 Item Drop)
 magical ancient serpent roll	3	1		9-14	0	8-16	20-30	50/60 Fishy
 immense stale baguette	7	1	decent	7-14	0	4-5	0		
@@ -517,7 +517,7 @@ magical glistening maki	3	1		7-12	0	8-16	0	50/60 Fishy
 magical Jack LaLanne roll	3	1		9-14	28-46	20-30	20-30	50/60 Fishy
 magical musclebound rabbit roll	3	1		9-14	8-16	20-30	0	50/60 Fishy
 magical python roll	3	1		9-14	8-16	0	20-30	50/60 Fishy
-super-sized decent sausage	5	1	good	10-15	0	0	0		
+super-sized decent sausage	5	1	good	10-15	0	0	0	999 MP	
 magical slick maki	3	1		7-12	0	0	8-16	50/60 Fishy
 magical slippery snake roll	3	1		9-14	0	0	28-46	50/60 Fishy
 magical sneaky rabbit roll	3	1		9-14	0	20-30	8-16	50/60 Fishy
@@ -525,14 +525,14 @@ magical tricky dragon roll	3	1		9-14	20-30	0	8-16	50/60 Fishy
 magical white rabbit roll	3	1		9-14	0	28-46	0	50/60 Fishy
 magical wise dragon roll	3	1		9-14	20-30	8-16	0	50/60 Fishy
 magical wizened master roll	3	1		9-14	20-30	28-46	20-30	50/60 Fishy
-spoiled mana curds	3	4	crappy	3	0	90-120	0		
+spoiled mana curds	3	4	crappy	3	0	90-120	0	4-6 MP	
 normal enchanted massive Manetwich	7	4	good	14-21	14-30	0	5-18		20 Tennis Elbow-wow (Initiative: +50)
-maple syrup	1	1	EPIC	4-6	0	0	0		
+maple syrup	1	1	EPIC	4-6	0	0	0	20-30 HP	
 mashed potatoes	2	1	awesome	8-10	10-20	0	0	leftovers, 20 Thanksgetting (Variable +meat, +item, +familiar weight, +all res)
 Medical Pastaco	2	3	EPIC	12-14	30-50	0	0	40 Helvella Health (+100 HP, +10-20 HP Regen)
 tasty skewed menudo	4	2	awesome	12-20	14-18	0	0		
 adequate jumbo menudo ravioli	5	4	good	10-15	20-30	0	0		
-snack-sized decent meteoreo	2	1	good	4-6	0	0	0		
+snack-sized decent meteoreo	2	1	good	4-6	0	0	0	40 Superioreo (+5 stats/fight, +100% HP)	
 stale tiny mime army rations	1	15	decent	1-2	40-50	40-50	40-50		
 mince pie	2	1	awesome	8-10	10-20	0	0	leftovers, 20 Thanksgetting (Variable +meat, +item, +familiar weight, +all res)
 special decent mind flayer corpse	4	1	good	8-12	0	21-25	0		40 Pharmaceutically Cool (Experience Percent (Moxie): +20)
@@ -542,12 +542,12 @@ stale skewed narrow mixed wildflower greens	4	10	decent	4-8	25-30	0	0
 mole mol&eacute;	3	4	good	7-8	10-14	10-14	10-14
 Moon Pie	5	5	EPIC	28-32	20-30	20-30	20-30
 yummy twirling moose chocolate	3	6	awesome	9-15	20-30	20-30	20-30		
-tiny adequate moosemeat pie	1	1	good	2-3	0	0	0		
+tiny adequate moosemeat pie	1	1	good	2-3	0	0	0	50 Moose-Warmed Belly (+5 cold resistance)	
 diet enchanted yummy mirror Mornington crescent roll	1	1	awesome	3-5	0	0	25-50		40 Marco Polarity (Experience (Mysticality): Varies)
 mouth-watering mayolus	1	5	EPIC	6	1-40	1-40	1-40
 Mr. Burnsger	4	8	EPIC	26-30	20-40	20-40	20-40	-2 Drunkenness
 spoiled fancy upside-down Mt. McLargeHuge oyster	3	1	crappy	3	15-20	0	0		35 Power Ballad of the Arrowsmith (Muscle: +10, Maximum HP: +20)
-moldy muffled muffuletta	3	1	crappy	3	20-30	20-30	20-30		
+moldy muffled muffuletta	3	1	crappy	3	20-30	20-30	20-30	100 Noise Cancelled (-300% init)	
 decent mugcake	4	1	good	8-12	0	0	0		
 mulberry	1	5	good	3	0	0	5-15
 musclebound rabbit roll	3	1		9-14	8-16	20-30	0	45/55 Fishy
@@ -558,7 +558,7 @@ nanite-infested candy cane	1	4	good	1-5	11-20	11-20	11-20	20 Chock Full o' Nanit
 nanite-infested fruitcake	3	1	decent	3-6	15-20	15-20	15-20	20 Chock Full o' Nanites (+10 HP/MP regen, +20 dmg)
 nanite-infested gingerbread bugbear	1	4	good	1-5	21-40	21-40	21-40	20 Chock Full o' Nanites (+10 HP/MP regen, +20 dmg)
 natto pocky	3	1	good	6-8	6-8	8-8	6-8	30 Ninja, Please (+15% critical, +15% critical spell)
-stale pulsating nega-mushroom	4	1	decent	4-8	0	30-40	0		
+stale pulsating nega-mushroom	4	1	decent	4-8	0	30-40	0	50 Negavision (+25% item drop)	
 neutron lollipop	3	1	awesome	9-12	10-20	10-20	10-20
 New and Improved CRIMBCO Reconstituted Gruel	4	1		7-8	0	0	0	lose 20% boredom
 nut-shaped Crimbo cookie	2	1	awesome	7-11	0	0	0	20 Nut-Rition (+100% all stats)
@@ -576,9 +576,9 @@ bland 	3	1	decent	3-6	0	0	0
 stale popsicle	3	1	decent	3-6	0	0	0		
 adequate half-sized twirling overcookie	2	3	good	4-6	3-5	3-5	3-5		
 super-sized spoiled squat P.B.L.T.	5	4	crappy	5	18-25	0	0		
-flavorless packet of beer nuts	4	2	decent	4-8	0	0	0		
+flavorless packet of beer nuts	4	2	decent	4-8	0	0	0	1 Salty Mouth (+4-6 adv from Beers)	
 spoiled small red packet of tofurkey gravy	2	1	crappy	2	31-34	0	0		
-decent painful penne pasta	3	3	good	6-9	17-20	0	0		
+decent painful penne pasta	3	3	good	6-9	17-20	0	0	lose 20-23 HP	
 miniature bland papaya	2	1	decent	2-4	0	0	0		
 thick decent pulsating maroon papaya taco	5	1	good	10-15	8-12	0	8-12		
 immense moldy party platter for one	10	6	crappy	10	20-40	20-40	20-40		
@@ -608,15 +608,15 @@ adequate thick mirror pickled egg	5	1	good	10-15	1-2	1-2	1-2
 bland skewed pie man was not meant to eat	4	15	decent	4-8	100-200	100-200	100-200		
 decent gigantic piece of wedding cake	7	1	good	14-21	0	0	0		
 fancy normal lime green pigeon egg	3	1	good	6-9	0	0	0		30 [1609]Dancin' Fool (Item Drop: +20)
-yummy twirling pineapple slab	4	1	awesome	12-20	0	0	0		
+yummy twirling pineapple slab	4	1	awesome	12-20	0	0	0	Unspaded	
 fancy moldy pink slime	3	1	crappy	3	8-10	8-10	8-10		15 Cruisin' for a Bruisin' (Weapon Damage Percent: +100)
 piping organ pie	2	2	awesome	7-9	20-40	5-10	5-10
-spoiled pirate fork	4	1		0	0	0	0		
+spoiled pirate fork	4	1		0	0	0	0	Unspaded	
 pixel banana	2	4	awesome	9-11	0	0	0	40 Going Ape (+30% Item drops)
 pixel lemon	2	1	awesome	9-11	0	0	0
 yummy plain bagel	3	1	awesome	9-15	0	0	0		
 diet flavorless squat plain pizza	1	1	decent	1-2	0	0	0		
-adequate plain snowcone	4	1	good	8-12	0	0	0		
+adequate plain snowcone	4	1	good	8-12	0	0	0	Unspaded	
 plate of franks and beans	1	1	decent	2	0	0	0
 plate of Frigid Northern Beans	1	3	awesome	3-4	0	0	0
 plate of Heimz Fortified Kidney Beans	1	2	good	2-4	12-25	0	0	+100 HP
@@ -630,7 +630,7 @@ plate of Val-U Brand Every Bean Salad	1	5	awesome	3-5	5-10	5-10	5-10
 plate of World's Blackest-Eyed Peas	1	3	awesome	3-4	0	0	0
 decent small plum	2	4	good	4-6	15-20	0	0		
 plumber's lunch	2	4	decent	2-4	0	0	0	20 Egg Burps (+50 Stench Spell Damage, +100% Spell Damage)
-tasty small pointy mushroom	2	1	awesome	6-10	0	0	12-14		
+tasty small pointy mushroom	2	1	awesome	6-10	0	0	12-14	lose 1 HP	
 poisonous caviar	3	5	good	8	0	0	0	50 Majorly Poisoned
 popcorn	1	1	decent	2	0	0	0
 decent popular tart	3	1	good	6-9	1-5	1-5	1-5		
@@ -649,8 +649,8 @@ stale enchanted pixel pie	3	1	decent	3-6	12-18	12-18	12-18		45 Wings of the Gras
 python roll	3	1		9-14	8-16	0	20-30	45/55 Fishy
 quantum taco	0	1		0	0	0	0	random food
 queen cookie	1	13	EPIC	4-6	20-40	20-40	20-40	30 Towering Strength, Mitre Cut, Knightlife, The Royal We
-super-sized decent questionable taco	5	1	good	10-15	0	0	0		
-super-sized flavorless rack of dinosaur ribs	5	11	decent	5-10	10-20	10-20	10-20		
+super-sized decent questionable taco	5	1	good	10-15	0	0	0	lovecat tail	
+super-sized flavorless rack of dinosaur ribs	5	11	decent	5-10	10-20	10-20	10-20	30 Meat the Flintstones	
 jumbo flavorless jittery jittery radio button candy	5	8	decent	5-10	30-50	33-49	30-50		
 Rainbow Spider Fun Roll	4	1	decent	6-10	0	0	0	3-5 plastic ingots
 raisin	1	1	crappy	1	0	0	0
@@ -671,15 +671,15 @@ raw sweet potato	1	1	decent	2	0	20-40	0	chance of 30 The Good Salmonella (+20% x
 raw turkey	1	1	decent	2	20-40	0	0	chance of 30 The Good Salmonella (+20% x Fullness all stats)
 red drunki-bear	4	6	EPIC	22-26	200-240	0	0	4 Inebriety 80 Gummiheart (+100 Muscle)
 Red Herring Velvet Cake	5	1		14-19	0	0	0
-thick stale skewed velvet cake	5	4	decent	5-10	0	10-30	0		
+thick stale skewed velvet cake	5	4	decent	5-10	0	10-30	0	10-20 HP	
 flavorless enchanted narrow Retenez L'Herbe Pat&eacute;	3	13	decent	3-6	40-50	40-50	40-50		30 Items Are Forever (Item Drop: +50)
 ridiculous sandwich	3	1	awesome	11	10-12	10-12	10-12
 roasted duck	2	4	decent	3-4	0	7-12	0
-delicious twirling roasted marshmallow	4	1	awesome	12-20	0	0	0		
+delicious twirling roasted marshmallow	4	1	awesome	12-20	0	0	0	3 Mallowed Out (+all stats)	
 robin flan	2	1	awesome	7-9	10-20	10-20	10-20
 rocky road ice cream	2	7	awesome	7-10	12-14	12-14	12-14	40 A Contender (+200% all stats)
 rook cookie	1	13	EPIC	4-6	45-50	0	0	30 Towering Strength (+100..200% mus)
-blinking root beer	1	1	good	2-3	5-10	5-10	5-10		
+blinking root beer	1	1	good	2-3	5-10	5-10	5-10	20-30 MP	
 rotting beefsteak	3	1	awesome	9-10	0	0	0	30 Cowrruption (+200% weapon dmg, +200% spell dmg, muscle limited to 30, moxie limited to 30)
 super-sized adequate royal jelly	5	1	good	10-15	10-15	0	0		
 stale snack-sized blue royal jelly taco	2	1	decent	2-4	4-20	0	0		
@@ -702,10 +702,10 @@ salty wise dragon roll	3	1		9-14	20-30	8-16	0	45/55 Fishy, 10 Salty Dogs
 salty wizened master roll	3	1		9-14	20-30	28-46	20-30	45/55 Fishy, 10 Salty Dogs
 spoiled sandwich of the gods	3	13	crappy	3	50-100	50-100	50-100		
 enchanted decent sausage pizza	3	2	good	6-9	15-18	0	0		20 Super Accuracy (Critical Hit Percent: +30)
-small flavorless sausage without a cause	2	1	decent	2-4	0	0	0		
+small flavorless sausage without a cause	2	1	decent	2-4	0	0	0	1 East of Eaten (+200% Weapon Damage, +4 Hot res)	
 toothsome fuchsia sausage wonton	3	12	awesome	9-15	50-80	20-30	20-30		
 savage macho dog	2	1	awesome	6-8	10-15	0	0	50 Macho, Macho Dog (+50% Mus, +10% Crit, +50 Damage vs Bugbears/Werewolves)
-decent miniature savoy truffle	2	9	good	4-6	15-20	15-20	15-20		
+decent miniature savoy truffle	2	9	good	4-6	15-20	15-20	15-20	lose 10-20 HP	
 tasty miniature sea avocado	2	2	awesome	6-10	0	0	27		
 flavorless sea blueberry	3	2	decent	3-6	2-4	2-4	2-4		
 normal sea broccoli	3	2	good	6-9	3-7	3-6	3-7		
@@ -717,7 +717,7 @@ normal thick fuchsia sea lychee	5	2	good	10-15	0	0	37
 decent squat sea persimmon	4	3	good	8-12	5-10	5-10	5-10		
 half-sized spoiled sea radish	2	3	crappy	2	20-30	20-30	20-30		
 immense bland narrow sea tangelo	7	2	decent	7-14	16	0	0		
-bland sea truffle	4	1	decent	4-8	11-13	11-13	11-13		
+bland sea truffle	4	1	decent	4-8	11-13	11-13	11-13	10 Trufflin' (+100% meat drop)	
 decent spinning seared dino steak	3	3	good	6-9	30-60	0	0		
 shadowy cat claw	1	4	awesome	3-5	0	45-75	0	30 Feline Ferocity (+100% weapon dmg)
 rotten bite-sized sheet cake	1	6	crappy	1	100-200	100-200	100-200		
@@ -725,28 +725,28 @@ rotten jittery shells a la shellfish	4	8	crappy	4	25-30	0	0
 shoo-fish pie	2	3	awesome	8-10	10-30	10-30	10-30	20 Fishy
 shoots and leaves	4	1		6-10	7-8	7-8	7-8
 shrapnel jelly donut	1	4	awesome	3-5	40-60	0	0	30 Filled With Magic (+100% spell dmg)
-miniature delicious bouncing shushed potatoes	2	1	awesome	6-10	20-30	20-30	20-30		
+miniature delicious bouncing shushed potatoes	2	1	awesome	6-10	20-30	20-30	20-30	100 Noise Cancelled (-300% init)	
 spoiled single-serving herbal stuffing	3	1	crappy	3	0	0	32-35		
 moldy special six wedges of goat cheese	4	1	crappy	4	0	0	0		15 Stands Alone (Stench Damage: +10)
 sizzling weasel on a stick	5	1	EPIC	60-80	0	0	220-400
 skeleton quiche	2	3	EPIC	10-12	5-15	5-15	5-15
 delicious thick skewered cat appendix	5	1	awesome	15-25	7-17	0	0		
 skull-shaped Crimboween cookie	2	7	awesome	6-12	0	0	0	10/20 Carol of the Bones (+10% mus)
-spinning Skully's hot chocolate	1	1	decent	1-2	0	0	0		
-diet yummy cyan sleazy hi mein	1	12	awesome	3-5	25-30	25-30	70-75		
+spinning Skully's hot chocolate	1	1	decent	1-2	0	0	0	10 Skull Full of Hot Chocolate (+2 cold resistance)	
+diet yummy cyan sleazy hi mein	1	12	awesome	3-5	25-30	25-30	70-75	5 Sleazy Breath (combat skill)	
 sleeping dog	2	1	awesome	9-10	0	0	0	acquire Dog Tired skill
 slice of pizza	1	1	good	3	12-15	12-15	12-15
-decent slick fish meat	3	1	good	6-9	0	0	4-8		5 Fishy
+decent slick fish meat	3	1	good	6-9	0	0	4-8	5/15 Fishy	5 Fishy
 slick maki	3	1		7-12	0	0	8-16	45/55 Fishy
 slick nigiri	2	1		4-8	0	0	8-16	20/30 Fishy
-massive bland slimy sweetbreads	8	6	decent	8-16	0	0	0		
+massive bland slimy sweetbreads	8	6	decent	8-16	0	0	0	20 Grimace (+25 ML, slime res)	
 slippery snake roll	3	1		9-14	0	0	28-46	45/55 Fishy
 sly dog	2	1	awesome	6-8	0	0	10-15	50 Top Dog (+50% Mox, +10% Crit Chance, +50 Dam vs Skeletons/Vampires)
 s'more	0	1	crappy	0	0	0	0
 smashed danish	1	4	awesome	3-5	45-75	0	0	30 Danish Cunning (+25% pickpocket)
 smelted roe	1	4	good	3	10-20	0	0	50 Sizzling with Fury (+25 Hot Damage, +60 Init)
 SMOOCH soda	1	1	good	3-3	0	0	0	Gain 20-35 MP and SMOOCH bottlecap
-moldy Sneaky Pete's key lime pie	4	6	crappy	4	0	0	28-33		
+moldy Sneaky Pete's key lime pie	4	6	crappy	4	0	0	28-33	Sneaky Pete's key	
 sneaky rabbit roll	3	1		9-14	0	20-30	8-16	45/55 Fishy
 snow berries	1	1	good	2-3	3-5	3-5	3-5	30 Berry Berry Cold (+10 Cold Damage, +20 Cold Spell Damage)
 snow crab	1	1	EPIC	5-7	10-20	10-20	10-20
@@ -771,28 +771,28 @@ spiritual fruitcake	3	1	decent	3-6	0	45-60	0
 spiritual gingerbread	1	4	good	1-5	0	30-60	0
 decent big sponge cake	5	3	good	10-15	0	0	5-10		
 spooky frank	0	1	crappy	0	0	0	0
-normal low-calorie hi mein	1	12	good	2-3	15-20	70-75	30-35		
+normal low-calorie hi mein	1	12	good	2-3	15-20	70-75	30-35	5 Spooky Breath (combat skill)	
 yummy lo mein	4	6	awesome	12-20	0	0	30-34		
 low-calorie decent mushroom	1	1	good	2-3	0	0	0		
 moldy upside-down shroomkabob	3	1	crappy	3	0	0	6-11		
 stale spinning stir-fry	3	3	decent	3-6	0	0	14-18		
-massive spoiled Surprise Egg	6	1	crappy	6	0	0	0		
+massive spoiled Surprise Egg	6	1	crappy	6	0	0	0	series 2 tiny plastic	
 square CRIMBCOOKIE	2	1	awesome	8-10	0	0	0	10 Square to be Hip (+10% mox)
 squirmy violent party snack	1	1	good	2-4	2-20	2-20	2-20	10 Broken Dancing (Legendary Beat quest)
-diet normal lime green stale baguette	1	1	good	2-3	0	0	0		
-miniature adequate blinking stale Cheer-E-Os	2	1	good	4-6	0	0	0		
+diet normal lime green stale baguette	1	1	good	2-3	0	0	0	lose 3 HP	
+miniature adequate blinking stale Cheer-E-Os	2	1	good	4-6	0	0	0	20-30 crystalline cheer	
 rotten narrow stalk of asparagus	3	1	crappy	3	0	1-3	0		
 miniature normal standard-issue cupcake	2	1	good	4-6	2-4	2-4	2-4		
-adequate gigantic star key lime pie	9	6	good	18-27	20-24	20-24	20-24		
-flavorless big steel lasagna	5	5		0	0	0	0		
-normal purple mirror hi mein	3	12	good	6-9	30-35	70-75	15-20		
-spoiled mirror narrow mushroom	3	2	crappy	3	0	0	3-5		
+adequate gigantic star key lime pie	9	6	good	18-27	20-24	20-24	20-24	2-4 lines, 2-4 stars	
+flavorless big steel lasagna	5	5		0	0	0	0	Stomach of Steel skill	
+normal purple mirror hi mein	3	12	good	6-9	30-35	70-75	15-20	5 Stinky Breath (combat skill)	
+spoiled mirror narrow mushroom	3	2	crappy	3	0	0	3-5	lose 3 HP	
 bland stolen sushi	4	6	decent	4-8	15-20	15-20	15-20		
 stomach turnover	2	2	awesome	7-9	5-10	15-20	15-20
 yummy strawberry	4	1	awesome	12-20	0	0	0		
 snack-sized stale strawberry pie	2	2	decent	2-4	0	0	8-10		
 adequate bite-sized strawberry popsicle	1	1	good	2-3	0	0	0		
-moldy lime green Strix stix	3	4	crappy	3	5-10	5-10	5-10		
+moldy lime green Strix stix	3	4	crappy	3	5-10	5-10	5-10	40 Sugar-Frosted Pet Guts (+5 familiar weight)	
 rotten jumbo ghostly mushroom	5	1	crappy	5	0	0	0		
 flavorless stunt nuts	3	1	decent	3-6	8-10	0	0		
 rotten sublime deluxe hot dog	3	1	crappy	3	10-20	40-50	10-20		
@@ -804,9 +804,9 @@ spoiled snack-sized suggestive strozzapreti	2	7	crappy	2	0	0	20-30
 sun-dried tofu	2	3	crappy	2-4	0	0	0	gain Deadened Palate or lose Oversaturated Palate
 flavorless super ka-bob	3	11	decent	3-6	30-38	0	0		
 moldy snack-sized super salad	2	11	crappy	2	30-50	32-40	31-40		
-gigantic decent Swedish massage fish	6	4	good	12-18	20-40	20-40	20-40		
+gigantic decent Swedish massage fish	6	4	good	12-18	20-40	20-40	20-40	40 Like a Fish to Walter (+5 Fishing skill)	
 half-sized stale purple sweet party mix	2	4	decent	2-4	0	0	0		
-spoiled skewed sweet roll Alabama	3	4	crappy	3	15-20	5-10	0		
+spoiled skewed sweet roll Alabama	3	4	crappy	3	15-20	5-10	0	30 Helping Comes Second (+20 Meat Drop, +25 Food Drop, +25 Booze Drop, +25 Candy Drop)	
 thick tasty t8r tots	5	1	awesome	15-25	0	0	0		
 Taco Dan's Basic Taco Dan Taco	1	2	decent	2	10-20	10-20	10-20
 Taco Dan's Taco Fish Fish Taco	2	3	awesome	7-9	40-60	40-60	40-60
@@ -815,15 +815,15 @@ tainted milk	1	1	good	3	0	0	0	30 Cowrruption (+200% weapon dmg, +200% spell dmg,
 spoiled gigantic tangerine	10	2	crappy	10	0	0	0		
 fancy yummy tasty tart	4	1	awesome	12-20	5-6	5-6	5-6		25 Neutered Nostrils (Stench Resistance: +2)
 Tea, Earl Grey, Hot	1	1	EPIC	6-7	0	0	0	+1000 MP, +1000 HP
-tea for one	1	5	decent	1-2	0	10-20	0		
-fancy temperance whiskey	1	1	awesome	3-5	20-30	20-30	20-30		10 Loco Motives (Weapon Damage: +10, Initiative: +10)
+tea for one	1	5	decent	1-2	0	10-20	0	One For Tea (+10-15 MP Regen)	
+fancy temperance whiskey	1	1	awesome	3-5	20-30	20-30	20-30	100 Old Time Hydration (+30 all stats)	10 Loco Motives (Weapon Damage: +10, Initiative: +10)
 adequate tempura avocado	3	5	good	6-9	0	0	50		
 tempura avocado bento box with anemone sauce	5	1	EPIC	24-32	75-95	5-15	45-65	80 Fishy
 tempura avocado bento box with eel sauce	5	1	EPIC	24-32	5-15	5-15	45-65	80 Fishy
 tempura avocado bento box with inky squid sauce	5	1	EPIC	24-32	5-15	75-95	45-65	80 Fishy
 tempura avocado bento box with mer-kin weaksauce	5	1	EPIC	24-32	5-15	5-15	115-145	80 Fishy
 tempura avocado bento box with peanut sauce	5	1	EPIC	24-32	5-15	5-15	45-65	80 Fishy
-rotten lime green tempura broccoli	3	6	crappy	3	5	5	5		
+rotten lime green tempura broccoli	3	6	crappy	3	5	5	5	20 Down with Chow (+10 lbs)	
 tempura broccoli bento box with anemone sauce	5	1	EPIC	24-32	75-95	5-15	5-15	80 Fishy
 tempura broccoli bento box with eel sauce	5	1	EPIC	24-32	5-15	5-15	5-15	80 Fishy
 tempura broccoli bento box with inky squid sauce	5	1	EPIC	24-32	5-15	75-95	5-15	80 Fishy
@@ -835,7 +835,7 @@ tempura carrot bento box with eel sauce	5	1	EPIC	24-32	5-15	45-65	5-15	80 Fishy
 tempura carrot bento box with inky squid sauce	5	1	EPIC	24-32	5-15	115-145	5-15	80 Fishy
 tempura carrot bento box with mer-kin weaksauce	5	1	EPIC	24-32	5-15	45-65	75-95	80 Fishy
 tempura carrot bento box with peanut sauce	5	1	EPIC	24-32	5-15	45-65	5-15	80 Fishy
-super-sized rotten bouncing tempura cauliflower	5	6	crappy	5	5	5	5		
+super-sized rotten bouncing tempura cauliflower	5	6	crappy	5	5	5	5	20 Low on the Hog (+100% meat)	
 tempura cauliflower bento box with anemone sauce	5	1	EPIC	24-32	75-95	5-15	5-15	80 Fishy
 tempura cauliflower bento box with eel sauce	5	1	EPIC	24-32	5-15	5-15	5-15	80 Fishy
 tempura cauliflower bento box with inky squid sauce	5	1	EPIC	24-32	5-15	75-95	5-15	80 Fishy
@@ -867,11 +867,11 @@ moldy wobbly tin rations	3	1	crappy	3	3-5	3-5	3-5
 tiny frozen prehistoric meteorite jawbreaker	1	1	good	2	0	0	0
 stale snack-sized toast	2	1	decent	2-4	0	0	0		
 toast with jam	1	3	decent	1-3	1-2	1-2	1-2	5 Jammin'
-moldy toast with jelly	4	1	crappy	4	5-10	5-10	5-10		
-tasty low-calorie toast with hot jelly	1	1	awesome	3-5	5-10	5-10	5-10		
-delicious thick twirling toast with sleaze jelly	5	1	awesome	15-25	5-10	5-10	5-10		
-decent toast with jelly	3	1	good	6-9	5-10	5-10	5-10		
-immense bland upside-down toast with stench jelly	7	1	decent	7-14	5-10	5-10	5-10		
+moldy toast with jelly	4	1	crappy	4	5-10	5-10	5-10	25 Cold Jellied (+3 myst exp, +30% myst, +5 cold damage)	
+tasty low-calorie toast with hot jelly	1	1	awesome	3-5	5-10	5-10	5-10	25 Cold Jellied (+3 mus exp, +30% mus, +5 hot damage)	
+delicious thick twirling toast with sleaze jelly	5	1	awesome	15-25	5-10	5-10	5-10	25 Sleazy Jellied (+3 moxie exp, +30% moxie, +5 sleaze damage)	
+decent toast with jelly	3	1	good	6-9	5-10	5-10	5-10	25 Spooky Jellied (+5 exp, +10% all stats, +5 spooky damage)	
+immense bland upside-down toast with stench jelly	7	1	decent	7-14	5-10	5-10	5-10	25 Stench Jellied (+30% item, +10% all stats, +5 stench damage)	
 toasted brie	2	3	good	4-5	0	10-15	0	20 Refined Palate (+20% adv from wines)
 tobiko pocky	3	1	good	6-8	6-8	8-8	6-8	30 Pisces in the Skyces (+150% spell dmg)
 toe jam toast	1	1	decent	1-3	0	0	50
@@ -885,9 +885,9 @@ normal jittery tofurkey nugget	4	1	good	8-12	30-33	0	0
 spoiled tomato	3	1	crappy	3	0	0	0		
 tombstone-shaped Crimboween cookie	2	7	awesome	6-12	0	0	0	10/20 Crimbo Epiphany (+10% mys)
 toxo	2	5	good	7-9	0	15-20	0	40 Radiated and Grodiated (+50% Mys, +25 Stench Spell Dam, +3 Stench Res)
-toothsome traditional Crimbo cookie	3	1	awesome	9-15	0	0	0		
+toothsome traditional Crimbo cookie	3	1	awesome	9-15	0	0	0	75 Yeast-Hungry (+50% food drop)	
 traffic jam toast	1	1	decent	1-3	50	0	0
-spinning transparent nog	1	1	EPIC	4-6	0	0	0		
+spinning transparent nog	1	1	EPIC	4-6	0	0	0	10 Holiday Disappointment (+50% all stats)	
 tree-shaped Crimbo cookie	2	7	awesome	6-12	0	0	0	10/20 Yuletide Sappiness (+10% mys)
 triangular CRIMBCOOKIE	2	1	awesome	8-10	0	0	0	10 Triangle, Man (+10% mus)
 tricky dragon roll	3	1		9-14	20-30	0	8-16	45/55 Fishy
@@ -895,16 +895,16 @@ spoiled Trollhouse cookies	3	1	crappy	3	4-6	0	0
 thick decent tube of cranberry Go-Goo	5	1	good	10-15	0	0	31-34		
 massive normal turkish mostaccioli	10	10	good	20-30	35-40	0	0		
 Turnip and Rutabaga Pie	5	1	good	12-13	0	0	0	30 Healthy, Elfy, and Wise (8-10 HP Regen)
-bland massive blurry turtle soup	8	2	decent	8-16	9-15	0	0		0 [598]A Little Bit Evil (Monster Level: +2)
+bland massive blurry turtle soup	8	2	decent	8-16	9-15	0	0	10 A Little Bit Evil (+2 ML), 10 Souper Vengeful (+3 lbs)	0 [598]A Little Bit Evil (Monster Level: +2)
 twigs and gravel	3	1		3-6	5-6	5-6	5-6
 bland yellow Ultimate Breakfast Sandwich	3	1	decent	3-6	30-40	50-60	0		
 flavorless ultra-deluxe cupcake	3	1	decent	3-6	4-6	4-6	4-6		
 ultrafondue	3	5	awesome	13-16	15-20	15-20	15-20	30 Fondid (+15 ML)
 unappetizing mayolus	1	1	crappy	1	0	0	0
 moldy narrow uncooked chorizo	3	1	crappy	3	-5	0	0		
-rotten unfortunate dumplings	4	1	crappy	4	0	0	0		
-half-sized flavorless upside-down unfinished fruitcake	2	1	decent	2-4	0	0	0		
-normal small blue unidentifiable dried fruit	2	6	good	4-6	20-40	20-40	20-40		
+rotten unfortunate dumplings	4	1	crappy	4	0	0	0	20 Really Quite Poisoned	
+half-sized flavorless upside-down unfinished fruitcake	2	1	decent	2-4	0	0	0	10 Holiday Disappointment (+50% all stats)	
+normal small blue unidentifiable dried fruit	2	6	good	4-6	20-40	20-40	20-40	50 Fruited (+100 Max HP, +100 Max MP)	
 stale unidentified jerky	3	9	decent	3-6	10-15	10-15	10-15		
 uninteresting mayolus	1	2	decent	2	1-5	1-5	1-5
 Ur-Donut	1	1	good	2-3	65-85	65-85	65-85	10 Sugar Rush
@@ -928,9 +928,9 @@ special moldy warm mushroom	4	1	crappy	4	12-14	0	0		15 Piratey Flavor (Critical 
 warm war shawarma	3	7	EPIC	15-18	30-60	0	0	30 Shawarma Warm War (+15 Mus, +50% Mus, +25 Hot Dam, +25 Hot Spell Dam, +3 Cold/Spooky Resist)
 wasabi pocky	3	1	good	6-8	6-8	8-8	6-8	30 Wasabi With You (+150% weapon dmg)
 water log	5	11	EPIC	30-35	30-60	30-60	30-60
-yummy twirling wax pancake	3	1	awesome	9-15	20-25	20-25	20-25		
+yummy twirling wax pancake	3	1	awesome	9-15	20-25	20-25	20-25	30 Waxing (+100% HP, +50% MP, +50 Init)	
 wedge of gray cheese	2	9	EPIC	7-13	50-69	50-69	50-69
-decent jumbo blinking lime green weird gazelle steak	5	1	good	10-15	0	0	0		
+decent jumbo blinking lime green weird gazelle steak	5	1	good	10-15	0	0	0	1 Gaze of the Gazelle (+200% Spell Damage, +60 Booze drop)	
 wet dog	3	1	awesome	11-13	0	0	0	30 Hangdog (+20 Init, +30 Sleaze Dam, +3 Hot/Stench Res)
 toothsome wet stew	4	1	awesome	12-20	16-19	0	0		
 decent chocolate and tomato pizza	3	2	good	6-9	0	0	0		
@@ -943,7 +943,7 @@ white rabbit roll	3	1		9-14	0	28-46	0	45/55 Fishy
 stale rice	3	1	decent	3-6	1	1-2	1-2		
 whole roasted chicken	3	9	awesome	15	18-22	18-22	18-22
 whole turkey leg	1	4	awesome	4-5	0	0	0
-toothsome wild honey pie	3	1	awesome	9-15	5-7	5-7	5-7		
+toothsome wild honey pie	3	1	awesome	9-15	5-7	5-7	5-7	10 Sugar Rush	
 wise dragon roll	3	1		9-14	20-30	8-16	0	45/55 Fishy
 witch's bread	3	6	awesome	12-15	0	30-45	0	20 Witch Breaded (+100% Mys, +200% Spell Damage, +20% Spell Critical)
 wizened master roll	3	1		9-14	20-30	28-46	20-30	45/55 Fishy
