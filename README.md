@@ -160,6 +160,34 @@ To Update type in KolMafia Console:
 <pre>
 svn update plasticlobster-2crs-overrides-branches-discobandit-marmot
 </pre>
+Disco Bandit / Mongoose:
+----------------------
+To Install type in KolMafia Console:
+<pre>
+svn checkout https://github.com/plasticlobster/2crs-overrides/branches/discobandit/mongoose
+</pre>
+To Remove type in KolMafia Console:
+<pre>
+svn delete plasticlobster-2crs-overrides-branches-discobandit-mongoose
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-discobandit-mongoose
+</pre>
+Disco Bandit / Opossum:
+----------------------
+To Install type in KolMafia Console:
+<pre>
+svn checkout https://github.com/plasticlobster/2crs-overrides/branches/discobandit/opossum
+</pre>
+To Remove type in KolMafia Console:
+<pre>
+svn delete plasticlobster-2crs-overrides-branches-discobandit-opossum
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-discobandit-opossum
+</pre>
 Disco Bandit / Packrat:
 ----------------------
 To Install type in KolMafia Console:
@@ -202,6 +230,20 @@ To Update type in KolMafia Console:
 <pre>
 svn update plasticlobster-2crs-overrides-branches-discobandit-vole
 </pre>
+Disco Bandit / Wombat:
+----------------------
+To Install type in KolMafia Console:
+<pre>
+svn checkout https://github.com/plasticlobster/2crs-overrides/branches/discobandit/wombat
+</pre>
+To Remove type in KolMafia Console:
+<pre>
+svn delete plasticlobster-2crs-overrides-branches-discobandit-wombat
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-discobandit-wombat
+</pre>
 Pastamancer / Blender:
 ----------------------
 To Install type in KolMafia Console:
@@ -229,6 +271,20 @@ svn delete plasticlobster-2crs-overrides-branches-pastamancer-marmot
 To Update type in KolMafia Console:
 <pre>
 svn update plasticlobster-2crs-overrides-branches-pastamancer-marmot
+</pre>
+Pastamancer / Mongoose:
+----------------------
+To Install type in KolMafia Console:
+<pre>
+svn checkout https://github.com/plasticlobster/2crs-overrides/branches/pastamancer/mongoose
+</pre>
+To Remove type in KolMafia Console:
+<pre>
+svn delete plasticlobster-2crs-overrides-branches-pastamancer-mongoose
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-pastamancer-mongoose
 </pre>
 Pastamancer / Opossum:
 ----------------------
