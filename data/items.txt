@@ -1172,7 +1172,7 @@
 1146	boozy perfectly mixed knoll mushroom wine	183815508	wine.gif	drink	t,d	30	bottles of knoll mushroom wine
 1147	smooth fancy mushroom wine	146985703	wine.gif	drink	t,d	30	bottles of spooky mushroom wine
 1148	drinkable shot of flower schnapps	173591224	shot.gif	drink	t,d	11	shots of flower schnapps
-1149	flower petal pie	613202150	pie.gif	food	t,d	11
+1149	immense adequate flower petal pie	613202150	pie.gif	food	t,d	11
 1150	acceptable bottle of single-barrel whiskey	987274542	singlebar.gif	drink	t	0	bottles of single-barrel whiskey
 1151	skewed reassuring wicked discarded plastic fork	434938162	giantfork.gif	weapon	t,d	205
 1152	miniature gravy-covered maypole	352170676	maypole.gif	familiar	t	0
@@ -1626,7 +1626,7 @@
 1600	tangarita with a fly in it	615496606	daquiri.gif	message	g,d	130	tangaritas with flies in them
 1601	mandarina colada with a fly in it	440247765	daquiri.gif	message	g,d	130	mandarina coladas with flies in them
 1602	prussian cathouse with a fly in it	978043304	chamflute.gif	message	g,d	130	prussian cathouses with flies in them
-1603	Mae West with a fly in it	637723210	daquiri.gif	message	g,d	130	Maes West with flies in them
+1603	special drinkable bouncing maroon Mae West with a fly in it	637723210	daquiri.gif	message	g,d	130	Maes West with flies in them
 1604	astronaut ice-cream	695048778	astroice.gif	spleen, usable	d	42	bricks of astronaut ice cream
 1605	delectable catalyst	513832221	beaker.gif	multiple		0
 1606	powdered pulsating tumbling ultimate wad	873886262	ultwad.gif	spleen, usable	t	0
@@ -2608,10 +2608,10 @@
 2582	brick of sand	634159997	brick.gif	multiple, combat	t,d	100	bricks of sand
 2583	decent special centipede eggs	956043901	centeggs.gif	food	t,d	66	clutches of centipede eggs
 2584	spinning supercool wonderwall shield	662372736	wallshield.gif	offhand	t,d	165
-2585	Colonel Mustard's Lonely Spades Club Jacket	635680553	smjacket.gif	shirt	t,d	135
+2585	Colonel Mustard's Lonely Spades Club Jacket of vim and vigor	635680553	smjacket.gif	shirt	t,d	135
 2586	tumbling General Sage's Lonely Diamonds Club Jacket of temperance	229924188	smjacket.gif	shirt	t,d	135
 2587	green blurry Corporal Fennel's Lonely Clubs Club Jacket of the overflowing toilet	854115819	smjacket.gif	shirt	t,d	135
-2588	Private Pepper's Lonely Hearts Club Jacket	449989440	smjacket.gif	shirt	t,d	135
+2588	gravedigger's Private Pepper's Lonely Hearts Club Jacket	449989440	smjacket.gif	shirt	t,d	135
 2589	yummy hot date	138166057	hotdate.gif	food	t,d	65	hot dates, giggity giggity
 2590	drinkable maroon distilled fortified wine	644818554	wine.gif	drink	t	0	bottles of distilled fortified wine
 2591	decent diet tasty tart	367112324	pie.gif	food	t	0
@@ -3147,7 +3147,7 @@
 3121	divine champagne popper	934978937	divpopper.gif	none, combat, solo	t	0
 3122	divine cracker	658639606	divcracker.gif	none, combat	t	0
 3123	divine champagne flute	192429115	chamflute.gif	drink helper	t	0
-3124	fruitfilm	480977247	device6.gif	usable, candy2	t,d	35
+3124	galvanized twirling fruitfilm	480977247	device6.gif	usable, candy2	t,d	35
 3125	dry corrupted tumbling piece of after eight	653012160	pieceof13.gif	usable, candy2	t,d	35	pieces of after eight
 3126	hobo nickel	972721571	nickel.gif	none		0
 3127	sandcastle	445850699	sandcastle.gif	usable	t,d	300
@@ -3253,7 +3253,7 @@
 3227	C.H.U.M. chum	603451254	chum.gif	food	t,d	45	handfuls of C.H.U.M. chum
 3228	unfortunate dumplings	815060531	soupbowl.gif	food	t,d	15	bowls of unfortunate dumplings
 3229	decaying goldfish liver	194632954	liver.gif	none	t,d	48
-3230	oil of oiliness	133463686	potion5.gif	usable	t,d	85	flasks of oil of oiliness
+3230	moist anodized quadruple-denatured oil of oiliness	133463686	potion5.gif	usable	t,d	85	flasks of oil of oiliness
 3231		380893218	papercrown.gif	hat		0
 3232	vanilla-frosted king cake	787163245	kingcake.gif	food		0
 3233	inflatable duck	199932706	poolduck.gif	accessory	t,d	50
@@ -3868,7 +3868,7 @@
 3842	out-of-tune biwa	629789423	biwa.gif	weapon	t,d	24
 3843	dangerous dented harmonica	295683337	smallharmonica.gif	weapon	t,d	12
 3844	razor-sharp Fonzie's magic whistle	444105885	lparen.gif	weapon	t,d	92
-3845	cheap plastic blowgun	559077524	blowgun.gif	weapon	t,d	28
+3845	<font color="blue">-25 to Monster Level</font>	559077524	blowgun.gif	weapon	t,d	28
 3846	avaricious curative sage jungle drum	138800320	bongo.gif	weapon	t,d	186
 3847	hippy bongo of the cougar	787966526	bongo.gif	weapon	t,d	48
 3848	maroon quilted knob bugle	434094354	bugle.gif	weapon	t,d	75
@@ -3908,18 +3908,18 @@
 3882	encoded cult documents	803938411	documents.gif	none	q	0
 3883	cult memo	706925963	document.gif	reusable	q	0
 3884	decoded cult documents	361604348	documents.gif	reusable	q	0
-3885	vial of red slime	404702785	vial.gif	multiple	q,d	33	vials of red slime
-3886	vial of yellow slime	343218750	vial.gif	multiple	q,d	33	vials of yellow slime
-3887	vial of blue slime	667810358	vial.gif	multiple	q,d	33	vials of blue slime
-3888	vial of orange slime	400803781	vial.gif	multiple	q,d	66	vials of orange slime
-3889	vial of green slime	653259272	vial.gif	multiple	q,d	66	vials of green slime
-3890	vial of violet slime	400938779	vial.gif	multiple	q,d	66	vials of violet slime
-3891	vial of vermilion slime	240883568	vial.gif	multiple	q,d	99	vials of vermilion slime
-3892	vial of amber slime	262092512	vial.gif	multiple	q,d	99	vials of amber slime
-3893	vial of chartreuse slime	422037511	vial.gif	multiple	q,d	99	vials of chartreuse slime
-3894	vial of teal slime	867609165	vial.gif	multiple	q,d	99	vials of teal slime
-3895	vial of indigo slime	455694019	vial.gif	multiple	q,d	99	vials of indigo slime
-3896	vial of purple slime	553670862	vial.gif	multiple	q,d	99	vials of purple slime
+3885	electrified modified vial of slime	404702785	vial.gif	multiple	q,d	33	vials of red slime
+3886	super-altered vial of slime	343218750	vial.gif	multiple	q,d	33	vials of yellow slime
+3887	polymerized vial of slime	667810358	vial.gif	multiple	q,d	33	vials of blue slime
+3888	quadruple-wet altered warmed squat vial of slime	400803781	vial.gif	multiple	q,d	66	vials of orange slime
+3889	activated red vial of slime	653259272	vial.gif	multiple	q,d	66	vials of green slime
+3890	colloidal wobbly vial of violet slime	400938779	vial.gif	multiple	q,d	66	vials of violet slime
+3891	polymerized modified ionized vial of vermilion slime	240883568	vial.gif	multiple	q,d	99	vials of vermilion slime
+3892	polymerized wet vial of amber slime	262092512	vial.gif	multiple	q,d	99	vials of amber slime
+3893	super-colloidal bouncing yellow vial of chartreuse slime	422037511	vial.gif	multiple	q,d	99	vials of chartreuse slime
+3894	electrified vial of teal slime	867609165	vial.gif	multiple	q,d	99	vials of teal slime
+3895	modified vial of indigo slime	455694019	vial.gif	multiple	q,d	99	vials of indigo slime
+3896	flattened double-nitrogenated vial of slime	553670862	vial.gif	multiple	q,d	99	vials of purple slime
 3897	aerosolized denatured vial of brown slime	615023386	vial.gif	usable	q,d	3	vials of brown slime
 3898	bottle of G&uuml;-Gone	959190225	cleaner.gif	none, combat reusable	q	0
 3899
@@ -4485,12 +4485,12 @@
 4459	skewed Van der Graaf stiffened snailmail breeches	645828332	chainpants.gif	pants	t,d	150
 4460	dance instructor's snailmail hauberk of the cougar	143480509	chainshirt.gif	shirt	t,d	160
 4461	colloidal flattened seal-brain elixir	441670255	potion5.gif	multiple	t,d	33
-4462	chocolate seal-clubbing club	914337293	choc1.gif	usable, chocolate, candy2	t	0
-4463	chocolate turtle totem	704750003	chocototem.gif	usable, chocolate, candy2	t	0
-4464	chocolate pasta spoon	799053536	choc3.gif	usable, chocolate, candy2	t	0
-4465	chocolate saucepan	894875363	choc4.gif	usable, chocolate, candy2	t	0
-4466	chocolate disco ball	181522203	choc5.gif	usable, chocolate, candy2	t	0
-4467	chocolate stolen accordion	707981124	choc6.gif	usable, chocolate, candy2	t	0
+4462	non-alkaline huge chocolate seal-clubbing club	914337293	choc1.gif	usable, chocolate, candy2	t	0
+4463	ionized chocolate turtle totem	704750003	chocototem.gif	usable, chocolate, candy2	t	0
+4464	polarized chocolate pasta spoon	799053536	choc3.gif	usable, chocolate, candy2	t	0
+4465	alkaline boiled activated chocolate saucepan	894875363	choc4.gif	usable, chocolate, candy2	t	0
+4466	cold-filtered modified concentrated blue chocolate disco ball	181522203	choc5.gif	usable, chocolate, candy2	t	0
+4467	quadruple-magnetized ionized olive shaking mirror chocolate stolen accordion	707981124	choc6.gif	usable, chocolate, candy2	t	0
 4468	Libram of BRICKOs	377804923	book2.gif	usable	t	0	Librams of BRICKOs
 4469	BRICKO brick	261433979	brickobrick.gif	multiple	t	0
 4470	BRICKO eye brick	992023114	brickoeye.gif	none	t	0
@@ -4980,7 +4980,7 @@
 4954	Tesla oven mitts	197489398	ovenmitts.gif	accessory	t,d	48	pairs of oven mitts
 4955	low-calorie moldy overcookie	812575069	overcookie.gif	food	t,d	38
 4956	thick spoiled philosopher's scone	688352193	scone.gif	food	t,d	57
-4957	half-baked potion	954191945	potion6.gif	usable	t,d	42
+4957	enhanced half-baked potion	954191945	potion6.gif	usable	t,d	42
 4958	executive Knob Goblin deluxe scimitar	647795603	scimitar.gif	weapon	t,d	55
 4959	super-sized toothsome Knob nuts	373563238	knobnuts.gif	food	t,d	35	pairs of Knob nuts
 4960	high-proof perfectly mixed Cobb's Knob Wurstbrau	460647230	beerbottle.gif	drink	t,d	58	bottles of Cobb's Knob Wurstbrau
