@@ -267,7 +267,7 @@ hovering sombrero	COMBINE	huge greasy irate sombrero	poultrygeist
 toothsome snack-sized cocoa eggshell fragment	COOK	stale spinning cocoa eggshell fragment	stale spinning cocoa eggshell fragment
 one-winged stab bat	COMBINE	batblade of the glutton	bat wing
 pirate skull	COMBINE	forbidden eyepatch	brainy skull
-spooky pirate skeleton	SUSE	pirate skull	sunken chest	pirate pelvis	upside-down curative skeleton bone (8)
+spooky pirate skeleton	SUSE	pirate skull	sunken chest	pirate pelvis	skeleton bone (8)
 pregnant gloomy black mushroom	COOK	gloomy black mushroom	spooky fairy gravy
 pregnant oily golden mushroom	COOK	oily golden mushroom	sleazy fairy gravy
 pregnant mushroom	COOK	bland immense Knob mushroom	fairy gravy boat
@@ -565,13 +565,13 @@ artisanal practically non-alcoholic mirror shot of peach schnapps	MIX	fermenting
 
 # Distillations
 
-special smooth bottle of gin (3)	MIX	fermenting powder	bland small juniper berries
-hand-crafted bottle of rum (3)	MIX	fermenting powder	small rotten tumbling brown sugar cane
+bottle of gin (3)	MIX	fermenting powder	bland small juniper berries
+bottle of rum (3)	MIX	fermenting powder	small rotten tumbling brown sugar cane
 bottle of sake (3)	MIX	fermenting powder	enchanted yummy green rice
-high-proof drinkable bottle of tequila (3)	MIX	fermenting powder	adequate cactus fruit
-bad wobbly bottle of vodka (3)	MIX	fermenting powder	low-calorie decent bowl of rye sprouts
-weak drinkable bottle of whiskey (3)	MIX	fermenting powder	normal low-calorie cob of corn
-artisanal blurry boxed wine (3)	MIX	fermenting powder	tasty bunch of square grapes
+bottle of tequila (3)	MIX	fermenting powder	adequate cactus fruit
+bottle of vodka (3)	MIX	fermenting powder	low-calorie decent bowl of rye sprouts
+bottle of whiskey (3)	MIX	fermenting powder	normal low-calorie cob of corn
+boxed wine (3)	MIX	fermenting powder	tasty bunch of square grapes
 pumpkin beer (3)	MIX	fermenting powder	pumpkin
 
 # Standard, tier 1 and tier 2 beverages.  Nothing special about
@@ -1125,22 +1125,22 @@ depleted Grimacite weightlifting belt	SMITH, GRIMACITE	enormous belt buckle	chun
 
 # Elemental powders can be compressed into nuggets and wads with the Malus
 
-modified twinkly nuggets	MALUS	electrified corrupted spinning blurry twinkly powder (5)
-colloidal activated hot nuggets	MALUS	polarized squat hot powder (5)
-irradiated triple-dry upside-down nuggets	MALUS	quadruple-colloidal powder (5)
-Vulcanized wet nuggets	MALUS	ionized powder (5)
-deionized diffused upside-down stench nuggets	MALUS	extra-anodized jittery stench powder (5)
-cold-filtered sleaze nuggets	MALUS	double-polymerized anodized upside-down sleaze powder (5)
+modified twinkly nuggets	MALUS	twinkly powder (5)
+colloidal activated hot nuggets	MALUS	hot powder (5)
+irradiated triple-dry upside-down nuggets	MALUS	cold powder (5)
+Vulcanized wet nuggets	MALUS	spooky powder (5)
+deionized diffused upside-down stench nuggets	MALUS	stench powder (5)
+cold-filtered sleaze nuggets	MALUS	sleaze powder (5)
 
-dried twinkly wad	MALUS	modified twinkly nuggets (5)
-denatured gray hot wad	MALUS	colloidal activated hot nuggets (5)
-pickled wad	MALUS	irradiated triple-dry upside-down nuggets (5)
+dried twinkly wad	MALUS	twinkly nuggets (5)
+denatured gray hot wad	MALUS	hot nuggets (5)
+pickled wad	MALUS	cold nuggets (5)
 sewer wad	MALUS	sewer nuggets (5)
-pickled squat fuchsia wad	MALUS	Vulcanized wet nuggets (5)
-pickled stench wad	MALUS	deionized diffused upside-down stench nuggets (5)
-boiled shaking lime green sleaze wad	MALUS	cold-filtered sleaze nuggets (5)
+pickled squat fuchsia wad	MALUS	spooky nuggets (5)
+pickled stench wad	MALUS	stench nuggets (5)
+boiled shaking lime green sleaze wad	MALUS	sleaze nuggets (5)
 
-floaty pebbles	MALUS	dry Vulcanized sand (5)
+floaty pebbles	MALUS	floaty sand (5)
 floaty gravel	MALUS	floaty pebbles (5)
 floaty rock	MALUS	floaty gravel (5)
 
@@ -1712,20 +1712,20 @@ wicksilver spurs	SMITH	jangly spurs	nugget of wicksilver
 
 rosy-cheeked wicked Staff of Blood and Pudding of the scaredy-cat	STAFF	squat bouncing dripping meat staff of terror	bland miniature mugcake	smooth boozy red bouncing bloody mary	modified twinkly nuggets	bottle of used blood
 stanky chaotic Da Vinci's Staff of the Black Kettle	STAFF	blurry therapeutic dance instructor's Staff of the Teapot Tempest of the businessman	enchanted bite-sized normal blurry olive lo mein	acceptable around the world	dehydrated shaking jug-o-magicalness	magical mystery juice (6)	asbestos ore
-knitted wicked Staff of the Deepest Freeze of bravery	STAFF	teal Frosty's arm of wisdom of the cougar	spoiled tiny skewed bowl of fishysoisse	weak smooth bouncing mandarina colada (3)	vaporized epic wad	glacial sapphire (3)	frigid mote
+knitted wicked Staff of the Deepest Freeze of bravery	STAFF	teal Frosty's arm of wisdom of the cougar	spoiled tiny skewed bowl of fishysoisse	mandarina colada (3)	vaporized epic wad	glacial sapphire (3)	frigid mote
 lightning-fast Socratic Samson's Staff of the Electric Range	STAFF	Jacob's rung of the blizzard of incineration	low-calorie stale gunky chicken	tolerable wobbly squat painting of a glass of wine	spooky music box mechanism	careful doll head
-auspicious dog trainer's Staff of the Grand Flamb&eacute; of the ox	STAFF	blurry spinning hardened smoldering staff of Leguizamo of incineration	toothsome hot hi mein (3)	tolerable watered-down wobbly mushroom wine	denatured gray hot wad (10)	flaming feather
-lion tamer's Staff of the Grease Trap of the blizzard of courage	STAFF	censurious rock-hard cheesestick	decent sleazy hi mein (3)	fancy acceptable flat mushroom wine	boiled shaking lime green sleaze wad (10)	flirtatious feather
+auspicious dog trainer's Staff of the Grand Flamb&eacute; of the ox	STAFF	blurry spinning hardened smoldering staff of Leguizamo of incineration	hot hi mein (3)	tolerable watered-down wobbly mushroom wine	hot wad (10)	flaming feather
+lion tamer's Staff of the Grease Trap of the blizzard of courage	STAFF	censurious rock-hard cheesestick	sleazy hi mein (3)	fancy acceptable flat mushroom wine	sleaze wad (10)	flirtatious feather
 nasty chilly Staff of the Greasefire of the ox of the sewer	STAFF	shaking therapeutic Kentucky-fried meat staff	delicious noodles	high-proof drinkable bottle of tequila	colloidal activated hot nuggets	cold-filtered sleaze nuggets
-Staff of Holiday Sensations	STAFF	giant candy cane	peppermint patty	Crimbojito	unsweetened lotion of coldness (3)	squat fortified stylish nunchaku	oxidized teal freezerburned ice cube
-olive scandalous brainy strapping Staff of the Kitchen Floor	STAFF	flame-wreathed Sinatra's linoleum staff	decent jumbo tumbling hi mein (3)	tolerable mushroom wine	pickled stench wad (10)	fetid feather
-aromatic MacGyver's therapeutic Staff of the Midnight Snack	STAFF	green miser's lard-coated staff	massive stale fricasseed brains	perfectly mixed weak bottle of popskull	ionized powder (3)	spray paint (3)
+Staff of Holiday Sensations	STAFF	giant candy cane	peppermint patty	Crimbojito	lotion of coldness (3)	squat fortified stylish nunchaku	oxidized teal freezerburned ice cube
+olive scandalous brainy strapping Staff of the Kitchen Floor	STAFF	flame-wreathed Sinatra's linoleum staff	stinky hi mein (3)	tolerable mushroom wine	stench wad (10)	fetid feather
+aromatic MacGyver's therapeutic Staff of the Midnight Snack	STAFF	green miser's lard-coated staff	massive stale fricasseed brains	perfectly mixed weak bottle of popskull	spooky powder (3)	spray paint (3)
 ghostly spinning asbestos-lined Tesla stiffened Staff of the Roaring Hearth	STAFF	huge censurious smartaleck's Unkillable Skeleton's restless leg	decent maroon Dreadsylvanian hot pocket	fancy hand-crafted Dreadsylvanian hot toddy	hot cluster (3)	huge vengeful spirit of the empath
-squat clever brawny Staff of the Scummy Sink of Calamity Jane	STAFF	miser's Oprah's staff of the empath	stale slimy sweetbreads	delicious narrow red slimy fermented bile bladder	boiled shaking lime green sleaze wad (10)	big bumboozer marble
-family-friendly baleful Socratic Staff of the Short Order Cook	STAFF	pulsating smartaleck's basic meat staff	yummy bowl of cottage cheese	hand-crafted weak ice-cold Sir Schlitz (3)	electrified corrupted spinning blurry twinkly powder (3)	altered magicalness-in-a-can (5)
+squat clever brawny Staff of the Scummy Sink of Calamity Jane	STAFF	miser's Oprah's staff of the empath	stale slimy sweetbreads	delicious narrow red slimy fermented bile bladder	sleaze wad (10)	big bumboozer marble
+family-friendly baleful Socratic Staff of the Short Order Cook	STAFF	pulsating smartaleck's basic meat staff	yummy bowl of cottage cheese	ice-cold Sir Schlitz (3)	twinkly powder (3)	magicalness-in-a-can (5)
 censurious lion tamer's razor-sharp Staff of the Soupbone	STAFF	Jack Frost's Rosewater's rib of the Bonerdagon of the detective	big moldy lo mein	mediocre old-fashioned	zippy Glass Balls of the Goblin King	lump of diamond	wobbly wobbly greasy lihc face
 blurry therapeutic dance instructor's Staff of the Teapot Tempest of the businessman	STAFF	zippy quilted stirring stick	miniature normal twirling menudo	acceptable bouncing sangria	hippy herbal tea	modified concentrated magicalness pill	magical mystery juice (3)
-gray rosy-cheeked Newton's Staff of the Walk-In Freezer of the bloodbag	STAFF	tumbling stanky ram stick	fancy adequate big purple hi mein (3)	lousy bouncing icy mushroom wine	pickled wad (10)	frozen feather
+gray rosy-cheeked Newton's Staff of the Walk-In Freezer of the bloodbag	STAFF	tumbling stanky ram stick	cold hi mein (3)	lousy bouncing icy mushroom wine	cold wad (10)	frozen feather
 wholesome weightlifter's Staff of the Well-Tempered Cauldron of the wise owl	STAFF	stanky chaotic Da Vinci's Staff of the Black Kettle	bland small lime green jittery b&auml;tzle	tolerable watered-down Supernova Champagne	modified cyan bit-o-cactus	squashed frog	eye of newt	salamander spleen
 
 # Archaeology recipes
@@ -2344,7 +2344,7 @@ drinkable watered-down acceptable vodka	JARLSCURDLE, ROW65	cosmic potato
 rotten special consummate cream	JARLSCURDLE, ROW68	cosmic cream
 mediocre distilled adequate rum	JARLSCURDLE, ROW71	cosmic fruit
 cosmic six-pack	JARLS, ROW112
-distilled smooth mediocre lager (6)	SUSE	cosmic six-pack
+mediocre lager (6)	SUSE	cosmic six-pack
 
 # Avatar of Jarlsberg dishes
 gigantic spoiled immaculate grilled cheese	JARLS, ROW72	stale gray consummate toast	decent consummate cheese slice
@@ -2406,17 +2406,17 @@ quasireligious sculpture 	ARTCLASS, ROW164	lump of clay (2)	twisted piece of wir
 sticky clay homunculus 	ARTCLASS, ROW167	lump of clay (4)	twisted piece of wire (2)	angry inch (2)	Mountain Stream Code Black Alert (1)
 
 # KOL High School Chemistry Class
-dirty stinkbomb	CHEMCLASS, ROW171	chlorine crystal (2)	magnetized cold-filtered ph balancer (2)	nugget of sodium (4)	surgical tape (1)	illegal firecracker (1)
+dirty stinkbomb	CHEMCLASS, ROW171	chlorine crystal (2)	ph balancer (2)	nugget of sodium (4)	surgical tape (1)	illegal firecracker (1)
 grains of salt	CHEMCLASS, ROW169	chlorine crystal (2)	nugget of sodium (2)
 double-Vulcanized spinning sodium pentasomething	CHEMCLASS, ROW168	nugget of sodium (2)	mysterious chemical residue (4)	Mountain Stream Code Black Alert (1)
-pressed energized superwater	CHEMCLASS, ROW172	magnetized cold-filtered ph balancer (6)	mysterious chemical residue (2)	Mountain Stream Code Black Alert (1)
-yellowcake bomb	CHEMCLASS, ROW170	chlorine crystal (4)	magnetized cold-filtered ph balancer (4)	mysterious chemical residue (4)	surgical tape (1)	illegal firecracker (1)
+pressed energized superwater	CHEMCLASS, ROW172	ph balancer (6)	mysterious chemical residue (2)	Mountain Stream Code Black Alert (1)
+yellowcake bomb	CHEMCLASS, ROW170	chlorine crystal (4)	ph balancer (4)	mysterious chemical residue (4)	surgical tape (1)	illegal firecracker (1)
 
 # KOL High School Shop Class
-deathchucks 	SHOPCLASS, ROW162	jigsaw blade (4)	wood screw (2)	balsa plank (2)	wet scrap (1)
+deathchucks 	SHOPCLASS, ROW162	jigsaw blade (4)	wood screw (2)	balsa plank (2)	scrap metal (1)
 miniature suspension bridge 	SHOPCLASS, ROW158	wood screw (4)	balsa plank (4)	blob of wood glue (2)	surgical tape (1)
 Staff of the Lunch Lady 	SHOPCLASS, ROW159	jigsaw blade (2)	balsa plank (6)	blob of wood glue (4)
-universal key	SHOPCLASS, ROW160	jigsaw blade (4)	wood screw (4)	blob of wood glue (8)	surgical tape (1)	wet scrap (1)
+universal key	SHOPCLASS, ROW160	jigsaw blade (4)	wood screw (4)	blob of wood glue (8)	surgical tape (1)	scrap metal (1)
 world's most dangerous birdhouse 	SHOPCLASS, ROW161	jigsaw blade (4)	wood screw (4)	balsa plank (2)	blob of wood glue (2)	illegal firecracker (2)
 
 # Beer Can
@@ -2444,8 +2444,8 @@ small normal junk food	JUNK, ROW188	jagged scrap metal	activated galvanized skew
 weak drinkable junk yard	JUNK, ROW189	jagged scrap metal	activated galvanized skewed bent scrap	molten scrap metal
 ribald junk band	JUNK, ROW185	activated galvanized skewed bent scrap	molten scrap metal (2)	tangle of copper wire	Junk-Bond
 therapeutic junk trunks	JUNK, ROW186	jagged scrap metal (2)	activated galvanized skewed bent scrap	tangle of copper wire
-teal wobbly perfumed junk-mail shirt	JUNK, ROW187	jagged scrap metal	activated galvanized skewed bent scrap (2)	Junk-Bond
-skewed executive arm buzzer	JUNK, ROW191	activated galvanized skewed bent scrap (2)	tangle of copper wire	Junk-Bond	eternal car battery
+teal wobbly perfumed junk-mail shirt	JUNK, ROW187	jagged scrap metal	bent scrap metal (2)	Junk-Bond
+skewed executive arm buzzer	JUNK, ROW191	bent scrap metal (2)	tangle of copper wire	Junk-Bond	eternal car battery
 foul-smelling boilgun of mayonnaise	JUNK, ROW192	molten scrap metal (2)	tangle of copper wire	Junk-Bond	eternal car battery
 supercool swordzall of the cheetah	JUNK, ROW190	jagged scrap metal (2)	tangle of copper wire	Junk-Bond	eternal car battery
 
@@ -2627,7 +2627,7 @@ neutron lollipop	COOK	peppermint tailings	skewer
 gamma nog	MIX	peppermint tailings	fermenting powder
 
 # Overgrown Lot
-stale glob of cream cheese (3)	SUSE	narrow carton of snake milk
+glob of cream cheese (3)	SUSE	narrow carton of snake milk
 perfectly mixed shaking huge Breakfast Blast wine cooler	MIX	perfectly mixed weak unflavored wine cooler	bite-sized moldy olive grapefruit
 artisanal strong Citrus Crush wine cooler	MIX	perfectly mixed weak unflavored wine cooler	stale lemon
 perfectly mixed Orangemageddon wine cooler	MIX	perfectly mixed weak unflavored wine cooler	moldy upside-down fuchsia 
@@ -2996,7 +2996,7 @@ blurry Sherlock's Jack Frost's weightlifter's shooting morning star	METEOROID	me
 tarnished dry quadruple-nitrogenated Potion of Heroism	COMBINE	hero's skull	wobbly to-go brew
 normal tiny denastified haunch	COOK	faerie dust	nasty haunch
 mediocre extra-dry bad rum and good cola	MIX	mirror grolblin rum	sanctified cola
-scorching sizzling MacGyver's cool Staff of Kitchen Royalty of Leguizamo	STAFF	rock-hard scepter of the Skeleton Lord of the pedagogue of Flo-Jo	normal tiny denastified haunch (3)	mediocre extra-dry bad rum and good cola (3)	tarnished dry quadruple-nitrogenated Potion of Heroism (3)
+scorching sizzling MacGyver's cool Staff of Kitchen Royalty of Leguizamo	STAFF	rock-hard scepter of the Skeleton Lord of the pedagogue of Flo-Jo	denastified haunch (3)	bad rum and good cola (3)	Potion of Heroism (3)
 blinking rosewater-soaked FantasyRealm Warrior's Helm	FANTASY_REALM
 yellow baleful FantasyRealm Mage's Hat	FANTASY_REALM
 narrow FantasyRealm Rogue's Mask of the bloodbag	FANTASY_REALM
@@ -3026,7 +3026,7 @@ small yummy moosemeat pie	COOK	pie crust	mooseflank
 beaver punch (papaya)	MIX	flavorless papaya	drinkable beavermouth
 beaver punch (peach)	MIX	adequate massive peach	drinkable beavermouth
 beaver punch (cherry)	MIX	stale cherry	drinkable beavermouth
-MacGyver's baleful Staff of Frozen Lard of the scaredy-cat	STAFF	upside-down thinker's pristine walrus tusk of the brazier	small yummy moosemeat pie (3)	beaver punch (peach) (3)	pickled wad (30)	boiled shaking lime green sleaze wad (30)
+MacGyver's baleful Staff of Frozen Lard of the scaredy-cat	STAFF	upside-down thinker's pristine walrus tusk of the brazier	moosemeat pie (3)	beaver punch (peach) (3)	cold wad (30)	sleaze wad (30)
 
 # Kramco Sausage-o-Matic
 stale sausage	SAUSAGE_O_MATIC	magical sausage casing
