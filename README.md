@@ -90,20 +90,6 @@ To Update type in KolMafia Console:
 <pre>
 svn update plasticlobster-2crs-overrides-branches-accordionthief-platypus
 </pre>
-Accordion Thief / Vole:
-----------------------
-To Install type in KolMafia Console:
-<pre>
-svn checkout https://github.com/plasticlobster/2crs-overrides/branches/accordionthief/vole
-</pre>
-To Remove type in KolMafia Console:
-<pre>
-svn delete plasticlobster-2crs-overrides-branches-accordionthief-vole
-</pre>
-To Update type in KolMafia Console:
-<pre>
-svn update plasticlobster-2crs-overrides-branches-accordionthief-vole
-</pre>
 Accordion Thief / Wallaby:
 ----------------------
 To Install type in KolMafia Console:
@@ -173,34 +159,6 @@ svn delete plasticlobster-2crs-overrides-branches-discobandit-mongoose
 To Update type in KolMafia Console:
 <pre>
 svn update plasticlobster-2crs-overrides-branches-discobandit-mongoose
-</pre>
-Disco Bandit / Opossum:
-----------------------
-To Install type in KolMafia Console:
-<pre>
-svn checkout https://github.com/plasticlobster/2crs-overrides/branches/discobandit/opossum
-</pre>
-To Remove type in KolMafia Console:
-<pre>
-svn delete plasticlobster-2crs-overrides-branches-discobandit-opossum
-</pre>
-To Update type in KolMafia Console:
-<pre>
-svn update plasticlobster-2crs-overrides-branches-discobandit-opossum
-</pre>
-Disco Bandit / Packrat:
-----------------------
-To Install type in KolMafia Console:
-<pre>
-svn checkout https://github.com/plasticlobster/2crs-overrides/branches/discobandit/packrat
-</pre>
-To Remove type in KolMafia Console:
-<pre>
-svn delete plasticlobster-2crs-overrides-branches-discobandit-packrat
-</pre>
-To Update type in KolMafia Console:
-<pre>
-svn update plasticlobster-2crs-overrides-branches-discobandit-packrat
 </pre>
 Disco Bandit / Platypus:
 ----------------------
