@@ -11,117 +11,117 @@
 # 	TBD: a way of specifying nonstandard yields and elements, if that is needed.
 
 # Powders upgrade to nuggets or wads.
-twinkly powder	upgrade
-hot powder	upgrade
-cold powder	upgrade
-stench powder	upgrade
-spooky powder	upgrade
-sleaze powder	upgrade
+non-nitrogenated improved twinkly powder	upgrade
+chilled upside-down hot powder	upgrade
+diffused colloidal narrow powder	upgrade
+adjusted olive stench powder	upgrade
+modified magnetized powder	upgrade
+ionized maroon sleaze powder	upgrade
 
 # Nuggets upgrade to wads.
-twinkly nuggets	upgrade
-hot nuggets	upgrade
-cold nuggets	upgrade
-stench nuggets	upgrade
-spooky nuggets	upgrade
-sleaze nuggets	upgrade
+boiled extra-frozen twinkly nuggets	upgrade
+modified vacuum-sealed hot nuggets	upgrade
+non-nitrogenated diffused nuggets	upgrade
+colloidal triple-nitrogenated huge stench nuggets	upgrade
+tarnished aerosolized blurry nuggets	upgrade
+tarnished sleaze nuggets	upgrade
 sewer nuggets	upgrade
 
 # Floaty items are upgradeable.
-floaty sand	upgrade
+tarnished anodized sand	upgrade
 floaty pebbles	upgrade
 floaty gravel	upgrade
 
 # Ultra-rare items smash into ultimate wads.
-17-ball	ultimate wad
-Counterclockwise Watch	ultimate wad
-crazy bastard sword	ultimate wad
-Dallas Dynasty Falcon Crest shield	ultimate wad
-hockey stick of furious angry rage	ultimate wad
-hypnodisk	ultimate wad
-incredibly dense meat gem	ultimate wad
-Talisman of Baio	ultimate wad
-Talisman of Bakula	ultimate wad
-The Nuge's favorite crossbow	ultimate wad
+upside-down Tesla 17-ball	twisted tumbling ultimate wad
+jittery wizardly Counterclockwise Watch	twisted tumbling ultimate wad
+nasty deadly crazy bastard sword of the overflowing toilet	twisted tumbling ultimate wad
+Dallas Dynasty Falcon Crest shield of mayonnaise	twisted tumbling ultimate wad
+scandalous Da Vinci's hockey stick of furious angry rage	twisted tumbling ultimate wad
+hypnodisk of mayonnaise	twisted tumbling ultimate wad
+grievous razor-sharp incredibly dense meat gem of dire peril	twisted tumbling ultimate wad
+brainy Talisman of Baio	twisted tumbling ultimate wad
+yellow Talisman of Bakula	twisted tumbling ultimate wad
+miser's wicked The Nuge's favorite crossbow of the boozehound	twisted tumbling ultimate wad
 
 # Antique Arms & Armor got nerfed.
-antique greaves	useless powder
-antique helmet	useless powder
-antique shield	useless powder
-antique spear	useless powder
+Herculean greaves	useless powder
+scorching chilly helmet	useless powder
+studded shield	useless powder
+red ghostly lard-coated chaotic spear	useless powder
 
 # Equipment made entirely out of items from NPC stores smash to useless powder.
 # Note that the NPC-buyable items themselves don't need to be listed here, they
 # are automatically considered to smash to useless powder.
-Gnollish autoplunger	useless powder
+Gnollish autoplunger of the detective	useless powder
 
 # Hobopolis boss loot pulverizes into epic wads.
-Chester's Aquarius medallion	epic wad
-Chester's bag of candy	epic wad
-Chester's cutoffs	epic wad
-Chester's moustache	epic wad
-Chester's muscle shirt	epic wad
-Chester's sunglasses	epic wad
-Frosty's arm	epic wad
-Frosty's carrot	epic wad
-Frosty's nailbat	epic wad
-Frosty's old silk hat	epic wad
-Frosty's snowball sack	epic wad
-Hodgman's almanac	epic wad
-Hodgman's bow tie	epic wad
-Hodgman's cane	epic wad
-hodgman's disgusting technicolor overcoat	epic wad
-Hodgman's garbage sticker	epic wad
-Hodgman's harmonica	epic wad
-hodgman's imaginary hamster	epic wad
-Hodgman's lobsterskin pants	epic wad
-Hodgman's lucky sock	epic wad
-Hodgman's metal detector	epic wad
-Hodgman's porkpie hat	epic wad
-Hodgman's varcolac paw	epic wad
-Hodgman's whackin' stick	epic wad
-Ol' Scratch's ash can	epic wad
-Ol' Scratch's infernal pitchfork	epic wad
-Ol' Scratch's manacles	epic wad
-Ol' Scratch's ol' britches	epic wad
-Ol' Scratch's stove door	epic wad
-Ol' Scratch's stovepipe hat	epic wad
-Oscus's dumpster waders	epic wad
-Oscus's flypaper pants	epic wad
-Oscus's garbage can lid	epic wad
-Oscus's pelt	epic wad
-Uncle Hobo's gift baggy pants	epic wad
-Uncle Hobo's epic beard	epic wad
-Uncle Hobo's stocking cap	epic wad
-Uncle Hobo's fingerless tinsel gloves	epic wad
-Uncle Hobo's highest bough	epic wad
-Uncle Hobo's belt	epic wad
-Wand of Oscus	epic wad
-Zombo's grievous greaves	epic wad
-Zombo's shield	epic wad
-Zombo's shoulder blade	epic wad
-Zombo's skull ring	epic wad
-Zombo's skullcap	epic wad
+squat Usain Bolt's frosty Chester's Aquarius medallion	dehydrated epic wad
+Chester's bag of candy	dehydrated epic wad
+razor-sharp Chester's cutoffs of the early riser	dehydrated epic wad
+wicked Chester's moustache of the scaredy-cat of terror	dehydrated epic wad
+MacGyver's brawny Chester's muscle shirt	dehydrated epic wad
+blurry prompt sizzling curative Chester's sunglasses	dehydrated epic wad
+flame-retardant greasy Frosty's arm	dehydrated epic wad
+wool Frosty's carrot of the bloodbag	dehydrated epic wad
+dog trainer's slick Frosty's nailbat of the storm	dehydrated epic wad
+miser's boxer's Frosty's silk hat	dehydrated epic wad
+blurry Frosty's snowball sack of horror	dehydrated epic wad
+beefcake's Hodgman's almanac	dehydrated epic wad
+censurious curative Hodgman's bow tie	dehydrated epic wad
+Hodgman's cane of Calamity Jane	dehydrated epic wad
+hodgman's disgusting technicolor overcoat	dehydrated epic wad
+sage Hodgman's garbage sticker	dehydrated epic wad
+teal Jeselnik's Hodgman's harmonica	dehydrated epic wad
+hodgman's imaginary hamster	dehydrated epic wad
+blinking Fonzie's Hodgman's lobsterskin pants of the detective	dehydrated epic wad
+Hodgman's sock of horror	dehydrated epic wad
+crafty Hodgman's detector	dehydrated epic wad
+toasty Hodgman's porkpie hat of incineration	dehydrated epic wad
+purple savvy Hodgman's varcolac paw	dehydrated epic wad
+bouncing skewed Hodgman's whackin' stick of the brute	dehydrated epic wad
+gray electrified sage Ol' Scratch's ash can of the glutton	dehydrated epic wad
+miser's cool Ol' Scratch's infernal pitchfork	dehydrated epic wad
+huge auspicious supercharged beefy Ol' Scratch's manacles	dehydrated epic wad
+upside-down tumbling grievous Ol' Scratch's ol' britches of the boozehound	dehydrated epic wad
+mirror deadly Ol' Scratch's stove door	dehydrated epic wad
+fireproof occult Ol' Scratch's stovepipe hat	dehydrated epic wad
+skewed Oscus's dumpster waders of the dark arts of the businessman	dehydrated epic wad
+smartaleck's boxer's Oscus's flypaper pants	dehydrated epic wad
+studded Oscus's garbage can lid	dehydrated epic wad
+olive huge family-friendly fireproof Oscus's pelt	dehydrated epic wad
+Uncle Hobo's gift baggy pants	dehydrated epic wad
+Uncle Hobo's epic beard	dehydrated epic wad
+Uncle Hobo's stocking cap	dehydrated epic wad
+Uncle Hobo's fingerless tinsel gloves	dehydrated epic wad
+Uncle Hobo's highest bough	dehydrated epic wad
+Uncle Hobo's belt	dehydrated epic wad
+lard-coated smelly scorching Wand of Oscus	dehydrated epic wad
+nasty Sinatra's Zombo's grievous greaves	dehydrated epic wad
+foul-smelling stylish Zombo's shield of the wise owl	dehydrated epic wad
+aromatic Zombo's shoulder blade of the cougar	dehydrated epic wad
+double-paned foul-smelling Zombo's skull ring	dehydrated epic wad
+skewed weightlifter's Zombo's skullcap of Tarzan	dehydrated epic wad
 
 # Mother Slime loot, and products thereof, pulverizes into epic wads
-hardened slime belt	epic wad
-hardened slime hat	epic wad
-hardened slime pants	epic wad
-chamoisole	epic wad
-baneful bandolier	epic wad
-corroded breeches	epic wad
-corrosive cowl	epic wad
-diabolical crossbow	epic wad
-grisly shield	epic wad
-malevolent medallion	epic wad
-pernicious cudgel	epic wad
-villainous scythe	epic wad
+blue skewed horrifying hardened slime belt of the bloodbag of courage	dehydrated epic wad
+Fonzie's hardened slime hat of the cougar of doom	dehydrated epic wad
+MacGyver's hardened dance instructor's hardened slime pants	dehydrated epic wad
+skewed narrow weightlifter's chamoisole	dehydrated epic wad
+Newton's baneful bandolier of courage	dehydrated epic wad
+energetic Rosewater's corroded breeches	dehydrated epic wad
+foul-smelling beefcake's corrosive cowl	dehydrated epic wad
+bouncing hale diabolical crossbow of the dark arts	dehydrated epic wad
+tumbling grisly shield of extreme caution of the boozehound	dehydrated epic wad
+mirror horrifying energetic malevolent medallion	dehydrated epic wad
+aromatic pernicious cudgel of the overflowing toilet	dehydrated epic wad
+MacGyver's dance instructor's villainous scythe	dehydrated epic wad
 
 # The Necbromancer loot pulverizes into epic wads
-The Necbromancer's Hat	epic wad
-The Necbromancer's Shorts	epic wad
-The Necbromancer's Stein	epic wad
-The Necbromancer's Wizard Staff	epic wad
+The Necbromancer's Hat	dehydrated epic wad
+The Necbromancer's Shorts	dehydrated epic wad
+The Necbromancer's Stein	dehydrated epic wad
+The Necbromancer's Wizard Staff	dehydrated epic wad
 
 # Starting equipment is useless.
 seal-clubbing club	useless powder
@@ -131,13 +131,13 @@ saucepan	useless powder
 disco ball	useless powder
 stolen accordion	useless powder
 mariachi pants	useless powder
-old sweatpants	useless powder
-seal-skull helmet	useless powder
-helmet turtle	useless powder
-ravioli hat	useless powder
+huge sweatpants	useless powder
+curative seal-skull helmet	useless powder
+healthy helmet turtle	useless powder
+grievous ravioli hat	useless powder
 hollandaise helmet	useless powder
-disco mask	useless powder
-mariachi hat	useless powder
+beefy disco mask	useless powder
+vibrating mariachi hat	useless powder
 
 # Unenchanted equipment is useless.
 Wand of Nagamar	useless powder
@@ -153,18 +153,18 @@ soap knife	useless powder
 
 # Anniversary items do not appear in the Pulverize menu online, however they
 # can be smashed by direct form submission - presumably a bug, prevent that.
-anniversary chutney sculpture	nosmash
-spandex anniversary shorts	nosmash
-jar of anniversary jam	nosmash
-bucket of anniversary lard	nosmash
-anniversary concrete fedora	nosmash
-anniversary safety glass vest	nosmash
-anniversary burlap belt	nosmash
-anniversary balsa wood socks	nosmash
+mirror anniversary chutney sculpture of the sweet-tooth	nosmash
+spandex anniversary shorts of chilblains	nosmash
+blurry smartaleck's jar of anniversary jam	nosmash
+brainy bucket of anniversary lard	nosmash
+shellacked anniversary concrete fedora	nosmash
+blinking stiffened anniversary safety glass vest	nosmash
+supercool anniversary burlap belt	nosmash
+wobbly dog trainer's anniversary balsa wood socks	nosmash
 
 # Miscellaneous exceptions.
 tiny plastic sword	nosmash
-wad of Crovacite	wad of Crovacite
+lightning-fast aromatic wad of Crovacite	lightning-fast aromatic wad of Crovacite
 Emblem of Ak'gyxoth	nosmash
 green peawee marble	useless powder
 brown crock marble	useless powder
@@ -181,185 +181,185 @@ hobo code binder	nosmash
 cane-mail shirt	candycaine powder
 cane-mail pants	candycaine powder
 giant candy cane	candycaine powder
-fleetwood chain	fleetwood macaroni
+quilted fleetwood chain	fleetwood macaroni
 
 # Equipment dropped, or made from drops, in The Sea has special results.
-7-inch discus	sea salt crystal
-aerated diving helmet	sea salt crystal
-amber aviator shades	sea salt crystal
-aquamariner's necklace	sea salt crystal
-aquamariner's ring	sea salt crystal
-Ass-Stompers of Violence	sea salt crystal
-Belt of Loathing	sea salt crystal
-bezoar ring	sea salt crystal
-brand new key	sea salt crystal
-Brand of Violence	sea salt crystal
-brass dorsal fin	sea salt crystal
-Cold Stone of Hatred	sea salt crystal
-collapsible baton	sea salt crystal
-cozy bazooka	sea salt crystal
-cozy scimitar	sea salt crystal
-crappy Mer-kin mask	sea salt crystal
-crappy Mer-kin tailpiece	sea salt crystal
-deep six-shooter	sea salt crystal
-diving muff	sea salt crystal
-eelskin shield	sea salt crystal
-eelskin hat	sea salt crystal
-eelskin pants	sea salt crystal
-fish scimitar	sea salt crystal
-fish stick	sea salt crystal
-fish bazooka	sea salt crystal
-Fuzzy Slippers of Hatred	sea salt crystal
-ganger bandana	sea salt crystal
-Girdle of Hatred	sea salt crystal
-glowing esca	sea salt crystal
-Goggles of Loathing	sea salt crystal
-halibut	sea salt crystal
-jam band	sea salt crystal
-Jeans of Loathing	sea salt crystal
-Jodhpurs of Violence	sea salt crystal
-Lens of Hatred	sea salt crystal
-Lens of Violence	sea salt crystal
-long-forgotten necklace	sea salt crystal
-Mer-kin begsign	sea salt crystal
-Mer-kin breastplate	sea salt crystal
-Mer-kin bunwig	sea salt crystal
-Mer-kin dodgeball	sea salt crystal
-Mer-kin dragbelt	sea salt crystal
-Mer-kin dragnet	sea salt crystal
-Mer-kin eyeglasses	sea salt crystal
-Mer-kin finpaddle	sea salt crystal
-Mer-kin gladiator mask	sea salt crystal
-Mer-kin gladiator tailpiece	sea salt crystal
-Mer-kin headguard	sea salt crystal
-Mer-kin hookspear	sea salt crystal
-Mer-kin digpick	sea salt crystal
-Mer-kin prayerbeads	sea salt crystal
-Mer-kin roundshield	sea salt crystal
-Mer-kin scholar mask	sea salt crystal
-Mer-kin scholar tailpiece	sea salt crystal
-Mer-kin sneakmask	sea salt crystal
-Mer-kin stopwatch	sea salt crystal
-Mer-kin switchblade	sea salt crystal
-Mer-kin takebag	sea salt crystal
-Mer-kin thighguard	sea salt crysta
-moist sailor's cap	sea salt crystal
-non-stick pugil stick	sea salt crystal
-Novelty Belt Buckle of Violence	sea salt crystal
-nurse's hat	sea salt crystal
-octopus's spade	sea salt crystal
-Pantaloons of Hatred	sea salt crystal
-pearl diver's necklace	sea salt crystal
-pearl diver's ring	sea salt crystal
-Pigsticker of Violence	sea salt crystal
-pink pinkslip slip	sea salt crystal
-Pocket Square of Loathing	corrupted stardust
-PVC staff	sea salt crystal
-rusty compass	sea salt crystal
-rusty diving helmet	sea salt crystal
-rusty speargun	sea salt crystal
-rusty staff	sea salt crystal
-scale-mail underwear	sea salt crystal
-Scepter of Loathing	sea salt crystal
-sea cape	sea salt crystal
-sea chaps	sea salt crystal
-sea cowboy hat	sea salt crystal
-sea holster	sea salt crystal
-sea mantle	sea salt crystal
-sea salt scrubs	sea salt crystal
-sea shawl	sea salt crystal
-shark jumper	sea salt crystal
-shark tooth necklace	sea salt crystal
-skate blade	sea salt crystal
-skate board	sea salt crystal
-sponge helmet	sea salt crystal
-spongy shield	sea salt crystal
-square sponge pants	sea salt crystal
-Staff of Simmering Hatred	sea salt crystal
-Staff of the Cozy Fish	sea salt crystal
-Stick-Knife of Loathing	sea salt crystal
-straw hat	sea salt crystal
-teflon shield	sea salt crystal
-teflon spatula	sea salt crystal
-teflon swim fins	sea salt crystal
-Treads of Loathing	sea salt crystal
-velcro boots	sea salt crystal
-velcro broadsword	sea salt crystal
-velcro paddle ball	sea salt crystal
-velcro shield	sea salt crystal
-vinyl boots	sea salt crystal
-vinyl shield	sea salt crystal
-water-polo cap	sea salt crystal
-water-polo mitt	sea salt crystal
+7-inch discus of vim and vigor of the bloodbag	frozen enhanced nitrogenated sea salt crystal
+jittery family-friendly aerated diving helmet of Calamity Jane of Leguizamo	frozen enhanced nitrogenated sea salt crystal
+amber aviator shades of the pedagogue of James Dean of Gandalf	frozen enhanced nitrogenated sea salt crystal
+fireproof aquamariner's necklace of the brute of the brazier	frozen enhanced nitrogenated sea salt crystal
+Usain Bolt's lard-coated forbidden aquamariner's ring	frozen enhanced nitrogenated sea salt crystal
+wool nasty Ass-Stompers of Violence of bravery	frozen enhanced nitrogenated sea salt crystal
+therapeutic razor-sharp boxer's Belt of Loathing	frozen enhanced nitrogenated sea salt crystal
+bezoar ring	frozen enhanced nitrogenated sea salt crystal
+squat ghostly vibrating brainy brand new key	frozen enhanced nitrogenated sea salt crystal
+scorching Brand of Violence of doom of temperance	frozen enhanced nitrogenated sea salt crystal
+dorsal fin	frozen enhanced nitrogenated sea salt crystal
+yellow Jim Carey's wicked brainy Cold Stone of Hatred	frozen enhanced nitrogenated sea salt crystal
+Herculean collapsible baton of dire peril	frozen enhanced nitrogenated sea salt crystal
+clever crafty dance instructor's cozy bazooka	frozen enhanced nitrogenated sea salt crystal
+crafty stiffened extremely unsafe cozy scimitar	frozen enhanced nitrogenated sea salt crystal
+auspicious manspreader's boxer's crappy Mer-kin mask	frozen enhanced nitrogenated sea salt crystal
+up-at-dawn prompt crappy Mer-kin tailpiece	frozen enhanced nitrogenated sea salt crystal
+MacGyver's deep six-shooter of the blizzard	frozen enhanced nitrogenated sea salt crystal
+gray mirror Van der Graaf diving muff	frozen enhanced nitrogenated sea salt crystal
+blinking hardy eelskin shield	frozen enhanced nitrogenated sea salt crystal
+Jeselnik's eelskin hat	frozen enhanced nitrogenated sea salt crystal
+curative eelskin pants	frozen enhanced nitrogenated sea salt crystal
+Newton's fish scimitar of the boozehound	frozen enhanced nitrogenated sea salt crystal
+resourceful cool fish stick	frozen enhanced nitrogenated sea salt crystal
+crafty quilted fish bazooka	frozen enhanced nitrogenated sea salt crystal
+frosty friendly thinker's Fuzzy Slippers of Hatred	frozen enhanced nitrogenated sea salt crystal
+auspicious baleful ganger bandana	frozen enhanced nitrogenated sea salt crystal
+friendly cool Girdle of Hatred of the sewer	frozen enhanced nitrogenated sea salt crystal
+esca	frozen enhanced nitrogenated sea salt crystal
+Lo Pan's MacGyver's clever Goggles of Loathing	frozen enhanced nitrogenated sea salt crystal
+wobbly avaricious razor-sharp Rosewater's halibut	frozen enhanced nitrogenated sea salt crystal
+maroon ghostly electrified rosy-cheeked experienced jam band	frozen enhanced nitrogenated sea salt crystal
+forbidden occult sage Jeans of Loathing	frozen enhanced nitrogenated sea salt crystal
+up-at-dawn medical-grade Jodhpurs of Violence of the sweet-tooth	frozen enhanced nitrogenated sea salt crystal
+twirling crafty curative wizardly Lens of Hatred	frozen enhanced nitrogenated sea salt crystal
+chilly MacGyver's Lens of Violence of the detective	frozen enhanced nitrogenated sea salt crystal
+pulsating stiffened long-forgotten necklace	frozen enhanced nitrogenated sea salt crystal
+wool Mer-kin begsign	frozen enhanced nitrogenated sea salt crystal
+sizzling Mer-kin breastplate of Gandalf	frozen enhanced nitrogenated sea salt crystal
+supercharged hale Mer-kin bunwig	frozen enhanced nitrogenated sea salt crystal
+ribald scandalous scorching Mer-kin dodgeball	frozen enhanced nitrogenated sea salt crystal
+flame-wreathed Mer-kin dragbelt	frozen enhanced nitrogenated sea salt crystal
+ghostly healthy smooth strapping Mer-kin dragnet	frozen enhanced nitrogenated sea salt crystal
+personal trainer's Mer-kin eyeglasses	frozen enhanced nitrogenated sea salt crystal
+Mer-kin finpaddle	frozen enhanced nitrogenated sea salt crystal
+scorching sharpshooter's Mer-kin gladiator mask of the storm	frozen enhanced nitrogenated sea salt crystal
+spinning Annie Oakley's personal trainer's Mer-kin gladiator tailpiece of chilblains	frozen enhanced nitrogenated sea salt crystal
+mirror rosewater-soaked coward's Mer-kin headguard of the glutton	frozen enhanced nitrogenated sea salt crystal
+asbestos-lined Tesla Mer-kin hookspear	frozen enhanced nitrogenated sea salt crystal
+tumbling Mer-kin digpick of mayonnaise	frozen enhanced nitrogenated sea salt crystal
+Mer-kin prayerbeads	frozen enhanced nitrogenated sea salt crystal
+veiny occult experienced Mer-kin roundshield	frozen enhanced nitrogenated sea salt crystal
+narrow steel-toed slick cool Mer-kin scholar mask	frozen enhanced nitrogenated sea salt crystal
+sharpshooter's Herculean Mer-kin scholar tailpiece of the brute	frozen enhanced nitrogenated sea salt crystal
+sizzling stiffened Mer-kin sneakmask	frozen enhanced nitrogenated sea salt crystal
+maroon Jack Frost's Mer-kin stopwatch	frozen enhanced nitrogenated sea salt crystal
+bouncing crafty grievous Herculean Mer-kin switchblade	frozen enhanced nitrogenated sea salt crystal
+shaking Mer-kin takebag	frozen enhanced nitrogenated sea salt crystal
+blurry Mer-kin thighguard of vim and vigor	sea salt crysta
+wobbly executive foul-smelling dangerous moist sailor's cap	frozen enhanced nitrogenated sea salt crystal
+Herculean non-stick pugil stick of Flo-Jo	frozen enhanced nitrogenated sea salt crystal
+vibrating veiny Novelty Belt Buckle of Violence of temperance	frozen enhanced nitrogenated sea salt crystal
+MacGyver's hardened nurse's hat of the pedagogue	frozen enhanced nitrogenated sea salt crystal
+flame-wreathed energetic dangerous octopus's spade	frozen enhanced nitrogenated sea salt crystal
+censurious slick Pantaloons of Hatred of Flo-Jo	frozen enhanced nitrogenated sea salt crystal
+mirror Samson's sage pearl diver's necklace	frozen enhanced nitrogenated sea salt crystal
+miser's family-friendly pearl diver's ring	frozen enhanced nitrogenated sea salt crystal
+ribald savvy Pigsticker of Violence of temperance	frozen enhanced nitrogenated sea salt crystal
+clever pink pinkslip slip of the bloodbag	frozen enhanced nitrogenated sea salt crystal
+inspector's reassuring Pocket Square of Loathing of Tarzan	corrupted stardust
+upside-down nasty sage slick PVC staff	frozen enhanced nitrogenated sea salt crystal
+extremely unsafe compass	frozen enhanced nitrogenated sea salt crystal
+fuchsia reassuring electrified cool diving helmet	frozen enhanced nitrogenated sea salt crystal
+steel-toed brainy speargun	frozen enhanced nitrogenated sea salt crystal
+reassuring staff of the brute	frozen enhanced nitrogenated sea salt crystal
+padded scale-mail underwear of the glutton	frozen enhanced nitrogenated sea salt crystal
+double-paned sinister Scepter of Loathing of incineration	frozen enhanced nitrogenated sea salt crystal
+Van der Graaf MacGyver's sea cape	frozen enhanced nitrogenated sea salt crystal
+ghostly sea chaps of extreme caution of the boozehound	frozen enhanced nitrogenated sea salt crystal
+nasty toasty sea cowboy hat of the bloodbag	frozen enhanced nitrogenated sea salt crystal
+upside-down auspicious family-friendly Annie Oakley's sea holster	frozen enhanced nitrogenated sea salt crystal
+spinning reassuring steel-toed sea mantle	frozen enhanced nitrogenated sea salt crystal
+cyan crafty sea salt scrubs of horror	frozen enhanced nitrogenated sea salt crystal
+blinking forbidden sea shawl of the brazier	frozen enhanced nitrogenated sea salt crystal
+energetic medical-grade shark jumper	frozen enhanced nitrogenated sea salt crystal
+Herculean shark tooth necklace of Gandalf	frozen enhanced nitrogenated sea salt crystal
+huge beefcake's skate blade of the scaredy-cat	frozen enhanced nitrogenated sea salt crystal
+cyan deadly thinker's skate board	frozen enhanced nitrogenated sea salt crystal
+savvy cool sponge helmet of wisdom	frozen enhanced nitrogenated sea salt crystal
+wool gravedigger's experienced spongy shield	frozen enhanced nitrogenated sea salt crystal
+electrified square sponge pants of wisdom of the bloodbag	frozen enhanced nitrogenated sea salt crystal
+cyan Usain Bolt's greasy stiffened Staff of Simmering Hatred	frozen enhanced nitrogenated sea salt crystal
+squat lion tamer's Tesla sage Staff of the Cozy Fish	frozen enhanced nitrogenated sea salt crystal
+bouncing MacGyver's supercharged occult Stick-Knife of Loathing	frozen enhanced nitrogenated sea salt crystal
+teal reassuring sharpshooter's straw hat of the brute	frozen enhanced nitrogenated sea salt crystal
+teflon shield of the wise owl of Calamity Jane of the boozehound	frozen enhanced nitrogenated sea salt crystal
+upside-down Jeselnik's Tesla teflon spatula of terror	frozen enhanced nitrogenated sea salt crystal
+nasty Annie Oakley's Fonzie's teflon swim fins	frozen enhanced nitrogenated sea salt crystal
+zippy Oprah's Treads of Loathing of horror	frozen enhanced nitrogenated sea salt crystal
+yellow Jeselnik's stanky arcane researcher's velcro boots	frozen enhanced nitrogenated sea salt crystal
+executive healthy extremely unsafe velcro broadsword	frozen enhanced nitrogenated sea salt crystal
+baleful savvy velcro paddle ball of the cougar	frozen enhanced nitrogenated sea salt crystal
+nippy lion tamer's velcro shield of James Dean	frozen enhanced nitrogenated sea salt crystal
+shaking skewed asbestos-lined hardened smooth vinyl boots	frozen enhanced nitrogenated sea salt crystal
+sizzling fortified vinyl shield of Gandalf	frozen enhanced nitrogenated sea salt crystal
+arcane researcher's water-polo cap	frozen enhanced nitrogenated sea salt crystal
+Rosewater's water-polo mitt	frozen enhanced nitrogenated sea salt crystal
 
 # Dreadsylvania elemental items turn into elemental nuggets
-antique spyglass	sleaze cluster
-bag of unfinished business	stench cluster
-BOOtonniere	cold cluster
-cod cape	stench cluster
-drafty drawers	cold cluster
-dubious loincloth	sleaze cluster
-eerie fetish	spooky cluster
-frying brainpan	hot cluster
-grandfather watch	spooky cluster
-groping claw	sleaze cluster
-guts necklace	stench cluster
-hothammer	hot cluster
-intimidating coiffure	spooky cluster
+narrow knitted baleful spyglass	sleaze cluster
+beefy bag of unfinished business of the businessman	stench cluster
+therapeutic BOOtonniere	cold cluster
+teal twirling prompt Fonzie's cod cape	stench cluster
+wholesome Newton's drafty drawers	cold cluster
+blue dubious loincloth	sleaze cluster
+gravedigger's eerie fetish	spooky cluster
+tumbling vibrating quilted frying brainpan	hot cluster
+grandfather watch of the cougar	spooky cluster
+lard-coated groping claw of the glutton	sleaze cluster
+pulsating studded guts necklace	stench cluster
+Van der Graaf hothammer	hot cluster
+reassuring intimidating coiffure	spooky cluster
 muddy skirt	stench cluster
-old ball and chain	cold cluster
-old dry bone	spooky cluster
+teal ball and chain of Tarzan of the early riser	cold cluster
+ghostly steel-toed dry bone	spooky cluster
 remorseless knife	cold cluster
-snowstick	cold cluster
-tailbone shield	stench cluster
-tonguebone	sleaze cluster
-transparent pants	sleaze cluster
-vengeful spirit	hot cluster
-vial of hot blood	hot cluster
-warm fur	hot cluster
-wolfskull mask	spooky cluster
+shellacked snowstick	cold cluster
+upside-down tailbone shield of the glutton	stench cluster
+zippy tonguebone	sleaze cluster
+prompt savvy transparent pants	sleaze cluster
+veiny vengeful spirit	hot cluster
+mirror therapeutic vial of hot blood	hot cluster
+upside-down warm fur of the brute	hot cluster
+Lo Pan's vibrating wolfskull mask	spooky cluster
 
 # Dreadsylvania boss items turn into epic clusters
-Great Wolf's headband	epic cluster
-Great Wolf's right paw	epic cluster
-Great Wolf's left paw	epic cluster
-Great Wolf's rocket launcher	epic cluster
-Great Wolf's beastly trousers	epic cluster
-Drapes-You-Regally	epic cluster
-Warms-Your-Tush	epic cluster
-Covers-Your-Head	epic cluster
-Protects-Your-Junk	epic cluster
-Quiets-Your-Steps	epic cluster
-Helps-You-Sleep	epic cluster
-Mayor Ghost's khakis	epic cluster
-Mayor Ghost's cloak	epic cluster
-Mayor Ghost's toupee	epic cluster
-Mayor Ghost's sash	epic cluster
-Mayor Ghost's gavel	epic cluster
-zombie mariachi hat	epic cluster
-zombie accordion	epic cluster
-zombie mariachi pants	epic cluster
-HOA regulation book	epic cluster
-HOA zombie eyes	epic cluster
-Unkillable Skeleton's shield	epic cluster
-Unkillable Skeleton's sawsword	epic cluster
-Unkillable Skeleton's restless leg	epic cluster
-Unkillable Skeleton's skullcap	epic cluster
-Unkillable Skeleton's shinguards	epic cluster
-Unkillable Skeleton's breastplate	epic cluster
-Thunkula's drinking cap	epic cluster
-Drunkula's silky pants	epic cluster
-Drunkula's cape	epic cluster
-Drunkula's ring of haze	epic cluster
-Drunkula's wineglass	epic cluster
-Staff of the Roaring Hearth	epic cluster
+olive gravedigger's MacGyver's Great Wolf's headband of courage	distilled wobbly epic cluster
+Usain Bolt's frightening electrified Great Wolf's right paw	distilled wobbly epic cluster
+censurious hale groovy Great Wolf's left paw	distilled wobbly epic cluster
+blurry Socratic Great Wolf's rocket launcher of chilblains	distilled wobbly epic cluster
+supercharged razor-sharp Great Wolf's beastly trousers of the storm	distilled wobbly epic cluster
+careful supercharged Herculean Drapes-You-Regally	distilled wobbly epic cluster
+dance instructor's beefcake's Warms-Your-Tush of bravery	distilled wobbly epic cluster
+asbestos-lined curative Rosewater's Covers-Your-Head	distilled wobbly epic cluster
+smelly Jim Carey's Protects-Your-Junk	distilled wobbly epic cluster
+slick Quiets-Your-Steps of wisdom of the glutton	distilled wobbly epic cluster
+veiny wizardly Helps-You-Sleep	distilled wobbly epic cluster
+blinking inspector's ruddy Mayor Ghost's khakis of Gandalf	distilled wobbly epic cluster
+chaotic sharpshooter's studded Mayor Ghost's cloak	distilled wobbly epic cluster
+lime green avaricious Lo Pan's Mayor Ghost's toupee of horror	distilled wobbly epic cluster
+flame-wreathed energetic occult Mayor Ghost's sash	distilled wobbly epic cluster
+twirling Sherlock's rosy-cheeked slick Mayor Ghost's gavel	distilled wobbly epic cluster
+upside-down nippy clever zombie mariachi hat of Gandalf	distilled wobbly epic cluster
+vibrating groovy zombie accordion of James Dean	distilled wobbly epic cluster
+miser's knitted zombie mariachi pants of the sewer	distilled wobbly epic cluster
+scorching HOA regulation book of vim and vigor of temperance	distilled wobbly epic cluster
+reassuring lard-coated Samson's HOA zombie eyes	distilled wobbly epic cluster
+brawny stylish Unkillable Skeleton's shield	distilled wobbly epic cluster
+Unkillable Skeleton's sawsword	distilled wobbly epic cluster
+friendly Unkillable Skeleton's restless leg of the bloodbag	distilled wobbly epic cluster
+greedy inspector's dog trainer's Unkillable Skeleton's skullcap	distilled wobbly epic cluster
+spinning fuchsia Sherlock's resourceful groovy Unkillable Skeleton's shinguards	distilled wobbly epic cluster
+baleful sinister Unkillable Skeleton's breastplate of chilblains	distilled wobbly epic cluster
+avaricious miser's Thunkula's drinking cap of vim and vigor	distilled wobbly epic cluster
+friendly hardened Drunkula's silky pants of the blizzard	distilled wobbly epic cluster
+sizzling sage Drunkula's cape of the sweet-tooth	distilled wobbly epic cluster
+lightning-fast sharpshooter's supercool Drunkula's ring of haze	distilled wobbly epic cluster
+manspreader's Drunkula's wineglass	distilled wobbly epic cluster
+blurry lightning-fast medical-grade Socratic Staff of the Roaring Hearth	distilled wobbly epic cluster
 
 # Mr. Store equipment is not pulverizable.
-Mr. Accessory	nosmash
-Golden Mr. Accessory	nosmash
-Ms. Accessory	nosmash
-Mr. Accessory Jr.	nosmash
-Mr. Eh?	nosmash
+skewed purple double-paned Mr. Accessory	nosmash
+Golden Mr. Accessory of dire peril	nosmash
+ribald Ms. Accessory	nosmash
+frosty electrified Mr. Accessory Jr.	nosmash
+aromatic Mr. Eh?	nosmash
 ice sickle	nosmash
 ice baby	nosmash
 ice pick	nosmash
@@ -433,7 +433,7 @@ Sneaky Pete's leather jacket	nosmash
 Sneaky Pete's leather jacket (collar popped)	nosmash
 The Crown of Ed the Undying	nosmash
 Buddy Bjorn	nosmash
-Kremlin's Greatest Briefcase	nosmash
+friendly Annie Oakley's Kremlin's Greatest Briefcase of the sewer	nosmash
 protonic accelerator pack	nosmash
 
 # Depleted grimacite items.
@@ -516,60 +516,60 @@ bakelite breeches	bakelite bits
 bakelite backpack	bakelite bits
 
 # Aerogel items
-aerogel anvil	aerosolized aerogel
-aerogel akubra	aerosolized aerogel
-aerogel apron	aerosolized aerogel
-aerogel ascot	aerosolized aerogel
-aerogel attache case	aerosolized aerogel
-aerogel accordion	aerosolized aerogel
+twirling prompt Jim Carey's anvil	distilled blinking shaking aerosolized
+tumbling executive rosy-cheeked akubra	distilled blinking shaking aerosolized
+Samson's brawny apron	distilled blinking shaking aerosolized
+executive double-paned ascot	distilled blinking shaking aerosolized
+pulsating scandalous attache case of the overflowing toilet	distilled blinking shaking aerosolized
+smelly accordion of the scaredy-cat	distilled blinking shaking aerosolized
 
 # Wrought-Iron items
-wrought-iron wig	wrought-iron flakes
-wrought-iron winch crank	wrought-iron flakes
-wrought-iron widget	wrought-iron flakes
-wrought-iron whisk	wrought-iron flakes
-wrought-iron walker	wrought-iron flakes
-wrought-iron waders	wrought-iron flakes
+mansplainer's wig of Calamity Jane	modified flakes
+stanky arcane researcher's winch crank	modified flakes
+narrow miser's widget of dire peril	modified flakes
+jittery nasty Van der Graaf whisk	modified flakes
+mirror sinister walker of mayonnaise	modified flakes
+jittery censurious waders of the glutton	modified flakes
 
 # Gabardine items
-gabardine gaiters	gabardine smithereens
-gabardine garland	gabardine smithereens
-gabardine gunnysack	gabardine smithereens
-gabardine garibaldi	gabardine smithereens
-gabardine girdle	gabardine smithereens
-gabardine gloves	gabardine smithereens
+Jeselnik's gaiters of the storm	distilled squat smithereens
+skewed savvy boxer's garland	distilled squat smithereens
+twirling toasty gunnysack of the dark arts	distilled squat smithereens
+healthy dance instructor's garibaldi	distilled squat smithereens
+skewed extremely unsafe girdle of the boozehound	distilled squat smithereens
+spinning blinking experienced weightlifter's gloves	distilled squat smithereens
 
 # Fiberglass items
-fiberglass fetish	fiberglass fibers
-fiberglass foil	fiberglass fibers
-fiberglass fannypack	fiberglass fibers
-fiberglass frock	fiberglass fibers
-fiberglass fingerguard	fiberglass fibers
-fiberglass fedora	fiberglass fibers
+upside-down rosewater-soaked greasy fiberglass fetish	altered fiberglass fibers
+huge wholesome fiberglass foil of the brazier	altered fiberglass fibers
+fiberglass fannypack of bravery of the businessman	altered fiberglass fibers
+cyan asbestos-lined greasy fiberglass frock	altered fiberglass fibers
+narrow sinister fiberglass fingerguard of Calamity Jane	altered fiberglass fibers
+lion tamer's fiberglass fedora of incineration	altered fiberglass fibers
 
 # Dice items
-dice ring	powdered dice
-dice belt buckle	powdered dice
-dice-print pajama pants	powdered dice
-dice-shaped backpack	powdered dice
-dice-print do-rag	powdered dice
-dice sunglasses	powdered dice
+greasy dice ring	improved quantum warmed tumbling dice
+dice belt buckle of the glutton	improved quantum warmed tumbling dice
+Samson's dice-print pajama pants	improved quantum warmed tumbling dice
+dice-shaped backpack of mayonnaise	improved quantum warmed tumbling dice
+sizzling dice-print do-rag	improved quantum warmed tumbling dice
+boxer's dice sunglasses	improved quantum warmed tumbling dice
 
 # FantasyRealm items
-leggings of the Spider Queen	Rubee&trade;
-Master Thief's utility belt	Rubee&trade;
-Duke Vampire's regal cloak	Rubee&trade;
-Dragonscale breastplate	Rubee&trade;
-belt of Ogrekind	Rubee&trade;
-The Ghoul King's ghoulottes	Rubee&trade;
-nozzle of the Phoenix	Rubee&trade;
-the Archwizard's briefs	Rubee&trade;
-the Ley Incursion's waist	Rubee&trade;
+red rosy-cheeked Herculean sage leggings of the Spider Queen	Rubee&trade;
+shaking razor-sharp Master Thief's utility belt of dire peril of courage	Rubee&trade;
+asbestos-lined Temple Grandin's extremely unsafe Duke Vampire's regal cloak	Rubee&trade;
+purple censurious Socratic cool Dragonscale breastplate	Rubee&trade;
+manspreader's wholesome personal trainer's belt of Ogrekind	Rubee&trade;
+huge lard-coated medical-grade The Ghoul King's ghoulottes of Calamity Jane	Rubee&trade;
+olive Sherlock's sizzling nozzle of the Phoenix of the overflowing toilet	Rubee&trade;
+friendly resourceful Herculean the Archwizard's briefs	Rubee&trade;
+Samson's smooth the Ley Incursion's waist of horror	Rubee&trade;
 
 # Bauxite items
-bauxite beret	lump of bauxite
-bauxite boxers	lump of bauxite
-bauxite bow-tie	lump of bauxite
+toasty bauxite beret	lump of bauxite
+fortified bauxite boxers	lump of bauxite
+squat executive bauxite bow-tie	lump of bauxite
 
 # Grim Mask Leaderboard First place rewards are not smashable
 silver cow creamer	nosmash
@@ -578,16 +578,16 @@ witch's bra	nosmash
 hare pin	nosmash
 
 # Special cases. We need a better way to specify these.
-bejeweled cufflinks	258112
+smartaleck's bejeweled cufflinks	258112
 
-rainbow pearl earring	rainbow pearl
-rainbow pearl necklace	rainbow pearl
-rainbow pearl ring	rainbow pearl
+upside-down rainbow pearl earring of the boozehound of the glutton	rainbow pearl
+rosewater-soaked rainbow pearl necklace of chilblains	rainbow pearl
+scandalous Herculean rainbow pearl ring	rainbow pearl
 
 # Chalk items
-chalk chapeau	chalk chunks
-chalk chalice	chalk chunks
-chalk chlamys	chalk chunks
-chalk chinos	chalk chunks
-chalk chain	chalk chunks
-chalk choker	chalk chunks
+zippy electrified chalk chapeau	chalk chunks
+lard-coated mansplainer's chalk chalice	chalk chunks
+pulsating frosty healthy chalk chlamys	chalk chunks
+weightlifter's chalk chinos of extreme caution	chalk chunks
+smelly smartaleck's chalk chain	chalk chunks
+rock-hard chalk choker of terror	chalk chunks
