@@ -1,685 +1,686 @@
-2
-# Data provided courtesy of the Garden of Earthly Delights
-# The Well-Tempered Mixologist: http://mixology.bewarethefgc.com/export_data.php
-
-# Drink	Inebriety	Level Req	quality	Adv	Musc	Myst	Moxie
-
-tolerable distilled 5-hour acrimony	5	1	good	10-15	0	0	0	+10 PvP fights	
-drinkable fortified a sump'm sump'm	5	4	good	10-15	0	25-27	8-10		
-smooth high-proof acceptable vodka	8	1	awesome	24-40	0	20-30	10-20		
-artisanal accidental cider	4	1	EPIC	16-24	0	0	0		
-Acqua Del Piatto Merlot	1	10	EPIC	3-10	60	60	60
-Acque Luride Grezze Cabernet	1	10	EPIC	6-10	60	60	60
-lousy practically non-alcoholic adequate rum	1	1	decent	1-2	0	20-30	10-20		
-Afternoon Delight	4	1	awesome	12-14	3-5	3-5	35-40
-Agitated Turkey	1	3	EPIC	5-6	10-20	10-20	10-20	25 Turkey-Agitated (+25 Item Drop)
-artisanal practically non-alcoholic blinking Alewife&trade; Ale	1	5	EPIC	4-6	0	0	0	15-30 MP, 5 Brined Liver	
-Ambitious Turkey	1	5	EPIC	5-7	15-30	15-30	15-30	25 Turkey-Ambitious (+25 Init, +50 Meat Drop)
-Amnesiac Ale	2	5	awesome	7-10	0	-15	0	30 All is Forgiven (+10 Familiar Weight)
-bad watered-down an evil sump'm sump'm	2	4	decent	2-4	0	20	50-75	10 A Little Bit Evil (+2 ML)	
-hand-crafted Antarctic Ice Tea	3	1	EPIC	12-18	0	0	0		
-hand-crafted beer	4	1	EPIC	16-24	10-20	10-20	10-20		
-perfectly mixed watered-down around the world	2	4	EPIC	8-12	0-30	0-30	0-30		
-smooth triple-distilled artisanal limoncello	10	6	awesome	30-50	0	20-30	0	30 Sugar Rush	
-asbestos thermos	4	6	awesome	12-18	0	10-20	10-20	100 Inner Warmth (+5 Cold Resist)
-irresponsibly strong artisanal pulsating astral pilsner	7	1		0	1	1	1		
-Aura Libre	2	8	awesome	8-9	0	30-40	0	15 Transcendental Wind (+50 Myst)
-Aye Aye	2	1	good	4-5	0	0	10-20	5 Arresistible (+50 Mox)
-Aye Aye, Captain	2	4	awesome	6-7	0	0	20-30	10 Arresistible (+50 Mox)
-Aye Aye, Tooth Tooth	2	8	awesome	8-9	0	0	30-40	15 Arresistible (+50 Mox)
-weak tolerable backwoods screwdriver	2	4	good	4-6	20-25	0	0		
-acceptable weak special bad rum and good cola	2	1	good	4-6	5-10	5-10	5-10	Faerie Fortune (+1 Rubee drop)	30 Angry Bone
-lousy spirit-forward banana daiquiri	5	3	decent	5-10	10-26	10-26	17-43		
-bark rootbeer	2	1	good	5-7	0	0	10-20	40 Bark of the Dog (+2 Moxie stats/fight, +50 Init)
-barrel-aged martini	2	5	good	5-7	0	5-10	10-20	50 Just Aged Enough (+25 Mox)
-Bartles and BRAAAINS wine cooler	1	6	awesome	3-4	5-10	5-10	5-10	30 Braaaains Over Braaaawwn (+50 dmg vs. Zombies)
-Barulio's bottle	4	5	good	11-13	1-5	15-20	5-10
-lousy spirit-forward basic martini	5	1	decent	5-10	3-9	3-9	3-9	10 random spy buff	
-perfectly mixed special beaver punch (cherry)	4	4	EPIC	16-24	0	10-50	0		50 Spooky Demeanor (Muscle Percent: +10, Mysticality Percent: +30, Moxie Percent: +20, Spooky Damage: +10, Spooky Resistance: +2)
-tolerable skewed beaver punch (papaya)	3	1	good	6-9	10-50	0	0		
-perfectly mixed beaver punch (peach)	3	4	EPIC	12-18	0	0	10-50		
-smooth skewed beavermouth	4	1	awesome	12-20	0	0	4-10		
-Bee's Knees	2	1	awesome	6-8	10-20	10-20	10-20	25 On the Trolley (+100% all stats)
-tolerable high-proof spinning beertini	8	2	good	16-24	0	10-12	10-12		
-blinking blurry beery blood	2	1	good	4-6	0	0	0	+3 PvP fights	
-Beignet Milgranet	1	2	awesome	3-5	30-40	30-40	30-40	100 Sugar Rush
-practically non-alcoholic lousy huge berry-infused sake	1	7	decent	1-2	0	0	75-120	1 Warm Belly (+hot dmg, +10 Fishy)	
-bad bilge wine	4	1	decent	4-8	0	0	0		
-delicious enchanted & tan	3	7	awesome	9-15	10-12	10-12	10-12	18-20 MP	30 Sucrose-Colored Glasses (Item Drop: +50)
-perfectly mixed enchanted Black and Tan and Red All Over	4	1	EPIC	16-24	0	0	0		
-black brandy	2	1	good	5-7	0	0	0	100 The Power of Negative Thinking
-Black Hole	2	4	awesome	6-7	10-15	10-15	10-15	Restores MP
-mediocre bouncing Blackfly Chardonnay	3	7	decent	3-6	0	0	25-45		
-tolerable teal upside-down blended swill	4	4	good	8-12	2-3	2-3	26-30		
-blood and blood	2	1	awesome	7-9	10-20	0	0	30 Bloodthirsty (+30 ML)
-Blood Light	1	6	awesome	3-4	5-10	5-10	5-10	30 Bloody-minded (+50 dmg vs. Vampires)
-blood-red mushroom wine	4	3	EPIC	22-26	50-100	0	0	80 Helvella Health (+100 HP, +10-20 HP Regen)
-lousy bloody beer	3	1	decent	3-6	0	0	0	3-5 MP	
-drinkable bloody kiwitini	3	15	good	6-9	20-40	20-40	20-40	10 First Blood Kiwi (+30 Spooky Dam)	
-tolerable bloody mary	3	1	good	6-9	1-2	1-2	1-2		
-mediocre red Bloody Nora	4	3	decent	4-8	10-30	10-30	10-30	40 Fishtacular Vernacular (+10 Fishing Skill)	
-bodyslam	6	6	awesome	22-26	16-20	0	0	tiny plastic sword
-drinkable boilermaker	3	12	good	6-9	25-29	10-15	10-15		
-practically non-alcoholic smooth Bologna Lambic	1	1	awesome	3-5	0	30-40	20-30		
-bone aperitif	2	6	awesome	7-9	12-20	12-20	12-20
-Bone's Farm &quot;wine&quot;	1	6	awesome	3-4	5-10	5-10	5-10	30 Sticks and Stones (+50 dmg vs. Skeletons)
-drinkable booze-soaked cherry	3	3	good	6-9	0	5-10	0		
-Bordeaux Marteaux	1	3	awesome	3-5	60-75	0	0	20 Hammered (+50% weapon dmg)
-bottle of Amontillado	4	5	good	11-13	5-15	0	5-15	100 Bricked-In (+50 HP)
-watered-down drinkable bottle of Bloodweiser	2	1	good	4-6	30-50	30-50	30-50	50 Blood Porter	
-mediocre triple-distilled bottle of Calcutta Emerald	6	2	decent	6-12	0	0	0		
-weak acceptable bottle of cooking sherry	2	1	good	4-6	0	0	0		
-lousy tumbling olive bottle of Crimbognac	4	1	decent	4-8	10-40	10-40	10-40		
-tolerable green bottle of dark rhum	3	2	good	6-9	0	0	0	Unspaded	
-practically non-alcoholic hand-crafted gray bottle of Definit	1	2	EPIC	4-6	0	0	0		
-weak lousy bottle of Domesticated Turkey	2	2	decent	2-4	0	0	0		
-fancy extra-dry smooth spinning bottle of drinkin' gas	5	3	awesome	15-25	0	30-60	0		50 Provocative Perkiness (Initiative: +20)
-enchanted artisanal practically non-alcoholic upside-down bottle of Evermore	1	5	EPIC	4-6	10-20	0	10-20	The Dark Lord Rides in Force Tonight (+40 Spooky Damage)	25 Intimidating Mien (Spooky Damage: +15)
-bottle of Fishhead 900-Day IPA	2	6	EPIC	11-13	20-30	20-30	20-30	50 A Real Head for Fish (+10 Fishing Skill)
-perfectly mixed practically non-alcoholic tumbling wobbly bottle of fruity &quot;wine&quot;	1	5	EPIC	4-6	2-5	2-5	2-5	KOLHS	
-aged watered-down mirror blue bottle of gin	2	1	awesome	6-10	0	0	0		
-bottle of Greedy Dog	3	11	EPIC	18-20	40-60	40-60	40-60	20 Covetin' Drunk (+200% meat drop)
-acceptable bottle of Jorge Sinsonte	4	2	good	8-12	0	0	0		
-bottle of Lambada Lambic	3	11	EPIC	18-20	40-60	40-60	40-60	20 Dancin' Drunk (+100% item drop)
-lousy bottle of laundry sherry	4	11	decent	4-8	0	50-80	0		
-aged bottle of Lieutenant Freeman	4	2	awesome	12-20	0	0	0		
-bottle of norwhiskey	1	4	awesome	4-5	0	30-40	0	50 Norwhalloped (+6-10 MP regen)
-bottle of Old Pugilist	2	6	EPIC	10-12	20-30	20-30	20-30	20 Fightin' Drunk (+50 Mus, +10-20 HP regen)
-smooth bottle of Ooze-O	3	1	awesome	9-15	0	0	0	20 Really Quite Poisoned, lose 70 HP	
-bottle of peppermint schnapps	3	1	good	8-10	20-40	20-40	20-40	50 Crimbo Nostalgia (+5 exp)
-drinkable bottle of Pete's Sake	3	2	good	6-9	0	0	0	1 Warm Belly (+hot dmg, +10 Fishy)	
-delicious bottle of Pinot Renoir	3	4	awesome	9-15	30	18	0		
-hand-crafted bottle of popskull	3	1	EPIC	12-18	0	0	0	lose 3 HP	
-bottle of Professor Beer	2	6	EPIC	10-12	20-30	20-30	20-30	20 Thinkin' Drunk (+50 Mys, +10-20 MP regen)
-bottle of Race Car Red	3	11	EPIC	18-20	40-60	40-60	40-60	20 Flyin' Drunk (+100 Init, +25 DR)
-bottle of Rapier Witbier	2	6	EPIC	10-12	20-30	20-30	20-30	20 Jokin' Drunk (+50 Mox, +20% Pickpocket chance)
-bottle of realpagne	2	2	awesome	5-8	0	0	12-18	10 The Real Deal (+20 HP/MP regen)
-distilled artisanal shaking bottle of rum	5	1	EPIC	20-30	0	0	0		
-bottle of sake	10	1	decent	10-20	0	0	0		
-lousy irresponsibly strong fuchsia wobbly bottle of Sanguiovese	10	1	decent	10-20	5-10	5-10	5-10	Vampyre	
-watered-down tolerable bottle of sewage schnapps	2	1	good	4-6	0	0	0	20 Majorly Poisoned, lose 30 HP	
-drinkable twirling bottle of single-barrel whiskey	3	13	good	6-9	40-50	40-50	40-50		
-perfectly mixed bottle of super-extra-dark rhum	3	2	EPIC	12-18	0	0	0	Unspaded	
-mediocre bottle of tequila	4	1	decent	4-8	0	0	0		
-lousy bottle of vodka	3	1	decent	3-6	0	0	0		
-tolerable practically non-alcoholic ghostly bottle of whiskey	1	1	good	2-3	0	0	0		
-bottle of wine	2	5	awesome	8	18-22	18-22	18-22
-practically non-alcoholic aged Bowl of Scorpions	1	6	awesome	3-5	-30	-15	-30	10 Really Quite Poisoned	
-distilled tolerable upside-down boxed champagne	5	2	good	10-15	0	0	0		
-watered-down delicious jittery boxed wine	2	1	awesome	6-10	0	0	0		
-hand-crafted braincracker sweet	4	1	EPIC	16-24	0	0	0	10 Sugar Rush	
-breaded beer	4	5	EPIC	26-29	0	0	93-107
-aged Breakfast Blast wine cooler	4	1	awesome	12-20	0	7-8	0		
-broberry brogurt	3	11	EPIC	15-18	100-200	0	0	40 Broberry Brotality (+100% Mus, +10% Crit, +50 Meat drop)
-brocolate brogurt	3	11	EPIC	15-18	0	100-200	0	40 Brocolate Brostidigitation (+100% Mys, +20% Spell Crit, +25 Item drop)
-bucket of wine	10	5	decent	16-20	10-50	10-50	10-50
-bad blinking bungle in the jungle	3	7	decent	3-6	40-99	54-118	31-122		
-watered-down acceptable Bustle Hustler	2	4	good	4-6	20-40	20-40	20-40	40 Bustle Hustlin' (+5 Pool skill)	
-Buttery Knob	2	1	good	4-5	0	0	10-20	5 Gutterminded (+50 Sleaze Dam)
-buzzing mushroom wine	4	3	EPIC	22-26	0	50-100	0	80 Stemonitis Storm
-weak tolerable caipifruta	2	3	good	4-6	16-20	0	0		
-Caipiranha	2	1	good	4-5	5-10	5-10	5-10	5 Fishy
-practically non-alcoholic aged red calle de miel	1	4	awesome	3-5	8-10	0	25-27		
-can of Br&uuml;talbr&auml;u	1	1	EPIC	5-7	50-60	0	0
-can of Drooling Monk	1	1	EPIC	5-7	0	50-60	0
-can of Impetuous Scofflaw	1	1	EPIC	5-7	0	0	50-60
-bad can of Swiller	3	10	decent	3-6	10-15	0	0	15-20 MP	
-watered-down perfectly mixed huge can of the cheapest beer	2	1	EPIC	8-12	3	2	2	KOLHS	
-Candicaine	2	8	awesome	8-9	0	0	30-40	15 Holiday Bliss (+20 Item Drop, +20 Meat Drop)
-Candy Alexander	2	4	awesome	6-7	0	0	20-30	10 Holiday Bliss (+20 Item Drop, +20 Meat Drop)
-hand-crafted ghostly candycaine	3	1	EPIC	12-18	0	0	0	10 Sugar Rush	
-canteen of wine	3	5	good	7-10	22-40	22-40	22-40	20 In Vino Vires (+50% all)
-carrot claret	3	3	decent	7-8	3-4	3-4	3-4	10 Pla-see-bo (+10 Item Drop)
-Cement Mixer	2	1	good	4-5	10-20	0	0	5 Mortarfied (+100 DA)
-acceptable watered-down Centauri fish wine	2	4	good	4-6	10-20	10-20	10-20	60 Fishy	
-chakra-mental wine	3	1	awesome	11-13	0	0	0	50 The Power of Positive Thinking
-Chakra Libre	2	4	awesome	6-7	0	20-30	0	10 Transcendental Wind (+50 Myst)
-cheap Chinese beer	1	1	crappy	1	0	0	0	4 MP
-cherry bomb	6	6	awesome	22-26	0	16-20	0	tiny plastic sword
-hand-crafted spirit-forward Cherrytastrophe wine cooler	5	1	EPIC	20-30	0	0	7-8		
-chocotini	3	5	good	7-8	0	0	10-20	30 High Blood Chocolate Content (+30% candy drop)
-acceptable fuchsia blinking Chunky Mary	4	1	good	8-12	0	0	30-40		
-practically non-alcoholic acceptable Churchill	1	1	good	2-3	0	0	0	40 Big Ol' Glass of Rum (+20 Mox)	
-Cinco Mayo Lager	3	1	awesome	14-16	5	5	5	5 Cinco Elementos (+prismatic dmg)
-watered-down hand-crafted huge shaking Citrus Crush wine cooler	2	1	EPIC	8-12	2-3	2-3	2-3		
-spirit-forward acceptable citrus-infused sake	5	7	good	10-15	75-120	0	0	1 Warm Belly (+hot dmg, +10 Fishy)	
-hand-crafted fancy Cobb's Knob Wurstbrau	3	4	EPIC	12-18	4-6	0	0	5-10 MP	15 Reedy Pipes (Moxie Percent: +5)
-artisanal triple-distilled Cobra Bowl	10	6	EPIC	40-60	0	0	0	Unspaded 40 Tiki Temerity (+100% Moxie, +10% Moxie Gains)	
-acceptable ghostly Cold One	3	1		0	0	0	0		
-complex mushroom wine	4	3	EPIC	22-24	0	100-150	0	80 Omphalotus Omnipresence (+40 Mys)
-strong drinkable fancy cool mushroom wine	5	6	good	10-15	0	8-10	0		20 Chlorophyll Flavor (MP Regen Min: 1, MP Regen Max: 3)
-hand-crafted special distilled mirror Corpse Island iced tea	5	5	EPIC	20-30	25-30	25-30	25-30		30 Ready to Snap (Mysticality: +5, Experience (Mysticality): +1)
-strong perfectly mixed twirling corpse on the beach	5	5	EPIC	20-30	0	71-75	0		
-weak tolerable corpsebite	2	1	good	4-6	11-15	11-15	11-15		
-tolerable huge corpsedriver	3	5	good	6-9	70-74	0	0		
-perfectly mixed corpsetini	3	5	EPIC	12-18	0	0	70-75		
-cranberry schnapps	3	4	EPIC	18-19	0	61-68	0	10 Cranberry Cordiality (+10% meat drop)
-Crazymaker	2	8	awesome	8-9	0	30-40	0	15 Void Between the Stars (+50 Cold Dam)
-high-proof artisanal cream stout	10	3	EPIC	40-60	8-10	8-10	8-10		
-bad twirling CRIMBCO Egg Substitute Nog Substitute	3	1	decent	3-6	0	0	0	lose 20% boredom	
-bad red CRIMBCO Extreme Braincracker Sour	4	1	decent	4-8	0	0	0	lose 30% boredom	
-drinkable purple CRIMBCO Ribbon Candy Schnapps	3	1	good	6-9	0	0	0	lose 10% boredom	
-CRIMBCO wine	3	1	decent	4-8	10-20	10-20	10-20
-mediocre wobbly Crimbo Saketini	4	1	decent	4-8	0	0	0		
-Crimbojito	2	2	EPIC	10-13	10-20	25-50	10-20
-bad strong Crimboku Drop	5	1	decent	5-10	0	0	0		
-artisanal cruelty-free wine	4	10	EPIC	16-24	0	10-15	0	5 Compensatory Cruelness (+5 weapon dmg)	
-crystal skeleton vodka	3	3	EPIC	15-17	15-35	15-35	15-35	20 Aykrophobia (+25% item drop, +20 spooky dmg, +15 ML)
-CSA cheerfulness ration	1	6	awesome	4	40-50	40-50	40-50
-CSA scoutmaster's &quot;water&quot;	3	3	good	9	20-30	20-30	20-30
-cup of &quot;tea&quot;	1	1	good	2-3	0	75-100	0
-smooth cup of beer	3	12	awesome	9-15	50-65	0	0	12-15 MP, lose 10-18 HP	
-drinkable bottle of black-label rum	4	3	good	8-12	0	0	0	10 Curse Magnet	
-watered-down drinkable bottle of rum	2	1	good	4-6	0	0	0		
-tolerable watered-down Cursed Punch	2	6	good	4-6	1-5	1-5	1-5	10 Once-Cursed (-10 all stats)	
-delicious watered-down Cyder	2	5	awesome	6-10	0	0	0		
-Dark & Starry	2	1	good	4-5	5-10	5-10	5-10	Restores MP
-delicious shaking Das Sauerlager	3	1	awesome	9-15	0	20-30	10-20		
-hand-crafted day-old beer	3	1	EPIC	12-18	0	0	0		
-spirit-forward artisanal decanter of fine Scotch	5	9	EPIC	20-30	5-10	5-10	50-80		
-lousy boozy cyan wobbly pulsating Desert Island Iced Tea	5	1	decent	5-10	0	0	0	15 Castaway Physique (+25% Muscle)	
-drinkable dew yoana lei	3	4	good	6-9	0	34-80	0	20 Brined Liver	
-special drinkable dew yoana salacious lei	4	8	good	8-12	0	60-115	0	30 Brined Liver	20 You Can Really Taste the Dormouse (Familiar Weight: +5)
-Dinsey Whinskey	2	5	EPIC	9-12	10-20	10-20	10-20	30 The Dinsey Spirit (+40% Item drop)
-perfectly mixed dirt julep	4	3	EPIC	16-24	2-10	2-10	2-10	40 Here's Some More Mud in Your Eye (+100 Meat Drop)	
-dirty martini	6	6	awesome	22-26	0	0	16-20	tiny plastic sword
-practically non-alcoholic drinkable purple Disappointed Russian	1	1	good	2-3	0	0	30-40		
-bad practically non-alcoholic discocktail	1	1	decent	1-2	0	0	8-10	30 Disco Neuropathy (+15 DB Combat Damage, +30% DB Skill Weaken)	
-drinkable weak distilled fortified wine	2	1	good	4-6	5-6	5-6	5-6		
-weak perfectly mixed Divine	2	6	EPIC	8-12	16-20	25-27	0		
-Doc Clock's thyme cocktail	4	8	EPIC	26-30	20-40	20-40	20-40	-2 Fullness
-smooth double entendre	4	1	awesome	12-20	0	0	0	40 Space Cadet (+50% MP)	
-Doublepunchplanter	2	4	awesome	6-7	10-15	10-15	10-15	10 Fishy
-Drac & Tan	2	1	good	4-5	10-20	0	0	5 Creepypasted (+50 Spooky Dam)
-practically non-alcoholic bad Dreadsylvanian cold-fashioned	1	26	decent	1-2	30-50	30-50	30-50	200 Dreadful Chill (+5 Sleaze/Stench Res)	
-tolerable upside-down Dreadsylvanian dank and stormy	3	26	good	6-9	30-50	30-50	30-50	200 Dreadful Smell (+5 Hot/Spooky Res)	
-drinkable triple-distilled blinking mirror Dreadsylvanian grimlet	10	26	good	20-30	30-50	30-50	30-50	200 Dreadful Fear (+5 Cold/Sleaze Res)	
-acceptable pulsating Dreadsylvanian hot toddy	4	26	good	8-12	30-50	30-50	30-50	200 Dreadful Heat (+5 Cold/Spooky Res)	
-artisanal Dreadsylvanian slithery nipple	3	26	EPIC	12-18	30-50	30-50	30-50	200 Dreadful Sheen (+5 Hot/Stench Res)	
-tolerable dream of a dog	4	8	good	8-12	20	20	20		
-practically non-alcoholic lousy wobbly drive-by shooting	1	3	decent	1-2	10-30	10-30	10-30	40 Drive-By Shot (40 Cold Damage, 40 Cold Spell Damage)	
-Drunken Astrophysicist	2	8	awesome	8-9	5-15	30-50	5-15	15 Heisenberglary (+/- all stats)
-Drunken Neurologist	2	4	awesome	6-7	5-10	25-30	5-10	10 Heisenberglary (+/- all stats)
-Drunken Philosopher	2	1	good	4-5	1-5	15-20	1-5	5 Heisenberglary (+/- all stats)
-irresponsibly strong bad dry martini	9	3	decent	9-18	0	0	8-10		
-spirit-forward lousy dry vodka martini	5	3	decent	5-10	0	0	8-10		
-drinkable ducha de oro	4	4	good	8-12	8-10	25-27	0		
-artisanal DUFRESNE Suds	3	3	EPIC	12-18	100	50	75	10 Favored by Lyle (+10% all stats)	
-Dump Truck	2	8	awesome	8-9	30-40	0	0	15 Mortarfied (+100 DA)
-lousy shaking bottle of blood	4	1	decent	4-8	20-25	20-25	20-25	Vampyre	
-acceptable watered-down bottle of Marsala	2	1	good	4-6	5-10	5-10	5-10	lose 60-70% HP	
-high-proof bad bottle of Merlot	6	1	decent	6-12	5-10	5-10	5-10		
-acceptable weak bottle of Muscat	2	1	good	4-6	0	0	0	lose 80-90% HP	
-aged special bottle of Pinot Noir	3	1	awesome	9-15	3-6	15-20	3-6	10 Kiss of the Black Fairy (+spooky damage)	50 Stinky Hands (Stench Damage: +10, Stench Spell Damage: +20, Hot Resistance: +2, Spooky Resistance: +2)
-perfectly mixed weak twirling bottle of Port	2	1	EPIC	8-12	0	0	0	10 Full of Vinegar (+weapon damage)	
-aged skewed bottle of Zinfandel	4	1	awesome	12-20	10-15	10-15	10-15		
-Earth and Firewater	2	4	awesome	6-7	0	20-30	0	10 Elemental Mastery (+5 Prismatic Dam)
-Earth, Wind and Firewater	2	8	awesome	8-9	0	30-40	0	15 Elemental Mastery (+5 Prismatic Dam)
-Ecto-Cooler	1	6	awesome	3-4	5-10	5-10	5-10	30 Booing Radly (+50 dmg vs. Ghosts)
-special watered-down perfectly mixed twirling ecto-nog	2	1	EPIC	8-12	5-6	5-6	5-6		
-artisanal fortified eggnog	5	3	EPIC	20-30	0	17-30	18-30		
-enchanted artisanal eggnogtini	3	3	EPIC	12-18	0	0	0	10 Sugar Rush	
-practically non-alcoholic delicious eighth plague	1	3	awesome	3-5	0	0	30-60	40 Wings of the Dragonfly (100 Init)	
-eldritch distillate	3	12	awesome	9-11	333	333	333	30 Eldritch Concentration (+5 stats/fight, +5 spooky damage, 5-10 MP regen)
-eldritch elixir	3	12	awesome	9-11	666	666	666	30 Eldritch Concentration (+5 stats/fight, +5 spooky damage, 5-10 MP regen), 5 Eldritch Attunement
-eldritch extract	3	11	awesome	9-11	111	111	111	10 Eldritch Concentration (+5 stats/fight, +5 spooky damage, 5-10 MP regen)
-acceptable spinning Electric Punch	3	4	good	6-9	0	0	0	Unspaded 30 Tiki Thoughtfulness (+100% Mysticality, +10% Mysticality Gains)	
-bad snakebite	4	5	decent	4-8	0	15-30	0	20 Once Bitten Twice Fried (+25 MP, +2-5 MP regen)	
-drinkable weak twirling elemental caipiroska	2	3	good	4-6	0	40-80	0	40 Magically Delicious (+40 Myst)	
-elven cellocello	1	1	good	1-5	5-7	5-7	5-7	20 Sugar Rush
-elven moonshine	3	5	good	7-10	20-40	20-40	20-40	20 Drunk With Power (+100% spell dmg)
-elven squeeze	3	4	good	5-8	20-30	20-30	20-30
-watered-down aged emergency margarita	2	1	awesome	6-10	0	0	0	1 Margamergency (+200% weapon dmg, +200% spell dmg)	
-perfectly mixed En Una Fila Tequila	4	1	EPIC	16-24	0	0	0	20 turns of Mr. Skullhead's Birthday Happiness (Puts a birthday smile on your face)	
-artisanal especially salty dog	3	4	EPIC	12-18	32-50	32-50	32-50		
-Event Horizon	2	8	awesome	8-9	15-20	15-20	15-20	Restores MP
-lousy spinning everfull glass	3	1		0	0	0	0	random booze	
-weak lousy evil ducha de oro	2	4	decent	2-4	8-10	0	50-75	10 A Little Bit Evil (+2 ML)	
-bad jittery evil horizontal tango	4	4	decent	4-8	0	0	50-75	10 A Little Bit Evil (+2 ML)	
-artisanal evil roll in the hay	4	4	EPIC	16-24	0	0	50-75	10 A Little Bit Evil (+2 ML)	
-delicious boozy executive mime flask	5	1	awesome	15-25	0	0	30-40	50 Executive Greed (+50% Meat drop)	
-expensive champagne	1	4	EPIC	5-6	10-20	10-20	10-20	15-20 MP
-expired bottle of peppermint schnapps	3	1	awesome	7-10	20-40	20-40	20-40	30 Crimbo Nostalgia (+5 exp)
-Extra-slimy Slimosa	2	4	awesome	6-7	0	0	20-30	10 In the Slimelight (+50 Stench Dam)
-perfectly mixed extra-spicy bloody mary	3	3	EPIC	12-18	5-11	5-11	5-11		
-fancy weak mediocre extremely slippery nipple	2	1	decent	2-4	0	0	0	40 Slippery Tongue (+20 Sleaze Dam, +20 Sleaze Spell Dam)	20 Mental A-cue-ity (Spell Damage Percent: +50, MP Regen Min: 10, MP Regen Max: 10)
-Falcon&trade; Maltese Liquor	1	1	awesome	3-4	0	0	0	50 Too Noir For Snoir (+50 ML)
-smooth green Fantasma en la M&aacute;quina	3	1	awesome	9-15	0	0	13	13 Sangre Brillante (+3 Moxie exp, +5-6 MP regen)	
-lousy mirror FantasyRealm mead	3	1	decent	3-6	10-20	10-20	10-20		
-Fauna Libre	2	1	good	4-5	0	10-20	0	5 Transcendental Wind (+50 Myst)
-watered-down lousy Feliz Navidad	2	3	decent	2-4	10-20	0	0	40 Wassailing You (+5 Familiar Weight)	
-Ferita Del Petto Zinfandel	1	10	EPIC	6-10	60	60	60
-mediocre watered-down fermented honey	2	1	decent	2-4	5-6	5-6	5-6	10 Sugar Rush	
-smooth fine wine	4	1	awesome	12-20	0	0	3-5		
-firemilk	3	1	awesome	9-10	0	0	0	30 Cowrruption (+200% weapon dmg, +200% spell dmg, muscle limited to 30, moxie limited to 30)
-Firewater	2	1	good	4-5	0	10-20	0	5 Elemental Mastery (+5 Prismatic Dam)
-enchanted delicious Flamin' Whatshisname	3	6	awesome	9-15	20-25	10-15	0	-10-20 HP	20 In the Limelight (Muscle Percent: +20, Mysticality Percent: +20, Moxie Percent: +20)
-Flaming Caipiranha	2	8	awesome	8-9	15-20	15-20	15-20	15 Fishy
-tolerable pulsating Flaming Crimbo Log	3	1	good	6-9	0	0	0		
-Flaming Knob	2	8	awesome	8-9	0	0	30-40	15 Gutterminded (+50 Sleaze Dam)
-Flaming Mohobo	2	8	awesome	8-9	15-20	15-20	15-20	15 Mo' Hobo (+10 Hobo power)
-hand-crafted shaking lime green mushroom wine	3	6	EPIC	12-18	12-15	0	0		
-Flaming Sazerorc	2	8	awesome	8-9	30-40	0	0	15 Orc Chops (+50 Muscle)
-flask of Amontillado	4	4	awesome	10-15	10-30	15-30	10-30
-flask of peppermint schnapps	1	1	decent	1	0	0	0
-smooth twirling flask of port	3	1	awesome	9-15	20-30	5-10	5-10		
-artisanal flat cider	3	6	EPIC	12-18	40-80	40-80	40-80	100 Fruited (+100 Max HP, +100 Max MP)	
-boozy perfectly mixed flat mushroom wine	5	6	EPIC	20-30	8-10	0	0		
-Flivver	2	1	EPIC	12-13	10-20	10-20	10-20	50-100 MP
-artisanal flute of flat champagne	3	2	EPIC	12-18	0	15	0		
-Flying Caipiranha	2	4	awesome	6-7	10-15	10-15	10-15	10 Fishy
-lousy weak ghostly Fog Murderer	2	6	decent	2-4	40-50	20-30	20-30		
-aged watered-down Fortified Eggnog Slurry	2	1	awesome	6-10	0	0	0	10 Loaded Forwarbear (So-So Supercold Resistance)	
-artisanal fountain 'soda'	3	5	EPIC	12-18	5-10	0	5-10	KOLHS	
-French bronilla brogurt	3	11	EPIC	15-18	0	0	100-200	40 French Bronilla Brogueishness (+100% Mox, +100 Init, +25 Pickpocket)
-Friendly Turkey	1	1	awesome	4-6	5-10	5-10	5-10	25 Turkey-Friendly (+5 Familiar Weight)
-Fromage Pinotage	1	3	awesome	3-5	0	60-75	0	20 Some Cheese With Your Wine (+30 Stench Dam, +30 Stench Spell Dam)
-fancy acceptable triple-distilled squat fruity girl swill	8	4	good	16-24	2-3	26-30	2-3		45 Sharpened Sweet Tooth (Candy Drop: +25)
-mediocre mirror fuzzbump	3	4	decent	3-6	34-36	0	0		
-Fuzzy Tentacle	2	4	awesome	6-7	0	20-30	0	10 Void Between the Stars (+50 Cold Damage)
-gamma nog	3	1	awesome	9-12	10-20	10-20	10-20
-aged pulsating Gets-You-Drunk	4	1	awesome	12-20	60-100	60-100	60-100	Spooky damage for 3 combats then 8-10 adventures	
-triple-distilled mediocre jittery ghost beer	6	1	decent	6-12	0	10-20	0	50 Booooooze (+100% Myst, 11 DR)	
-giant glass of brandy	3	5	awesome	8-11	25-40	25-40	25-40	LARP membership card (1 time)
-aged blinking gibson	3	3	awesome	9-15	0	0	16-20		
-drinkable triple-distilled gimlet	10	6	good	20-30	0	40-47	0		
-acceptable triple-distilled green blurry gin	9	6	good	18-27	9-10	9-10	9-10		
-drinkable pulsating gin and ginger	3	1	good	6-9	0	0	0		
-perfectly mixed special Gin and Herring	4	1	EPIC	16-24	0	0	0		
-drinkable spinning spinning gin and tonic	3	3	good	6-9	0	16-20	0		
-Gin Mint	2	2	EPIC	10-13	10-20	10-20	25-50
-delicious extra-dry gin-soaked blotter paper	5	3	awesome	15-25	5-10	0	5-10		
-ginger beer	2	1	EPIC	10-12	10-30	10-30	10-30
-gingerbread wine	3	4	good	8-10	8-10	8-10	8-10	30 Sprinkle in Your Eye (+25% Sprinkle drop)
-glass of &quot;milk&quot;	1	1	good	2-3	75-100	0	0
-enchanted artisanal glass of bourbon	4	5	EPIC	16-24	10-20	10-20	10-20		50 Inscrutable exoskeleton (Damage Absorption: +300)
-aged glass of herbal tequila	3	6	awesome	9-15	0	0	25-75	50 Herbal Pert	
-practically non-alcoholic acceptable gloomy mushroom wine	1	7	good	2-3	12-15	13-15	12-15	20 Gothy (+20 Myst, -10 Mus/Mox)	
-lousy watered-down Gnollish sangria	2	3	decent	2-4	40-80	0	0	40 Strength of the Gnoll (+40 Mus)	
-aged Gnomish sagngria	3	1	awesome	9-15	0	0	0	40 Stregngth of the Gnome (+20 Mus)	
-Go-Wassail	1	1	EPIC	5-6	5-6	5-6	5-6
-Gold Velvet&trade; whiskey	2	1	good	4-6	10-20	10-20	10-20
-Golden Mean	2	4	awesome	6-7	0	20-30	0	10 World's Shortest Giant (+2 Prismatic Res)
-mediocre fancy bouncing Gordon Bennett	3	6	decent	3-6	16-20	25-27	0		45 Soles of Glass (Initiative: +20)
-Grasshopper	2	1	good	4-5	0	0	10-20	5 Cockroach Scurry (+50 Init)
-Gratitude chocolate (bourbon-filled)	1	1	awesome	5	20-30	20-30	20-30
-acceptable squat great fashioned	3	1	good	6-9	0	0	0	40 Creepin' Up on You (+20 Spooky Damage & Spooky Spell Damage)	
-Great Older Fashioned	2	1	good	4-5	0	10-20	0	5 Void Between the Stars (+50 Cold Damage)
-bad watered-down bouncing beer	2	1	decent	2-4	0	0	0		
-Green Burlap	2	8	awesome	8-9	15-20	15-20	15-20	Restores MP
-green drunki-bear	4	6	EPIC	22-26	0	200-240	0	4 Fullness 80 Gummibrain (+100 Myst)
-green eggnog	3	12	EPIC	21	0	0	0	50 Just the Best Anapests
-Green Giant	2	8	awesome	8-9	0	30-40	0	15 World's Shortest Giant (+2 Prismatic Res)
-mediocre Green Manalishi	4	4	decent	4-8	0	5-15	10-20	20 The Two-Prong Crown (+30 Sleaze Damage)	
-Green Muslin	2	4	awesome	6-7	10-15	10-15	10-15	Restores MP
-Green Velvet	2	1	good	4-5	5-10	5-10	5-10	Restores MP
-drinkable pulsating Grimacider	4	5	good	8-12	0	0	0		
-Grimacite Bock	1	8	EPIC	3-10	65	64	62
-bad grog	3	3	decent	3-6	8-10	0	0		
-grogtini	6	6	awesome	22-26	16-20	0	0	tiny plastic sword
-perfectly mixed gunner's daughter	3	3	EPIC	12-18	0	0	40-80	40 Kissed the Gunner's Daughter (+40 Mox)	
-hacked gibson	4	4	EPIC	20-22	40-60	40-60	40-60
-extra-dry bad jittery jittery bottle of vodka	5	1	decent	5-10	0	0	0	20 Haunted Liver (+50% Item drop, +25% Meat drop)	
-acceptable triple-distilled eggnog	7	3	good	14-21	0	30-70	30-70	20 Haunted Liver (+50% Item drop, +25% Meat drop)	
-bad gimlet	4	6	decent	4-8	0	60-80	0	20 Haunted Liver (+50% Item drop, +25% Meat drop)	
-mediocre watered-down martini	2	1	decent	2-4	0	0	16-20	20 Haunted Liver (+50% Item drop, +25% Meat drop)	
-Haymaker	2	8	awesome	8-9	15-20	15-20	15-20	15 Fishy
-bad weak hell in a bucket	2	3	decent	2-4	10-30	10-30	10-30	40 Hell ib a Hambasked (+40 Stench Damage & Stench Spell Damage)	
-Herring Daiquiri	2	1	good	4-5	5-10	5-10	5-10	5 Fishy
-Herring Wallbanger	2	4	awesome	6-7	10-15	10-15	10-15	10 Fishy
-herringcello	1	1	good	1-5	5-7	5-7	5-7	20 Sugar Rush
-Herringtini	2	8	awesome	8-9	15-20	15-20	15-20	15 Fishy
-triple-distilled drinkable Hi-Octane Peppermint Jet Fuel	10	5	good	20-30	0	0	0		
-high-end ginger wine	2	1	EPIC	12-14	10-30	10-30	10-30	30 High-Falutin' (+50% Meat drop, +25% Item drop)
-Highest Bitter	3	6	awesome	12-15	0	10-25	0	60 Mercenary (+40% Item Drop)
-high-proof perfectly mixed narrow hipster cocktail	9	4	EPIC	36-54	10-15	10-15	10-15	10 Artisanal Satiaton (+3 exp/fight)	
-fancy bad upside-down Hodgman's blanket	4	15	decent	4-8	300-800	300-800	300-800		50 Winklered (Meat Drop: +40)
-aged honey mead	3	1	awesome	9-15	2-4	2-4	2-4	5 Sugar Rush	
-tolerable shaking horizontal tango	4	4	good	8-12	0	34-36	0		
-hand-crafted twirling Horseradish-infused Vodka	3	1	EPIC	12-18	0	0	0	15 Rad-ish (+25% Mox)	
-practically non-alcoholic lousy Hot Buttered Rum	1	1	decent	1-2	0	0	0	20 Loaded Forwarbear (So-So Supercold Resistance)	
-bad hot choculate	3	4	decent	3-6	9-10	9-10	9-10		
-hot mint schnocolate	1	1	good	2-4	5-10	5-10	5-10	25 Alpine Mintiness (+25 HP/MP, +25 Weapon Damage, +25 Spell Damage)
-Hot Socks	3	1	awesome	10-14	0	0	0	50 Hip to the Jive (+2 Familiar experience, +10 Familiar Weight, +20 Familiar Damage)
-perfectly mixed spinning hot toady	4	4	EPIC	16-24	7-8	7-8	7-8		
-practically non-alcoholic enchanted acceptable hot watered rum	1	1	good	2-3	0	0	0		45 Stenchtastic (Muscle Percent: +20, Mysticality Percent: +30, Moxie Percent: +10, Stench Damage: +10, Stench Resistance: +2)
-Humanitini	2	1	good	4-5	5-10	5-10	5-10	Restores HP
-Hundred Headed IPA	2	13	awesome	9-11	15-30	15-30	15-30	20 Hoppyness (+100% Initiative)
-Ice Island Long Tea	4	1	EPIC	18-22	15-30	15-30	15-30
-ice porter	2	5	good	5-7	10-20	0	0
-ice wine	2	6	EPIC	11-13	0	20-30	0	50 Brain Freeze (+25 Spell Damage, +50% Moxie, +100 MP)
-ice stein	6	1		12	0	0	0	24-48 MP
-mediocre ice-cold fotie	3	1	decent	3-6	0	0	0	9-12 MP	
-triple-distilled perfectly mixed spinning ice-cold Sir Schlitz	6	1	EPIC	24-36	0	0	0	2-4 MP	
-hand-crafted ice-cold Willer	3	1	EPIC	12-18	0	0	0	3-4 MP	
-iced plum wine	1	1	EPIC	6-7	0	0	5-10
-bad icy mushroom wine	3	6	decent	3-6	0	12-15	0		
-perfectly mixed fancy Imp Ale	3	1	EPIC	12-18	7-8	0	-5	8-10 MP	35 Spookypants (Spooky Resistance: +1)
-tolerable special improved martini	4	3	good	8-12	9-27	9-27	9-27	20 random spy buff	50 Flimsy Shield of the Pastalord
-fancy smooth Infinitesimal IPA	3	1	awesome	9-15	0	0	0		
-Irish Coffee, English Heart	2	1	good	4-6	0	4-6	0	100 Smithsness Cheer (Smithsness: +10)
-Ish Kabibble	2	1	awesome	6-8	0	0	0	25 Feeling No Pain (+3 All Res, +10 DR, +100 DA)
-hand-crafted bouncing Island Hurricane	4	1	EPIC	16-24	0	0	0	Unspaded 20 Tiki Temerity (+100% Moxie, +10% Moxie Gains)	
-perfectly mixed weak Island Landslide	2	1	EPIC	8-12	0	0	0	Unspaded 20 Tiki Toughness (+100% Muscle, +10% Muscle Gains)	
-smooth practically non-alcoholic enchanted fuchsia Island Thunderstorm	1	1	awesome	3-5	0	0	0	Unspaded 20 Tiki Thoughtfulness (+100% Mysticality, +10% Mysticality Gains)	15 Curse of the Black Pearl Onion
-enchanted practically non-alcoholic artisanal bouncing Isotope Nog	1	5	EPIC	4-6	0	0	0		
-Jack-O-Lantern beer	2	1	awesome	7-9	0	0	10-20	30 Toothy Grin (+5 familiar weight)
-Jackhammer	2	4	awesome	6-7	20-30	0	0	10 Mortarfied (+100 DA)
-aged jar of fermented pickle juice	3	13	awesome	9-15	80-100	80-100	80-100	-5 spleen	
-tolerable jar of squeeze	3	8	good	6-9	25-45	25-45	25-45		
-Jeppson's Malort	3	1	EPIC	22-26	10-20	10-20	10-20
-tolerable spirit-forward green Jerkitini	5	1	good	10-15	0	0	0	15 Jerky, Boy (+25% Myst)	
-artisanal watered-down spinning jug of booze	2	1	EPIC	8-12	0	0	20-30	30 Booze Goggles (+50 Mox, +25% Init, +25% Ranged Dam)	
-Jungle Juice	1	4	awesome	3-5	3-5	3-5	3-5	30 Jungle Juiced (x2 stat gains in Deep Dark Jungle)
-hand-crafted weak special junk yard	2	1	EPIC	8-12	4-5	4-5	4-5		10 Cautious Prowl (Item Drop: +50)
-acceptable practically non-alcoholic kamicorpse-ee	1	1	good	2-3	0	0	31-35		
-hand-crafted knob mushroom wine	4	6	EPIC	16-24	0	4-6	0		
-tolerable upside-down knoll mushroom wine	3	6	good	6-9	4-6	0	0		
-watered-down hand-crafted mirror La Fantasma y La Oscuridad	2	1	EPIC	8-12	0	13	0	13 La Oscuridad Adentro (+3 Mys exp, +13 spooky dam, +13 spooky spell dam)	
-large tankard of ale	2	4	good	4-6	10-15	10-15	10-15
-lavawater	1	4	good	3	0	0	10-20	50 Sizzling with Fury (+25 Hot Damage, +60 Init)
-enchanted mediocre pulsating Le Roi	3	1	decent	3-6	0	0	30-40		50 Bright! (Maximum MP: +100)
-mediocre legitimate business on the beach	3	5	decent	3-6	20-30	20-30	20-30		
-Lemonade-235	2	5	good	5-7	0	15-20	0	40 Radiated and Grodiated (+50% Mys, +25 Stench Spell Dam, +3 Stench Res)
-extra-dry bad enchanted literal grasshopper	5	1	decent	5-10	0	0	0	40 Wings of the Grasshopper (+50 init)	40 Stench Jellied (Item Drop: +30, Stench Damage: +5, Muscle Percent: +10, Mysticality Percent: +10, Moxie Percent: +10)
-Locust	2	4	awesome	6-7	0	0	20-30	10 Cockroach Scurry (+50 Init)
-Lollipop Drop	2	1	good	4-5	0	0	10-20	5 Holiday Bliss (+20 Item Drop, +20 Meat Drop)
-hand-crafted bouncing London frog	4	1	EPIC	16-24	0	0	0	40 Slime Time (+100% HP)	
-practically non-alcoholic delicious fuchsia ghostly low tide martini	1	1	awesome	3-5	0	0	0	40 Floundering (+5 Fishing Skill)	
-Lucky Lindy	1	1	good	2-4	0	0	0	semi-rare number
-drinkable lumbering jack	3	1	good	6-9	0	11-14	0		
-Lumineux Limnio	1	2	awesome	3-5	0	35	0	30 Bright! (+100 max MP)
-distilled special acceptable lychee chuhai	5	4	good	10-15	0	0	34-80	20 Brined Liver	45 Feet of Watermelon (Experience (Muscle): +3)
-special artisanal Mad Train wine	3	1	EPIC	12-18	0	0	0		50 Boon of the Storm Tortoise
-bad huge Mae West	3	6	decent	3-6	0	0	40-47		
-magnum of fancy champagne	6	6	awesome	22-26	10-20	10-20	10-20	20-40 MP
-Maiali Sifilitici Pinot Noir	1	10	EPIC	6-10	60	60	60
-fortified perfectly mixed mandarina colada	5	6	EPIC	20-30	0	16-20	25-27		
-perfectly mixed margarita	4	1	EPIC	16-24	8-10	0	0		
-marshmallow flamb&eacute;	2	3	EPIC	11-13	46-79	0	0	10 Sugar Rush
-mediocre martini	3	1	decent	3-6	0	0	8-10		
-strong drinkable martiny	5	1	good	10-15	0	0	0	Unspaded	
-McLeod's Hard Haggis-Ade	2	2	decent	3-4	5-10	0	0	20 Hagg-ard (+10 Mus)
-practically non-alcoholic tolerable McMillicancuddy's Special Lager	1	10	good	2-3	10-15	10-15	10-15	10-20 MP	
-lousy meadeorite	3	1	decent	3-6	0	0	0	40 Meadulla Oblongota (+5 stats/fight, +50% MP)	
-artisanal mediocre lager	3	1	EPIC	12-18	0	10-20	5-10		
-smooth jittery melon-infused sake	3	7	awesome	9-15	0	75-120	0	1 Warm Belly (+hot dmg, +10 Fishy)	
-lousy melted Jell-o shot	4	10	decent	4-8	0-40	0-40	0-40		
-hand-crafted ghostly mentholated wine	3	1	EPIC	12-18	0	0	0	20 Christmessy (+5 Familiar Weight)	
-mid-level medieval mead	1	7	awesome	4-6	20-30	20-30	20-30	20-30 MP
-acceptable yellow Middle of the Road&trade; brand whiskey	4	1	good	8-12	5-10	5-10	5-10		
-bad mime army wine	4	15	decent	4-8	40-50	40-50	40-50		
-practically non-alcoholic lousy enchanted mimosette	1	3	decent	1-2	16-20	0	0		40 Coated Arms (Weapon Damage: +15)
-hand-crafted mini-martini	4	11	EPIC	16-24	0	0	0	11 It's Not Even Funny	
-Mint Yulep	2	2	EPIC	10-13	25-50	10-20	10-20
-Miss Graves' vermouth	2	4	EPIC	15-17	10-20	10-20	10-20
-missing wine	2	5	good	4-8	0	0	31-50
-Mohobo	2	1	good	4-5	5-10	5-10	5-10	5 Mo' Hobo (+10 Hobo Power)
-acceptable gray Mon Tiki	4	6	good	8-12	40-47	0	0		
-aged jittery monkey wrench	4	1	awesome	12-20	0	8-10	0		
-bad irresponsibly strong enchanted upside-down upside-down moonberry wine cooler	8	3	decent	8-16	0	5-10	0		40 Army of One (Muscle Percent: +100, Mysticality Percent: +100, Moxie Percent: +100)
-drinkable moons-shine	3	1	good	6-9	7-8	7-8	7-8		
-Moonshine Mohobo	2	4	awesome	6-7	10-15	10-15	10-15	10 Mo' Hobo (+10 Hobo Power)
-Moonthril Schnapps	1	3	awesome	4-5	5-10	5-10	5-10
-More Humanitini than Humanitini	2	4	awesome	6-7	10-15	10-15	10-15	Restores HP
-drinkable moreltini	3	3	good	6-9	0	0	10-20	40 Truffle Tango (+50 Item drop)	
-Morlock's Mark Bourbon	4	4	awesome	10-15	10-28	10-28	10-28
-mediocre morning dew	3	1	decent	3-6	4-6	0	0	40 Granolarrrgh (+20 Stench Damage & Stench Spell Damage)	
-Morto Moreto	1	5	EPIC	4-6	0	0	0	100 Majorly Poisoned
-special smooth weak bouncing mourning wine	2	1	awesome	6-10	30-50	30-50	30-50		50 Down With Chow (Familiar Weight: +10)
-bad watered-down Mt. Noob Pale Ale	2	1	decent	2-4	0	0	0		
-mulled berry wine	5	7	awesome	18-22	0	30-50	0	30 Sweet Nostalgia (+20 Candy Drop)
-weak drinkable mulled blood	2	1	good	4-6	10-15	10-15	10-15	Vampyre	
-mulled cider	3	5	awesome	8-12	25-40	25-40	25-40
-watered-down smooth huge mulled hobo wine	2	1	awesome	6-10	5-15	5-15	5-15	20 Burnt 'n' Turnt (Unimplemented)	
-fancy mediocre Murderer's Punch	3	6	decent	3-6	10-20	0	0	40 Punchy, Murdery (+50% Weapon Damage)	15 Phairly Balanced (Equalize: "High")
-Muschat	1	4	awesome	3-5	0	0	25-50	20 L'instinct F&eacute;lin (+30 mox, better sleeper)
-weak hand-crafted Mutagin 'n' Tonic	2	5	EPIC	8-12	0	0	0		
-fortified hand-crafted Mysterious Island iced tea	5	3	EPIC	20-30	10-30	10-30	10-30	40 Orcmouth (+40 Sleaze Damage & Sleaze Spell Damage)	
-hand-crafted jittery Nachojito	3	1	EPIC	12-18	0	0	30-40		
-nanite-infested eggnog	3	3	good	5-10	0	16-30	16-30	20 Chock Full o' Nanites (+10 HP/MP regen, +20 dmg)
-natto-infused sake	3	1	good	6-8	6-8	8-8	6-8	30 Ninja, Please (+15% critical, +15% critical spell)
-acceptable watered-down twirling neg grog	2	1	good	4-6	0	0	0		
-weak artisanal nega-mushroom wine	2	1	EPIC	8-12	0	30-40	0	50 Double Negavision (+50% item drop)	
-bad Neuromancer	3	6	decent	3-6	25-27	0	16-20		
-hand-crafted watered-down New Zealand iced tea	2	4	EPIC	8-12	20-30	0	0	20 New Zeal (+40 HP, +20 MP)	
-bad spirit-forward ghostly Newark	5	3	decent	5-10	10-20	10-20	10-20	40 Hobo Powering Up! (+10 Hobo Power)	
-hand-crafted non-aged vinegar	3	4	EPIC	12-18	5-10	5-10	5-10	40 Sour Grapes (+40% item drop)	
-artisanal nothingtini	4	1	EPIC	16-24	0	0	0	40 Nothing Happened (+20 Monster Level)	
-irresponsibly strong perfectly mixed spinning lime green ocean motion	10	4	EPIC	40-60	25-27	8-10	0		
-Oh, the Humanitini	2	8	awesome	8-9	15-20	15-20	15-20	Restores HP
-lousy extra-dry Oil Nog	5	5	decent	5-10	0	0	0		
-aged mushroom wine	4	7	awesome	12-20	14-15	12-15	12-15		
-bad fuchsia old-fashioned	4	3	decent	4-8	0	8-10	0		
-oozenog	3	1	good	5-10	10-20	10-20	10-20	10 Festive Radiation (+5% all stats)
-bad weak open sauce	2	7	decent	2-4	15-25	15-25	15-25		
-extra-dry hand-crafted upside-down Orangemageddon wine cooler	5	1	EPIC	20-30	2-3	2-3	2-3		
-perfectly mixed Oreille Divis&eacute;e brandy	4	3	EPIC	16-24	15-25	15-25	15-25	20 Hoity Toity (+30% item drop)	
-fortified mediocre Over Easy Rider	5	1	decent	5-10	0	0	30-40		
-overpowering mushroom wine	4	3	EPIC	22-24	100-150	0	0	80 Boletus Swoletus (+40 Mus)
-delicious overpriced &quot;imported&quot; beer	4	1	awesome	12-20	0	0	0		
-Paint A Vulgar Pitcher	2	1	EPIC	10-12	10-12	0	0
-mediocre spirit-forward painting of a glass of wine	5	6	decent	5-10	0	0	30-60		
-acceptable Pan-Dimensional Gargle Blaster	4	13	good	8-12	50-100	50-100	50-100		
-tolerable papaya sling	3	1	good	6-9	16-30	0	0		
-enchanted mediocre teal papaya slung	4	2	decent	4-8	11-15	11-15	11-15		20 Stench Jellied (Item Drop: +30, Stench Damage: +5, Muscle Percent: +10, Mysticality Percent: +10, Moxie Percent: +10)
-practically non-alcoholic drinkable parisian cathouse	1	3	good	2-3	0	0	16-20		
-perfectly mixed party beer bomb	3	4	EPIC	12-18	0	0	0		
-tolerable weak passable stout	2	1	good	4-6	0	20-30	10-20		
-pebblebr&auml;u	1	1	crappy	1	50-80	50-80	50-80
-perfect cosmopolitan	3	5	EPIC	18-19	20-35	10-25	1-15
-perfect dark and stormy	3	5	EPIC	18-19	1-15	20-35	10-25
-perfect mimosa	3	5	EPIC	18-19	10-25	20-35	1-15
-perfect negroni	3	5	EPIC	18-19	1-15	10-25	20-35
-perfect old-fashioned	3	5	EPIC	18-19	20-35	1-15	10-25
-perfect paloma	3	5	EPIC	18-19	10-25	1-15	20-35
-triple-distilled perfectly mixed narrow perpendicular hula	7	4	EPIC	28-42	0	0	34-36		
-bad lime green Petite Porter	3	4	decent	3-6	0	0	0		
-perfectly mixed practically non-alcoholic Phil Collins	1	3	EPIC	4-6	0	10-20	0	40 Hello, I Must Be Going (+40 Monster Level)	
-tolerable practically non-alcoholic spinning Phlegethon	1	1	good	2-3	0	0	0	40 Flambé-a-thon (+20 Hot Damage & Hot Spell Damage)	
-Phonus Balonus	3	1	awesome	10-14	0	0	0	+5 PvP fights
-practically non-alcoholic smooth pink pony	1	4	awesome	3-5	25-27	0	8-10		
-hand-crafted piscatini	4	1	EPIC	16-24	0	0	0	40 You Drank Fish Wine (+20 Cold Damage & Cold Spell Damage)	
-pixel beer	2	4	awesome	9-11	0	0	0	40 Analog Drunk (+3 stats/fight)
-pixel daiquiri	2	1	awesome	9-11	0	0	0
-Plague of Locusts	2	8	awesome	8-9	0	0	30-40	15 Cockroach Scurry (+50 Init)
-drinkable irresponsibly strong plain beer	10	1	good	20-30	0	0	0		
-plastic cup of beer	1	1	crappy	1	0	0	0
-tolerable plum wine	4	8	good	8-12	14-20	0	0		
-aged extra-dry pointy mushroom wine	5	6	awesome	15-25	0	0	8-10		
-mediocre practically non-alcoholic shaking premium malt liquor	1	1	decent	1-2	1-2	1-2	1-2		
-drinkable fancy jittery alien booze	3	1	good	6-9	8-10	8-10	8-10	Extends the duration of up to 10 of your effects by 5 Adventures	35 Carrion' On (Meat Drop: +60)
-bad purple prussian cathouse	4	6	decent	4-8	0	0	40-47		
-acceptable weak special Psychotic Train wine	2	11	good	4-6	150-250	0	0		45 Highland Sheen (Moxie: +10)
-pumpkin beer	1	2	EPIC	4-7	5-20	5-20	5-20	2-4 MP
-acceptable punch-drunk punch	4	1	good	8-12	1-25	1-25	1-25	50 Boxing Day Drinking (+25 pickpocket chance, +5 stats/fight, reduces cost of recruiting staff)	
-Punchplanter	2	1	good	4-5	5-10	5-10	5-10	5 Fishy
-boozy drinkable corpsel	5	1	good	10-15	29-34	0	0		
-Quaatorade&trade;	1	6	EPIC	6-7	0	30-40	0	100 Quaaaaaaa (+50% mys, +50 MP, +10-20 MP regen)
-artisanal watered-down enchanted R'lyeh	2	3	EPIC	8-12	10-30	10-30	10-30	40 The Effect Man Was Not Meant to Have (+40 Spooky Damage & Spooky Spell Damage)	25 Rushin' Hands (Weapon Damage: +3)
-acceptable rabbit punch	3	3	good	6-9	0	0	16-20		
-tolerable Racisto Ruidoso	3	6	good	6-9	100-300	100-300	100-300		
-hand-crafted huge Radberry Rip wine cooler	3	1	EPIC	12-18	7-8	0	0		
-tolerable mirror Ralph IX cognac	4	15	good	8-12	228-300	228-300	228-300		
-perfectly mixed Ram's Face Lager	3	2	EPIC	12-18	8-10	0	0	4-8 MP	
-red ale	2	1	good	5-7	0	0	10-20	40 Putting the Pro in Proletariat (+50% Moxie, +25 ranged damage)
-red drunki-bear	4	6	EPIC	22-26	200-240	0	0	4 Fullness 80 Gummiheart (+100 Muscle)
-Red Dwarf	2	1	good	4-5	0	10-20	0	5 World's Shortest Giant (+2 Prismatic Res)
-perfectly mixed distilled hot boilermaker	5	9	EPIC	20-30	25-30	10-14	10-14	50 Boilermade (+5 Cold/Spooky Res)	
-drinkable wine	3	4	good	6-9	0	0	10-20	10-20 HP	
-hand-crafted rum	3	3	EPIC	12-18	0	0	0	20-30 HP	
-acceptable boozy Red Russian	5	1	good	10-15	15-20	15-20	15-20	Vampyre	
-drinkable weak red-headed corpse	2	1	good	4-6	0	31-35	0		
-hand-crafted irresponsibly strong tumbling redrum	8	1	EPIC	32-48	0	15-30	0		
-regular-size brogurt	1	5	good	2-3	15-30	0	15-30
-triple-distilled drinkable wobbly spinning reverse Tantalus	7	3	good	14-21	10-30	10-30	10-30	40 It Is So Hot In Your Guts, So So Hot (+40 Hot Damage & Hot Spell Damage )	
-ridiculous cocktail	3	1	awesome	11	10-12	10-12	10-12
-robin nog	2	1	awesome	7-9	10-20	10-20	10-20
-rocket fuel	3	4	good	7-11	0	0	10-20
-irresponsibly strong delicious rockin' wagon	8	4	awesome	24-40	0	0	34-36		
-acceptable practically non-alcoholic rodeo whiskey	1	3	good	2-3	0	30-40	0		
-bad practically non-alcoholic roll in the hay	1	4	decent	1-2	0	34-36	0		
-hand-crafted cyan upside-down Rompedores de Fantasmas	3	1	EPIC	12-18	13	0	0	13 Desenfantasmada (+3 Mus exp, +2 spooky res)	
-lousy irresponsibly strong spinning rum and cola	9	1	decent	9-18	0	0	10-12	14-16 MP	
-drinkable triple-distilled runny fermented egg	8	1	good	16-24	0	0	0		
-Russian Ice	1	2	good	2-3	30-60	0	-5-10
-Sacramento wine	1	1	EPIC	5-6	15-30	15-30	15-30	50 Sacr&eacute; Mental (+50 Item drop)
-Saison du Lune	3	2	good	8-10	0	10-20	25-35
-watered-down mediocre salacious lychee chuhai	2	8	decent	2-4	0	0	60-115	30 Brined Liver	
-triple-distilled perfectly mixed squat salacious screwdiver	10	8	EPIC	40-60	60-115	0	0	30 Brined Liver	
-aged salinated mint julep	3	5	awesome	9-15	15-25	15-25	15-25	10 Brined Liver	
-bad mirror salty dog	4	1	decent	4-8	0	8-10	0		
-bad mirror salty slug	3	2	decent	3-6	0	10-12	10-12		
-smooth sangria	3	3	awesome	9-15	0	8-10	0		
-Sangria de Menthe	2	2	EPIC	10-13	10-20	25-50	10-20
-sangria del diablo	6	6	awesome	22-26	0	16-20	0	tiny plastic sword
-Sazerorc	2	1	good	4-5	10-20	0	0	5 Orc Chops (+50 Muscle)
-Sazuruk-hai	2	4	awesome	6-7	20-30	0	0	10 Orc Chops (+50 Muscle)
-Schr&ouml;dinger's thermos	0	1		0	0	0	0	random booze
-bad scotch on the rocks	3	11	decent	3-6	10-20	10-20	10-20	30 Hair on Your Chest (+50% MP)	
-delicious upside-down Scorpion Bowl	4	6	awesome	12-20	0	0	0	Unspaded 40 Tiki Toughness (+100% Muscle, +10% Muscle Gains)	
-drinkable watered-down huge Scrawny Stout	2	6	good	4-6	0	0	0		
-artisanal jittery wobbly screwdiver	3	4	EPIC	12-18	34-80	0	0	20 Brined Liver	
-artisanal practically non-alcoholic screwdriver	1	1	EPIC	4-6	8-10	0	0		
-sham champagne	2	7	good	3-8	0	0	38-58	5-15 MP, 10 Shamboozled (+50% mox)
-shining goblet	3	9	awesome	15	18-22	18-22	18-22
-practically non-alcoholic artisanal shaking shot of blackberry schnapps	1	11	EPIC	4-6	5-7	5-7	5-7		
-triple-distilled artisanal ghostly shot of flower schnapps	6	1	EPIC	24-36	0	0	0	+1 PvP fight, 3 Flower Power (+20% all stats)	
-drinkable irresponsibly strong ghostly lime green shot of grapefruit schnapps	7	1	good	14-21	0	3-5	0		
-Shot of Kardashian Gin	1	1	EPIC	5-6	5-10	5-10	5-10	+3 PvP fights
-lousy shot of mescal	3	6	decent	3-6	0	25-75	0	50 Brainworm	
-shot of nepenthe schnapps	2	2	awesome	5-8	0	12-18	0	10 Memento Moir&eacute; (+3 exp)
-bad shot of schnapps	3	1	decent	3-6	3-5	0	0		
-smooth weak shot of peach schnapps	2	8	awesome	6-10	0	0	14-20		
-mediocre narrow shot of pear schnapps	3	8	decent	3-6	0	14-20	0		
-perfectly mixed ghostly shot of rotgut	3	1	EPIC	12-18	10-12	10-12	10-12	lose 20-28 HP	
-Shot of the Living Dead	2	8	awesome	8-9	30-40	0	0	15 Creepypasted (+50 Spooky Dam)
-practically non-alcoholic fancy mediocre shot of tomato schnapps	1	1	decent	1-2	1-2	1-2	1-2		45 Hyperoxygenated Blood (Adventure Underwater)
-acceptable shroomtini	4	1	good	8-12	0	0	0	40 Mushroom Samba (+25 Item drop)	
-spirit-forward acceptable narrow Siberian sunrise	5	1	good	10-15	0	0	0	40 Sugar, Hello (+20 Mys)	
-Silver Bullet beer	1	6	awesome	3-4	5-10	5-10	5-10	30 Wolf's Bane (+50 dmg vs. Werewolves)
-acceptable special Simepore slime	3	3	good	6-9	30-60	0	0	40 The Secret of the Ooze (+200% HP)	25 Tenacity of the Snapper (Weapon Damage: +8)
-weak acceptable single entendre	2	3	good	4-6	0	30-60	0	40 Pounded by the Actual Stars (+100% MP)	
-delicious practically non-alcoholic single swig of vodka	1	9	awesome	3-5	6-8	6-8	6-8	KOLHS	
-Sizzling Sinner	2	8	awesome	8-9	30-40	0	0	15 Heart Aflame (+50 Hot Dam)
-bad blurry Skull Punch	4	4	decent	4-8	0	0	0	Unspaded 30 Tiki Toughness (+100% Muscle, +10% Muscle Gains)	
-tolerable slap and slap again	3	1	good	6-9	0	0	0	+3 PvP fights	
-mediocre ghostly slap and tickle	4	4	decent	4-8	0	8-10	25-27		
-Slimebite	2	8	awesome	8-9	0	0	30-40	15 In the Slimelight (+50 Stench Dam)
-Slimosa	2	1	good	4-5	0	0	10-20	5 In the Slimelight (+50 Stench Dam)
-acceptable green slimy fermented bile bladder	3	6	good	6-9	0	0	0	20 Bilious (+25 ML, slime res)	
-drinkable slip 'n' slide	4	4	good	8-12	34-36	0	0		
-Slippery Knob	2	4	awesome	6-7	0	0	20-30	10  Gutterminded (+50 Sleaze Dam)
-Sloe Comfortable Zoo	2	4	awesome	6-7	20-30	0	0	10 Rampage! (+50% Weapon Dam)
-Sloe Comfortable Zoo on Fire	2	8	awesome	8-9	30-40	0	0	15 Rampage! (+50% Weapon Dam)
-Sloppy Jalopy	5	1	awesome	18-22	20-40	20-40	20-40	acquire Hollow Leg (+1 Liver)
-hand-crafted jittery slug of rum	4	2	EPIC	16-24	0	0	0	10 Brined Liver	
-tolerable weak blinking slug of shochu	2	2	good	4-6	0	0	0	10 Brined Liver	
-mediocre slug of vodka	3	2	decent	3-6	0	0	0	10 Brined Liver	
-smooth mushroom wine	4	3	EPIC	22-24	0	0	100-150	80 Gyromitra Gymnastics (+40 Mox)
-drinkable triple-distilled Smuggler's Punch	9	4	good	18-27	0	0	0	Unspaded 30 Tiki Temerity (+100% Moxie, +10% Moxie Gains)	
-snakebite	1	4	crappy	1	-1	-1	-1	30 Sweet Tooth (+40% Candy Drops)
-mediocre practically non-alcoholic blinking olive snifter of thoroughly aged brandy	1	1	decent	1-2	0	8-10	0		
-Sockdollager	2	1	awesome	6-8	0	0	0	25 In a Lather (+20 Prismatic Dam, +40 Prismatic Spell Dam, +20 Ranged/Weapon Dam, +50% Weapon Dam, +40 Spell Dam, +50% Spell Dam)
-triple-distilled drinkable soft echo eyedrop antidote martini	6	5	good	12-18	5-10	5-10	35-40		
-drinkable soilzerac	4	1	good	8-12	0	0	0	40 Here's Mud in Your Eye (+50 Meat Drop)	
-soy cordial	5	6	EPIC	28-35	55-61	38-50	35-52	2 Electrolyte Fantastic (+10% mys exp)
-soyburger juice	2	3	crappy	2-4	0	0	0	gain Oversaturated Palate or lose Deadened Palate
-space port	2	5	good	5-6	10-20	10-20	10-20
-Spasmi Dolorosi Del Rene Champagne	1	10	EPIC	6-10	60	60	60
-weak mediocre huge spiced rum	2	2	decent	2-4	0	0	17-30		
-mediocre weak lime green Spicy Hot Chocolate	2	1	decent	2-4	0	0	0	30 Loaded Forwarbear (So-So Supercold Resistance)	
-spiritual eggnog	3	3	good	6-10	0	30-60	0
-distilled perfectly mixed skewed huge splendid martini	5	6	EPIC	20-30	9-27	9-27	9-27	40 random spy buff	
-spooky eggnog	3	3	good	5-10	0	16-30	16-30
-hand-crafted practically non-alcoholic blinking mushroom wine	1	6	EPIC	4-6	0	0	4-6		
-lousy weak twirling green stale cheer wine	2	1	decent	2-4	0	0	0	20-30 crystalline cheer	
-stealth bomber	3	6	awesome	9-12	10-20	0	10-20
-delicious irresponsibly strong steel margarita	9	5		0	0	0	0	Liver of Steel skill	
-high-proof perfectly mixed stepmom's booze	7	5	EPIC	28-42	0	5-10	5-10	KOLHS	
-fancy acceptable stinkwater	3	24	good	6-9	20-30	20-30	20-30		45 Well Owl Be! (Mysticality: +10, Spell Damage: +10)
-perfectly mixed weak mushroom wine	2	6	EPIC	8-12	0	0	12-15		
-artisanal irresponsibly strong strawberry daiquiri	8	1	EPIC	32-48	0	0	8-10		
-lousy narrow strawberry wine	3	1	decent	3-6	0	0	8-10		
-Strikes Again Bigmouth	2	1	awesome	7-9	0	0	7-9	50 Smithsness Cheer (Smithsness: +10)
-Suffering Sinner	2	1	good	4-5	10-20	0	0	5 Heart Aflame (+50 Hot Dam)
-super-size brogurt	3	8	awesome	12-13	50-100	0	50-100
-hand-crafted irresponsibly strong Supernova Champagne	8	8	EPIC	32-48	8-12	8-12	8-12	15-20 MP	
-Suppurating Sinner	2	4	awesome	6-7	20-30	0	0	10 Heart Aflame (+50 Hot Dam)
-swirling mushroom wine	4	3	EPIC	22-26	0	0	50-100	80 Tremella Tremens (+40 Item Drop)
-Taco Dan's Taco Stand Chimichangarita	1	4	good	2-3	0	0	15-30	5 Margaritish (+moxie)
-drinkable blue tangarita	3	6	good	6-9	0	16-20	25-27		
-tankard of ale	1	1	good	3	12-15	12-15	12-15
-Temps Tempranillo	1	4	awesome	3-5	15-30	15-30	15-30
-perfectly mixed boozy upside-down teqiwila	5	3	EPIC	20-30	16-20	0	0		
-weak hand-crafted wobbly teqiwila slammer	2	6	EPIC	8-12	40-47	0	0		
-fancy perfectly mixed practically non-alcoholic twirling tequila sunrise	1	1	EPIC	4-6	8-10	0	0		5 Full of Vinegar (Weapon Damage: Varies)
-drinkable tequila sunset	3	3	good	6-9	0	16-20	0		
-drinkable ghostly tequila with training wheels	4	3	good	8-12	8-9	0	0		
-Tequiz Navidad	2	2	EPIC	10-13	10-20	10-20	25-50
-The Cooler Out of Space	2	12	awesome	8-9	20-50	20-50	20-50	30 You Can Taste the Darkness (+9 Spooky Res, +100 Spooky Dam)
-The Mad Liquor	3	6	EPIC	21-24	15-30	15-30	15-30	-1 Fullness
-artisanal thermos full of Knob coffee	3	1	EPIC	12-18	5-6	5-6	5-6	lose 1-2 HP	
-thermos of &quot;whiskey&quot;	1	1	good	2-3	0	0	75-100
-mediocre maroon pulsating Third Base	3	4	decent	3-6	20-40	20-40	20-40	40 Third Based (+25% pickpocket chance)	
-fortified lousy narrow thistle wine	5	10	decent	5-10	0	0	30-60	lose 50-75 HP	
-hand-crafted Thriller Ice	3	22	EPIC	12-18	10-20	10-20	10-20	30-40 MP	
-tobiko-infused sake	3	1	good	6-8	6-8	8-8	6-8	30 Pisces in the Skyces (+150% spell dmg)
-acceptable weak tomato daiquiri	2	2	good	4-6	10-12	0	10-12		
-Transylvania Sling	2	4	awesome	6-7	20-30	0	0	10 Creepypasted (+50 Spooky Dam)
-special perfectly mixed weak TRIO cup of beer	2	6	EPIC	8-12	10-20	10-20	10-20		5 Beta Carotene Overdose (Item Drop: +50)
-drinkable tropical swill	3	4	good	6-9	26-30	2-3	2-3		
-artisanal Turtle Bowl	4	6	EPIC	16-24	0	0	0	Unspaded 40 Tiki Thoughtfulness (+100% Mysticality, +10% Mysticality Gains)	
-acceptable twice-haunted screwdriver	3	2	good	6-9	80-100	0	0	40 Haunted Liver (+50% Item drop, +25% Meat drop)	
-artisanal two meat muck	3	4	EPIC	12-18	40-50	40-50	40-50		
-practically non-alcoholic drinkable ghostly Typical Tavern swill	1	1	good	2-3	1-2	1-2	1-2		
-bad practically non-alcoholic ghostly unflavored wine cooler	1	1	decent	1-2	0	0	0		
-perfectly mixed shaking unidentified drink	3	1	EPIC	12-18	6	6	6	very random stat gain, average only	
-bad unnamed cocktail	4	4	decent	4-8	5-10	0	10-20		
-special perfectly mixed unquiet spirits	3	1	EPIC	12-18	0	0	5-10	50 Hollow Inside (+6 Maximum Hooch)	40 Bitterskin (Slime Hates It: +1)
-Uovo Marcio Shiraz	1	10	EPIC	6-10	60	60	60
-delicious high-proof ghostly used beer	8	1	awesome	24-40	0	0	0	+1 PvP fight	
-artisanal vampagne	3	1	EPIC	12-18	25-30	25-30	25-30	Vampyre	
-bad weak yellow very whiskey	2	1	decent	2-4	5-20	5-20	5-20		
-vesper	6	6	awesome	22-26	0	0	16-20	tiny plastic sword
-enchanted delicious vintage smart drink	3	1	awesome	9-15	0	0	0	1 Smart Drunk (+120 HP, +20 Familiar Weight)	5 Worth Your Salt (Maximum HP: +25, Meat Drop: +25)
-hand-crafted weak vodka and cranberry	2	1	EPIC	8-12	0	15-20	0		
-bad twirling vodka and tonic	3	3	decent	3-6	0	16-20	0		
-lousy spirit-forward yellow vodka barracuda	5	3	decent	5-10	10-20	10-20	10-20	40 Mer-kinkiness (+4 Prismatic res)	
-lousy watered-down Vodka Dog	2	1	decent	2-4	0	0	30-40		
-smooth special vodka gibson	4	3	awesome	12-20	0	0	16-20		35 Proprie Tea (Sleaze Resistance: +3)
-artisanal watered-down wobbly vodka martini	2	1	EPIC	8-12	0	0	8-10		
-Vodka Matryoshka	2	2	EPIC	10-13	25-50	10-20	10-20
-artisanal vodka stinger	3	1	EPIC	12-18	0	0	0	40 Mer-kindliness (+2 Prismatic res)	
-delicious vodka stratocaster	4	6	awesome	12-20	25-27	0	16-20		
-VYKEA mead	2	7	awesome	8-10	5-10	5-10	20-40
-warbear bearserker mead	3	1	awesome	12-15	5-10	5-10	5-10	40 Warbear Warlust (+60 WarBear Armor Penetration)
-warbear blizzard mead	3	1	awesome	12-15	5-10	5-10	5-10	40 Warbear Blubber (Serious Supercold resistance)
-warbear feasting mead	3	1	awesome	12-15	5-10	5-10	5-10	40 Warbear Loot Lust (+15% Items from WarBears)
-wasabi-infused sake	3	1	good	6-8	6-8	8-8	6-8	30 Wasabi With You (+150% weapon dmg)
-water purification pills	3	1	decent	6	25-35	25-35	25-35
-perfectly mixed wax booze	3	1	EPIC	12-18	20-25	20-25	20-25	30 Waxing (+100% HP, +50% MP, +50 Init)	
-practically non-alcoholic smooth spinning Wet Russian	1	11	awesome	3-5	0	40-60	0		
-drinkable bouncing whiskey and cola	3	1	good	6-9	0	4-6	4-6	14-16 MP	
-enchanted artisanal whiskey and soda	4	1	EPIC	16-24	0	8-10	0	3-5 MP	5 Inscrutable exoskeleton (Damage Absorption: +300)
-lousy red whiskey bittersweet	3	3	decent	3-6	16-20	0	0		
-acceptable whiskey in a broken glass	4	6	good	8-12	25-75	0	0	50 Bloody Grin	
-fortified mediocre whiskey	5	1	decent	5-10	8-10	0	0		
-lousy watered-down skewed whiskey squeeze	2	1	decent	2-4	0	0	0	20 Hobo Powers Activate! (+10 Hobo power)	
-hand-crafted Canadian	4	1	EPIC	16-24	10-12	0	0	3 Canadianity	
-hand-crafted irresponsibly strong Dreadsylvanian	9	20	EPIC	36-54	10-20	10-20	10-20	50 Whitesloshed (+500 Dreadsylvania Item Drops)	
-White Hyborian	3	2	decent	5-6	21-24	0	0
-drinkable lightning	3	3	good	6-9	0	0	0	3 Temporary Blindness	
-triple-distilled bad wine	10	1	decent	10-20	8-10	8-10	8-10		
-white Xanadian	2	2	awesome	5-8	12-18	0	0	10 Flashing Eyes (+30% meat drop)
-practically non-alcoholic special drinkable white-label gin	1	1	good	2-3	3-5	3-5	3-5		20 Ripping, Dripping (Weapon Damage Percent: +50)
-lousy wine spritzer	3	1	decent	3-6	0	8-10	0		
-world's most unappetizing beverage	1	1	good	3	-1	-1	-1	10 Literally Insane (Legendary Beat quest)
-Wrecked Generator	5	5	EPIC	28-32	20-30	20-30	20-30
-Xiblaxian space-whiskey	4	7	EPIC	19-22	50	50	50
-mediocre watered-down spinning Ye Olde Meade	2	7	decent	2-4	20-30	20-30	20-30		
-artisanal brick road	3	6	EPIC	12-18	0	40-47	0		
-yellow drunki-bear	4	6	EPIC	22-26	0	0	200-240	4 Fullness 80 Gummskin (+100 Mox)
-acceptable skewed zmobie	4	3	good	8-12	0	16-20	0		
-zombie	2	1	EPIC	10-12	0	10-20	0
-Zoodriver	2	1	good	4-5	10-20	0	0	5 Rampage! (+50% Weapon Dam)
+			0	0	0	0		
+			0	0	0	0		
+			0	0	0	0		
+			0	0	0	0		
+		Level Req		0	Musc	Myst	Moxie		
+			0	0	0	0		
+		1		0	0	0	0	+10 PvP fights	
+		4		0	0	25-27	8-10		
+		1		0	0	20-30	10-20		
+		1		0	0	0	0		
+		10		0	60	60	60		
+		10		0	60	60	60		
+		1		0	0	20-30	10-20		
+		1		0	3-5	3-5	35-40		
+		3		0	10-20	10-20	10-20	25 Turkey-Agitated (+25 Item Drop)	
+		5		0	0	0	0	15-30 MP, 5 Brined Liver	
+		5		0	15-30	15-30	15-30	25 Turkey-Ambitious (+25 Init, +50 Meat Drop)	
+		5		0	0	-15	0	30 All is Forgiven (+10 Familiar Weight)	
+		4		0	0	20	50-75	10 A Little Bit Evil (+2 ML)	
+		1		0	0	0	0		
+		1		0	10-20	10-20	10-20		
+		4		0	0-30	0-30	0-30		
+		6		0	0	20-30	0	30 Sugar Rush	
+		6		0	0	10-20	10-20	100 Inner Warmth (+5 Cold Resist)	
+		1		0	1	1	1		
+		8		0	0	30-40	0	15 Transcendental Wind (+50 Myst)	
+		1		0	0	0	10-20	5 Arresistible (+50 Mox)	
+		4		0	0	0	20-30	10 Arresistible (+50 Mox)	
+		8		0	0	0	30-40	15 Arresistible (+50 Mox)	
+		4		0	20-25	0	0		
+		1		0	5-10	5-10	5-10	Faerie Fortune (+1 Rubee drop)	
+		3		0	10-26	10-26	17-43		
+		1		0	0	0	10-20	40 Bark of the Dog (+2 Moxie stats/fight, +50 Init)	
+		5		0	0	5-10	10-20	50 Just Aged Enough (+25 Mox)	
+		6		0	5-10	5-10	5-10	30 Braaaains Over Braaaawwn (+50 dmg vs. Zombies)	
+		5		0	1-5	15-20	5-10		
+		1		0	3-9	3-9	3-9	10 random spy buff	
+		4		0	0	10-50	0		
+		1		0	10-50	0	0		
+		4		0	0	0	10-50		
+		1		0	0	0	4-10		
+		1		0	10-20	10-20	10-20	25 On the Trolley (+100% all stats)	
+		2		0	0	10-12	10-12		
+		1		0	0	0	0	+3 PvP fights	
+		2		0	30-40	30-40	30-40	100 Sugar Rush	
+		7		0	0	0	75-120	1 Warm Belly (+hot dmg, +10 Fishy)	
+		1		0	0	0	0		
+		7		0	10-12	10-12	10-12	18-20 MP	
+		1		0	0	0	0		
+		1		0	0	0	0	100 The Power of Negative Thinking	
+		4		0	10-15	10-15	10-15	Restores MP	
+		7		0	0	0	25-45		
+		4		0	2-3	2-3	26-30		
+		1		0	10-20	0	0	30 Bloodthirsty (+30 ML)	
+		6		0	5-10	5-10	5-10	30 Bloody-minded (+50 dmg vs. Vampires)	
+		3		0	50-100	0	0	80 Helvella Health (+100 HP, +10-20 HP Regen)	
+		1		0	0	0	0	3-5 MP	
+		15		0	20-40	20-40	20-40	10 First Blood Kiwi (+30 Spooky Dam)	
+		1		0	1-2	1-2	1-2		
+		3		0	10-30	10-30	10-30	40 Fishtacular Vernacular (+10 Fishing Skill)	
+		6		0	16-20	0	0	tiny plastic sword	
+		12		0	25-29	10-15	10-15		
+		1		0	0	30-40	20-30		
+		6		0	12-20	12-20	12-20		
+		6		0	5-10	5-10	5-10	30 Sticks and Stones (+50 dmg vs. Skeletons)	
+		3		0	0	5-10	0		
+		3		0	60-75	0	0	20 Hammered (+50% weapon dmg)	
+		5		0	5-15	0	5-15	100 Bricked-In (+50 HP)	
+		1		0	30-50	30-50	30-50	50 Blood Porter	
+		2		0	0	0	0		
+		1		0	0	0	0		
+		1		0	10-40	10-40	10-40		
+		2		0	0	0	0	Unspaded	
+		2		0	0	0	0		
+		2		0	0	0	0		
+		3		0	0	30-60	0		
+		5		0	10-20	0	10-20	The Dark Lord Rides in Force Tonight (+40 Spooky Damage)	
+		6		0	20-30	20-30	20-30	50 A Real Head for Fish (+10 Fishing Skill)	
+		5		0	2-5	2-5	2-5	KOLHS	
+		1		0	0	0	0		
+		11		0	40-60	40-60	40-60	20 Covetin' Drunk (+200% meat drop)	
+		2		0	0	0	0		
+		11		0	40-60	40-60	40-60	20 Dancin' Drunk (+100% item drop)	
+		11		0	0	50-80	0		
+		2		0	0	0	0		
+		4		0	0	30-40	0	50 Norwhalloped (+6-10 MP regen)	
+		6		0	20-30	20-30	20-30	20 Fightin' Drunk (+50 Mus, +10-20 HP regen)	
+		1		0	0	0	0	20 Really Quite Poisoned, lose 70 HP	
+		1		0	20-40	20-40	20-40	50 Crimbo Nostalgia (+5 exp)	
+		2		0	0	0	0	1 Warm Belly (+hot dmg, +10 Fishy)	
+		4		0	30	18	0		
+		1		0	0	0	0	lose 3 HP	
+		6		0	20-30	20-30	20-30	20 Thinkin' Drunk (+50 Mys, +10-20 MP regen)	
+		11		0	40-60	40-60	40-60	20 Flyin' Drunk (+100 Init, +25 DR)	
+		6		0	20-30	20-30	20-30	20 Jokin' Drunk (+50 Mox, +20% Pickpocket chance)	
+		2		0	0	0	12-18	10 The Real Deal (+20 HP/MP regen)	
+		1		0	0	0	0		
+		1		0	0	0	0		
+		1		0	5-10	5-10	5-10	Vampyre	
+		1		0	0	0	0	20 Majorly Poisoned, lose 30 HP	
+		13		0	40-50	40-50	40-50		
+		2		0	0	0	0	Unspaded	
+		1		0	0	0	0		
+		1		0	0	0	0		
+		1		0	0	0	0		
+		5		0	18-22	18-22	18-22		
+		6		0	-30	-15	-30	10 Really Quite Poisoned	
+		2		0	0	0	0		
+		1		0	0	0	0		
+		1		0	0	0	0	10 Sugar Rush	
+		5		0	0	0	93-107		
+		1		0	0	7-8	0		
+		11		0	100-200	0	0	40 Broberry Brotality (+100% Mus, +10% Crit, +50 Meat drop)	
+		11		0	0	100-200	0	40 Brocolate Brostidigitation (+100% Mys, +20% Spell Crit, +25 Item drop)	
+		5		0	10-50	10-50	10-50		
+		7		0	40-99	54-118	31-122		
+		4		0	20-40	20-40	20-40	40 Bustle Hustlin' (+5 Pool skill)	
+		1		0	0	0	10-20	5 Gutterminded (+50 Sleaze Dam)	
+		3		0	0	50-100	0	80 Stemonitis Storm	
+		3		0	16-20	0	0		
+		1		0	5-10	5-10	5-10	5 Fishy	
+		4		0	8-10	0	25-27		
+		1		0	50-60	0	0		
+		1		0	0	50-60	0		
+		1		0	0	0	50-60		
+		10		0	10-15	0	0	15-20 MP	
+		1		0	3	2	2	KOLHS	
+		8		0	0	0	30-40	15 Holiday Bliss (+20 Item Drop, +20 Meat Drop)	
+		4		0	0	0	20-30	10 Holiday Bliss (+20 Item Drop, +20 Meat Drop)	
+		1		0	0	0	0	10 Sugar Rush	
+		5		0	22-40	22-40	22-40	20 In Vino Vires (+50% all)	
+		3		0	3-4	3-4	3-4	10 Pla-see-bo (+10 Item Drop)	
+		1		0	10-20	0	0	5 Mortarfied (+100 DA)	
+		4		0	10-20	10-20	10-20	60 Fishy	
+		1		0	0	0	0	50 The Power of Positive Thinking	
+		4		0	0	20-30	0	10 Transcendental Wind (+50 Myst)	
+		1		0	0	0	0	4 MP	
+		6		0	0	16-20	0	tiny plastic sword	
+		1		0	0	0	7-8		
+		5		0	0	0	10-20	30 High Blood Chocolate Content (+30% candy drop)	
+		1		0	0	0	30-40		
+		1		0	0	0	0	40 Big Ol' Glass of Rum (+20 Mox)	
+		1		0	5	5	5	5 Cinco Elementos (+prismatic dmg)	
+		1		0	2-3	2-3	2-3		
+		7		0	75-120	0	0	1 Warm Belly (+hot dmg, +10 Fishy)	
+		4		0	4-6	0	0	5-10 MP	
+		6		0	0	0	0	Unspaded 40 Tiki Temerity (+100% Moxie, +10% Moxie Gains)	
+		1		0	0	0	0		
+		3		0	0	100-150	0	80 Omphalotus Omnipresence (+40 Mys)	
+		6		0	0	8-10	0		
+		5		0	25-30	25-30	25-30		
+		5		0	0	71-75	0		
+		1		0	11-15	11-15	11-15		
+		5		0	70-74	0	0		
+		5		0	0	0	70-75		
+		4		0	0	61-68	0	10 Cranberry Cordiality (+10% meat drop)	
+		8		0	0	30-40	0	15 Void Between the Stars (+50 Cold Dam)	
+		3		0	8-10	8-10	8-10		
+		1		0	0	0	0	lose 20% boredom	
+		1		0	0	0	0	lose 30% boredom	
+		1		0	0	0	0	lose 10% boredom	
+		1		0	10-20	10-20	10-20		
+		1		0	0	0	0		
+		2		0	10-20	25-50	10-20		
+		1		0	0	0	0		
+		10		0	0	10-15	0	5 Compensatory Cruelness (+5 weapon dmg)	
+		3		0	15-35	15-35	15-35	20 Aykrophobia (+25% item drop, +20 spooky dmg, +15 ML)	
+		6		0	40-50	40-50	40-50		
+		3		0	20-30	20-30	20-30		
+		1		0	0	75-100	0		
+		12		0	50-65	0	0	12-15 MP, lose 10-18 HP	
+		3		0	0	0	0	10 Curse Magnet	
+		1		0	0	0	0		
+		6		0	1-5	1-5	1-5	10 Once-Cursed (-10 all stats)	
+		5		0	0	0	0		
+		1		0	5-10	5-10	5-10	Restores MP	
+		1		0	0	20-30	10-20		
+		1		0	0	0	0		
+		9		0	5-10	5-10	50-80		
+		1		0	0	0	0	15 Castaway Physique (+25% Muscle)	
+		4		0	0	34-80	0	20 Brined Liver	
+		8		0	0	60-115	0	30 Brined Liver	
+		5		0	10-20	10-20	10-20	30 The Dinsey Spirit (+40% Item drop)	
+		3		0	2-10	2-10	2-10	40 Here's Some More Mud in Your Eye (+100 Meat Drop)	
+		6		0	0	0	16-20	tiny plastic sword	
+		1		0	0	0	30-40		
+		1		0	0	0	8-10	30 Disco Neuropathy (+15 DB Combat Damage, +30% DB Skill Weaken)	
+		1		0	5-6	5-6	5-6		
+		6		0	16-20	25-27	0		
+		8		0	20-40	20-40	20-40	-2 Fullness	
+		1		0	0	0	0	40 Space Cadet (+50% MP)	
+		4		0	10-15	10-15	10-15	10 Fishy	
+		1		0	10-20	0	0	5 Creepypasted (+50 Spooky Dam)	
+		26		0	30-50	30-50	30-50	200 Dreadful Chill (+5 Sleaze/Stench Res)	
+		26		0	30-50	30-50	30-50	200 Dreadful Smell (+5 Hot/Spooky Res)	
+		26		0	30-50	30-50	30-50	200 Dreadful Fear (+5 Cold/Sleaze Res)	
+		26		0	30-50	30-50	30-50	200 Dreadful Heat (+5 Cold/Spooky Res)	
+		26		0	30-50	30-50	30-50	200 Dreadful Sheen (+5 Hot/Stench Res)	
+		8		0	20	20	20		
+		3		0	10-30	10-30	10-30	40 Drive-By Shot (40 Cold Damage, 40 Cold Spell Damage)	
+		8		0	5-15	30-50	5-15	15 Heisenberglary (+/- all stats)	
+		4		0	5-10	25-30	5-10	10 Heisenberglary (+/- all stats)	
+		1		0	1-5	15-20	1-5	5 Heisenberglary (+/- all stats)	
+		3		0	0	0	8-10		
+		3		0	0	0	8-10		
+		4		0	8-10	25-27	0		
+		3		0	100	50	75	10 Favored by Lyle (+10% all stats)	
+		8		0	30-40	0	0	15 Mortarfied (+100 DA)	
+		1		0	20-25	20-25	20-25	Vampyre	
+		1		0	5-10	5-10	5-10	lose 60-70% HP	
+		1		0	5-10	5-10	5-10		
+		1		0	0	0	0	lose 80-90% HP	
+		1		0	3-6	15-20	3-6	10 Kiss of the Black Fairy (+spooky damage)	
+		1		0	0	0	0	10 Full of Vinegar (+weapon damage)	
+		1		0	10-15	10-15	10-15		
+		4		0	0	20-30	0	10 Elemental Mastery (+5 Prismatic Dam)	
+		8		0	0	30-40	0	15 Elemental Mastery (+5 Prismatic Dam)	
+		6		0	5-10	5-10	5-10	30 Booing Radly (+50 dmg vs. Ghosts)	
+		1		0	5-6	5-6	5-6		
+		3		0	0	17-30	18-30		
+		3		0	0	0	0	10 Sugar Rush	
+		3		0	0	0	30-60	40 Wings of the Dragonfly (100 Init)	
+		12		0	333	333	333	30 Eldritch Concentration (+5 stats/fight, +5 spooky damage, 5-10 MP regen)	
+		12		0	666	666	666	30 Eldritch Concentration (+5 stats/fight, +5 spooky damage, 5-10 MP regen), 5 Eldritch Attunement	
+		11		0	111	111	111	10 Eldritch Concentration (+5 stats/fight, +5 spooky damage, 5-10 MP regen)	
+		4		0	0	0	0	Unspaded 30 Tiki Thoughtfulness (+100% Mysticality, +10% Mysticality Gains)	
+		5		0	0	15-30	0	20 Once Bitten Twice Fried (+25 MP, +2-5 MP regen)	
+		3		0	0	40-80	0	40 Magically Delicious (+40 Myst)	
+		1		0	5-7	5-7	5-7	20 Sugar Rush	
+		5		0	20-40	20-40	20-40	20 Drunk With Power (+100% spell dmg)	
+		4		0	20-30	20-30	20-30		
+		1		0	0	0	0	1 Margamergency (+200% weapon dmg, +200% spell dmg)	
+		1		0	0	0	0	20 turns of Mr. Skullhead's Birthday Happiness (Puts a birthday smile on your face)	
+		4		0	32-50	32-50	32-50		
+		8		0	15-20	15-20	15-20	Restores MP	
+		1		0	0	0	0	random booze	
+		4		0	8-10	0	50-75	10 A Little Bit Evil (+2 ML)	
+		4		0	0	0	50-75	10 A Little Bit Evil (+2 ML)	
+		4		0	0	0	50-75	10 A Little Bit Evil (+2 ML)	
+		1		0	0	0	30-40	50 Executive Greed (+50% Meat drop)	
+		4		0	10-20	10-20	10-20	15-20 MP	
+		1		0	20-40	20-40	20-40	30 Crimbo Nostalgia (+5 exp)	
+		4		0	0	0	20-30	10 In the Slimelight (+50 Stench Dam)	
+		3		0	5-11	5-11	5-11		
+		1		0	0	0	0	40 Slippery Tongue (+20 Sleaze Dam, +20 Sleaze Spell Dam)	
+		1		0	0	0	0	50 Too Noir For Snoir (+50 ML)	
+		1		0	0	0	13	13 Sangre Brillante (+3 Moxie exp, +5-6 MP regen)	
+		1		0	10-20	10-20	10-20		
+		1		0	0	10-20	0	5 Transcendental Wind (+50 Myst)	
+		3		0	10-20	0	0	40 Wassailing You (+5 Familiar Weight)	
+		10		0	60	60	60		
+		1		0	5-6	5-6	5-6	10 Sugar Rush	
+		1		0	0	0	3-5		
+		1		0	0	0	0	30 Cowrruption (+200% weapon dmg, +200% spell dmg, muscle limited to 30, moxie limited to 30)	
+		1		0	0	10-20	0	5 Elemental Mastery (+5 Prismatic Dam)	
+		6		0	20-25	10-15	0	-10-20 HP	
+		8		0	15-20	15-20	15-20	15 Fishy	
+		1		0	0	0	0		
+		8		0	0	0	30-40	15 Gutterminded (+50 Sleaze Dam)	
+		8		0	15-20	15-20	15-20	15 Mo' Hobo (+10 Hobo power)	
+		6		0	12-15	0	0		
+		8		0	30-40	0	0	15 Orc Chops (+50 Muscle)	
+		4		0	10-30	15-30	10-30		
+		1		0	0	0	0		
+		1		0	20-30	5-10	5-10		
+		6		0	40-80	40-80	40-80	100 Fruited (+100 Max HP, +100 Max MP)	
+		6		0	8-10	0	0		
+		1		0	10-20	10-20	10-20	50-100 MP	
+		2		0	0	15	0		
+		4		0	10-15	10-15	10-15	10 Fishy	
+		6		0	40-50	20-30	20-30		
+		1		0	0	0	0	10 Loaded Forwarbear (So-So Supercold Resistance)	
+		5		0	5-10	0	5-10	KOLHS	
+		11		0	0	0	100-200	40 French Bronilla Brogueishness (+100% Mox, +100 Init, +25 Pickpocket)	
+		1		0	5-10	5-10	5-10	25 Turkey-Friendly (+5 Familiar Weight)	
+		3		0	0	60-75	0	20 Some Cheese With Your Wine (+30 Stench Dam, +30 Stench Spell Dam)	
+		4		0	2-3	26-30	2-3		
+		4		0	34-36	0	0		
+		4		0	0	20-30	0	10 Void Between the Stars (+50 Cold Damage)	
+		1		0	10-20	10-20	10-20		
+		1		0	60-100	60-100	60-100	Spooky damage for 3 combats then 8-10 adventures	
+		1		0	0	10-20	0	50 Booooooze (+100% Myst, 11 DR)	
+		5		0	25-40	25-40	25-40	LARP membership card (1 time)	
+		3		0	0	0	16-20		
+		6		0	0	40-47	0		
+		6		0	9-10	9-10	9-10		
+		1		0	0	0	0		
+		1		0	0	0	0		
+		3		0	0	16-20	0		
+		2		0	10-20	10-20	25-50		
+		3		0	5-10	0	5-10		
+		1		0	10-30	10-30	10-30		
+		4		0	8-10	8-10	8-10	30 Sprinkle in Your Eye (+25% Sprinkle drop)	
+		1		0	75-100	0	0		
+		5		0	10-20	10-20	10-20		
+		6		0	0	0	25-75	50 Herbal Pert	
+		7		0	12-15	13-15	12-15	20 Gothy (+20 Myst, -10 Mus/Mox)	
+		3		0	40-80	0	0	40 Strength of the Gnoll (+40 Mus)	
+		1		0	0	0	0	40 Stregngth of the Gnome (+20 Mus)	
+		1		0	5-6	5-6	5-6		
+		1		0	10-20	10-20	10-20		
+		4		0	0	20-30	0	10 World's Shortest Giant (+2 Prismatic Res)	
+		6		0	16-20	25-27	0		
+		1		0	0	0	10-20	5 Cockroach Scurry (+50 Init)	
+		1		0	20-30	20-30	20-30		
+		1		0	0	0	0	40 Creepin' Up on You (+20 Spooky Damage & Spooky Spell Damage)	
+		1		0	0	10-20	0	5 Void Between the Stars (+50 Cold Damage)	
+		1		0	0	0	0		
+		8		0	15-20	15-20	15-20	Restores MP	
+		6		0	0	200-240	0	4 Fullness 80 Gummibrain (+100 Myst)	
+		12		0	0	0	0	50 Just the Best Anapests	
+		8		0	0	30-40	0	15 World's Shortest Giant (+2 Prismatic Res)	
+		4		0	0	5-15	10-20	20 The Two-Prong Crown (+30 Sleaze Damage)	
+		4		0	10-15	10-15	10-15	Restores MP	
+		1		0	5-10	5-10	5-10	Restores MP	
+		5		0	0	0	0		
+		8		0	65	64	62		
+		3		0	8-10	0	0		
+		6		0	16-20	0	0	tiny plastic sword	
+		3		0	0	0	40-80	40 Kissed the Gunner's Daughter (+40 Mox)	
+		4		0	40-60	40-60	40-60		
+		1		0	0	0	0	20 Haunted Liver (+50% Item drop, +25% Meat drop)	
+		3		0	0	30-70	30-70	20 Haunted Liver (+50% Item drop, +25% Meat drop)	
+		6		0	0	60-80	0	20 Haunted Liver (+50% Item drop, +25% Meat drop)	
+		1		0	0	0	16-20	20 Haunted Liver (+50% Item drop, +25% Meat drop)	
+		8		0	15-20	15-20	15-20	15 Fishy	
+		3		0	10-30	10-30	10-30	40 Hell ib a Hambasked (+40 Stench Damage & Stench Spell Damage)	
+		1		0	5-10	5-10	5-10	5 Fishy	
+		4		0	10-15	10-15	10-15	10 Fishy	
+		1		0	5-7	5-7	5-7	20 Sugar Rush	
+		8		0	15-20	15-20	15-20	15 Fishy	
+		5		0	0	0	0		
+		1		0	10-30	10-30	10-30	30 High-Falutin' (+50% Meat drop, +25% Item drop)	
+		6		0	0	10-25	0	60 Mercenary (+40% Item Drop)	
+		4		0	10-15	10-15	10-15	10 Artisanal Satiaton (+3 exp/fight)	
+		15		0	300-800	300-800	300-800		
+		1		0	2-4	2-4	2-4	5 Sugar Rush	
+		4		0	0	34-36	0		
+		1		0	0	0	0	15 Rad-ish (+25% Mox)	
+		1		0	0	0	0	20 Loaded Forwarbear (So-So Supercold Resistance)	
+		4		0	9-10	9-10	9-10		
+		1		0	5-10	5-10	5-10	25 Alpine Mintiness (+25 HP/MP, +25 Weapon Damage, +25 Spell Damage)	
+		1		0	0	0	0	50 Hip to the Jive (+2 Familiar experience, +10 Familiar Weight, +20 Familiar Damage)	
+		4		0	7-8	7-8	7-8		
+		1		0	0	0	0		
+		1		0	5-10	5-10	5-10	Restores HP	
+		13		0	15-30	15-30	15-30	20 Hoppyness (+100% Initiative)	
+		1		0	15-30	15-30	15-30		
+		5		0	10-20	0	0		
+		6		0	0	20-30	0	50 Brain Freeze (+25 Spell Damage, +50% Moxie, +100 MP)	
+		1		0	0	0	0	24-48 MP	
+		1		0	0	0	0	9-12 MP	
+		1		0	0	0	0	2-4 MP	
+		1		0	0	0	0	3-4 MP	
+		1		0	0	0	5-10		
+		6		0	0	12-15	0		
+		1		0	7-8	0	-5	8-10 MP	
+		3		0	9-27	9-27	9-27	20 random spy buff	
+		1		0	0	0	0		
+		1		0	0	4-6	0	100 Smithsness Cheer (Smithsness: +10)	
+		1		0	0	0	0	25 Feeling No Pain (+3 All Res, +10 DR, +100 DA)	
+		1		0	0	0	0	Unspaded 20 Tiki Temerity (+100% Moxie, +10% Moxie Gains)	
+		1		0	0	0	0	Unspaded 20 Tiki Toughness (+100% Muscle, +10% Muscle Gains)	
+		1		0	0	0	0	Unspaded 20 Tiki Thoughtfulness (+100% Mysticality, +10% Mysticality Gains)	
+		5		0	0	0	0		
+		1		0	0	0	10-20	30 Toothy Grin (+5 familiar weight)	
+		4		0	20-30	0	0	10 Mortarfied (+100 DA)	
+		13		0	80-100	80-100	80-100	-5 spleen	
+		8		0	25-45	25-45	25-45		
+		1		0	10-20	10-20	10-20		
+		1		0	0	0	0	15 Jerky, Boy (+25% Myst)	
+		1		0	0	0	20-30	30 Booze Goggles (+50 Mox, +25% Init, +25% Ranged Dam)	
+		4		0	3-5	3-5	3-5	30 Jungle Juiced (x2 stat gains in Deep Dark Jungle)	
+		1		0	4-5	4-5	4-5		
+		1		0	0	0	31-35		
+		6		0	0	4-6	0		
+		6		0	4-6	0	0		
+		1		0	0	13	0	13 La Oscuridad Adentro (+3 Mys exp, +13 spooky dam, +13 spooky spell dam)	
+		4		0	10-15	10-15	10-15		
+		4		0	0	0	10-20	50 Sizzling with Fury (+25 Hot Damage, +60 Init)	
+		1		0	0	0	30-40		
+		5		0	20-30	20-30	20-30		
+		5		0	0	15-20	0	40 Radiated and Grodiated (+50% Mys, +25 Stench Spell Dam, +3 Stench Res)	
+		1		0	0	0	0	40 Wings of the Grasshopper (+50 init)	
+		4		0	0	0	20-30	10 Cockroach Scurry (+50 Init)	
+		1		0	0	0	10-20	5 Holiday Bliss (+20 Item Drop, +20 Meat Drop)	
+		1		0	0	0	0	40 Slime Time (+100% HP)	
+		1		0	0	0	0	40 Floundering (+5 Fishing Skill)	
+		1		0	0	0	0	semi-rare number	
+		1		0	0	11-14	0		
+		2		0	0	35	0	30 Bright! (+100 max MP)	
+		4		0	0	0	34-80	20 Brined Liver	
+		1		0	0	0	0		
+		6		0	0	0	40-47		
+		6		0	10-20	10-20	10-20	20-40 MP	
+		10		0	60	60	60		
+		6		0	0	16-20	25-27		
+		1		0	8-10	0	0		
+		3		0	46-79	0	0	10 Sugar Rush	
+		1		0	0	0	8-10		
+		1		0	0	0	0	Unspaded	
+		2		0	5-10	0	0	20 Hagg-ard (+10 Mus)	
+		10		0	10-15	10-15	10-15	10-20 MP	
+		1		0	0	0	0	40 Meadulla Oblongota (+5 stats/fight, +50% MP)	
+		1		0	0	10-20	5-10		
+		7		0	0	75-120	0	1 Warm Belly (+hot dmg, +10 Fishy)	
+		10		0	0-40	0-40	0-40		
+		1		0	0	0	0	20 Christmessy (+5 Familiar Weight)	
+		7		0	20-30	20-30	20-30	20-30 MP	
+		1		0	5-10	5-10	5-10		
+		15		0	40-50	40-50	40-50		
+		3		0	16-20	0	0		
+		11		0	0	0	0	11 It's Not Even Funny	
+		2		0	25-50	10-20	10-20		
+		4		0	10-20	10-20	10-20		
+		5		0	0	0	31-50		
+		1		0	5-10	5-10	5-10	5 Mo' Hobo (+10 Hobo Power)	
+		6		0	40-47	0	0		
+		1		0	0	8-10	0		
+		3		0	0	5-10	0		
+		1		0	7-8	7-8	7-8		
+		4		0	10-15	10-15	10-15	10 Mo' Hobo (+10 Hobo Power)	
+		3		0	5-10	5-10	5-10		
+		4		0	10-15	10-15	10-15	Restores HP	
+		3		0	0	0	10-20	40 Truffle Tango (+50 Item drop)	
+		4		0	10-28	10-28	10-28		
+		1		0	4-6	0	0	40 Granolarrrgh (+20 Stench Damage & Stench Spell Damage)	
+		5		0	0	0	0	100 Majorly Poisoned	
+		1		0	30-50	30-50	30-50		
+		1		0	0	0	0		
+		7		0	0	30-50	0	30 Sweet Nostalgia (+20 Candy Drop)	
+		1		0	10-15	10-15	10-15	Vampyre	
+		5		0	25-40	25-40	25-40		
+		1		0	5-15	5-15	5-15	20 Burnt 'n' Turnt (Unimplemented)	
+		6		0	10-20	0	0	40 Punchy, Murdery (+50% Weapon Damage)	
+		4		0	0	0	25-50	20 L'instinct F&eacute;lin (+30 mox, better sleeper)	
+		5		0	0	0	0		
+		3		0	10-30	10-30	10-30	40 Orcmouth (+40 Sleaze Damage & Sleaze Spell Damage)	
+		1		0	0	0	30-40		
+		3		0	0	16-30	16-30	20 Chock Full o' Nanites (+10 HP/MP regen, +20 dmg)	
+		1		0	6-8	8-8	6-8	30 Ninja, Please (+15% critical, +15% critical spell)	
+		1		0	0	0	0		
+		1		0	0	30-40	0	50 Double Negavision (+50% item drop)	
+		6		0	25-27	0	16-20		
+		4		0	20-30	0	0	20 New Zeal (+40 HP, +20 MP)	
+		3		0	10-20	10-20	10-20	40 Hobo Powering Up! (+10 Hobo Power)	
+		4		0	5-10	5-10	5-10	40 Sour Grapes (+40% item drop)	
+		1		0	0	0	0	40 Nothing Happened (+20 Monster Level)	
+		4		0	25-27	8-10	0		
+		8		0	15-20	15-20	15-20	Restores HP	
+		5		0	0	0	0		
+		7		0	14-15	12-15	12-15		
+		3		0	0	8-10	0		
+		1		0	10-20	10-20	10-20	10 Festive Radiation (+5% all stats)	
+		7		0	15-25	15-25	15-25		
+		1		0	2-3	2-3	2-3		
+		3		0	15-25	15-25	15-25	20 Hoity Toity (+30% item drop)	
+		1		0	0	0	30-40		
+		3		0	100-150	0	0	80 Boletus Swoletus (+40 Mus)	
+		1		0	0	0	0		
+		1		0	10-12	0	0		
+		6		0	0	0	30-60		
+		13		0	50-100	50-100	50-100		
+		1		0	16-30	0	0		
+		2		0	11-15	11-15	11-15		
+		3		0	0	0	16-20		
+		4		0	0	0	0		
+		1		0	0	20-30	10-20		
+		1		0	50-80	50-80	50-80		
+		5		0	20-35	10-25	1-15		
+		5		0	1-15	20-35	10-25		
+		5		0	10-25	20-35	1-15		
+		5		0	1-15	10-25	20-35		
+		5		0	20-35	1-15	10-25		
+		5		0	10-25	1-15	20-35		
+		4		0	0	0	34-36		
+		4		0	0	0	0		
+		3		0	0	10-20	0	40 Hello, I Must Be Going (+40 Monster Level)	
+		1		0	0	0	0	40 Flambé-a-thon (+20 Hot Damage & Hot Spell Damage)	
+		1		0	0	0	0	+5 PvP fights	
+		4		0	25-27	0	8-10		
+		1		0	0	0	0	40 You Drank Fish Wine (+20 Cold Damage & Cold Spell Damage)	
+		4		0	0	0	0	40 Analog Drunk (+3 stats/fight)	
+		1		0	0	0	0		
+		8		0	0	0	30-40	15 Cockroach Scurry (+50 Init)	
+		1		0	0	0	0		
+		1		0	0	0	0		
+		8		0	14-20	0	0		
+		6		0	0	0	8-10		
+		1		0	1-2	1-2	1-2		
+		1		0	8-10	8-10	8-10	Extends the duration of up to 10 of your effects by 5 Adventures	
+		6		0	0	0	40-47		
+		11		0	150-250	0	0		
+		2		0	5-20	5-20	5-20	2-4 MP	
+		1		0	1-25	1-25	1-25	50 Boxing Day Drinking (+25 pickpocket chance, +5 stats/fight, reduces cost of recruiting staff)	
+		1		0	5-10	5-10	5-10	5 Fishy	
+		1		0	29-34	0	0		
+		6		0	0	30-40	0	100 Quaaaaaaa (+50% mys, +50 MP, +10-20 MP regen)	
+		3		0	10-30	10-30	10-30	40 The Effect Man Was Not Meant to Have (+40 Spooky Damage & Spooky Spell Damage)	
+		3		0	0	0	16-20		
+		6		0	100-300	100-300	100-300		
+		1		0	7-8	0	0		
+		15		0	228-300	228-300	228-300		
+		2		0	8-10	0	0	4-8 MP	
+		1		0	0	0	10-20	40 Putting the Pro in Proletariat (+50% Moxie, +25 ranged damage)	
+		6		0	200-240	0	0	4 Fullness 80 Gummiheart (+100 Muscle)	
+		1		0	0	10-20	0	5 World's Shortest Giant (+2 Prismatic Res)	
+		9		0	25-30	10-14	10-14	50 Boilermade (+5 Cold/Spooky Res)	
+		4		0	0	0	10-20	10-20 HP	
+		3		0	0	0	0	20-30 HP	
+		1		0	15-20	15-20	15-20	Vampyre	
+		1		0	0	31-35	0		
+		1		0	0	15-30	0		
+		5		0	15-30	0	15-30		
+		3		0	10-30	10-30	10-30	40 It Is So Hot In Your Guts, So So Hot (+40 Hot Damage & Hot Spell Damage )	
+		1		0	10-12	10-12	10-12		
+		1		0	10-20	10-20	10-20		
+		4		0	0	0	10-20		
+		4		0	0	0	34-36		
+		3		0	0	30-40	0		
+		4		0	0	34-36	0		
+		1		0	13	0	0	13 Desenfantasmada (+3 Mus exp, +2 spooky res)	
+		1		0	0	0	10-12	14-16 MP	
+		1		0	0	0	0		
+		2		0	30-60	0	-5-10		
+		1		0	15-30	15-30	15-30	50 Sacr&eacute; Mental (+50 Item drop)	
+		2		0	0	10-20	25-35		
+		8		0	0	0	60-115	30 Brined Liver	
+		8		0	60-115	0	0	30 Brined Liver	
+		5		0	15-25	15-25	15-25	10 Brined Liver	
+		1		0	0	8-10	0		
+		2		0	0	10-12	10-12		
+		3		0	0	8-10	0		
+		2		0	10-20	25-50	10-20		
+		6		0	0	16-20	0	tiny plastic sword	
+		1		0	10-20	0	0	5 Orc Chops (+50 Muscle)	
+		4		0	20-30	0	0	10 Orc Chops (+50 Muscle)	
+		1		0	0	0	0	random booze	
+		11		0	10-20	10-20	10-20	30 Hair on Your Chest (+50% MP)	
+		6		0	0	0	0	Unspaded 40 Tiki Toughness (+100% Muscle, +10% Muscle Gains)	
+		6		0	0	0	0		
+		4		0	34-80	0	0	20 Brined Liver	
+		1		0	8-10	0	0		
+		7		0	0	0	38-58	5-15 MP, 10 Shamboozled (+50% mox)	
+		9		0	18-22	18-22	18-22		
+		11		0	5-7	5-7	5-7		
+		1		0	0	0	0	+1 PvP fight, 3 Flower Power (+20% all stats)	
+		1		0	0	3-5	0		
+		1		0	5-10	5-10	5-10	+3 PvP fights	
+		6		0	0	25-75	0	50 Brainworm	
+		2		0	0	12-18	0	10 Memento Moir&eacute; (+3 exp)	
+		1		0	3-5	0	0		
+		8		0	0	0	14-20		
+		8		0	0	14-20	0		
+		1		0	10-12	10-12	10-12	lose 20-28 HP	
+		8		0	30-40	0	0	15 Creepypasted (+50 Spooky Dam)	
+		1		0	1-2	1-2	1-2		
+		1		0	0	0	0	40 Mushroom Samba (+25 Item drop)	
+		1		0	0	0	0	40 Sugar, Hello (+20 Mys)	
+		6		0	5-10	5-10	5-10	30 Wolf's Bane (+50 dmg vs. Werewolves)	
+		3		0	30-60	0	0	40 The Secret of the Ooze (+200% HP)	
+		3		0	0	30-60	0	40 Pounded by the Actual Stars (+100% MP)	
+		9		0	6-8	6-8	6-8	KOLHS	
+		8		0	30-40	0	0	15 Heart Aflame (+50 Hot Dam)	
+		4		0	0	0	0	Unspaded 30 Tiki Toughness (+100% Muscle, +10% Muscle Gains)	
+		1		0	0	0	0	+3 PvP fights	
+		4		0	0	8-10	25-27		
+		8		0	0	0	30-40	15 In the Slimelight (+50 Stench Dam)	
+		1		0	0	0	10-20	5 In the Slimelight (+50 Stench Dam)	
+		6		0	0	0	0	20 Bilious (+25 ML, slime res)	
+		4		0	34-36	0	0		
+		4		0	0	0	20-30	10  Gutterminded (+50 Sleaze Dam)	
+		4		0	20-30	0	0	10 Rampage! (+50% Weapon Dam)	
+		8		0	30-40	0	0	15 Rampage! (+50% Weapon Dam)	
+		1		0	20-40	20-40	20-40	acquire Hollow Leg (+1 Liver)	
+		2		0	0	0	0	10 Brined Liver	
+		2		0	0	0	0	10 Brined Liver	
+		2		0	0	0	0	10 Brined Liver	
+		3		0	0	0	100-150	80 Gyromitra Gymnastics (+40 Mox)	
+		4		0	0	0	0	Unspaded 30 Tiki Temerity (+100% Moxie, +10% Moxie Gains)	
+		4		0	-1	-1	-1	30 Sweet Tooth (+40% Candy Drops)	
+		1		0	0	8-10	0		
+		1		0	0	0	0	25 In a Lather (+20 Prismatic Dam, +40 Prismatic Spell Dam, +20 Ranged/Weapon Dam, +50% Weapon Dam, +40 Spell Dam, +50% Spell Dam)	
+		5		0	5-10	5-10	35-40		
+		1		0	0	0	0	40 Here's Mud in Your Eye (+50 Meat Drop)	
+		6		0	55-61	38-50	35-52	2 Electrolyte Fantastic (+10% mys exp)	
+		3		0	0	0	0	gain Oversaturated Palate or lose Deadened Palate	
+		5		0	10-20	10-20	10-20		
+		10		0	60	60	60		
+		2		0	0	0	17-30		
+		1		0	0	0	0	30 Loaded Forwarbear (So-So Supercold Resistance)	
+		3		0	0	30-60	0		
+		6		0	9-27	9-27	9-27	40 random spy buff	
+		3		0	0	16-30	16-30		
+		6		0	0	0	4-6		
+		1		0	0	0	0	20-30 crystalline cheer	
+		6		0	10-20	0	10-20		
+		5		0	0	0	0	Liver of Steel skill	
+		5		0	0	5-10	5-10	KOLHS	
+		24		0	20-30	20-30	20-30		
+		6		0	0	0	12-15		
+		1		0	0	0	8-10		
+		1		0	0	0	8-10		
+		1		0	0	0	7-9	50 Smithsness Cheer (Smithsness: +10)	
+		1		0	10-20	0	0	5 Heart Aflame (+50 Hot Dam)	
+		8		0	50-100	0	50-100		
+		8		0	8-12	8-12	8-12	15-20 MP	
+		4		0	20-30	0	0	10 Heart Aflame (+50 Hot Dam)	
+		3		0	0	0	50-100	80 Tremella Tremens (+40 Item Drop)	
+		4		0	0	0	15-30	5 Margaritish (+moxie)	
+		6		0	0	16-20	25-27		
+		1		0	12-15	12-15	12-15		
+		4		0	15-30	15-30	15-30		
+		3		0	16-20	0	0		
+		6		0	40-47	0	0		
+		1		0	8-10	0	0		
+		3		0	0	16-20	0		
+		3		0	8-9	0	0		
+		2		0	10-20	10-20	25-50		
+		12		0	20-50	20-50	20-50	30 You Can Taste the Darkness (+9 Spooky Res, +100 Spooky Dam)	
+		6		0	15-30	15-30	15-30	-1 Fullness	
+		1		0	5-6	5-6	5-6	lose 1-2 HP	
+		1		0	0	0	75-100		
+		4		0	20-40	20-40	20-40	40 Third Based (+25% pickpocket chance)	
+		10		0	0	0	30-60	lose 50-75 HP	
+		22		0	10-20	10-20	10-20	30-40 MP	
+		1		0	6-8	8-8	6-8	30 Pisces in the Skyces (+150% spell dmg)	
+		2		0	10-12	0	10-12		
+		4		0	20-30	0	0	10 Creepypasted (+50 Spooky Dam)	
+		6		0	10-20	10-20	10-20		
+		4		0	26-30	2-3	2-3		
+		6		0	0	0	0	Unspaded 40 Tiki Thoughtfulness (+100% Mysticality, +10% Mysticality Gains)	
+		2		0	80-100	0	0	40 Haunted Liver (+50% Item drop, +25% Meat drop)	
+		4		0	40-50	40-50	40-50		
+		1		0	1-2	1-2	1-2		
+		1		0	0	0	0		
+		1		0	6	6	6	very random stat gain, average only	
+		4		0	5-10	0	10-20		
+		1		0	0	0	5-10	50 Hollow Inside (+6 Maximum Hooch)	
+		10		0	60	60	60		
+		1		0	0	0	0	+1 PvP fight	
+		1		0	25-30	25-30	25-30	Vampyre	
+		1		0	5-20	5-20	5-20		
+		6		0	0	0	16-20	tiny plastic sword	
+		1		0	0	0	0	1 Smart Drunk (+120 HP, +20 Familiar Weight)	
+		1		0	0	15-20	0		
+		3		0	0	16-20	0		
+		3		0	10-20	10-20	10-20	40 Mer-kinkiness (+4 Prismatic res)	
+		1		0	0	0	30-40		
+		3		0	0	0	16-20		
+		1		0	0	0	8-10		
+		2		0	25-50	10-20	10-20		
+		1		0	0	0	0	40 Mer-kindliness (+2 Prismatic res)	
+		6		0	25-27	0	16-20		
+		7		0	5-10	5-10	20-40		
+		1		0	5-10	5-10	5-10	40 Warbear Warlust (+60 WarBear Armor Penetration)	
+		1		0	5-10	5-10	5-10	40 Warbear Blubber (Serious Supercold resistance)	
+		1		0	5-10	5-10	5-10	40 Warbear Loot Lust (+15% Items from WarBears)	
+		1		0	6-8	8-8	6-8	30 Wasabi With You (+150% weapon dmg)	
+		1		0	25-35	25-35	25-35		
+		1		0	20-25	20-25	20-25	30 Waxing (+100% HP, +50% MP, +50 Init)	
+		11		0	0	40-60	0		
+		1		0	0	4-6	4-6	14-16 MP	
+		1		0	0	8-10	0	3-5 MP	
+		3		0	16-20	0	0		
+		6		0	25-75	0	0	50 Bloody Grin	
+		1		0	8-10	0	0		
+		1		0	0	0	0	20 Hobo Powers Activate! (+10 Hobo power)	
+		1		0	10-12	0	0	3 Canadianity	
+		20		0	10-20	10-20	10-20	50 Whitesloshed (+500 Dreadsylvania Item Drops)	
+		2		0	21-24	0	0		
+		3		0	0	0	0	3 Temporary Blindness	
+		1		0	8-10	8-10	8-10		
+		2		0	12-18	0	0	10 Flashing Eyes (+30% meat drop)	
+		1		0	3-5	3-5	3-5		
+		1		0	0	8-10	0		
+		1		0	-1	-1	-1	10 Literally Insane (Legendary Beat quest)	
+		5		0	20-30	20-30	20-30		
+		7		0	50	50	50		
+		7		0	20-30	20-30	20-30		
+		6		0	0	40-47	0		
+		6		0	0	0	200-240	4 Fullness 80 Gummskin (+100 Mox)	
+		3		0	0	16-20	0		
+		1		0	0	10-20	0		
+		1		0	10-20	0	0	5 Rampage! (+50% Weapon Dam)	
+			0	0	0	0		
