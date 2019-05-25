@@ -230,6 +230,20 @@ To Update type in KolMafia Console:
 <pre>
 svn update plasticlobster-2crs-overrides-branches-discobandit-vole
 </pre>
+Disco Bandit / Wallaby:
+----------------------
+To Install type in KolMafia Console:
+<pre>
+svn checkout https://github.com/plasticlobster/2crs-overrides/branches/discobandit/wallaby
+</pre>
+To Remove type in KolMafia Console:
+<pre>
+svn delete plasticlobster-2crs-overrides-branches-discobandit-wallaby
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-discobandit-wallaby
+</pre>
 Disco Bandit / Wombat:
 ----------------------
 To Install type in KolMafia Console:
