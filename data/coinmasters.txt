@@ -328,7 +328,7 @@ Crimbo 2011	sell	5	aerosolized huge bazookafish bubble gum
 Crimbo 2011	sell	10	polymerized enhanced Bit O' Ectoplasm
 Crimbo 2011	sell	10	boiled pulsating BitterSweetTarts
 Crimbo 2011	sell	25	wet irradiated wobbly candy heart
-Crimbo 2011	sell	100	blood 'n' plenty
+Crimbo 2011	sell	100	extra-cold-filtered skewed Blood 'n' Plenty
 Crimbo 2011	sell	50	oxidized breath mint
 Crimbo 2011	sell	5	jumbo adequate twirling fuchsia brown sugar cane
 Crimbo 2011	sell	10	non-ionized galvanized twirling blurry kobold
@@ -418,7 +418,7 @@ Crimbo 2011	sell	250	denatured ionized enhanced huge lump of Saccharine Maple sa
 Crimbo 2011	sell	1	double-electrified pressed marzipan skull
 Crimbo 2011	sell	5	anodized extra-ionized Mr. Mediocrebar
 Crimbo 2011	sell	25	special adequate big nanite-infested candy cane
-Crimbo 2011	sell	25	necbro wafers
+Crimbo 2011	sell	25	aerosolized vacuum-sealed electrified Necbro wafers
 Crimbo 2011	sell	25	polarized spinning Now and Earlier
 Crimbo 2011	sell	25	magnetized polymerized upside-down Nuclear Blastball
 Crimbo 2011	sell	25	colloidal alkaline nitrogenated narrow and Crimboween candy
@@ -582,15 +582,15 @@ The Shore, Inc. Gift Shop	buy	5	upside-down fuzzy dice	ROW177
 
 # Things you can buy with warbear whosits
 
-Warbear Black Box	buy	10	mirror upside-down blind-packed die-cast toy	ROW224
-Warbear Black Box	buy	50	ghostly warbear helm fragment	ROW221
-Warbear Black Box	buy	50	warbear trouser fragment	ROW222
-Warbear Black Box	buy	50	twirling ghostly warbear accoutrements chunk	ROW223
-Warbear Black Box	buy	100	warbear requisition box	ROW225
-Warbear Black Box	buy	200	upside-down nasty smooth warbear dress greaves	ROW242
-Warbear Black Box	buy	300	Tesla sage warbear dress bracers	ROW243
-Warbear Black Box	buy	400	blurry razor-sharp cool warbear dress helmet	ROW244
-Warbear Black Box	buy	500	warbear officer requisition box	ROW226
+shaking warbear box	buy	10	mirror upside-down blind-packed die-cast toy	ROW224
+shaking warbear box	buy	50	ghostly warbear helm fragment	ROW221
+shaking warbear box	buy	50	warbear trouser fragment	ROW222
+shaking warbear box	buy	50	twirling ghostly warbear accoutrements chunk	ROW223
+shaking warbear box	buy	100	warbear requisition box	ROW225
+shaking warbear box	buy	200	upside-down nasty smooth warbear dress greaves	ROW242
+shaking warbear box	buy	300	Tesla sage warbear dress bracers	ROW243
+shaking warbear box	buy	400	blurry razor-sharp cool warbear dress helmet	ROW244
+shaking warbear box	buy	500	warbear officer requisition box	ROW226
 
 # Things you can buy with odd silver coins
 
@@ -915,19 +915,19 @@ G-Mart	buy	3	maroon crude oil congealer	ROW1021
 G-Mart	buy	11	gattoo	ROW1019
 
 # PirateRealm
-PirateRealm Fun-a-Log	buy	20	PirateRealm party hat of James Dean of chilblains of terror	ROW1064
-PirateRealm Fun-a-Log	buy	100	rotten crabsicle	ROW1053
-PirateRealm Fun-a-Log	buy	100	activated pirate shaving cream	ROW1057
-PirateRealm Fun-a-Log	buy	100	acceptable bottle of dark rhum	ROW1054
-PirateRealm Fun-a-Log	buy	100	bad shaking bottle of extra-dark rhum	ROW1055
-PirateRealm Fun-a-Log	buy	100	delicious bottle of super-extra-dark rhum	ROW1056
-PirateRealm Fun-a-Log	buy	600	narrow PirateRealm guest pass	ROW1067
-PirateRealm Fun-a-Log	buy	1000	Temple Grandin's Da Vinci's conquistador's breastplate	ROW1058
-PirateRealm Fun-a-Log	buy	1000	tumbling rosy-cheeked arcane researcher's piratical blunderbuss	ROW1063
-PirateRealm Fun-a-Log	buy	1000	hardy plush sea serpent	ROW1062
-PirateRealm Fun-a-Log	buy	1000	huge hardy pirate radio ring of dire peril	ROW1059
-PirateRealm Fun-a-Log	buy	2000	rotten narrow pirate fork	ROW1065
-PirateRealm Fun-a-Log	buy	2000	Scurvy and Sobriety Prevention	ROW1066
-PirateRealm Fun-a-Log	buy	2000	twirling ring	ROW1068
-PirateRealm Fun-a-Log	buy	3000	gray Island Drinkin', a Tiki Mixology Odyssey	ROW1060
-PirateRealm Fun-a-Log	buy	5000	Red Roger tattoo kit	ROW1061
+PirateRealm fun-a-log	buy	20	PirateRealm party hat of James Dean of chilblains of terror	ROW1064
+PirateRealm fun-a-log	buy	100	rotten crabsicle	ROW1053
+PirateRealm fun-a-log	buy	100	activated pirate shaving cream	ROW1057
+PirateRealm fun-a-log	buy	100	acceptable bottle of dark rhum	ROW1054
+PirateRealm fun-a-log	buy	100	bad shaking bottle of extra-dark rhum	ROW1055
+PirateRealm fun-a-log	buy	100	delicious bottle of super-extra-dark rhum	ROW1056
+PirateRealm fun-a-log	buy	600	narrow PirateRealm guest pass	ROW1067
+PirateRealm fun-a-log	buy	1000	Temple Grandin's Da Vinci's conquistador's breastplate	ROW1058
+PirateRealm fun-a-log	buy	1000	tumbling rosy-cheeked arcane researcher's piratical blunderbuss	ROW1063
+PirateRealm fun-a-log	buy	1000	hardy plush sea serpent	ROW1062
+PirateRealm fun-a-log	buy	1000	huge hardy pirate radio ring of dire peril	ROW1059
+PirateRealm fun-a-log	buy	2000	rotten narrow pirate fork	ROW1065
+PirateRealm fun-a-log	buy	2000	Scurvy and Sobriety Prevention	ROW1066
+PirateRealm fun-a-log	buy	2000	twirling ring	ROW1068
+PirateRealm fun-a-log	buy	3000	gray Island Drinkin', a Tiki Mixology Odyssey	ROW1060
+PirateRealm fun-a-log	buy	5000	Red Roger tattoo kit	ROW1061
