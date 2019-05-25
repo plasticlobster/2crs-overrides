@@ -720,6 +720,20 @@ To Update type in KolMafia Console:
 <pre>
 svn update plasticlobster-2crs-overrides-branches-turtletamer-vole
 </pre>
+Turtle Tamer / Wallaby:
+----------------------
+To Install type in KolMafia Console:
+<pre>
+svn checkout https://github.com/plasticlobster/2crs-overrides/branches/turtletamer/wallaby
+</pre>
+To Remove type in KolMafia Console:
+<pre>
+svn delete plasticlobster-2crs-overrides-branches-turtletamer-wallaby
+</pre>
+To Update type in KolMafia Console:
+<pre>
+svn update plasticlobster-2crs-overrides-branches-turtletamer-wallaby
+</pre>
 Turtle Tamer / Wombat:
 ----------------------
 To Install type in KolMafia Console:
