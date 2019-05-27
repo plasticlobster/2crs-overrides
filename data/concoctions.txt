@@ -70,7 +70,7 @@ plate of Shrub's Premium Baked Beans	SUSE	Shrub's Premium Baked Beans
 # smithing.
 
 present	COMBINE	stylish box	wrapping paper
-bow staff	SMITH	big stick	bow
+bow staff	SMITH	gray stick	bow
 bowlegged pants	SMITH	pants kit	bow
 bowler	SMITH	helmet recipe	bow
 Crimbo hat	SMITH	wrapping paper	helmet recipe
@@ -85,16 +85,16 @@ Tropical Crimbo Sword	SMITH	tropical wrapping paper	sword hilt
 
 abridged dictionary	COMBINE	bridge	dictionary
 badass belt of dire peril	COMBINE	studded batskin belt	Oprah's skull of the Bonerdagon
-bitchin' meatcar	ACOMBINE	dope wheels	meat engine
-pumpkin carriage	ACOMBINE	dope wheels	pumpkin
+shaking narrow bitchin' meatcar	ACOMBINE	yellow spinning dope wheels	mirror ghostly purple meat engine
+pumpkin carriage	ACOMBINE	yellow spinning dope wheels	pumpkin
 blinking lion tamer's bone rattle	COMBINE	skeleton bone of the sewer	broken skull
-cyan asbestos-lined sage Bonerdagon necklace of the cheetah	COMBINE	hemp string	vertebra of the Bonerdagon
-cog and sprocket assembly	COMBINE	cog	sprocket assembly
-dope wheels	COMBINE	tires	sweet rims
-full meat tank	COMBINE	empty meat tank	meat stack
+cyan asbestos-lined sage Bonerdagon necklace of the cheetah	COMBINE	red hemp string	vertebra of the Bonerdagon
+lime green cog and sprocket assembly	COMBINE	cog	bouncing narrow sprocket assembly
+yellow spinning dope wheels	COMBINE	squat jittery tires	sweet rims
+full meat tank	COMBINE	tumbling empty meat tank	meat stack
 Harold's hammer	COMBINE	Harold's hammer head	Harold's hammer handle
-heavy metal sonata	COMBINE	chrome ore	drab sonata
-tumbling beefcake's thunderrr guitarrr	COMBINE	acoustic guitarrr of dire peril	chrome ore
+heavy metal sonata	COMBINE	red chrome ore	drab sonata
+tumbling beefcake's thunderrr guitarrr	COMBINE	acoustic guitarrr of dire peril	red chrome ore
 hosed fishbowl	COMBINE	fishbowl	fish hose
 hosed tank	COMBINE	fishtank	fish hose
 imbued seal-blubber candle	COMBINE	powdered sealbone	seal-blubber candle
@@ -103,10 +103,10 @@ lion tamer's Tesla makeshift SCUBA gear of the businessman	COMBINE	hosed tank	fi
 lion tamer's Tesla makeshift SCUBA gear of the businessman	COMBINE	hosed fishbowl	fishtank
 Mighty Bjorn action figure	COMBINE, NODISCOVERY	action figure head	action figure body
 oyster basket	COMBINE	tisket	tasket
-really really sticky spider web	COMBINE	really sticky spider web	really sticky spider web
-really sticky spider web	COMBINE	spider web	spider web
+blinking really really spider web	COMBINE	blue really spider web	blue really spider web
+blue really spider web	COMBINE	spider web	spider web
 skeleton key	COMBINE	skeleton bone of the sewer	loose teeth
-rusty metal key	COMBINE	rusty metal ring	rusty metal shaft
+key	COMBINE	ring	bouncing shaft
 boxer's tambourine	COMBINE	Gnollish pie tin	tambourine bells
 charged magnet	COMBINE	non-boiled cold-filtered twirling sand	tumbling moxie magnet
 pumpkin bomb	COMBINE	pumpkin	spinning Knob Goblin firecracker
@@ -118,7 +118,7 @@ Staff of Ed, almost	COMBINE	[2180]ancient amulet	avaricious Staff of Fats
 [2325]Staff of Ed	COMBINE	headpiece of the Staff of Ed	avaricious Staff of Fats
 [2325]Staff of Ed	COMBINE	[2286]Eye of Ed	Staff of Ed, almost
 
-meat stack	ACOMBINE, MANUAL	fairy gravy boat	meat from yesterday
+meat stack	ACOMBINE, MANUAL	twirling fairy gravy boat	jittery blue meat from yesterday
 
 
 # Items involved with defacing skillbooks into used skillbooks
@@ -151,19 +151,19 @@ The Necbronomicon (used)	ACOMBINE	The Necbronomicon	sandpaper
 # Items involved with the campground, or subcomponents involved in the
 # creation of campground items.
 
-barskin tent	COMBINE	bar skin	cyan sinister stakes
-beanbag chair	COMBINE	hill of beans	shaking savvy filthy knitted dread sack
+barskin tent	COMBINE	pulsating bar skin	cyan sinister stakes
+purple beanbag chair	COMBINE	yellow narrow hill of beans	shaking savvy filthy knitted dread sack
 cottage	COMBINE	anticheese	special rotten bowl of cottage cheese
 evil golden arches	COMBINE	evil golden arch	evil golden arch
-lifeless meat doll	COMBINE	meat face	wooden figurine
-maid head	COMBINE	brainy skull	maiden wig
-meat engine	COMBINE	full meat tank	cog and sprocket assembly
-meat face	COMBINE	fairy gravy boat	dried face
+lifeless meat doll	COMBINE	meat face	wobbly purple figurine
+maid head	COMBINE	spinning cyan brainy skull	maiden wig
+mirror ghostly purple meat engine	COMBINE	full meat tank	lime green cog and sprocket assembly
+meat face	COMBINE	twirling fairy gravy boat	olive dried face
 meat golem	COMBINE	lifeless meat doll	distilled upside-down jittery magicalness-in-a-can
 Meat maid	COMBINE	maid head	Meat maid body
-Meat maid body	COMBINE	frilly skirt	meat engine
+Meat maid body	COMBINE	frilly skirt	mirror ghostly purple meat engine
 ghostly Jim Carey's pretty bouquet	COMBINE	pretty flower	pretty flower
-spooky scarecrow	COMBINE	cyan sinister stakes	staff of dire peril of the detective
+scarecrow	COMBINE	cyan sinister stakes	staff of dire peril of the detective
 
 
 # Weapons and accessories that can be created by non-seal clubbers by
@@ -171,16 +171,16 @@ spooky scarecrow	COMBINE	cyan sinister stakes	staff of dire peril of the detecti
 
 ghostly twirling up-at-dawn extremely unsafe aerated diving helmet of the boozehound	COMBINE	bubblin' stone	narrow mansplainer's ruddy brawny diving helmet
 medical-grade studded asshat	COMBINE	lime green mirror bum cheek of wisdom	lime green mirror bum cheek of wisdom
-shaking padded beach glass necklace	COMBINE	beach glass bead	hemp string
-detective skull	COMBINE	gnoll lips	brainy skull
-skewed personal trainer's disembodied smile	COMBINE	gnoll lips	gnoll teeth
-upside-down eyepatch of James Dean	COMBINE	executive eyepatch	lihc eye
-asbestos-lined gnatwing earring of mayonnaise	COMBINE	gnatwing	piercing post
-Gnollish autoplunger of bravery	COMBINE	Gnollish plunger	meat engine
-wobbly sinister gnoll-tooth necklace	COMBINE	gnoll teeth	hemp string
-squat avaricious peace-sign necklace	COMBINE	clay peace-sign bead	hemp string
-phat turquoise bracelet of the boozehound	COMBINE	phat turquoise bead	hemp string
-staff of dire peril of the detective	COMBINE	spooky shrunken head	squat ruddy stick
+shaking padded beach glass necklace	COMBINE	beach glass bead	red hemp string
+bouncing twirling detective skull	COMBINE	upside-down green gnoll lips	spinning cyan brainy skull
+skewed personal trainer's disembodied smile	COMBINE	upside-down green gnoll lips	upside-down gnoll teeth
+upside-down eyepatch of James Dean	COMBINE	executive eyepatch	bouncing lihc eye
+asbestos-lined gnatwing earring of mayonnaise	COMBINE	gnatwing	tumbling piercing post
+Gnollish autoplunger of bravery	COMBINE	olive shaking Gnollish plunger	mirror ghostly purple meat engine
+wobbly sinister gnoll-tooth necklace	COMBINE	upside-down gnoll teeth	red hemp string
+squat avaricious peace-sign necklace	COMBINE	clay peace-sign bead	red hemp string
+phat turquoise bracelet of the boozehound	COMBINE	phat turquoise bead	red hemp string
+staff of dire peril of the detective	COMBINE	shaking shrunken head	squat ruddy stick
 
 snakehead charrrm	SUSE	gaudy key
 # Talisman o' Namsilat	SUSE	snakehead charrrm	snakehead charrrm
@@ -190,7 +190,7 @@ fireproof stanky dangerous boxing glove on a spring	COMBINE	spring	mirror chaoti
 upside-down grass whistle of the early riser	COMBINE	leaf of grass	leaf of grass
 reassuring slick office-supply crossbow	COMBINE	stolen office supplies	stolen office supplies
 wings of fire	COMBINE	fiery wing	fiery wing
-electrified club of corruption	COMBINE	seal-clubbing club	improved non-Vulcanized tainted seal's blood
+electrified club of corruption	COMBINE	wobbly seal-clubbing club	improved non-Vulcanized tainted seal's blood
 corrupt club of corruption of incineration	COMBINE	electrified club of corruption	improved non-Vulcanized tainted seal's blood
 zippy corrupt club of corrupt corruption	COMBINE	corrupt club of corruption of incineration	improved non-Vulcanized tainted seal's blood
 
@@ -211,10 +211,10 @@ roller skate decoy	COMBINE	roller skate doll	twirling dorsal fin of the dark art
 giant diamond ring	JEWEL	lump of diamond	ring setting
 mysterious present	ACOMBINE	stylish box	pickled probability potion
 Russian Ice	MIX_FANCY	boozy hand-crafted bottle of vodka	jittery reassuring ice cubes
-boxing-glove-in-a-box	ACOMBINE	nothing-in-the-box	mirror chaotic boxing glove
+boxing-glove-in-a-box	ACOMBINE	pulsating nothing-in-the-box	mirror chaotic boxing glove
 innuendo	ACOMBINE	skeleton key	skate skates
 Salsa de las Epocas	COOK_FANCY	scrumptious reagent	colloidal cold-filtered narrow marzipan skull
-creepy voodoo doll	ACOMBINE	wooden figurine	gob of wet hair
+creepy voodoo doll	ACOMBINE	wobbly purple figurine	gob of wet hair
 s'more gun	ACOMBINE	ionized concentrated ghostly fire flower	chaotic armgun of the early riser
 popcorn	ACOMBINE	spinning Knob Goblin firecracker	spoiled huge cob of corn
 the finger	ACOMBINE	blinking asparagus knife of courage	fake hand
@@ -226,11 +226,11 @@ chaos popcorn	COMBINE	popcorn	chaos butterfly
 # Clover weapons and their subcomponents.  These can be made by all
 # classes by meatsmithing
 
-ten-leaf clover	SUSE, NOBEE	disassembled clover
-disassembled clover	SUSE	ten-leaf clover
+huge ten-leaf clover	SUSE, NOBEE	disassembled clover
+disassembled clover	SUSE	huge ten-leaf clover
 
 # seal-toothed rock	SMITH	purple seal tooth	rock
-# Bjorn's Hammer	SMITH	seal-toothed rock	seal-clubbing club
+# Bjorn's Hammer	SMITH	lime green seal-toothed rock	wobbly seal-clubbing club
 blinking razor-sharp Hammer of Smiting of horror	SMITH	wobbly wobbly lime green scandalous Bjorn's Hammer	distilled seal blood
 
 # stone turtle	SMITH	chisel	rock
@@ -238,11 +238,11 @@ blinking razor-sharp Hammer of Smiting of horror	SMITH	wobbly wobbly lime green 
 Chelonian Morningstar of extreme caution of incineration	SMITH	cyan Mace of the Tortoise of Gandalf	turtle chain
 
 # spaghetti with rock-balls	SMITH	petrified noodles	rock
-# Pasta of Peril	SMITH	spaghetti with rock-balls	pasta spoon
+# Pasta of Peril	SMITH	spaghetti with rock-balls	purple pasta spoon
 ruddy hardened beefy Greek Pasta Spoon of Peril	SMITH	bouncing frightening savvy Pasta Spoon of Peril	high-octane olive oil
 
 # heavy hot sauce	SMITH	jaba&ntilde;ero pepper	rock
-# 5-Alarm Saucepan	SMITH	heavy hot sauce	saucepan
+# 5-Alarm Saucepan	SMITH	hot sauce	saucepan
 blurry teal supercharged 17-alarm Saucepan of the storm	SMITH	olive rosewater-soaked 5-Alarm Saucepan	Peppercorns of Power
 
 # stone banjo	SMITH	banjo strings	rock
@@ -261,19 +261,19 @@ shin gourds	SMITH	pumpkin	pumpkin
 # recalled purpose.
 
 cocoa egg	COOK	rotten cocoa eggshell fragment	rotten cocoa eggshell fragment
-fertilized ghuol egg	COMBINE	low-calorie decent mirror ghuol egg	Spooky-Gro fertilizer
-goat	COMBINE	anticheese	stale goat cheese
+fertilized ghuol egg	COMBINE	low-calorie decent mirror ghuol egg	jittery Spooky-Gro fertilizer
+tumbling cyan goat	COMBINE	anticheese	stale goat cheese
 hovering sombrero	COMBINE	irate sombrero of the pedagogue	poultrygeist
 rotten cocoa eggshell fragment	COOK	adequate small cocoa eggshell fragment	adequate small cocoa eggshell fragment
 one-winged stab bat	COMBINE	squat batblade	bat wing
-pirate skull	COMBINE	executive eyepatch	brainy skull
-spooky pirate skeleton	SUSE	pirate skull	sunken chest	pirate pelvis	skeleton bone of the sewer (8)
+shaking pirate skull	COMBINE	executive eyepatch	spinning cyan brainy skull
+pirate skeleton	SUSE	shaking pirate skull	sunken chest	tumbling pirate pelvis	skeleton bone of the sewer (8)
 pregnant gloomy black mushroom	COOK	gloomy black mushroom	spooky fairy gravy
 pregnant oily golden mushroom	COOK	oily golden mushroom	sleazy fairy gravy
-pregnant mushroom	COOK	bland diet Knob mushroom	fairy gravy boat
+pregnant mushroom	COOK	bland diet Knob mushroom	twirling fairy gravy boat
 rewinged stab bat	COMBINE	bat wing	one-winged stab bat
-sabre-toothed lime cub	COMBINE	fancy toothsome narrow lime	cool sabre teeth
-sleazy fairy gravy	COOK	pr0n legs	fairy gravy boat
+huge sabre-toothed lime cub	COMBINE	fancy toothsome narrow lime	cool sabre teeth
+sleazy fairy gravy	COOK	pr0n legs	twirling fairy gravy boat
 ghost pickle on a stick	COOK	flavorless enchanted huge spectral pickle	skewer
 
 clockwork pirate skull	COMBINE	clockwork sphere	upside-down eyepatch of James Dean
@@ -302,18 +302,18 @@ rosewater-soaked beefcake's villainous scythe	SMITH	caustic slime nodule	twirlin
 # Box parts and things that go into boxes or become boxes or are involved
 # in some way with boxes and the things that become/go into them.
 
-bartender skull	COMBINE	brainy skull	beer goggles
-bartender-in-the-box	COMBINE	nothing-in-the-box	bartender skull
-beer goggles	COMBINE	beer lens	beer lens
-pulsating sharpshooter's box-in-the-box	COMBINE	stylish box	nothing-in-the-box
+blurry bartender skull	COMBINE	spinning cyan brainy skull	beer goggles
+bartender-in-the-box	COMBINE	pulsating nothing-in-the-box	blurry bartender skull
+beer goggles	COMBINE	maroon beer lens	maroon beer lens
+pulsating sharpshooter's box-in-the-box	COMBINE	stylish box	pulsating nothing-in-the-box
 personal trainer's box-in-the-box-in-the-box	COMBINE	stylish box	nothing-in-the-box-in-the-box
-brainy skull	COMBINE	disembodied brain	smart skull
-chef skull	COMBINE	brainy skull	wicked chef's hat of wisdom
-chef-in-the-box	COMBINE	nothing-in-the-box	chef skull
-nothing-in-the-box	COMBINE	stylish box	spring
+spinning cyan brainy skull	COMBINE	disembodied brain	jittery wobbly smart skull
+tumbling skewed chef skull	COMBINE	spinning cyan brainy skull	wicked chef's hat of wisdom
+blurry chef-in-the-box	COMBINE	pulsating nothing-in-the-box	tumbling skewed chef skull
+pulsating nothing-in-the-box	COMBINE	stylish box	spring
 nothing-in-the-box-in-the-box	COMBINE	pulsating sharpshooter's box-in-the-box	spring
-sprocket assembly	COMBINE	sprocket	spring
-4-d camera	COMBINE	nothing-in-the-box	beer lens
+bouncing narrow sprocket assembly	COMBINE	lime green sprocket	spring
+4-d camera	COMBINE	pulsating nothing-in-the-box	maroon beer lens
 
 # Items created by combining letters.
 
@@ -337,24 +337,24 @@ fudgesicle	COOK	popsicle stick	frigid fudgepuck
 bland wobbly banana cream pie	COOK	pie crust	spoiled banana
 banana milkshake	COOK	glass of baboon milk	spoiled banana
 banana spritzer	COOK	spoiled banana	soda water
-delicious bite-sized twirling bean burrito	COOK	flat dough	hill of beans
+delicious bite-sized twirling bean burrito	COOK	flat dough	yellow narrow hill of beans
 tasty cherry pie	COOK	pie crust	stale immense cherry
 cream pie	COOK	pie crust	glass of goat's milk
 briny vinegar	COOK	brine	vinegar
-toothsome bean burrito	COOK	flat dough	enchanted bean
+toothsome bean burrito	COOK	flat dough	bean
 miniature decent fuchsia flower petal pie	COOK	pretty flower	pie crust
 ghostly pickling solution	COOK	briny vinegar	dill
 half-sized bland shaking goat cheese pizza	COOK	normal fuchsia plain pizza	stale goat cheese
-guano coffee cup	SUSE, NOBEE	bat guano
-normal herb brownies	COOK	herbs	Uncle Jick's Brownie Mix
-pulsating hippy herbal tea	COOK	guano coffee cup	herbs
+upside-down guano coffee cup	SUSE, NOBEE	maroon bat guano
+normal herb brownies	COOK	herbs	tumbling maroon Uncle Jick's Brownie Mix
+pulsating hippy herbal tea	COOK	upside-down guano coffee cup	herbs
 Humpty Dumplings	COOK	eggman noodles	Vial of <i>jus de larmes</i>
 decent insanely bean burrito	COOK	normal bouncing bean burrito	jaba&ntilde;ero pepper
 stale tiny green insanely bean burrito	COOK	decent mirror spinning spinning bean burrito	jaba&ntilde;ero pepper
 adequate upside-down insanely jumping bean burrito	COOK	stale jumping bean burrito	jaba&ntilde;ero pepper
 bland fancy jittery jumping bean burrito	COOK	flat dough	pile of jumping beans
 adequate lemon meringue pie	COOK	pie crust	massive moldy lemon
-rotten jittery Lucky Surprise Egg	COOK	ten-leaf clover	cocoa egg
+rotten jittery Lucky Surprise Egg	COOK	huge ten-leaf clover	cocoa egg
 stale low-calorie mushroom pizza	COOK	normal fuchsia plain pizza	bland diet Knob mushroom
 pie crust	COOK	Gnollish pie tin	wad of dough
 normal fuchsia plain pizza	COOK	wad of dough	adequate bite-sized tomato
@@ -376,7 +376,7 @@ digital key lime	COOK	digital key	fancy toothsome narrow lime
 stale shaking digital key lime pie	COOK_FANCY	digital key lime	pie crust
 Jarlsberg's key lime	COOK	Jarlsberg's key	fancy toothsome narrow lime
 decent diet Jarlsberg's key lime pie	COOK_FANCY	Jarlsberg's key lime	pie crust
-Sneaky Pete's key lime	COOK	Sneaky Pete's key	fancy toothsome narrow lime
+Sneaky Pete's key lime	COOK	upside-down Sneaky Pete's key	fancy toothsome narrow lime
 stale Sneaky Pete's key lime pie	COOK_FANCY	Sneaky Pete's key lime	pie crust
 star key lime	COOK	Richard's star key	fancy toothsome narrow lime
 stale small star key lime pie	COOK_FANCY	star key lime	pie crust
@@ -392,23 +392,23 @@ wad of dough	ROLL	flat dough
 # Other recipes which aren't popular but can be created.  There is no
 # real reason why they aren't popular - they just aren't.
 
-adequate bat haggis	COOK	batgut	spices
+adequate bat haggis	COOK	narrow batgut	spices
 half-sized flavorless skewed bat wing kabob	COOK	bat wing	skewer
 flavorless brains casserole	COOK	rotten small twirling fricasseed brains	Gnollish casserole dish
-rotten carob brownies	COOK	flavorless huge carob chunks	Uncle Jick's Brownie Mix
+rotten carob brownies	COOK	flavorless huge carob chunks	tumbling maroon Uncle Jick's Brownie Mix
 adequate carob chunk cookies	COOK	flavorless huge carob chunks	wad of dough
 carrot cake	COOK	carrot nose	wad of dough
 spoiled snack-sized catgut taco	COOK	catgut	taco shell
 bland jumbo chorizo taco	COOK	adequate miniature bouncing uncooked chorizo	taco shell
 flavorless ghuol egg quiche	COOK	low-calorie decent mirror ghuol egg	pie crust
-decent ghuol-ear kabob	COOK	ghuol ears	skewer
+decent ghuol-ear kabob	COOK	lime green spinning ghuol ears	skewer
 stale goat cheese taco	COOK	stale goat cheese	taco shell
 half-sized special decent grue egg omelette	COOK_FANCY	grue egg	toothsome mushroom
-hot stuffing	COOK	heavy hot sauce	stuffing
+hot stuffing	COOK	hot sauce	stuffing
 adequate jumping bean taco	COOK	pile of jumping beans	taco shell
 snack-sized toothsome fuchsia Knob shroomkabob	COOK	bland diet Knob mushroom	skewer
 rotten miniature Knoll shroomkabob	COOK	normal mirror pulsating Knoll mushroom	skewer
-small bland lihc eye pie	COOK	lihc eye	pie crust
+small bland lihc eye pie	COOK	bouncing lihc eye	pie crust
 tiny decent menudo	COOK	catgut	spices
 diet normal papaya taco	COOK	enchanted flavorless papaya	taco shell
 toothsome tiny lime green pr0n cocktail	COOK	pr0n legs	ketchup
@@ -423,7 +423,7 @@ normal mushroom	COOK	toothsome mushroom	stale goat cheese
 decent tofu casserole	COOK	wad of tofu	Gnollish casserole dish
 decent tofu taco	COOK	wad of tofu	taco shell
 huge moldy wobbly chocolate chip cookies	COOK	rotten small chocolate chips	wad of dough
-spoiled twirling chocolate chip brownies	COOK	rotten small chocolate chips	Uncle Jick's Brownie Mix
+spoiled twirling chocolate chip brownies	COOK	rotten small chocolate chips	tumbling maroon Uncle Jick's Brownie Mix
 
 
 # Food requiring access to L11 or L12 quest areas
@@ -590,11 +590,11 @@ drinkable shot of tomato schnapps	MIX	fermenting powder	adequate bite-sized toma
 pebblebr&auml;u	MIX	floaty pebbles	mediocre ice-cold Sir Schlitz
 pebblebr&auml;u	MIX	floaty pebbles	irresponsibly strong acceptable ice-cold Willer
 
-lousy beer	MIX, SSPD	ten-leaf clover	mediocre ice-cold Sir Schlitz
-lousy beer	MIX, SSPD	ten-leaf clover	irresponsibly strong acceptable ice-cold Willer
+lousy beer	MIX, SSPD	huge ten-leaf clover	mediocre ice-cold Sir Schlitz
+lousy beer	MIX, SSPD	huge ten-leaf clover	irresponsibly strong acceptable ice-cold Willer
 # Allow manual crafting on unpredicted/held-over SSPDs
-lousy beer	MIX, MANUAL	ten-leaf clover	mediocre ice-cold Sir Schlitz
-lousy beer	MIX, MANUAL	ten-leaf clover	irresponsibly strong acceptable ice-cold Willer
+lousy beer	MIX, MANUAL	huge ten-leaf clover	mediocre ice-cold Sir Schlitz
+lousy beer	MIX, MANUAL	huge ten-leaf clover	irresponsibly strong acceptable ice-cold Willer
 
 flask of peppermint schnapps	MIX	fermenting powder	flask of peppermint oil
 
@@ -612,7 +612,7 @@ practically non-alcoholic bad martini	MIX	high-proof lousy bottle of gin	thick f
 bad strong blurry monkey wrench	MIX	watered-down perfectly mixed bottle of rum	low-calorie decent jittery grapefruit
 drinkable salty dog	MIX	high-proof lousy bottle of gin	low-calorie decent jittery grapefruit
 enchanted practically non-alcoholic lousy redrum	MIX	watered-down perfectly mixed bottle of rum	bland cranberries
-tolerable fancy twirling rum and cola	MIX	watered-down perfectly mixed bottle of rum	Dyspepsi-Cola
+tolerable fancy twirling rum and cola	MIX	watered-down perfectly mixed bottle of rum	twirling Dyspepsi-Cola
 tolerable fancy twirling rum and cola	MIX	watered-down perfectly mixed bottle of rum	Cloaca-Cola
 practically non-alcoholic acceptable screwdriver	MIX	boozy hand-crafted bottle of vodka	yummy immense 
 weak tolerable narrow spiced rum	MIX	watered-down perfectly mixed bottle of rum	spices
@@ -621,7 +621,7 @@ mediocre watered-down tumbling strawberry wine	MIX	acceptable boxed wine	small d
 acceptable tequila sunrise	MIX	high-proof hand-crafted bottle of tequila	yummy immense 
 practically non-alcoholic delicious vodka and cranberry	MIX	boozy hand-crafted bottle of vodka	bland cranberries
 drinkable weak blinking vodka martini	MIX	boozy hand-crafted bottle of vodka	thick flavorless narrow olive
-perfectly mixed watered-down gray whiskey and cola	MIX	special lousy bottle of whiskey	Dyspepsi-Cola
+perfectly mixed watered-down gray whiskey and cola	MIX	special lousy bottle of whiskey	twirling Dyspepsi-Cola
 perfectly mixed watered-down gray whiskey and cola	MIX	special lousy bottle of whiskey	Cloaca-Cola
 drinkable whiskey and soda	MIX	special lousy bottle of whiskey	soda water
 tolerable huge whiskey	MIX	special lousy bottle of whiskey	massive moldy lemon
@@ -777,9 +777,9 @@ tonic water	STILL, ROW279	soda water
 # Super-advanced Meatsmithing base ingredients.  These items are used
 # later in the construction of meat-smithing weapons.
 
-asbestos meat stack	WSMITH	asbestos ore	dense meat stack
-chrome meat stack	WSMITH	chrome ore	dense meat stack
-linoleum meat stack	WSMITH	linoleum ore	dense meat stack
+asbestos meat stack	WSMITH	asbestos ore	shaking dense meat stack
+chrome meat stack	WSMITH	red chrome ore	shaking dense meat stack
+linoleum meat stack	WSMITH	linoleum ore	shaking dense meat stack
 
 
 # Super-advanced Meatsmithing weapons.
@@ -806,16 +806,16 @@ hardy occult Socratic projectile icemaker	WSMITH	tumbling stanky nasty linoleum 
 bouncing extremely unsafe hairy staff of wisdom of Leguizamo	WSMITH	flame-retardant steel-toed linoleum staff	thinker's goat beard
 lightning-fast shuddersword of terror of the sweet-tooth	WSMITH	forbidden linoleum sword of the wise owl	dry wobbly nuggets
 
-skewed Jim Carey's bar whip	WSMITH	whip kit	bar skin
+skewed Jim Carey's bar whip	WSMITH	whip kit	pulsating bar skin
 shaking executive quilted bat whip	WSMITH	whip kit	leathery bat skin
 Lo Pan's clown whip	WSMITH	whip kit	clown skin
 purple MacGyver's wicked demon whip of dire peril	WSMITH	whip kit	demon skin
 wobbly wholesome gnauga hide whip	WSMITH	whip kit	gnauga hide
-rock-hard hippo whip	WSMITH	whip kit	hippopotamus skin
+rock-hard hippo whip	WSMITH	whip kit	squat hippopotamus skin
 Newton's penguin whip	WSMITH	whip kit	penguin skin
 frosty Fonzie's rattail whip	WSMITH	whip kit	leathery rat skin
 extremely unsafe cool tail o' nine cats	WSMITH	whip kit	leathery cat skin
-whip of the businessman	WSMITH	whip kit	white snake skin
+whip of the businessman	WSMITH	whip kit	blinking purple snake skin
 inspector's yak whip	WSMITH	whip kit	yak skin
 
 club of the five seasons	WSMITH	bigger stick	prismatic wad
@@ -838,12 +838,12 @@ rainbow bomb	COMBINE	stick of dynamite	prismatic wad
 # type of base material used in their creation.
 
 mirror toasty basic meat crossbow	SMITH	crossbow string	meat stack
-basic meat staff of the pedagogue	SMITH	big stick	meat stack
+basic meat staff of the pedagogue	SMITH	gray stick	meat stack
 nippy basic meat sword	SMITH	sword hilt	meat stack
 
-wool dense meat crossbow	SMITH	sinewy crossbow string	dense meat stack
-narrow frosty dense meat staff	SMITH	bigger stick	dense meat stack
-wobbly Usain Bolt's dense meat sword	SMITH	sturdy sword hilt	dense meat stack
+wool dense meat crossbow	SMITH	sinewy crossbow string	shaking dense meat stack
+narrow frosty dense meat staff	SMITH	bigger stick	shaking dense meat stack
+wobbly Usain Bolt's dense meat sword	SMITH	sturdy sword hilt	shaking dense meat stack
 
 wicked savory crossbow	SMITH	wool dense meat crossbow	scrumptious reagent
 medical-grade savory staff	SMITH	narrow frosty dense meat staff	scrumptious reagent
@@ -864,9 +864,9 @@ wobbly hardy basic meat spork of the bloodbag	SMITH	meat stack	squat pulsating c
 MacGyver's brawny bubblewrap crossbow	SMITH	mirror toasty basic meat crossbow	bubblewrap ore
 sizzling crafty groovy bubble bauble bow	SMITH	MacGyver's brawny bubblewrap crossbow	dope gangsta bling-bling
 lime green bubblewrap staff of the detective of the boozehound	SMITH	basic meat staff of the pedagogue	bubblewrap ore
-ribald steel-toed supercool wiffle-flail	SMITH	lime green bubblewrap staff of the detective of the boozehound	baseball
+ribald steel-toed supercool wiffle-flail	SMITH	lime green bubblewrap staff of the detective of the boozehound	narrow maroon baseball
 scorching manspreader's bubblewrap sword	SMITH	nippy basic meat sword	bubblewrap ore
-fireproof occult sword of static of terror	SMITH	scorching manspreader's bubblewrap sword	long skinny balloon
+fireproof occult sword of static of terror	SMITH	scorching manspreader's bubblewrap sword	skinny balloon
 
 forbidden groovy crossbow	SMITH	mirror toasty basic meat crossbow	cardboard ore
 lime green toasty sinister Da Vinci's grease gun	SMITH	forbidden groovy crossbow	adequate White Citadel burger
@@ -884,7 +884,7 @@ wobbly asbestos-lined experienced Frost&trade; brand sword of the scaredy-cat	SM
 
 extremely unsafe dripping meat crossbow	SMITH	mirror toasty basic meat crossbow	ketchup
 extremely unsafe dripping meat crossbow	SMITH	mirror toasty basic meat crossbow	catsup
-bouncing auspicious repeating crossbow	SMITH	extremely unsafe dripping meat crossbow	meat engine
+bouncing auspicious repeating crossbow	SMITH	extremely unsafe dripping meat crossbow	mirror ghostly purple meat engine
 red coward's dripping meat staff	SMITH	basic meat staff of the pedagogue	ketchup
 red coward's dripping meat staff	SMITH	basic meat staff of the pedagogue	catsup
 wool dog trainer's glistening staff	SMITH	red coward's dripping meat staff	denatured pressed upside-down huge sleaze powder
@@ -911,16 +911,16 @@ blinking narrow Da Vinci's starchy sword	SMITH	nippy basic meat sword	dry noodle
 prompt frosty pestoblade	SMITH	blinking narrow Da Vinci's starchy sword	spices
 
 blinking clever strapping ram-battering staff	SMITH	ram horns	brawny ram stick
-vibrating steel-toed icy-hot katana	SMITH	icy katana hilt	hot katana blade
+vibrating steel-toed icy-hot katana	SMITH	icy katana hilt	wobbly hot katana blade
 
 Staff of the November Jack-O-Lantern	SMITH	bigger stick	pumpkin
 
 # Meat-smithing armor pieces.  These items are helmets, pants,
 # and sometimes accessories which are created in smithing.
 
-rosewater-soaked meaty helmet turtle	ASMITH	Jack Frost's helmet turtle	dense meat stack
+rosewater-soaked meaty helmet turtle	ASMITH	Jack Frost's helmet turtle	shaking dense meat stack
 bouncing rosy-cheeked asbestos helmet turtle	ASMITH	rosewater-soaked meaty helmet turtle	asbestos ore
-blinking chrome helmet turtle of courage	ASMITH	rosewater-soaked meaty helmet turtle	chrome ore
+blinking chrome helmet turtle of courage	ASMITH	rosewater-soaked meaty helmet turtle	red chrome ore
 huge Van der Graaf linoleum helmet turtle	ASMITH	rosewater-soaked meaty helmet turtle	linoleum ore
 
 careful basic meat pants	SMITH	meat stack	pants kit
@@ -939,7 +939,7 @@ grass skirt	SMITH	fake plastic grass	skirt / kilt kit
 
 blurry Temple Grandin's fez of etymology	SMITH	bouncing careful Newton's basic meat fez	facsimile dictionary
 
-ghostly meat cowboy hat of Leguizamo	SMITH	twirling foul-smelling basic meat helmet	white snake skin
+ghostly meat cowboy hat of Leguizamo	SMITH	twirling foul-smelling basic meat helmet	blinking purple snake skin
 shaking frightening pimpin' meat hat of the blizzard	SMITH	twirling foul-smelling basic meat helmet	dope gangsta bling-bling
 dog trainer's rock helmet	ASMITH	twirling foul-smelling basic meat helmet	floaty rock
 narrow maroon rock pants	ASMITH	careful basic meat pants	floaty rock
@@ -957,12 +957,12 @@ double-paned educational belt	ASMITH	black snake skin	enormous belt buckle
 stanky clownskin belt	SMITH	clown skin	Rosewater's clown nose
 jittery flame-retardant ratskin belt of the businessman	ASMITH	leathery rat skin	enormous belt buckle
 cyan experienced sea holster of dire peril of vim and vigor	ASMITH	double-paned educational belt	sea leather
-skewed sizzling belt of the detective	SMITH	white snake skin	enormous belt buckle
+skewed sizzling belt of the detective	SMITH	blinking purple snake skin	enormous belt buckle
 
 
 # Hats made of hides of various sorts.
 
-blurry executive barskin hat	SMITH	twirling foul-smelling basic meat helmet	bar skin
+blurry executive barskin hat	SMITH	twirling foul-smelling basic meat helmet	pulsating bar skin
 foul-smelling veiny bat hat	ASMITH	twirling foul-smelling basic meat helmet	leathery bat skin
 bouncing ghostly smooth cowboy hat of extreme caution	ASMITH	twirling foul-smelling basic meat helmet	black snake skin
 teal electrified catskin cap	ASMITH	twirling foul-smelling basic meat helmet	leathery cat skin
@@ -978,17 +978,17 @@ wool yak toupee	ASMITH	twirling foul-smelling basic meat helmet	yak skin
 
 # Pants made of hides of various sorts.
 
-knitted barskin loincloth	SMITH	bar skin	pants kit
+knitted barskin loincloth	SMITH	pulsating bar skin	pants kit
 toasty demonskin trousers	SMITH	demon skin	pants kit
 tumbling rosewater-soaked eelskin pants	ASMITH	eel skin	pants kit
 spinning prompt furry pants	ASMITH	furry fur	pants kit
-padded hippopotamus pants	ASMITH	hippopotamus skin	pants kit
+padded hippopotamus pants	ASMITH	squat hippopotamus skin	pants kit
 bouncing supercharged lynyrdskin breeches	ASMITH	pants kit	lynyrd skin
 jittery red hardy penguin shorts	ASMITH	penguin skin	pants kit
 wobbly Temple Grandin's pink pinkslip slip of wisdom	ASMITH	Mer-kin pinkslip	Mer-kin pinkslip
 skewed mirror Jeselnik's banded groovy square sponge pants	ASMITH	slab of sponge	careful basic meat pants
-Jim Carey's meat pants	SMITH	really really sticky spider web	careful basic meat pants
-ribald tighty whiteys	SMITH	white snake skin	pants kit
+Jim Carey's meat pants	SMITH	blinking really really spider web	careful basic meat pants
+ribald tighty whiteys	SMITH	blinking purple snake skin	pants kit
 Herculean yakskin pants	ASMITH	yak skin	pants kit
 double-paned gnauga hide chaps	ASMITH	gnauga hide	pants kit
 educational sea chaps of the storm	ASMITH	sea leather	pants kit
@@ -997,11 +997,11 @@ educational sea chaps of the storm	ASMITH	sea leather	pants kit
 # Skirts made of hides of various sorts.
 
 arcane researcher's basic meat skirt	SMITH, FEMALE	meat stack	skirt / kilt kit
-meat skirt of Flo-Jo	SMITH, FEMALE	really really sticky spider web	arcane researcher's basic meat skirt
+meat skirt of Flo-Jo	SMITH, FEMALE	blinking really really spider web	arcane researcher's basic meat skirt
 
 healthy furry skirt	ASMITH, FEMALE	furry fur	skirt / kilt kit
 asbestos-lined gnauga hide skirt	ASMITH, FEMALE	gnauga hide	skirt / kilt kit
-chilly hippopotamus skirt	ASMITH, FEMALE	hippopotamus skin	skirt / kilt kit
+chilly hippopotamus skirt	ASMITH, FEMALE	squat hippopotamus skin	skirt / kilt kit
 gray wholesome penguinskin mini-skirt	ASMITH, FEMALE	penguin skin	skirt / kilt kit
 weightlifter's yakskin skirt	ASMITH, FEMALE	yak skin	skirt / kilt kit
 
@@ -1009,31 +1009,31 @@ weightlifter's yakskin skirt	ASMITH, FEMALE	yak skin	skirt / kilt kit
 # Kilts made of hides of various sorts.
 
 padded basic meat kilt	SMITH, MALE	meat stack	skirt / kilt kit
-yellow Tesla meat kilt	SMITH, MALE	really really sticky spider web	padded basic meat kilt
-yellow Tesla meat kilt	SMITH, MALE	really really sticky spider web	arcane researcher's basic meat skirt
+yellow Tesla meat kilt	SMITH, MALE	blinking really really spider web	padded basic meat kilt
+yellow Tesla meat kilt	SMITH, MALE	blinking really really spider web	arcane researcher's basic meat skirt
 
 furry kilt of dire peril	ASMITH, MALE	furry fur	skirt / kilt kit
 blue brainy gnauga hide kilt	ASMITH, MALE	gnauga hide	skirt / kilt kit
-hale hippopotamus kilt	ASMITH, MALE	hippopotamus skin	skirt / kilt kit
+hale hippopotamus kilt	ASMITH, MALE	squat hippopotamus skin	skirt / kilt kit
 stiffened penguinskin mini-kilt	ASMITH, MALE	penguin skin	skirt / kilt kit
 Van der Graaf yakskin kilt	ASMITH, MALE	yak skin	skirt / kilt kit
 
 
 # Bucklers made of hides of various sorts.
 
-barskin buckler of the businessman	ASMITH	buckler buckle	bar skin
+barskin buckler of the businessman	ASMITH	buckler buckle	pulsating bar skin
 blinking lime green shaking rock-hard Da Vinci's catskin buckler	ASMITH	buckler buckle	leathery cat skin
 pulsating clownskin buckler of the scaredy-cat	ASMITH	buckler buckle	clown skin
 censurious demon buckler	ASMITH	buckler buckle	demon skin
 spinning gravedigger's gnauga hide buckler	ASMITH	buckler buckle	gnauga hide
-spinning jittery flame-retardant hippo skin buckler	ASMITH	buckler buckle	hippopotamus skin
+spinning jittery flame-retardant hippo skin buckler	ASMITH	buckler buckle	squat hippopotamus skin
 sage penguin skin buckler	ASMITH	buckler buckle	penguin skin
 pulsating stiffened yakskin buckler	ASMITH	buckler buckle	yak skin
 
 
 # Advanced Shields
 
-meat shield of the scaredy-cat	ASMITH	buckler buckle	dense meat stack
+meat shield of the scaredy-cat	ASMITH	buckler buckle	shaking dense meat stack
 narrow eelskin shield of Leguizamo	ASMITH	meat shield of the scaredy-cat	eel skin
 wool Jim Carey's painted shield	ASMITH	meat shield of the scaredy-cat	painted turtle
 wool clever spiky turtle shield	ASMITH	meat shield of the scaredy-cat	hedgeturtle
@@ -1043,15 +1043,15 @@ Jim Carey's slick tortoboggan shield	ASMITH	gray chilly curative tortoboggan	gra
 
 # Shirts made of hides of various sorts.
 
-prompt barskin cloak	ASMITH	shirt kit	bar skin
+prompt barskin cloak	ASMITH	shirt kit	pulsating bar skin
 dance instructor's beefy bat-ass jacket	ASMITH	shirt kit	leathery bat skin
 therapeutic clownskin harness of the empath	ASMITH	shirt kit	clown skin
 hardened demonskin jacket of the blizzard	ASMITH	shirt kit	demon skin
 mirror horrifying frosty gnauga hide vest	ASMITH	shirt kit	gnauga hide
-boxer's hipposkin poncho	ASMITH	shirt kit	hippopotamus skin
+boxer's hipposkin poncho	ASMITH	shirt kit	squat hippopotamus skin
 blinking shaking personal trainer's lynyrdskin tunic	ASMITH	shirt kit	lynyrd skin
 twirling tuxedo shirt of wisdom	ASMITH	shirt kit	penguin skin
-nippy snakeskin duster of Calamity Jane	ASMITH	shirt kit	white snake skin
+nippy snakeskin duster of Calamity Jane	ASMITH	shirt kit	blinking purple snake skin
 avaricious yak anorak	ASMITH	shirt kit	yak skin
 
 
@@ -1062,13 +1062,13 @@ knitted medical-grade thinker's bubblewrap bottlecap turtleban	ASMITH	bubblewrap
 box turtle of terror	ASMITH	cardboard ore	Jack Frost's box turtle
 furry earmuffs of the pedagogue	ASMITH	furry turtle of the scaredy-cat	furry turtle of the scaredy-cat
 upside-down shaking brawny knobby kneepads	ASMITH	bouncing bouncing double-paned knobby helmet turtle	bouncing bouncing double-paned knobby helmet turtle
-veiny slick reinforced furry underpants	ASMITH	bar skin	chilly skeletortoise
+veiny slick reinforced furry underpants	ASMITH	pulsating bar skin	chilly skeletortoise
 dangerous samurai turtle helmet of wisdom	ASMITH	twirling foul-smelling basic meat helmet	samurai turtle
 Usain Bolt's smelly sebaceous shield	ASMITH	lime green mirror bum cheek of wisdom	spinning stiffened sewer turtle
 razor-sharp supercool spiky turtle helmet	ASMITH	twirling foul-smelling basic meat helmet	hedgeturtle
 gravedigger's spiky turtle shoulderpads	ASMITH	hedgeturtle	hedgeturtle
 
-Herculean eXtreme nose ring	COMBINE	stone of eXtreme power	piercing post
+Herculean eXtreme nose ring	COMBINE	stone of eXtreme power	tumbling piercing post
 shaking foul-smelling Van der Graaf glove of wisdom	COOK	spooky fairy gravy	small leather glove
 
 
@@ -1117,7 +1117,7 @@ tumbling rosewater-soaked Treads of Loathing of bravery of temperance	SMITH, MAN
 depleted Grimacite hammer	SMITH	chunk of depleted Grimacite	chunk of depleted Grimacite
 depleted Grimacite astrolabe	SMITH, GRIMACITE	clockwork sphere	chunk of depleted Grimacite
 depleted Grimacite grappling hook	SMITH, GRIMACITE	pygmy spear of the pedagogue	chunk of depleted Grimacite
-depleted Grimacite gravy boat	SMITH, GRIMACITE	fairy gravy boat	chunk of depleted Grimacite
+depleted Grimacite gravy boat	SMITH, GRIMACITE	twirling fairy gravy boat	chunk of depleted Grimacite
 depleted Grimacite ninja mask	SMITH, GRIMACITE	olive ninja mask of the pedagogue	chunk of depleted Grimacite
 depleted Grimacite shinguards	SMITH, GRIMACITE	frightening scorching greaves	chunk of depleted Grimacite
 depleted Grimacite weightlifting belt	SMITH, GRIMACITE	enormous belt buckle	chunk of depleted Grimacite
@@ -1399,7 +1399,7 @@ low-calorie stale wobbly evil ravioli della hippy	PASTA	evil noodles	wad of tofu
 delicious small fuchsia pulsating evil noodles	PASTA	evil noodles	spices
 
 adequate miniature fusilli marrownarrow	PASTA	dry noodles	moldy snack-sized succulent marrow
-spoiled ghuol guolash	PASTA	dry noodles	ghuol ears
+spoiled ghuol guolash	PASTA	dry noodles	lime green spinning ghuol ears
 thick stale suggestive strozzapreti	PASTA	dry noodles	bland salacious crumbs
 rotten spaghetti with ghost balls	PASTA	dry noodles	ionized activated skewed ectoplasmic orbs
 enchanted decent bouncing lime green agnolotti arboli	PASTA	dry noodles	moldy spinning pestopiary
@@ -1466,7 +1466,7 @@ miniature normal twirling mirror Knob shells	PASTA	normal Knob sausage	dry noodl
 adequate purple b&auml;tzle	PASTA	bat wing	dry noodles
 stale big ratini	PASTA	rat appendix	dry noodles
 stale Knob stroganoff	PASTA	bland diet Knob mushroom	dry noodles
-adequate menudo ravioli	PASTA	batgut	dry noodles
+adequate menudo ravioli	PASTA	narrow batgut	dry noodles
 
 # Food ingredients that use scrumdiddlyumptious solution
 
@@ -1592,39 +1592,39 @@ colloidal squat squat seal-brain elixir	PHINEAS	hellseal brain (1)	hellseal whis
 # These could be SUSE recipes except you are not guaranteed to get
 # exactly the item you seek without inventory manipulation
 
-seal-skull helmet of the brazier	SEWER	chewing gum on a string
-seal-clubbing club	SEWER	chewing gum on a string
-Jack Frost's helmet turtle	SEWER	chewing gum on a string
-turtle totem	SEWER	chewing gum on a string
-ravioli hat of the brute	SEWER	chewing gum on a string
-pasta spoon	SEWER	chewing gum on a string
-wobbly razor-sharp Hollandaise helmet	SEWER	chewing gum on a string
-saucepan	SEWER	chewing gum on a string
-pulsating gravedigger's disco mask	SEWER	chewing gum on a string
-disco ball	SEWER	chewing gum on a string
-bouncing Da Vinci's mariachi hat	SEWER	chewing gum on a string
-maroon stolen accordion	SEWER	chewing gum on a string
-bouncing sweatpants	SEWER	chewing gum on a string
-worthless trinket	SEWER	chewing gum on a string
-worthless gewgaw	SEWER	chewing gum on a string
-worthless knick-knack	SEWER	chewing gum on a string
+seal-skull helmet of the brazier	SEWER	blinking chewing gum on a string
+wobbly seal-clubbing club	SEWER	blinking chewing gum on a string
+Jack Frost's helmet turtle	SEWER	blinking chewing gum on a string
+turtle totem	SEWER	blinking chewing gum on a string
+ravioli hat of the brute	SEWER	blinking chewing gum on a string
+purple pasta spoon	SEWER	blinking chewing gum on a string
+wobbly razor-sharp Hollandaise helmet	SEWER	blinking chewing gum on a string
+saucepan	SEWER	blinking chewing gum on a string
+pulsating gravedigger's disco mask	SEWER	blinking chewing gum on a string
+disco ball	SEWER	blinking chewing gum on a string
+bouncing Da Vinci's mariachi hat	SEWER	blinking chewing gum on a string
+maroon stolen accordion	SEWER	blinking chewing gum on a string
+bouncing sweatpants	SEWER	blinking chewing gum on a string
+skewed worthless trinket	SEWER	blinking chewing gum on a string
+worthless gewgaw	SEWER	blinking chewing gum on a string
+mirror worthless knick-knack	SEWER	blinking chewing gum on a string
 # pseudo item
-worthless item	SEWER	chewing gum on a string
+worthless item	SEWER	blinking chewing gum on a string
 
 # Jewelry making recipes.  These are recipes which are only available
 # once you acquire jewelry-making pliers.
 
-huge greasy savvy hamethyst earring	JEWEL	hamethyst	piercing post
+huge greasy savvy hamethyst earring	JEWEL	hamethyst	tumbling piercing post
 rosewater-soaked frosty hamethyst necklace of Gandalf	JEWEL	hamethyst	necklace chain
 Sherlock's steel-toed hamethyst ring of the scaredy-cat	JEWEL	hamethyst	ring setting
-prompt baconstone earring of wisdom	JEWEL	baconstone	piercing post
+prompt baconstone earring of wisdom	JEWEL	baconstone	tumbling piercing post
 supercharged thinker's baconstone pendant	JEWEL	baconstone	necklace chain
 purple ruddy baconstone ring of the empath	JEWEL	baconstone	ring setting
-coward's Tesla porquoise eyebrow ring	JEWEL	porquoise	piercing post
+coward's Tesla porquoise eyebrow ring	JEWEL	porquoise	tumbling piercing post
 bouncing lightning-fast smooth porquoise necklace	JEWEL	porquoise	necklace chain
 rosy-cheeked wicked porquoise ring of the detective	JEWEL	porquoise	ring setting
 
-crafty vampire pearl earring	JEWEL	vampire pearl	piercing post
+crafty vampire pearl earring	JEWEL	vampire pearl	tumbling piercing post
 frightening vampire pearl necklace	JEWEL	vampire pearl	necklace chain
 fuchsia double-paned vampire pearl ring	JEWEL	vampire pearl	ring setting
 
@@ -1739,10 +1739,10 @@ pottery training pants	MUSE	smoked potsherd (11)
 
 # Recipes that involve multi-using a quantity of an item
 
-green arcane researcher's balloon helmet	MUSE, NOBEE	long skinny balloon (2)
-balloon monkey	MUSE, NOBEE	long skinny balloon (7)
-mirror balloon shield	MUSE, NOBEE	long skinny balloon (4)
-groovy balloon sword of the early riser	MUSE, NOBEE	long skinny balloon (3)
+green arcane researcher's balloon helmet	MUSE, NOBEE	skinny balloon (2)
+bouncing green balloon monkey	MUSE, NOBEE	skinny balloon (7)
+mirror balloon shield	MUSE, NOBEE	skinny balloon (4)
+groovy balloon sword of the early riser	MUSE, NOBEE	skinny balloon (3)
 
 palm-frond fan	MUSE	palm frond (2)
 palm-frond net	MUSE	palm frond (3)
@@ -1886,12 +1886,12 @@ booty chest charrrm bracelet	SUSE, NOBEE	booty chest charrrm	charrrm bracelet
 cannonball charrrm bracelet	SUSE, NOBEE	cannonball charrrm	charrrm bracelet
 copper ha'penny charrrm bracelet	SUSE	copper ha'penny charrrm	charrrm bracelet
 grumpy old man charrrm bracelet	SUSE	grumpy old man charrrm	charrrm bracelet
-Jolly Roger charrrm bracelet	SUSE	Jolly Roger charrrm	charrrm bracelet
+studded Jolly Roger charrrm bracelet	SUSE	Jolly Roger charrrm	charrrm bracelet
 rum barrel charrrm bracelet	SUSE, NOBEE	rum barrel charrrm	charrrm bracelet
 silver tongue charrrm bracelet	SUSE	silver tongue charrrm	charrrm bracelet
 tarrrnished charrrm bracelet	SUSE	tarrrnish charrrm	charrrm bracelet
 
-charrrm bracelet	SUSE, NOBEE	Jolly Roger charrrm bracelet
+charrrm bracelet	SUSE, NOBEE	studded Jolly Roger charrrm bracelet
 
 turtle wax shield	SUSE	turtle wax
 ancient turtle shell powder	SUSE	ancient turtle shell
@@ -1968,20 +1968,20 @@ smooth mushroom wine	MIX_FANCY	mushroom fermenting solution	oily golden mushroom
 # Tinker recipes.  These recipes are the recipes which are used in the
 # supertinkering process for Moxie signs.
 
-clockwork widget	TINKER	flange	cog	sprocket
+clockwork widget	TINKER	flange	cog	lime green sprocket
 clockwork thingamajig	TINKER	flange	cog	spring
-clockwork doohickey	TINKER	flange	spring	sprocket
+clockwork doohickey	TINKER	flange	spring	lime green sprocket
 clockwork clockwise dome	TINKER	clockwork widget	flange	spring
 clockwork spine	TINKER	clockwork widget	spring	cog
-clockwork rings	TINKER	clockwork thingamajig	flange	sprocket
-clockwork claws	TINKER	clockwork thingamajig	spring	sprocket
+clockwork rings	TINKER	clockwork thingamajig	flange	lime green sprocket
+clockwork claws	TINKER	clockwork thingamajig	spring	lime green sprocket
 clockwork endoskeleton	TINKER	clockwork claws	clockwork counterclockwise dome	clockwork key
 clockwork sheet	TINKER	clockwork doohickey	cog	flange
-clockwork counterclockwise dome	TINKER	clockwork doohickey	cog	sprocket
+clockwork counterclockwise dome	TINKER	clockwork doohickey	cog	lime green sprocket
 clockwork sphere	TINKER	clockwork counterclockwise dome	clockwork clockwise dome	clockwork key
 clockwork handle	TINKER	clockwork doohickey	cog	spring
-clockwork rod	TINKER	clockwork thingamajig	cog	sprocket
-clockwork shank	TINKER	clockwork widget	spring	sprocket
+clockwork rod	TINKER	clockwork thingamajig	cog	lime green sprocket
+clockwork shank	TINKER	clockwork widget	spring	lime green sprocket
 gray clockwork hat of the scaredy-cat	TINKER	clockwork clockwise dome	clockwork rings	clockwork key
 wobbly clockwork trench coat of Gandalf	TINKER	clockwork spine	clockwork sheet	clockwork key
 Temple Grandin's clockwork pants	TINKER	clockwork sheet	clockwork rings	clockwork key
@@ -1993,16 +1993,16 @@ experienced smooth cool clockwork crossbow	TINKER	clockwork rod	clockwork shank	
 # Clockwork servant recipes.  These recipes are used to create clockwork
 # counterparts to the standard servants available pre-ascension.
 
-clockwork detective skull	COMBINE	clockwork sphere	gnoll lips
+clockwork detective skull	COMBINE	clockwork sphere	upside-down green gnoll lips
 
 clockwork maid head	COMBINE	clockwork sphere	maiden wig
 clockwork maid	COMBINE	clockwork maid head	Meat maid body
 
 clockwork chef head	COMBINE	clockwork sphere	wicked chef's hat of wisdom
-clockwork chef-in-the-box	COMBINE	clockwork chef head	nothing-in-the-box
+clockwork chef-in-the-box	COMBINE	clockwork chef head	pulsating nothing-in-the-box
 
 clockwork bartender head	COMBINE	clockwork sphere	beer goggles
-clockwork bartender-in-the-box	COMBINE	clockwork bartender head	nothing-in-the-box
+clockwork bartender-in-the-box	COMBINE	clockwork bartender head	pulsating nothing-in-the-box
 
 
 # Items created via item usage.
@@ -2270,7 +2270,7 @@ bouncing auspicious oil slacks	MUSE	bubblin' crude (10)
 spinning sizzling oil pan	MUSE	bubblin' crude (11)
 jar of oil	MUSE	bubblin' crude (12)
 
-blessed large box	COMBINE	large box	ten-leaf clover
+blessed large box	COMBINE	large box	huge ten-leaf clover
 opium grenade	COMBINE	pressed galvanized poppy	pressed galvanized poppy
 
 # Crimboku toys.  These are items which are created at Uncle Crimboku
@@ -2464,13 +2464,13 @@ Hairpiece On Fire	SMITH	lump of Brituminous coal	maiden wig
 Vicar's Tutu	SMITH	lump of Brituminous coal	frilly skirt
 Hand in Glove	SMITH	lump of Brituminous coal	hobo gloves of courage
 Work is a Four Letter Sword	SMITH	lump of Brituminous coal	sword hilt
-Staff of the Headmaster's Victuals	SMITH	lump of Brituminous coal	big stick
+Staff of the Headmaster's Victuals	SMITH	lump of Brituminous coal	gray stick
 Sheila Take a Crossbow	SMITH	lump of Brituminous coal	crossbow string
 A Light that Never Goes Out	SMITH	lump of Brituminous coal	friendly third-hand lantern
 Half a Purse	SMITH	lump of Brituminous coal	loose purse strings
-Meat Tenderizer is Murder	SMITH	lump of Brituminous coal	seal-clubbing club
+Meat Tenderizer is Murder	SMITH	lump of Brituminous coal	wobbly seal-clubbing club
 Ouija Board, Ouija Board	SMITH	lump of Brituminous coal	turtle totem
-Hand that Rocks the Ladle	SMITH	lump of Brituminous coal	pasta spoon
+Hand that Rocks the Ladle	SMITH	lump of Brituminous coal	purple pasta spoon
 Saucepanic	SMITH	lump of Brituminous coal	saucepan
 Frankly Mr. Shank	SMITH	lump of Brituminous coal	disco ball
 Shakespeare's Sister's Accordion	SMITH	lump of Brituminous coal	maroon stolen accordion
@@ -2547,7 +2547,7 @@ large tankard of ale	RUMPLE, ROW253	leather	clay
 juggling ball	RUMPLE, ROW256	leather	filling
 
 # can of V-11
-elevenderizing hammer	SMITH, MANUAL	can of V-11	tenderizing hammer
+elevenderizing hammer	SMITH, MANUAL	can of V-11	blinking tenderizing hammer
 elevent	SMITH, MANUAL	can of V-11	barskin tent
 elevennis shoes	SMITH, MANUAL	can of V-11	blinking clown shoes of the cougar
 
@@ -2646,7 +2646,7 @@ decent bite-sized ultra-deluxe cupcake	COOK	bland standard-issue cupcake	stale i
 
 double barreled barrel gun	COMBINE	barrel gun	barrel gun
 triple barreled barrel gun	COMBINE	double barreled barrel gun	barrel gun
-barrel beryl nose ring	JEWEL	barrel beryl	piercing post
+barrel beryl nose ring	JEWEL	barrel beryl	tumbling piercing post
 barrel beryl choker	JEWEL	barrel beryl	necklace chain
 barrel beryl ring	JEWEL	barrel beryl	ring setting
 
@@ -3033,7 +3033,7 @@ spoiled squat sausage	SAUSAGE_O_MATIC	magical sausage casing
 
 # Dark Gyffte
 miniature adequate bloodstick	COOK	blood bag	wad of dough
-moldy actual blood sausage	COOK	blood bag	batgut
+moldy actual blood sausage	COOK	blood bag	narrow batgut
 moldy actual blood sausage	COOK	blood bag	ratgut
 spoiled bite-sized blood snowcone	COOK	blood bag	adequate blinking plain snowcone
 flavorless wobbly blood roll-up	COOK	blood bag	stale blackberry

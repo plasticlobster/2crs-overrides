@@ -24,11 +24,11 @@
 #	t - trade
 #	d - discard
 #
-1	seal-clubbing club	868780591	club.gif	weapon	t,d	1
+1	wobbly seal-clubbing club	868780591	club.gif	weapon	t,d	1
 2	purple seal tooth	617818041	tooth.gif	message, combat reusable	t,d	1	seal teeth
 3	Jack Frost's helmet turtle	447433823	turtle.gif	hat	t,d	1
 4	turtle totem	164978098	totem.gif	weapon	t,d	1
-5	pasta spoon	249844320	pastaspoon.gif	weapon	t,d	1
+5	purple pasta spoon	249844320	pastaspoon.gif	weapon	t,d	1
 6	ravioli hat of the brute	882973843	ravioli.gif	hat	t,d	1
 7	saucepan	323344201	saucepan.gif	weapon	t,d	1
 8	spices	266103456	spice.gif	none, combat reusable	t,d	1	spices
@@ -46,15 +46,15 @@
 20	Kentucky-style derby	644460624	derby.gif	hat	t,d	25	Kentucky-style derbies
 21	sweet ninja sword	196360308	katana.gif	weapon	t,d	25
 22	studded boxer shorts	683777017	boxers.gif	pants	t,d	25	pairs of studded leather boxer shorts
-23	chewing gum on a string	700733976	gum.gif	multiple	t,d	25	chewing gums on strings
-24	ten-leaf clover	370834526	clover.gif	multiple	t	0
+23	blinking chewing gum on a string	700733976	gum.gif	multiple	t,d	25	chewing gums on strings
+24	huge ten-leaf clover	370834526	clover.gif	multiple	t	0
 25	meat paste	207182772	wad.gif	none	t,d	10
-26	Dolphin King's map	539682799	map.gif	usable	q	0
+26	mirror Dolphin King's map	539682799	map.gif	usable	q	0
 27	spider web	968009158	web.gif	none, combat	t,d	3
-28	really sticky spider web	672183606	web.gif	none, combat	t,d	5
-29	really really sticky spider web	405531390	web.gif	none, combat	t,d	9
+28	blue really spider web	672183606	web.gif	none, combat	t,d	5
+29	blinking really really spider web	405531390	web.gif	none, combat	t,d	9
 30	rock	962885446	bigrock.gif	none	t,d	1
-31	seal-toothed rock	113381266	toothrock.gif	none	t,d	2
+31	lime green seal-toothed rock	113381266	toothrock.gif	none	t,d	2
 32	wobbly wobbly lime green scandalous Bjorn's Hammer	591526612	sealbane.gif	weapon		0
 33	tumbling snorkel	135595861	snorkel.gif	hat	t,d	15
 34	steel-toed Dolphin King's crown	402032200	crown.gif	hat	t,d	40
@@ -66,10 +66,10 @@
 40	casino pass	733986618	pass.gif	none	t,d	50	casino mooltipasses
 41	mediocre ice-cold Sir Schlitz	305316771	beer.gif	drink	t,d	30	ice-cold Sir Schlitzen
 42	hermit permit	467488422	permit.gif	none	t,d	50
-43	worthless trinket	134561658	trinket.gif	none	d	0
+43	skewed worthless trinket	134561658	trinket.gif	none	d	0
 44	worthless gewgaw	727798834	gewgaw.gif	none	d	0
-45	worthless knick-knack	561158049	knickknack.gif	none	d	0
-46	wooden figurine	520591514	statue.gif	none	t,d	25
+45	mirror worthless knick-knack	561158049	knickknack.gif	none	d	0
+46	wobbly purple figurine	520591514	statue.gif	none	t,d	25
 47	normal hot buttered roll	424947000	roll.gif	food	t,d	25
 48	heart of rock and roll	855972490	heart.gif	none	t,d	101	hearts of rock and roll
 49	special rotten bowl of cottage cheese	721301736	ccheese.gif	food	t,d	31	bowls of cottage cheese
@@ -79,59 +79,59 @@
 53	lime green spinning stone banjo of Leguizamo	232520882	stonebanjo.gif	weapon	t,d	30
 54	blue Usain Bolt's Socratic Disco Banjo	244279521	discobanjo.gif	weapon		0
 55	jaba&ntilde;ero pepper	189906805	pepper.gif	none	t,d	25
-56	heavy hot sauce	915847243	heavysauce.gif	none	t,d	101
+56	hot sauce	915847243	heavysauce.gif	none	t,d	101
 57	olive rosewater-soaked 5-Alarm Saucepan	695837819	5alarm.gif	weapon		0
 58	stone turtle	273862210	stoneturtle.gif	none	t,d	3
-59	slingshot	278594504	slingshot.gif	weapon	t,d	75
+59	gray slingshot	278594504	slingshot.gif	weapon	t,d	75
 60	cyan Mace of the Tortoise of Gandalf	256792195	turtlemace.gif	weapon		0	Maces of the Tortoise
 61	stale maroon fortune cookie	490489381	fortune.gif	food	t,d	20
 62	extremely unsafe oriole-feather headdress	499720505	headdress.gif	hat	t	0	oriole-feather headdresses
 63	action figure body	329267145	bjornbody.gif	none	q	0
 64	action figure head	224701221	bjornhead.gif	none	q	0
 65	Mighty Bjorn action figure	390564890	bjorn.gif	none	q	0
-66	golden twig	244181505	stick.gif	none	t	0
+66	bouncing huge twig	244181505	stick.gif	none	t	0
 67	spaghetti with rock-balls	192265650	rockballs.gif	none	t,d	2	spaghettis with rock-balls
 68	bouncing frightening savvy Pasta Spoon of Peril	942969095	perilpasta.gif	weapon		0	Pasta Spoons of Peril
 69	Newbiesport&trade; tent	564164501	tent1.gif	usable	t,d	20
-70	bar skin	757174348	skin.gif	none	t,d	5
+70	pulsating bar skin	757174348	skin.gif	none	t,d	5
 71	cyan sinister stakes	449563853	stakes.gif	weapon	t,d	30	sets of wooden stakes
 72	blurry executive barskin hat	435786424	skincap.gif	hat	t,d	60
 73	barskin tent	643891681	tent2.gif	usable	t,d	9
-74	Spooky Temple map	525549764	map.gif	usable	q	0
-75	spooky sapling	462893050	bansai.gif	message	q	0
-76	Spooky-Gro fertilizer	991217692	spraycan.gif	message	t,d	6
+74	Temple map	525549764	map.gif	usable	q	0
+75	sapling	462893050	bansai.gif	message	q	0
+76	jittery Spooky-Gro fertilizer	991217692	spraycan.gif	message	t,d	6
 77	squat ruddy stick	943176401	stick.gif	weapon	t,d	35
 78	ghostly Jim Carey's pretty bouquet	547934955	bouquet.gif	offhand	t,d	2
 79	spinning bugbear bungguard	426478400	furpants.gif	pants	t,d	35
-80	fairy gravy boat	903885205	gravy.gif	none	t,d	5
+80	twirling fairy gravy boat	903885205	gravy.gif	none	t,d	5
 81	irresponsibly strong acceptable ice-cold Willer	819157879	beerbottle.gif	drink	t,d	30
-82	rusty metal ring	970490171	rustyring.gif	none	t,d	4
-83	rusty metal shaft	228339790	rustyshaft.gif	none	t,d	5
-84	Orcish meat locker	221122907	meatlocker.gif	usable	t,d	5
+82	ring	970490171	rustyring.gif	none	t,d	4
+83	bouncing shaft	228339790	rustyshaft.gif	none	t,d	5
+84	huge Orcish meat locker	221122907	meatlocker.gif	usable	t,d	5
 85	unlocked meat locker	343964219	meatlocker.gif	usable	t	0
-86	rusty metal key	518345878	rustykey.gif	none	t,d	8
-87	meat from yesterday	653772183	meat.gif	none	t,d	5	meats from yesterday
+86	key	518345878	rustykey.gif	none	t,d	8
+87	jittery blue meat from yesterday	653772183	meat.gif	none	t,d	5	meats from yesterday
 88	meat stack	814092432	meatstack.gif	none	t,d	100
 89	sword hilt	579389111	basichilt.gif	none	t,d	50
 90	helmet recipe	765274533	hatrecipe.gif	none	t,d	50
 91	pants kit	354259446	pantskit.gif	none	t,d	50
-92	meatsmithing guide	111365331	pamphlet.gif	message	t,d	25
+92	skewed meatsmithing guide	111365331	pamphlet.gif	message	t,d	25
 93	nippy basic meat sword	156350201	meatsword.gif	weapon	t,d	25
 94	careful basic meat pants	606216746	meatpants.gif	pants	t,d	140	pairs of basic meat pants
 95	twirling foul-smelling basic meat helmet	198198975	meathelmet.gif	hat	t,d	140
 96	dope gangsta bling-bling	389032855	blingbling.gif	accessory	t,d	60	units of bling
 97	shaking frightening pimpin' meat hat of the blizzard	790979082	pimphat.gif	hat	t,d	155
-98	dried face	230683176	driedface.gif	none	t,d	7
+98	olive dried face	230683176	driedface.gif	none	t,d	7
 99	meat face	195455417	meatface.gif	none	t,d	11
 100	lifeless meat doll	466597998	limpdoll.gif	none	t,d	108
 101	meat golem	961351990	meatgolem.gif	usable	t,d	200
-102	spooky shrunken head	449394262	shead.gif	none	t,d	6
+102	shaking shrunken head	449394262	shead.gif	none	t,d	6
 103	staff of dire peril of the detective	258271045	staff.gif	weapon	t,d	50	spooky staves
-104	spooky scarecrow	238593881	scarecrow.gif	usable	t,d	55
+104	scarecrow	238593881	scarecrow.gif	usable	t,d	55
 105	flavorless enchanted bowl of charms	402063497	charms.gif	food	t,d	35	bowls of lucky charms
 106	ketchup	926741886	ketchup.gif	food	t,d	25	bottles of ketchup
 107	catsup	392712771	ketchup.gif	food	t,d	25	bottles of catsup
-108	big stick	908197047	stick.gif	weapon	t,d	50
+108	gray stick	908197047	stick.gif	weapon	t,d	50
 109	crossbow string	185370953	string.gif	none	t,d	50
 110	basic meat staff of the pedagogue	871109805	meatstaff.gif	weapon	t,d	25	basic meat staves
 111	mirror toasty basic meat crossbow	924348153	crossbow.gif	weapon	t,d	25
@@ -140,30 +140,30 @@
 114	red coward's dripping meat staff	370429104	dripstaff.gif	weapon	t,d	55	dripping meat staves
 115	extremely unsafe dripping meat crossbow	650388175	dripbow.gif	weapon	t,d	55
 116	skewed beefcake's beefy Bugfinder Blade	606633733	nicesword.gif	weapon		0
-117	Gnollish plunger	342452294	plunger.gif	weapon	t,d	40
+117	olive shaking Gnollish plunger	342452294	plunger.gif	weapon	t,d	40
 118	spring	743748200	spring.gif	none	t,d	10
-119	sprocket	879299952	sprocket.gif	none	t,d	10
+119	lime green sprocket	879299952	sprocket.gif	none	t,d	10
 120	cog	157680394	cog.gif	none	t,d	10
-121	sprocket assembly	362582736	assembly1.gif	none	t,d	17	sprocket assemblies
-122	cog and sprocket assembly	524880668	assembly2.gif	none	t,d	25	cog and sprocket assemblies
+121	bouncing narrow sprocket assembly	362582736	assembly1.gif	none	t,d	17	sprocket assemblies
+122	lime green cog and sprocket assembly	524880668	assembly2.gif	none	t,d	25	cog and sprocket assemblies
 123	Gnollish flyswatter	476380355	swatter.gif	weapon	t,d	40
-124	empty meat tank	767026505	tank.gif	none	t,d	10
+124	tumbling empty meat tank	767026505	tank.gif	none	t,d	10
 125	full meat tank	175722264	tank.gif	none	t,d	108
-126	meat engine	465274324	engine.gif	none	t,d	124
+126	mirror ghostly purple meat engine	465274324	engine.gif	none	t,d	124
 127	Gnollish autoplunger of bravery	792002723	autoplunge.gif	weapon	t,d	160
 128	Jim Carey's meat pants	752035846	meatpants.gif	pants	t,d	145	pairs of sticky meat pants
 129	Usain Bolt's third-hand nunchaku	546223279	chucks.gif	weapon	t,d	35	third-hand nunchaku
 130	upside-down eyepatch of James Dean	548096889	eyepatch.gif	hat	t,d	60	enchanted eyepatches
 131	frilly skirt	805801465	skirt.gif	pants	t,d	40
 132	Meat maid body	185286006	maidbody.gif	none	t,d	155	Meat maid bodies
-133	Certificate of Participation	579075005	scroll2.gif	usable	q	0
-134	bitchin' meatcar	405409225	meatcar.gif	none, matchable	q	0
+133	twirling purple Certificate of Participation	579075005	scroll2.gif	usable	q	0
+134	shaking narrow bitchin' meatcar	405409225	meatcar.gif	none, matchable	q	0
 135	sweet rims	634800641	rims.gif	none	t,d	45	sets of sweet rims
-136	tires	805641198	tire.gif	none	t,d	14	sets of tires
-137	dope wheels	281577974	tires.gif	none	t,d	63	sets of dope wheels
+136	squat jittery tires	805641198	tire.gif	none	t,d	14	sets of tires
+137	yellow spinning dope wheels	281577974	tires.gif	none	t,d	63	sets of dope wheels
 138	ice-cold six-pack	595204142	sixpack.gif	multiple	t,d	150
-139	valuable trinket	597006028	dolphin.gif	none	t,d	250
-140	dingy planks	807926826	planks.gif	none	t,d	45	stacks of dingy planks
+139	skewed valuable trinket	597006028	dolphin.gif	none	t,d	250
+140	jittery dingy planks	807926826	planks.gif	none	t,d	45	stacks of dingy planks
 141	dingy dinghy	181137676	dinghy.gif	none	q	0
 142	anticheese	293685778	anticheese.gif	none	t,d	30
 143	cottage	464852326	cottage.gif	usable	t,d	50
@@ -179,43 +179,43 @@
 153	Temple Grandin's savvy Ancient Saucehelm	225252938	saucehat.gif	hat		0
 154	perfumed manspreader's Disco 'Fro Pick	674402305	pick.gif	hat		0
 155	gray rosewater-soaked flame-wreathed El Sombrero De Lopez	156097981	hat2.gif	hat		0	Los Sombreros De Lopezes
-156	guild application	382799349	guildapp.gif	none		0
-157	Dramatic&trade; range	300557156	oven.gif	usable	t,d	250
+156	maroon guild application	382799349	guildapp.gif	none		0
+157	gray Dramatic&trade; range	300557156	oven.gif	usable	t,d	250
 158	Gnollish pie tin	213655637	pietin.gif	none	t,d	10
 159	wad of dough	288162100	dough.gif	usable	t,d	15	wads of dough
 160	pie crust	601030110	piecrust.gif	none	t,d	35
 161	low-calorie decent mirror ghuol egg	806730322	egg.gif	food	t,d	16
 162	flavorless ghuol egg quiche	480094541	pie.gif	food	t,d	46
 163	skeleton bone of the sewer	247485062	goodbone.gif	weapon	t,d	35
-164	smart skull	962644297	smartskull.gif	message	t,d	20
+164	jittery wobbly smart skull	962644297	smartskull.gif	message	t,d	20
 165	skewer	766374877	sharpstick.gif	none	t,d	40
-166	ghuol ears	344168980	ears.gif	none	t,d	16	pairs of ghuol ears
+166	lime green spinning ghuol ears	344168980	ears.gif	none	t,d	16	pairs of ghuol ears
 167	decent ghuol-ear kabob	265651141	kabob.gif	food	t,d	52
 168	blinking lion tamer's bone rattle	447997748	rattle.gif	weapon	t,d	23
 169	bugbear beanie	777889593	beanie.gif	hat	t,d	35
-170	lihc eye	645882277	eyeball.gif	none	t,d	19
+170	bouncing lihc eye	645882277	eyeball.gif	none	t,d	19
 171	small bland lihc eye pie	226058747	pie.gif	food	t,d	45
-172	gnoll lips	665720781	lips.gif	message	t,d	11	sets of gnoll lips
+172	upside-down green gnoll lips	665720781	lips.gif	message	t,d	11	sets of gnoll lips
 173	taco shell	335557202	tacoshell.gif	none	t,d	40
 174	Gnollish casserole dish	605254179	cdish.gif	none	t,d	75	Gnollish casserole dishes
 175	adequate miniature bouncing uncooked chorizo	514976861	chorizo.gif	food	t,d	18	mounds of uncooked chorizo
 176	disembodied brain	653117852	brain.gif	message	t,d	19
-177	brainy skull	629271368	smartskull.gif	message	t,d	32
-178	detective skull	508285829	detskull.gif	offhand	t,d	50
+177	spinning cyan brainy skull	629271368	smartskull.gif	message	t,d	32
+178	bouncing twirling detective skull	508285829	detskull.gif	offhand	t,d	50
 179	bland jumbo chorizo taco	962179987	taco.gif	food	t,d	52
 180	lousy twirling ice-cold fotie	804532270	fotie.gif	drink	t,d	40
-181	baseball	874161307	baseball.gif	usable, combat	t,d	11
-182	batgut	322388148	batgut.gif	none	t,d	12
+181	narrow maroon baseball	874161307	baseball.gif	usable, combat	t,d	11
+182	narrow batgut	322388148	batgut.gif	none	t,d	12
 183	bat wing	613022151	batwing.gif	none	t,d	14
-184	briefcase	446088053	briefcase.gif	multiple	t,d	15
+184	narrow briefcase	446088053	briefcase.gif	multiple	t,d	15
 185	fat stacks of cash	637203605	fatstacks.gif	none, combat reusable	t,d	150	fat stacks of fat stacks of cash
-186	enchanted bean	236089073	bean.gif	usable	t,d	25
+186	bean	236089073	bean.gif	usable	t,d	25
 187	loose teeth	534717073	looseteeth.gif	message	t,d	17	mouthfuls of loose teeth
-188	bat guano	255139922	guano.gif	multiple	t,d	12
-189	guano coffee cup	720857924	coffeecup.gif	none	t,d	12
+188	maroon bat guano	255139922	guano.gif	multiple	t,d	12
+189	upside-down guano coffee cup	720857924	coffeecup.gif	none	t,d	12
 190
 191	studded batskin belt	606865770	batbelt.gif	accessory		0
-192	old batskin belt	990969530	batbelt.gif	none	q	0
+192	batskin belt	990969530	batbelt.gif	none	q	0
 193	birthday candle	525458096	candle.gif	message	t	0
 194	wizardly Mr. Accessory	373954459	mracc.gif	accessory	t	0	Mr. Accessories
 195	Herculean eXtreme nose ring	872602834	nosering.gif	accessory	t,d	75
@@ -229,7 +229,7 @@
 203	herbs	143428154	herbs.gif	none	t,d	32	shakers of herbs
 204	adequate carob chunk cookies	862605053	cookies.gif	food	t,d	52	handfuls of carob chunk cookies
 205	secret blend of herbs and spices	319520721	blend.gif	none, fancy	t,d	33	secret blends of herbs and spices
-206	piercing post	837448484	post.gif	none	t,d	32
+206	tumbling piercing post	837448484	post.gif	none	t,d	32
 207	pulsating hippy herbal tea	720556110	tea.gif	food	t,d	42	cups of hippy herbal tea
 208	patchouli incense stick	961517296	incense.gif	usable, combat	t,d	33
 209	wad of tofu	531380515	tofu.gif	none	t,d	35	wads of tofu
@@ -238,12 +238,12 @@
 212	windchimes	520934877	chimes.gif	message	t,d	32	sets of windchimes
 213	wobbly energetic filthy corduroys of Flo-Jo	404214724	cords.gif	pants	t,d	80	pairs of filthy corduroys
 214	shaking savvy filthy knitted dread sack	447628016	dreadsack.gif	hat	t,d	80
-215	Uncle Jick's Brownie Mix	699264729	mix.gif	none	t,d	33	boxes of Uncle Jick's Brownie Mix
+215	tumbling maroon Uncle Jick's Brownie Mix	699264729	mix.gif	none	t,d	33	boxes of Uncle Jick's Brownie Mix
 216	rotten carob brownies	780486353	brownie.gif	food	t,d	60	piles of carob brownies
 217	normal herb brownies	589253744	brownie.gif	food	t,d	61	piles of herb brownies
-218	hemp string	719626655	bracelet.gif	accessory	t,d	75
+218	red hemp string	719626655	bracelet.gif	accessory	t,d	75
 219	necklace chain	662335573	chain.gif	none	t,d	35
-220	gnoll teeth	434518378	teeth.gif	none	t,d	12	mouthfuls of gnoll teeth
+220	upside-down gnoll teeth	434518378	teeth.gif	none	t,d	12	mouthfuls of gnoll teeth
 221	wobbly sinister gnoll-tooth necklace	342269163	toothneck.gif	accessory	t,d	85
 222	phat turquoise bead	579443796	bead.gif	none	t,d	31
 223	phat turquoise bracelet of the boozehound	415315582	bracelet2.gif	accessory	t,d	75
@@ -255,9 +255,9 @@
 229	Jack Frost's Kentucky-fried meat crossbow	115544265	crossbow.gif	weapon	t,d	75
 230	blurry ghostly blinking hardened dead guy's watch	678672280	watch.gif	accessory	t,d	60	dead guys' watches
 231	Doc Galaktik's Pungent Unguent	555651223	balm.gif	multiple, combat	t,d	15	tins of Doc Galaktik's Pungent Unguent
-232	Doc Galaktik's Ailment Ointment	420199984	balm.gif	multiple, combat	t,d	20	tins of Doc Galaktik's Ailment Ointment
+232	blinking Doc Galaktik's Ailment Ointment	420199984	balm.gif	multiple, combat	t,d	20	tins of Doc Galaktik's Ailment Ointment
 233	Doc Galaktik's Restorative Balm	504849907	balm.gif	multiple, combat	t,d	25	tins of Doc Galaktik's Restorative Balm
-234	Doc Galaktik's Homeopathic Elixir	492143729	elixir.gif	multiple, combat	t,d	30	bottles of Doc Galaktik's Homeopathic Elixir
+234	pulsating ghostly Doc Galaktik's Homeopathic Elixir	492143729	elixir.gif	multiple, combat	t,d	30	bottles of Doc Galaktik's Homeopathic Elixir
 235	perfumed Bigger Bugfinder Blade of Gandalf	198004428	nicesword.gif	weapon		0
 236	Queue Du Coq cocktailcrafting kit	472946483	cocktailkit.gif	usable	t,d	250
 237	high-proof lousy bottle of gin	693995227	bottle.gif	drink	t,d	35	bottles of gin
@@ -281,8 +281,8 @@
 255	hand-crafted upside-down fine wine	289750888	wine.gif	drink	t,d	64	bottles of fine wine
 256	drinkable shot of tomato schnapps	345621185	shot.gif	drink	t,d	35	shots of tomato schnapps
 257	mediocre extra-spicy bloody mary	313835263	bloodymary.gif	drink	t,d	66	extra-spicy bloodies mary
-258	dense meat stack	964766953	meatstack.gif	none	t,d	1000
-259	white snake skin	830631869	snakeskin.gif	none	t,d	25
+258	shaking dense meat stack	964766953	meatstack.gif	none	t,d	1000
+259	blinking purple snake skin	830631869	snakeskin.gif	none	t,d	25
 260	toothsome White Citadel fries	298165957	fries.gif	food	t,d	40	orders of White Citadel fries
 261	adequate White Citadel burger	465306570	burger.gif	food	t,d	50
 262	super-sized stale piece of wedding cake	537891622	wcake.gif	food	t,d	12	pieces of wedding cake
@@ -293,13 +293,13 @@
 267	horrifying mullet wig	260366136	mullet.gif	hat	t,d	45
 268	ghostly meat cowboy hat of Leguizamo	958357633	cowboy.gif	hat	t,d	150
 269	hardy sword	150921200	sword.gif	weapon	t,d	45
-270	white picket fence	483845177	smallfence.gif	none, combat	t,d	15
+270	narrow picket fence	483845177	smallfence.gif	none, combat	t,d	15
 271	vaporized blinking barbell	437207139	barbell.gif	spleen	t,d	125
 272	pickled huge concentrated magicalness pill	808329045	pill.gif	spleen	t,d	125
 273	diluted bouncing moxie weed	332180626	heart2.gif	spleen	t,d	125
 274	Familiar-Gro&trade; Terrarium	369846540	terrarium.gif	usable	t,d	250
-275	mosquito larva	187601582	larva.gif	grow	q	0
-276	leprechaun hatchling	957862893	tinylep.gif	grow	t,d	6
+275	bouncing mosquito larva	187601582	larva.gif	grow	q	0
+276	ghostly leprechaun hatchling	957862893	tinylep.gif	grow	t,d	6
 277	compressed pulsating extra-strength strongness elixir	567949941	potion3.gif	spleen	t,d	150
 278	powdered tumbling olive jug-o-magicalness	845914991	jug.gif	spleen	t,d	150	jugs-o-magicalness
 279	compressed red suntan lotion of moxiousness	220707790	lotion.gif	spleen	t,d	150	suntan lotions of moxiousness
@@ -307,11 +307,11 @@
 281	wizardly gasmask	992191060	gasmask.gif	hat	t	0
 282	Boris's key	893993624	keya.gif	none, matchable	q	0
 283	Jarlsberg's key	127501978	keyb.gif	none, matchable	q	0
-284	Sneaky Pete's key	878803045	keyc.gif	none, matchable	q	0
+284	upside-down Sneaky Pete's key	878803045	keyc.gif	none, matchable	q	0
 285	bouncing ghostly baleful walrus-tusk earring	751882754	tusk.gif	accessory	t,d	30
 286	coward's ring of half-assed regeneration	898883905	regring.gif	accessory	t,d	30	rings of half-assed regeneration
 287	teal therapeutic Boris's ring	184574890	ringa.gif	accessory	t,d	50
-288	potato sprout	971320958	sprout.gif	grow	t,d	17
+288	jittery potato sprout	971320958	sprout.gif	grow	t,d	17
 289	stylish Jarlsberg's earring	907293022	earrings.gif	accessory	t,d	50
 290	huge censurious Sneaky Pete's breath spray	734226282	spray.gif	accessory	t,d	50	cans of Sneaky Pete's breath spray
 291	hale smartaleck's can of maces	715613470	macecan.gif	weapon	t,d	55	cans of maces
@@ -334,7 +334,7 @@
 308	maroon hale Knob Goblin elite helm	316384894	elitehelm.gif	hat	t,d	65
 309	strapping Knob Goblin elite pants	378095502	elitepants.gif	pants	t,d	65	pairs of Knob Goblin elite pants
 310	wool Knob Goblin elite polearm	239886636	goblinpole.gif	weapon	t,d	65
-311	hill of beans	644089348	beans.gif	none	t,d	23	hills of beans
+311	yellow narrow hill of beans	644089348	beans.gif	none	t,d	23	hills of beans
 312	coward's Knob Goblin visor	545354650	visor.gif	hat	t,d	80
 313	boxer's Crown of the Goblin King	793902065	goblincrow.gif	hat	t,d	110	Crowns of the Goblin King
 314	delicious bite-sized twirling bean burrito	681519618	burrito.gif	food	t,d	54
@@ -350,7 +350,7 @@
 324	stale blue sausage pizza	899272477	pizza.gif	food	t,d	85
 325	half-sized bland shaking goat cheese pizza	260824801	pizza.gif	food	t,d	84
 326	stale low-calorie mushroom pizza	824703540	pizza.gif	food	t,d	86
-327	goat	446235881	goat.gif	grow	t,d	47
+327	tumbling cyan goat	446235881	goat.gif	grow	t,d	47
 328	special lousy bottle of whiskey	789501042	bottle.gif	drink	t,d	35	bottles of whiskey
 329	thinker's goat beard	732846764	goatbeard.gif	hat	t,d	65
 330	glass of goat's milk	895482437	milk.gif	food	t,d	23	glasses of goat's milk
@@ -358,25 +358,25 @@
 332	massive moldy lemon	286050768	lemon.gif	food	t,d	35
 333	fancy toothsome narrow lime	839503923	lime.gif	food	t,d	60
 334	cool sabre teeth	308344955	sabreteeth.gif	weapon	t,d	65	sets of sabre teeth
-335	sabre-toothed lime cub	875749189	limecub.gif	grow	t,d	91
+335	huge sabre-toothed lime cub	875749189	limecub.gif	grow	t,d	91
 336	Jack Frost's consolation ribbon	447554129	ribbon.gif	accessory		0
-337	big ol' trophy	575900836	trophy.gif	none	d	0	big ol' trophies
-338	tenderizing hammer	814957844	hammer.gif	none	t,d	250
+337	bouncing ol' trophy	575900836	trophy.gif	none	d	0	big ol' trophies
+338	blinking tenderizing hammer	814957844	hammer.gif	none	t,d	250
 339	Cobb's Knob lab key	929970195	labkey.gif	none	q	0
 340	ionized Knob Goblin steroids	195322551	syringe.gif	multiple	t,d	125	syringes of Knob Goblin steroids
 341	super-chilled nitrogenated aerosolized ghostly Knob Goblin love potion	354133589	lovepotion.gif	multiple	t,d	85
-342	Knob Goblin stink bomb	520398213	bomb.gif	none, combat	t,d	65
+342	blue Knob Goblin stink bomb	520398213	bomb.gif	none, combat	t,d	65
 343	modified tumbling Knob Goblin sharpening spray	539033863	spraycan.gif	multiple	t,d	115
-344	Knob Goblin seltzer	861990863	seltzer.gif	multiple, combat	t,d	44
-345	Knob Goblin superseltzer	619512514	seltzer.gif	multiple, combat	t,d	49
+344	huge Knob Goblin seltzer	861990863	seltzer.gif	multiple, combat	t,d	44
+345	gray Knob Goblin superseltzer	619512514	seltzer.gif	multiple, combat	t,d	49
 346	scrumptious reagent	632079051	reagent.gif	none, fancy	t,d	1
-347	Dyspepsi-Cola	334260930	dyspepsi.gif	multiple, combat	t,d	52	cans of Dyspepsi-Cola
+347	twirling Dyspepsi-Cola	334260930	dyspepsi.gif	multiple, combat	t,d	52	cans of Dyspepsi-Cola
 348	olive ninja mask of the pedagogue	304413527	ninjamask.gif	hat	t,d	90
 349	icy katana hilt	127995941	coldhilt.gif	none	t,d	64
-350	hot katana blade	239092439	hotblade.gif	none	t,d	35
+350	wobbly hot katana blade	239092439	hotblade.gif	none	t,d	35
 351	vibrating steel-toed icy-hot katana	211176247	icyhot.gif	weapon	t,d	105
 352	narrow ninja hot pants of the wise owl	825395282	ninjapants.gif	pants	t,d	75	pairs of ninja hot pants
-353	frigid ninja stars	767479170	ninjastars.gif	none, combat	t,d	67	handfuls of frigid ninja stars
+353	upside-down ninja stars	767479170	ninjastars.gif	none, combat	t,d	67	handfuls of frigid ninja stars
 354	fuchsia rosewater-soaked vibrating nunchaku	556965631	coldchucks.gif	weapon	t,d	90	frozen nunchaku
 355	miser's eXtreme scarf	567621068	scarf.gif	hat	t,d	110	eXtreme scarves
 356	toasty snowboarder pants	496844589	snowpants.gif	pants	t,d	110	pairs of snowboarder pants
@@ -388,16 +388,16 @@
 362	Fonzie's 7-Foot Dwarven mattock	979636979	mattock.gif	weapon	t,d	90	7-Foot Dwarven maddox
 363	linoleum ore	122957072	lore.gif	none	t,d	50	chunks of linoleum ore
 364	asbestos ore	873673118	aore.gif	none	t,d	50	chunks of asbestos ore
-365	chrome ore	742497802	core.gif	none	t,d	50	chunks of chrome ore
+365	red chrome ore	742497802	core.gif	none	t,d	50	chunks of chrome ore
 366	linoleum sword hilt	216588286	hilt.gif	none	t	0
 367	linoleum stick	352682215	stick.gif	none	t	0
 368	linoleum crossbow string	129537220	string.gif	none	t	0
 369	asbestos sword hilt	499995791	hilt.gif	none	t	0
 370	asbestos stick	153682830	stick.gif	none	t	0
-371	asbestos crossbow string	983432397	string.gif	none	t	0
+371	ghostly asbestos crossbow string	983432397	string.gif	none	t	0
 372	chrome sword hilt	869589567	hilt.gif	none	t	0
-373	chrome stick	424084004	stick.gif	none	t	0
-374	chrome crossbow string	328326637	string.gif	none	t	0
+373	upside-down chrome stick	424084004	stick.gif	none	t	0
+374	ghostly twirling chrome crossbow string	328326637	string.gif	none	t	0
 375	linoleum meat stack	314903773	meatstack.gif	none	t,d	100
 376	asbestos meat stack	982075866	meatstack.gif	none	t,d	100
 377	chrome meat stack	137403755	meatstack.gif	none	t,d	100
@@ -418,25 +418,25 @@
 392	blinking chrome helmet turtle of courage	862749339	turtle.gif	hat	t,d	101
 393	penguin skin	933950979	pskin.gif	none	t,d	97
 394	yak skin	851749276	yakskin.gif	none	t,d	95
-395	hippopotamus skin	490634550	hskin.gif	none	t,d	98
+395	squat hippopotamus skin	490634550	hskin.gif	none	t,d	98
 396	jittery red hardy penguin shorts	247576562	pshorts.gif	pants	t,d	140	pairs of penguin shorts
 397	Herculean yakskin pants	409987469	yakpants.gif	pants	t,d	142	pairs of yakskin pants
 398	padded hippopotamus pants	779249570	hpants.gif	pants	t,d	141	pairs of hippopotamus pants
 399	Da Vinci's eXtreme mittens	143188181	mittens.gif	accessory	t,d	105	pairs of eXtreme mittens
-400	handful of drink tickets	414545502	dtickets.gif	multiple	t,d	90	hands full of drink tickets
+400	ghostly handful of drink tickets	414545502	dtickets.gif	multiple	t,d	90	hands full of drink tickets
 401	Knob Kitchen grab-bag	380197839	sack1.gif	multiple	t,d	90
 402	swashbuckling pants of Tarzan	286196378	whitepants.gif	pants	t,d	90	pairs of swashbuckling pants
 403	gray nippy shoulder parrot	791955938	parrot.gif	accessory	t,d	90
 404	acoustic guitarrr of dire peril	192841141	aguitar.gif	weapon	t,d	105
 405	sunken chest	430113055	chest.gif	message	t,d	48
-406	pirate pelvis	165444668	pelvis.gif	none	t,d	44	pirate pelvises
-407	pirate skull	511553083	pskull.gif	usable	t,d	58
-408	spooky pirate skeleton	530387695	skeldoll.gif	grow	t,d	130
-409	vial of patchouli oil	398925440	vial.gif	none, combat	t,d	38	vials of patchouli oil
+406	tumbling pirate pelvis	165444668	pelvis.gif	none	t,d	44	pirate pelvises
+407	shaking pirate skull	511553083	pskull.gif	usable	t,d	58
+408	pirate skeleton	530387695	skeldoll.gif	grow	t,d	130
+409	fuchsia twirling vial of patchouli oil	398925440	vial.gif	none, combat	t,d	38	vials of patchouli oil
 410	sk8board of the overflowing toilet	500804259	sk8board.gif	accessory	t,d	80
 411	Jolly Roger charrrm	639174840	charm.gif	usable	t,d	50
-412	barrrnacle	149590413	barnacle.gif	grow	t,d	48
-413	Jolly Roger charrrm bracelet	179192700	charmbrac.gif	accessory, usable	t,d	80
+412	squat barrrnacle	149590413	barnacle.gif	grow	t,d	48
+413	studded Jolly Roger charrrm bracelet	179192700	charmbrac.gif	accessory, usable	t,d	80
 414	blinking razor-sharp crowbarrr	359712611	crowbar.gif	weapon	t,d	95
 415	medical-grade leotarrrd	984941146	leotard.gif	pants	t,d	100
 416	safarrri hat of the glutton	915759234	safhat.gif	hat	t,d	100
@@ -451,22 +451,22 @@
 425	polymerized colloidal aerosolized oil of expertise	536224886	bottle.gif	multiple	t,d	36	oils of expertise
 426	frozen huge potion of temporary gr8tness	202508725	lovepotion.gif	multiple	t,d	36	potions of temporary gr8tness
 427	stylish box	670936993	box.gif	offhand	t,d	19	boxen
-428	nothing-in-the-box	736598885	springbox.gif	none	t,d	26	nothings-in-the-box
-429	beanbag chair	605678154	beanbag.gif	usable	t,d	48
+428	pulsating nothing-in-the-box	736598885	springbox.gif	none	t,d	26	nothings-in-the-box
+429	purple beanbag chair	605678154	beanbag.gif	usable	t,d	48
 430	acid-squirting flower	265830726	squirt.gif	accessory	t,d	60
 431	blinking clown shoes of the cougar	441093570	clownshoes.gif	accessory	t,d	60	pairs of clown shoes
 432	tumbling gray bouncing rock-hard bloody clown pants	338249118	clownpants.gif	pants	t,d	60	pairs of bloody clown pants
-433	long skinny balloon	253886236	balloon.gif	multiple	t,d	22
+433	skinny balloon	253886236	balloon.gif	multiple	t,d	22
 434	green arcane researcher's balloon helmet	406449839	balhelmet.gif	hat	t,d	60
 435	groovy balloon sword of the early riser	856145902	balsword.gif	weapon	t,d	60
-436	balloon monkey	370126542	balmonkey.gif	grow	t,d	67
-437	chef skull	482820138	chefskull.gif	none	t,d	71
-438	chef-in-the-box	716787882	chefinbox.gif	usable	t,d	140	chefs-in-the-box
-439	bartender skull	568182233	barskull.gif	none	t,d	81
+436	bouncing green balloon monkey	370126542	balmonkey.gif	grow	t,d	67
+437	tumbling skewed chef skull	482820138	chefskull.gif	none	t,d	71
+438	blurry chef-in-the-box	716787882	chefinbox.gif	usable	t,d	140	chefs-in-the-box
+439	blurry bartender skull	568182233	barskull.gif	none	t,d	81
 440	bartender-in-the-box	328537111	bartinbox.gif	usable	t,d	140	bartenders-in-the-box
 441	chef-skull-in-the-box	702701816	chefinbox.gif	none	t	0	chef-skulls-in-the-box
-442	bartender-skull-in-the-box	539636584	bartinbox.gif	none	t	0	bartender-skulls-in-the-box
-443	beer lens	406146954	lens.gif	none	t,d	31	beer lenses
+442	twirling bartender-skull-in-the-box	539636584	bartinbox.gif	none	t	0	bartender-skulls-in-the-box
+443	maroon beer lens	406146954	lens.gif	none	t,d	31	beer lenses
 444	beer goggles	466168415	goggles.gif	accessory	t,d	57	pairs of beer goggles
 445	pulsating sharpshooter's box-in-the-box	511220204	boxinbox.gif	offhand	t,d	38	boxes-in-the-box
 446	nothing-in-the-box-in-the-box	117944722	sboxinbox.gif	none	t,d	41	nothings-in-the-box-in-the-box
