@@ -26,7 +26,7 @@ antimatter wad	2	3	awesome	5-7	-20-30	-20-30	-20-30
 vaporized purple narrow bottle of cough syrup	1	6	EPIC	0	0	18-20	0	10 The Q Is Talking To You (+10% mys)	
 armored prawn	1	1	EPIC	0	30-50	30-50	30-50	50 Rushtacean' (+50 Init)
 compressed astral energy drink	1	1		0	0	0	0		40 Object Detection (Item Drop: +5)
-astronaut ice-cream	1	7	EPIC	8-10	0	0	0
+altered gray jittery astronaut ice-cream	1	7	good	2-3	0	0	0		5 Rosewater Mark (Mysticality: +10, Spell Damage: +10, Experience (Mysticality): +2)
 bakelite bits	3	12	awesome	0	1000-2000	1000-2000	1000-2000
 beastly paste	4	4	good	5-10	18-22	18-22	18-22	10 Beastly Flavor (+3 fam weight)
 beefy pill	1	4	decent	0	0	0	0	30 Beefy (+10 DR, +1 all res)
@@ -46,7 +46,7 @@ denatured Breathetastic&trade; Premium Canned Air	1	13	crappy	1	60-70	60-70	60-7
 brilliant oyster egg	1	5	EPIC	0	0	50-60	0	20 Eggstraordinary Brilliance (+5 mys stats/fight)
 bug paste	4	4	good	5-10	18-22	18-22	18-22	10 Buggy Flavor (25% chance of poisoning opponent)
 distilled twirling can of Red Minotaur	1	1	awesome	0	0	0	0	+1 PvP fight, 5 Wings	
-can-can-in-a-can	1	1	good	0	0	0	10-12
+diluted huge can-can-in-a-can	1	1	crappy	0	0	0	10-12		
 carrot juice	3	1	good	4-5	0	0	0	10 Pla-see-bo (+10% item drop)
 chlorophyll paste	4	4	good	5-10	18-22	18-22	18-22	10 Chlorophyll Flavor (mp regen)
 coffee pixie stick	4	4	good	5-10	0	0	0
@@ -119,7 +119,7 @@ lustrous oyster egg	1	5	EPIC	0	0	0	0	50 Lustre After Wealth (+50% meat drop)
 distilled magicalness-in-a-can	1	1	EPIC	0	0	1-3	0		
 magnificent oyster egg	1	5	EPIC	0	50-60	0	0	20 Eggstraordinary Strength (+5 mus stats/fight)
 marble molecules	3	1	awesome	0	0	0	0	Unspaded
-Mariner's Friend cough drops	1	1	good	0	10-12	0	0
+dehydrated tumbling Mariner's Friend cough drops	1	1	EPIC	0	10-12	0	0		
 Mansquito Serum	1	2	awesome	0	20-40	20-40	20-40	400 More Mansquito Than Man (+100 HP, +100% HP, 20-40 HP regen)
 diluted blurry mauve oyster egg	1	1	awesome	0	0	22-30	0		
 mixed blurry mauve oyster egg	1	1	EPIC	0	0	11-15	11-15		
@@ -135,7 +135,7 @@ modified olive mummified fig	1	1	good	2-3	5-10	5-10	5-10
 denatured mummified loaf of bread	1	1	good	2-3	5-10	5-10	5-10		15 The Power of Positive Thinking
 nasty snuff	1	4	decent	1-2	15-30	15-30	15-30
 powdered Nightmare Fuel	1	1	awesome	0	0	0	0	Add Free Campground Rest	
-not-a-pipe	4	4	good	4-12	20-30	20-30	20-30
+modified blinking not-a-pipe	1	4	EPIC	4-6	20-30	20-30	20-30		
 octolus oculus	1	4	decent	2	0	0	15-30
 off-white paisley oyster egg	1	1	awesome	0	0	11-15	0	20 Eggs-tra Sensory Perception (+10% item drop)
 off-white polka-dot oyster egg	1	1	awesome	0	0	0	11-15	20 Eggs-tra Sensory Perception (+10% item drop)
@@ -145,7 +145,7 @@ orc paste	4	4	good	5-10	18-22	18-22	18-22	10 Fratty Flavor (+15 mox)
 oversized ice molecule	1	1	awesome	0	0	0	0	Unspaded
 party balloon	1	2	good	0	10-20	10-20	10-20	50 Lifted Spirits (+25 init, +5 stats/fight)
 Party-in-a-Can&trade;	1	4	crappy	0	1-50	1-50	1-50	50 Party on Your Skin (+50% HP, +50% MP, +5 familiar weight, +3 all res)
-patent antipsychotics	1	1	good	0	0	10-12	0
+denatured patent antipsychotics	1	1	decent	0	0	10-12	0		10 For Your Brain Only (Mysticality: +30)
 pearlescent oyster egg	1	5	EPIC	0	0	0	0	50 Pearly Vision (+25% item drop)
 penguin paste	4	4	good	5-10	18-22	18-22	18-22	10 Penguinny Flavor (cold dmg/res)
 pewter shavings	1	4	good	0	0	0	0	Unspaded
