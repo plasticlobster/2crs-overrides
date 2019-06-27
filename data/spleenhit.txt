@@ -15,7 +15,7 @@ abstraction: purpose	1	1	decent	0	0	0	0	50 Purpose (+25% mus experience)
 abstraction: sensation	1	1	decent	0	0	0	0	50 Sensation (+100% mox)
 abstraction: thought	1	1	decent	0	0	0	0	50 Thought (+100% mys)
 distilled blinking shaking aerosolized	1	12	EPIC	0	0	0	0	Unspaded	5 Think Win-Lose (Muscle Percent: +50, Mysticality Percent: +50, Moxie Percent: +50)
-agua de vida	4	4	good	5-10	0	0	0	empty agua de vida bottle
+dehydrated red tumbling skewed agua de vida	1	4	awesome	3-5	0	0	0	empty agua de vida bottle	
 alien animal goo	1	1	crappy	0	0	0	0	40 Celestial Body (+100% weapon damage, +20% critical hit chance)
 alien plant goo	1	1	crappy	0	0	0	0	40 Celestial Mind (+100% spell damage, +20% spell critical hit chance)
 alien protein powder	3	4	awesome	8-10	0	0	0
@@ -46,7 +46,7 @@ powdered Breathetastic&trade; Premium Canned Air	1	13	good	2-3	60-70	60-70	60-70
 brilliant oyster egg	1	5	EPIC	0	0	50-60	0	20 Eggstraordinary Brilliance (+5 mys stats/fight)
 bug paste	4	4	good	5-10	18-22	18-22	18-22	10 Buggy Flavor (25% chance of poisoning opponent)
 modified cyan squat can of Red Minotaur	1	1	good	0	0	0	0	+1 PvP fight, 5 Wings	10 Loyal Tea (Familiar Weight: +5)
-can-can-in-a-can	1	1	good	0	0	0	10-12
+diluted can-can-in-a-can	1	1	good	0	0	0	10-12		
 carrot juice	3	1	good	4-5	0	0	0	10 Pla-see-bo (+10% item drop)
 chlorophyll paste	4	4	good	5-10	18-22	18-22	18-22	10 Chlorophyll Flavor (mp regen)
 coffee pixie stick	4	4	good	5-10	0	0	0
@@ -79,12 +79,12 @@ distilled squat smithereens	1	12	good	0	0	0	0	Unspaded
 gaseous gravy	1	1	EPIC	0	0	0	0	50 Gettin' the Goods (+100% Item drop)
 compressed ghostly upside-down moxie weed	1	2	good	0	0	0	5-7		
 gleaming oyster egg	1	5	EPIC	0	0	0	0	50 Gleam-Inducing (+5 familiar weight)
-glimmering buzzard feather	1	1	good	0	0	0	0	20 Carrion' On (+60% meat drop)
-glimmering great tit feather	1	1	crappy	0	0	0	0	20 The Great Tit's Blessing (+20 ML)
-glimmering penguin feather	1	1	good	0	0	0	0	20 Antarctic Memories (+40 HP/MP regen)
-glimmering phoenix feather	1	1	good	0	0	0	0	20 Phoenix, Right? (+6 exp)
-glimmering raven feather	1	1	good	0	0	0	0	20 Melancholy Burden (+60% item drop)
-glimmering roc feather	4	4	good	6-10	20-30	20-30	20-30
+mixed twirling glimmering buzzard feather	1	1	crappy	0	0	0	0	20 Carrion' On (+60% meat drop)	
+boiled wobbly green glimmering great tit feather	1	1	decent	0	0	0	0	20 The Great Tit's Blessing (+20 ML)	
+mixed shaking glimmering penguin feather	1	1	good	0	0	0	0	20 Antarctic Memories (+40 HP/MP regen)	
+denatured wobbly glimmering phoenix feather	1	1	decent	0	0	0	0	20 Phoenix, Right? (+6 exp)	
+modified skewed glimmering raven feather	1	1	good	0	0	0	0	20 Melancholy Burden (+60% item drop)	
+modified ghostly glimmering roc feather	1	4	decent	1-2	20-30	20-30	20-30		50 Slimed Stomach (Sleaze Resistance: +1)
 glistening oyster egg	1	5	EPIC	0	0	0	50-60	20 Eggstraordinary Style (+5 mox stats/fight)
 glyph of athleticism	1	1	good	0	50-75	0	0	50 Turn On, Tune In, Play Ball! (+50% Mus, +50 HP, +25% Weapon Dam)
 goblin paste	4	4	good	5-10	18-22	18-22	18-22	10 Gobliny Flavor (5 DR)
@@ -119,7 +119,7 @@ lustrous oyster egg	1	5	EPIC	0	0	0	0	50 Lustre After Wealth (+50% meat drop)
 twisted twirling magicalness-in-a-can	1	1	decent	0	0	1-3	0		
 magnificent oyster egg	1	5	EPIC	0	50-60	0	0	20 Eggstraordinary Strength (+5 mus stats/fight)
 vaporized tumbling olive marble molecules	1	1	decent	0	0	0	0	Unspaded	
-Mariner's Friend cough drops	1	1	good	0	10-12	0	0
+diluted Mariner's Friend cough drops	1	1	good	0	10-12	0	0		
 Mansquito Serum	1	2	awesome	0	20-40	20-40	20-40	400 More Mansquito Than Man (+100 HP, +100% HP, 20-40 HP regen)
 dried skewed mauve oyster egg	1	1	crappy	0	0	22-30	0		
 mixed blinking mauve oyster egg	1	1	awesome	0	0	11-15	11-15		
@@ -135,7 +135,7 @@ distilled skewed mummified fig	1	1	decent	1-2	5-10	5-10	5-10		50 Glo-Face (MP Re
 distilled blurry mummified loaf of bread	1	1	awesome	3-5	5-10	5-10	5-10		
 nasty snuff	1	4	decent	1-2	15-30	15-30	15-30
 diluted Nightmare Fuel	1	1	decent	0	0	0	0	Add Free Campground Rest	
-not-a-pipe	4	4	good	4-12	20-30	20-30	20-30
+compressed tumbling not-a-pipe	1	4	EPIC	4-6	20-30	20-30	20-30		
 octolus oculus	1	4	decent	2	0	0	15-30
 off-white paisley oyster egg	1	1	awesome	0	0	11-15	0	20 Eggs-tra Sensory Perception (+10% item drop)
 off-white polka-dot oyster egg	1	1	awesome	0	0	0	11-15	20 Eggs-tra Sensory Perception (+10% item drop)
@@ -145,7 +145,7 @@ orc paste	4	4	good	5-10	18-22	18-22	18-22	10 Fratty Flavor (+15 mox)
 oversized ice molecule	1	1	awesome	0	0	0	0	Unspaded
 party balloon	1	2	good	0	10-20	10-20	10-20	50 Lifted Spirits (+25 init, +5 stats/fight)
 Party-in-a-Can&trade;	1	4	crappy	0	1-50	1-50	1-50	50 Party on Your Skin (+50% HP, +50% MP, +5 familiar weight, +3 all res)
-patent antipsychotics	1	1	good	0	0	10-12	0
+modified twirling patent antipsychotics	1	1	crappy	0	0	10-12	0		20 Texas Elegance (Maximum HP: +30, Maximum MP: +30)
 pearlescent oyster egg	1	5	EPIC	0	0	0	0	50 Pearly Vision (+25% item drop)
 penguin paste	4	4	good	5-10	18-22	18-22	18-22	10 Penguinny Flavor (cold dmg/res)
 pewter shavings	1	4	good	0	0	0	0	Unspaded
@@ -154,7 +154,7 @@ polyesterene powder	2	1	good	5	0	0	0
 porcelain powder	3	1	awesome	0	100-120	100-120	100-120
 powdered gold	4	1	good	5-10	20-30	20-30	20-30
 powdered oxygen	3	4	good	0	0	0	0	10 Hyperoxygenated Blood (Breath Underwater)
-prismatic wad	3	7	good	5-7	50-60	50-60	50-60	10 Rainbow Bright (+30% all, prismatic dmg/res)
+modified skewed prismatic wad	1	7	decent	1-2	50-60	50-60	50-60	10 Rainbow Bright (+30% all, prismatic dmg/res)	
 prototype stimulant	1	1	good	0	0	0	0	Unspaded, 50 Proto-Stimulated (+20 all stats)
 twisted tumbling gray puce oyster egg	1	1	decent	0	11-15	11-15	0		45 Yuletide Mutations (Muscle Percent: +10, Mysticality Percent: +10, Moxie Percent: +10)
 dried maroon puce oyster egg	1	1	decent	0	11-15	0	11-15		
@@ -185,7 +185,7 @@ dried pulsating blue synthetic marrow	1	1	decent	0	30-40	0	0		35 Marbles in Your
 The Author's ink	1	4	awesome	0	0	0	0	200 It's a Good Life! (+10 stat gain, +200% all)
 The Inquisitor's unidentifiable object	1	6	EPIC	0	50-100	50-100	50-100	100 The Inquisitor's Unknown Effect (+10 fam weight, +25 DR, +100% init, +100% meat, +100% item, +100% MP, +100% weapon dmg, +200% spell dmg)
 modified the funk	1	1	good	0	0	0	30-40		
-thermos of brew	2	1	good	3-5	25-40	25-40	25-40	LWA ring (1 time)
+dehydrated spinning thermos of brew	1	1	good	2-3	25-40	25-40	25-40	LWA ring (1 time)	10 Dweeby (Mysticality: +15)
 transdermal smoke patch	1	5	good	2-3	-10-15	-10-15	-10-15
 boiled purple tube of hair oil	1	6	good	0	0	0	18-20	10 Got Your Boots On (+10% mox)	15 Wintergreen Warmongery (Muscle: +30)
 turkey blaster	2	4	crappy	0	0	0	0	Restore 500-1000 HP/MP first 3 uses per day
