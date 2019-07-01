@@ -24,16 +24,16 @@
 #	t - trade
 #	d - discard
 #
-1	seal-clubbing club	868780591	club.gif	weapon	t,d	1
+1	bouncing teal pulsating seal-clubbing club	868780591	club.gif	weapon	t,d	1
 2	jittery seal tooth	617818041	tooth.gif	message, combat reusable	t,d	1	seal teeth
 3	huge helmet turtle of the ox	447433823	turtle.gif	hat	t,d	1
-4	turtle totem	164978098	totem.gif	weapon	t,d	1
-5	pasta spoon	249844320	pastaspoon.gif	weapon	t,d	1
+4	squat turtle totem	164978098	totem.gif	weapon	t,d	1
+5	fuchsia mirror pasta spoon	249844320	pastaspoon.gif	weapon	t,d	1
 6	chaotic ravioli hat	882973843	ravioli.gif	hat	t,d	1
 7	saucepan	323344201	saucepan.gif	weapon	t,d	1
 8	spices	266103456	spice.gif	none, combat reusable	t,d	1	spices
 9	red wizardly disco mask	449052630	discomask.gif	hat	t,d	1
-10	disco ball	371973562	discoball.gif	weapon	t,d	1
+10	squat disco ball	371973562	discoball.gif	weapon	t,d	1
 11	skewed stolen accordion	199623005	accordion.gif	weapon	t,d	1
 12	mariachi pants	359318823	mariachi.gif	pants	t,d	1	pairs of mariachi pants
 13
@@ -44,15 +44,15 @@
 18	tortoise's blessing	346365116	lump.gif	none	t	0
 19	maroon beefy asparagus knife	889193761	knife.gif	weapon	t,d	20	asparagus knives
 20	pulsating Kentucky-style derby	644460624	derby.gif	hat	t,d	25	Kentucky-style derbies
-21	sweet ninja sword	196360308	katana.gif	weapon	t,d	25
+21	blurry sweet ninja sword	196360308	katana.gif	weapon	t,d	25
 22	studded boxer shorts	683777017	boxers.gif	pants	t,d	25	pairs of studded leather boxer shorts
-23	chewing gum on a string	700733976	gum.gif	multiple	t,d	25	chewing gums on strings
+23	tumbling narrow chewing gum on a string	700733976	gum.gif	multiple	t,d	25	chewing gums on strings
 24	ten-leaf clover	370834526	clover.gif	multiple	t	0
 25	meat paste	207182772	wad.gif	none	t,d	10
 26	Dolphin King's map	539682799	map.gif	usable	q	0
-27	spider web	968009158	web.gif	none, combat	t,d	3
-28	really sticky spider web	672183606	web.gif	none, combat	t,d	5
-29	really really sticky spider web	405531390	web.gif	none, combat	t,d	9
+27	blue spider web	968009158	web.gif	none, combat	t,d	3
+28	really spider web	672183606	web.gif	none, combat	t,d	5
+29	really really spider web	405531390	web.gif	none, combat	t,d	9
 30	rock	962885446	bigrock.gif	none	t,d	1
 31	seal-toothed rock	113381266	toothrock.gif	none	t,d	2
 32	purple Sherlock's Bjorn's Hammer	591526612	sealbane.gif	weapon		0
@@ -63,23 +63,23 @@
 37	gravedigger's viking helmet	444904405	vikinghat.gif	hat	t,d	25
 38	upside-down ribald Knob Goblin pants	645141763	pants.gif	pants	t,d	30	pairs of Knob Goblin pants
 39	pretty flower	436457816	flower.gif	none	t,d	0
-40	casino pass	733986618	pass.gif	none	t,d	50	casino mooltipasses
+40	blurry casino pass	733986618	pass.gif	none	t,d	50	casino mooltipasses
 41	triple-distilled perfectly mixed spinning ice-cold Sir Schlitz	305316771	beer.gif	drink	t,d	30	ice-cold Sir Schlitzen
-42	hermit permit	467488422	permit.gif	none	t,d	50
-43	worthless trinket	134561658	trinket.gif	none	d	0
+42	cyan hermit permit	467488422	permit.gif	none	t,d	50
+43	twirling worthless trinket	134561658	trinket.gif	none	d	0
 44	worthless gewgaw	727798834	gewgaw.gif	none	d	0
-45	worthless knick-knack	561158049	knickknack.gif	none	d	0
-46	wooden figurine	520591514	statue.gif	none	t,d	25
+45	pulsating worthless knick-knack	561158049	knickknack.gif	none	d	0
+46	figurine	520591514	statue.gif	none	t,d	25
 47	rotten wobbly hot buttered roll	424947000	roll.gif	food	t,d	25
 48	heart of rock and roll	855972490	heart.gif	none	t,d	101	hearts of rock and roll
 49	moldy half-sized bowl of cottage cheese	721301736	ccheese.gif	food	t,d	31	bowls of cottage cheese
 50	jittery twirling Tesla Rock and Roll Legend	275331264	legend.gif	weapon		0
 51	mirror clever Knob Goblin Uberpants	555557301	uberpants.gif	pants	t,d	60	pairs of Knob Goblin Uberpants
-52	banjo strings	546702280	strings.gif	none	t,d	25	sets of banjo strings
+52	bouncing banjo strings	546702280	strings.gif	none	t,d	25	sets of banjo strings
 53	weightlifter's stone banjo	232520882	stonebanjo.gif	weapon	t,d	30
 54	blinking Sinatra's Disco Banjo of the brute	244279521	discobanjo.gif	weapon		0
 55	jaba&ntilde;ero pepper	189906805	pepper.gif	none	t,d	25
-56	heavy hot sauce	915847243	heavysauce.gif	none	t,d	101
+56	hot sauce	915847243	heavysauce.gif	none	t,d	101
 57	shaking beefcake's 5-Alarm Saucepan	695837819	5alarm.gif	weapon		0
 58	stone turtle	273862210	stoneturtle.gif	none	t,d	3
 59	slingshot	278594504	slingshot.gif	weapon	t,d	75
@@ -87,9 +87,9 @@
 61	gigantic decent fortune cookie	490489381	fortune.gif	food	t,d	20
 62	oriole-feather headdress of the storm	499720505	headdress.gif	hat	t	0	oriole-feather headdresses
 63	action figure body	329267145	bjornbody.gif	none	q	0
-64	action figure head	224701221	bjornhead.gif	none	q	0
+64	shaking action figure head	224701221	bjornhead.gif	none	q	0
 65	Mighty Bjorn action figure	390564890	bjorn.gif	none	q	0
-66	golden twig	244181505	stick.gif	none	t	0
+66	twig	244181505	stick.gif	none	t	0
 67	spaghetti with rock-balls	192265650	rockballs.gif	none	t,d	2	spaghettis with rock-balls
 68	spinning wicked boxer's Pasta Spoon of Peril	942969095	perilpasta.gif	weapon		0	Pasta Spoons of Peril
 69	Newbiesport&trade; tent	564164501	tent1.gif	usable	t,d	20
@@ -97,19 +97,19 @@
 71	healthy stakes	449563853	stakes.gif	weapon	t,d	30	sets of wooden stakes
 72	supercharged barskin hat	435786424	skincap.gif	hat	t,d	60
 73	barskin tent	643891681	tent2.gif	usable	t,d	9
-74	Spooky Temple map	525549764	map.gif	usable	q	0
-75	spooky sapling	462893050	bansai.gif	message	q	0
+74	Temple map	525549764	map.gif	usable	q	0
+75	sapling	462893050	bansai.gif	message	q	0
 76	Spooky-Gro fertilizer	991217692	spraycan.gif	message	t,d	6
 77	wool stick	943176401	stick.gif	weapon	t,d	35
 78	upside-down rosewater-soaked pretty bouquet	547934955	bouquet.gif	offhand	t,d	2
 79	bugbear bungguard	426478400	furpants.gif	pants	t,d	35
-80	fairy gravy boat	903885205	gravy.gif	none	t,d	5
+80	ghostly fairy gravy boat	903885205	gravy.gif	none	t,d	5
 81	hand-crafted ice-cold Willer	819157879	beerbottle.gif	drink	t,d	30
-82	rusty metal ring	970490171	rustyring.gif	none	t,d	4
-83	rusty metal shaft	228339790	rustyshaft.gif	none	t,d	5
+82	ring	970490171	rustyring.gif	none	t,d	4
+83	green skewed shaft	228339790	rustyshaft.gif	none	t,d	5
 84	Orcish meat locker	221122907	meatlocker.gif	usable	t,d	5
-85	unlocked meat locker	343964219	meatlocker.gif	usable	t	0
-86	rusty metal key	518345878	rustykey.gif	none	t,d	8
+85	huge unlocked meat locker	343964219	meatlocker.gif	usable	t	0
+86	key	518345878	rustykey.gif	none	t,d	8
 87	meat from yesterday	653772183	meat.gif	none	t,d	5	meats from yesterday
 88	meat stack	814092432	meatstack.gif	none	t,d	100
 89	sword hilt	579389111	basichilt.gif	none	t,d	50
