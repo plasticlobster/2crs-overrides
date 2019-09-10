@@ -6,29 +6,29 @@
 
 abstraction: action	1	1	decent	0	0	0	0	50 Action (+100% mus)
 abstraction: category	1	1	decent	0	0	0	0	50 Category (+25% mys experience)
-abstraction: certainty	1	1	good	0	0	0	0	50 Certainty (+100% item drop)
-abstraction: comprehension	1	1	awesome	0	200-300	200-300	200-300
-abstraction: joy	1	1	good	0	0	0	0	50 Joy (+10 familiar weight)
-abstraction: motion	1	1	good	0	0	0	0	50 Motion (+100 init)
+diluted abstraction: certainty	1	1	good	0	0	0	0	50 Certainty (+100% item drop)	
+vaporized abstraction: comprehension	1	1	EPIC	0	200-300	200-300	200-300		
+denatured jittery mirror abstraction: joy	1	1	good	0	0	0	0	50 Joy (+10 familiar weight)	
+distilled abstraction: motion	1	1	good	0	0	0	0	50 Motion (+100 init)	
 abstraction: perception	1	1	decent	0	0	0	0	50 Perception (+25% mox experience)
 abstraction: purpose	1	1	decent	0	0	0	0	50 Purpose (+25% mus experience)
-abstraction: sensation	1	1	decent	0	0	0	0	50 Sensation (+100% mox)
-abstraction: thought	1	1	decent	0	0	0	0	50 Thought (+100% mys)
+dehydrated twirling abstraction: sensation	1	1	awesome	0	0	0	0	50 Sensation (+100% mox)	
+dehydrated narrow abstraction: thought	1	1	good	0	0	0	0	50 Thought (+100% mys)	
 pickled blurry tumbling ghostly aerosolized	1	12	good	0	0	0	0	Unspaded	
-agua de vida	4	4	good	5-10	0	0	0	empty agua de vida bottle
+mixed shaking wobbly agua de vida	1	4	crappy	1	0	0	0	empty agua de vida bottle	
 alien animal goo	1	1	crappy	0	0	0	0	40 Celestial Body (+100% weapon damage, +20% critical hit chance)
 alien plant goo	1	1	crappy	0	0	0	0	40 Celestial Mind (+100% spell damage, +20% spell critical hit chance)
-alien protein powder	3	4	awesome	8-10	0	0	0
-ancient medicinal herbs	1	1	awesome	0	0	0	0	50 Ancient Fortitude (+100% HP, +90-100 HP Regen, Impervious to negative effects)
+dehydrated skewed jittery alien protein powder	1	4	good	2-3	0	0	0		20 Minerva's Zen (Mysticality Percent: +100)
+mixed medicinal herbs	1	1	awesome	0	0	0	0	50 Ancient Fortitude (+100% HP, +90-100 HP Regen, Impervious to negative effects)	
 dried pills	1	2	crappy	0	0	0	0	Restore 30-40 MP	
 powdered olive protein powder	1	1	decent	0	12-14	0	0		
-antimatter wad	2	3	awesome	5-7	-20-30	-20-30	-20-30
+altered antimatter wad	1	3	good	2-3	-20-30	-20-30	-20-30		
 vaporized jittery bottle of cough syrup	1	6	crappy	0	0	18-20	0	10 The Q Is Talking To You (+10% mys)	
 armored prawn	1	1	EPIC	0	30-50	30-50	30-50	50 Rushtacean' (+50 Init)
 dried spinning astral energy drink	1	1		0	0	0	0		
-astronaut ice-cream	1	7	EPIC	8-10	0	0	0
-bakelite bits	3	12	awesome	0	1000-2000	1000-2000	1000-2000
-beastly paste	4	4	good	5-10	18-22	18-22	18-22	10 Beastly Flavor (+3 fam weight)
+powdered fuchsia astronaut ice-cream	1	7	decent	1-2	0	0	0		
+compressed green huge bits	1	12	awesome	0	1000-2000	1000-2000	1000-2000		
+powdered pulsating beastly paste	1	4	crappy	1	18-22	18-22	18-22	10 Beastly Flavor (+3 fam weight)	35 Eyes of the Dragon (Item Drop: [100*env(underwater)])
 beefy pill	1	4	decent	0	0	0	0	30 Beefy (+10 DR, +1 all res)
 boiled blurry twirling bit-o-cactus	1	1	good	0	0	10-12	0		
 black paisley oyster egg	1	1	awesome	0	0	11-15	0	20 Egg-stortionary Tactics (+50% meat drop)
@@ -44,26 +44,26 @@ dried blurry upside-down bottle of melodramamine	1	1	awesome	0	0	0	0	5 Emotion S
 dried bottle of ultravitamins	1	6	EPIC	0	18-20	0	0	10 Vitamin-Maxed (+10% mus)	
 twisted Breathetastic&trade; Premium Canned Air	1	13	good	2-3	60-70	60-70	60-70		
 brilliant oyster egg	1	5	EPIC	0	0	50-60	0	20 Eggstraordinary Brilliance (+5 mys stats/fight)
-bug paste	4	4	good	5-10	18-22	18-22	18-22	10 Buggy Flavor (25% chance of poisoning opponent)
+boiled upside-down bug paste	1	4	good	2-3	18-22	18-22	18-22	10 Buggy Flavor (25% chance of poisoning opponent)	40 Curse of the Black Pearl Onion
 altered can of Red Minotaur	1	1	decent	0	0	0	0	+1 PvP fight, 5 Wings	
-can-can-in-a-can	1	1	good	0	0	0	10-12
-carrot juice	3	1	good	4-5	0	0	0	10 Pla-see-bo (+10% item drop)
-chlorophyll paste	4	4	good	5-10	18-22	18-22	18-22	10 Chlorophyll Flavor (mp regen)
-coffee pixie stick	4	4	good	5-10	0	0	0
+distilled fuchsia can-can-in-a-can	1	1	good	0	0	0	10-12		
+dried twirling fuchsia carrot juice	1	1	crappy	1	0	0	0	10 Pla-see-bo (+10% item drop)	
+pickled huge twirling chlorophyll paste	1	4	decent	1-2	18-22	18-22	18-22	10 Chlorophyll Flavor (mp regen)	
+boiled coffee pixie stick	1	4	EPIC	4-6	0	0	0		
 cold jelly	1	1	crappy	0	0	50-60	0	50 Cold Jellied (+3 mys stats/fight, +5 cold damage, +30% mys), gain base booze when drinking
 twisted jittery mirror wad	1	6	good	0	50-60	30-40	10-20	20 Cold Blooded (+30% mus, +20% mys, +10% mox, cold dmg/res)	
 vaporized mirror purple concentrated magicalness pill	1	2	decent	0	0	5-7	0		50 Sweet and Yellow (Ranged Damage: +30, Initiative: +10)
-cosmic paste	4	4	good	5-10	18-22	18-22	18-22	10 Cosmic Flavor (+10% critical spell)
+powdered bouncing narrow cosmic paste	1	4	decent	1-2	18-22	18-22	18-22	10 Cosmic Flavor (+10% critical spell)	
 Crimbeau de toilette	1	1	awesome	0	0	0	0	Unspaded, 50 Crimbeau'd (+10 familiar weight, +25 item drop, +50 meat drop)
-Crimbo paste	4	4	good	5-10	18-22	18-22	18-22	10 Crimbo Flavor (+30 spell dmg)
-cuppa Activi tea	2	1	decent	3-5	8-10	8-10	8-10
-cuppa Cruel tea	4	1	crappy	0	0	0	0	+5 PvP fights
+denatured pulsating Crimbo paste	1	4	crappy	1	18-22	18-22	18-22	10 Crimbo Flavor (+30 spell dmg)	30 Ticking Clock (Initiative: +30)
+pickled cuppa Activi tea	1	1	crappy	1	8-10	8-10	8-10		
+distilled cuppa Cruel tea	1	1	decent	0	0	0	0	+5 PvP fights	
 cute mushroom	4	6	decent	7-9	5-10	5-10	5-10	50 Cute Vision (+5 familiar weight)
-demonic paste	4	4	good	5-10	18-22	18-22	18-22	10 Demonic Flavor (hot dmg/res)
+mixed tumbling blinking demonic paste	1	4	good	2-3	18-22	18-22	18-22	10 Demonic Flavor (hot dmg/res)	
 pickled narrow dieting pill	1	7	awesome	0	0	0	0	2x fullness, stats and adventures for next food	
-ectoplasmic paste	4	4	good	5-10	18-22	18-22	18-22	10 Spooky Flavor (spooky dmg/res)
-eldritch essence	1	4	crappy	0	66	66	66
-elemental paste	4	4	good	5-10	18-22	18-22	18-22	10 Elemental Flavor (+5 prismatic dmg)
+powdered ectoplasmic paste	1	4	decent	1-2	18-22	18-22	18-22	10 Spooky Flavor (spooky dmg/res)	5 Human-Demon Hybrid (Hot Damage: +20, Hot Spell Damage: +20)
+dehydrated eldritch essence	1	4	good	0	66	66	66		
+dried elemental paste	1	4	EPIC	4-6	18-22	18-22	18-22	10 Elemental Flavor (+5 prismatic dmg)	30 I See Everything Thrice! (Item Drop: +33)
 dried jittery barbell	1	2	crappy	0	5-7	0	0		
 mixed wobbly twirling leopard-print barbell	1	13	decent	1-2	50-100	50-100	50-100		
 powdered epic cluster	1	20	good	2-3	170-200	170-200	170-200		
@@ -72,37 +72,37 @@ modified yellow excitement pill	1	5	good	0	0	0	0	Get random effect
 modified maroon expensive cigar	1	7	good	0	40-50	0	0		
 altered ghostly upside-down extra-strength strongness elixir	1	3	crappy	0	8-10	0	0		
 distilled maroon bouncing fiberglass fibers	1	12	EPIC	0	1000-2000	1000-2000	1000-2000		
-fishy paste	4	4	good	5-10	18-22	18-22	18-22	10 Fishy
-Five Second Energy&trade;	3	1	crappy	0	0	0	0	+3 PvP fights
+pickled ghostly paste	1	4	awesome	3-5	18-22	18-22	18-22	10 Fishy	
+compressed upside-down Five Second Energy&trade;	1	1	decent	0	0	0	0	+3 PvP fights	
 powdered furry pill	1	3	decent	0	0	0	0	Remove negative effect, Restores 40-50 HP	
 diluted narrow smithereens	1	12	decent	0	0	0	0	Unspaded	40 Disdain of the Storm Tortoise (Initiative: +5, Maximum MP: +10)
 gaseous gravy	1	1	EPIC	0	0	0	0	50 Gettin' the Goods (+100% Item drop)
 dehydrated spinning moxie weed	1	2	decent	0	0	0	5-7		
 gleaming oyster egg	1	5	EPIC	0	0	0	0	50 Gleam-Inducing (+5 familiar weight)
-glimmering buzzard feather	1	1	good	0	0	0	0	20 Carrion' On (+60% meat drop)
-glimmering great tit feather	1	1	crappy	0	0	0	0	20 The Great Tit's Blessing (+20 ML)
-glimmering penguin feather	1	1	good	0	0	0	0	20 Antarctic Memories (+40 HP/MP regen)
-glimmering phoenix feather	1	1	good	0	0	0	0	20 Phoenix, Right? (+6 exp)
-glimmering raven feather	1	1	good	0	0	0	0	20 Melancholy Burden (+60% item drop)
-glimmering roc feather	4	4	good	6-10	20-30	20-30	20-30
+dried squat glimmering buzzard feather	1	1	EPIC	0	0	0	0	20 Carrion' On (+60% meat drop)	45 Stick Emporium Membership (Weapon Drop: +100)
+modified wobbly olive mirror glimmering great tit feather	1	1	crappy	0	0	0	0	20 The Great Tit's Blessing (+20 ML)	25 Baconstoned (Mysticality Percent: +50, Spell Damage: +11)
+dried blurry glimmering penguin feather	1	1	good	0	0	0	0	20 Antarctic Memories (+40 HP/MP regen)	30 Sugary Tongue (Moxie Percent: +30)
+dried cyan glimmering phoenix feather	1	1	decent	0	0	0	0	20 Phoenix, Right? (+6 exp)	
+pickled blinking glimmering raven feather	1	1	decent	0	0	0	0	20 Melancholy Burden (+60% item drop)	
+twisted tumbling bouncing red glimmering roc feather	1	4	crappy	1	20-30	20-30	20-30		
 glistening oyster egg	1	5	EPIC	0	0	0	50-60	20 Eggstraordinary Style (+5 mox stats/fight)
 glyph of athleticism	1	1	good	0	50-75	0	0	50 Turn On, Tune In, Play Ball! (+50% Mus, +50 HP, +25% Weapon Dam)
-goblin paste	4	4	good	5-10	18-22	18-22	18-22	10 Gobliny Flavor (5 DR)
-gooey paste	4	4	good	5-10	18-22	18-22	18-22
-greasy paste	4	4	good	5-10	18-22	18-22	18-22	10 Greasy Flavor (+30 weapon dmg)
-grim fairy tale	4	1	good	5-10	20-30	20-30	20-30
-groose grease	4	1	good	5-10	20-30	20-30	20-30	50 Just the Best Anapests
+powdered goblin paste	1	4	decent	1-2	18-22	18-22	18-22	10 Gobliny Flavor (5 DR)	
+twisted blinking gooey paste	1	4	crappy	1	18-22	18-22	18-22		
+compressed narrow greasy paste	1	4	decent	1-2	18-22	18-22	18-22	10 Greasy Flavor (+30 weapon dmg)	50 Gunky Dory (Maximum HP: +50, HP Regen Min: 4, HP Regen Max: 10)
+twisted skewed twirling grim fairy tale	1	1	decent	1-2	20-30	20-30	20-30		
+powdered red groose grease	1	1	good	2-3	20-30	20-30	20-30	50 Just the Best Anapests	
 altered guy made of bee pollen	1	8	decent	0	100-150	100-150	100-150		
 compressed pulsating mirror handful of moss	1	1	good	0	0	0	12-14		
-handful of Smithereens	1	1	decent	1-2	0	0	0	100 Smithsness Presence (Smithsness: +10)
+dried handful of Smithereens	1	1	awesome	3-5	0	0	0	100 Smithsness Presence (Smithsness: +10)	15 Crusty Head (Damage Reduction: 10)
 boiled Hatorade	1	1	good	0	0	0	0	+1 PvP fight	40 Dragged Through the Coals (Hot Damage: +100)
 pickled bouncing battery	1	1	EPIC	0	0	30-40	0		40 Got Milk
-hippy paste	4	4	good	5-10	18-22	18-22	18-22	10 Hippy Flavor (+15 mys)
-hobo paste	4	4	good	5-10	18-22	18-22	18-22	10 Hobo Flavor (stench dmg/res)
-homeopathic mint tea	1	1	decent	1-2	0	0	0	50 Alpine Mintiness (+25 HP/MP, +25 Weapon Damage, +25 Spell Damage)
+dehydrated hippy paste	1	4	crappy	1	18-22	18-22	18-22	10 Hippy Flavor (+15 mys)	50 Hare-o-dynamic (Initiative: +300)
+powdered hobo paste	1	4	decent	1-2	18-22	18-22	18-22	10 Hobo Flavor (stench dmg/res)	10 Big Punkin' (Moxie: +30)
+mixed mirror homeopathic mint tea	1	1	crappy	1	0	0	0	50 Alpine Mintiness (+25 HP/MP, +25 Weapon Damage, +25 Spell Damage)	
 hot jelly	1	1	crappy	0	50-60	0	0	50 Hot Jellied (+3 mus stats/fight, +5 hot damage, +30% mus), grants one-use 20 turn banishing skill
 boiled bouncing hot wad	1	6	crappy	0	50-60	10-20	30-40	20 Hot Blooded (+30% mus, +20% mox, +10% mys, hot dmg/res)	
-indescribably horrible paste	4	4	good	5-10	18-22	18-22	18-22	10 Indescribable Flavor (+30 spell dmg)
+vaporized tumbling indescribably horrible paste	1	4	awesome	3-5	18-22	18-22	18-22	10 Indescribable Flavor (+30 spell dmg)	30 Mucilaginous Mentalism (Mysticality Percent: +200)
 modified bouncing narrow Instant Karma	1	13	awesome	3-5	60-70	60-70	60-70		
 altered jug-o-magicalness	1	3	crappy	0	0	8-10	0		
 powdered Knob Goblin pet-buffing spray	1	1	decent	0	0	0	0	30 Heavy Petting (+5 familiar weight, -10% all stats)	40 Heavily Breathing (Experience (Muscle): Varies)
@@ -119,42 +119,42 @@ lustrous oyster egg	1	5	EPIC	0	0	0	0	50 Lustre After Wealth (+50% meat drop)
 altered magicalness-in-a-can	1	1	EPIC	0	0	1-3	0		
 magnificent oyster egg	1	5	EPIC	0	50-60	0	0	20 Eggstraordinary Strength (+5 mus stats/fight)
 diluted marble molecules	1	1	crappy	0	0	0	0	Unspaded	
-Mariner's Friend cough drops	1	1	good	0	10-12	0	0
-Mansquito Serum	1	2	awesome	0	20-40	20-40	20-40	400 More Mansquito Than Man (+100 HP, +100% HP, 20-40 HP regen)
+boiled Mariner's Friend cough drops	1	1	awesome	0	10-12	0	0		
+vaporized twirling Mansquito Serum	1	2	awesome	0	20-40	20-40	20-40	400 More Mansquito Than Man (+100 HP, +100% HP, 20-40 HP regen)	
 boiled shaking mauve oyster egg	1	1	decent	0	0	22-30	0		35 Inscrutable exoskeleton (Damage Absorption: +300)
 powdered purple mauve oyster egg	1	1	decent	0	0	11-15	11-15		
 modified lime green jittery mauve oyster egg	1	1	good	0	11-15	11-15	0		
 mixed skewed teal Medicinal Herb's medicinal herbs	1	3	decent	0	0	0	0	full heal	50 Sated and Furious (Weapon Damage: Varies, Spell Damage: Varies)
-Mer-kin paste	4	4	good	5-10	18-22	18-22	18-22	10 Mer-kinny Flavor (breathe underwater)
+altered shaking Mer-kin paste	1	4	awesome	3-5	18-22	18-22	18-22	10 Mer-kinny Flavor (breathe underwater)	30 Human-Undead Hybrid (Spooky Damage: +20, Spooky Spell Damage: +20)
 mime army superserum	1	15	good	0	0	0	0	Unspaded, 50 I'll Have the Soup (+300% HP, 20 DR, +100 DA)
 twisted blurry molotov soda	1	2	awesome	3-5	0	0	0		
-moomy dust	1	1	decent	0	15-20	15-20	15-20	30 Cowrruption (+200% weapon dmg, +200% spell dmg, muscle limited to 30, moxie limited to 30)
+twisted moomy dust	1	1	decent	0	15-20	15-20	15-20	30 Cowrruption (+200% weapon dmg, +200% spell dmg, muscle limited to 30, moxie limited to 30)	
 compressed moxie weed	1	1	crappy	0	0	0	1-3		
 boiled bouncing fuchsia mummified beef haunch	1	1	decent	1-2	5-10	5-10	5-10		
 mixed upside-down mirror mummified fig	1	1	awesome	3-5	5-10	5-10	5-10		25 Warm Belly (Hot Damage: Varies)
 vaporized shaking mummified loaf of bread	1	1	awesome	3-5	5-10	5-10	5-10		
 nasty snuff	1	4	decent	1-2	15-30	15-30	15-30
 distilled blue jittery Nightmare Fuel	1	1	good	0	0	0	0	Add Free Campground Rest	
-not-a-pipe	4	4	good	4-12	20-30	20-30	20-30
+powdered not-a-pipe	1	4	awesome	3-5	20-30	20-30	20-30		
 octolus oculus	1	4	decent	2	0	0	15-30
 off-white paisley oyster egg	1	1	awesome	0	0	11-15	0	20 Eggs-tra Sensory Perception (+10% item drop)
 off-white polka-dot oyster egg	1	1	awesome	0	0	0	11-15	20 Eggs-tra Sensory Perception (+10% item drop)
 off-white striped oyster egg	1	1	awesome	0	11-15	0	0	20 Eggs-tra Sensory Perception (+10% item drop)
-oily paste	4	4	good	5-10	18-22	18-22	18-22	10 Oily Flavor (+15 mus)
-orc paste	4	4	good	5-10	18-22	18-22	18-22	10 Fratty Flavor (+15 mox)
+twisted twirling paste	1	4	decent	1-2	18-22	18-22	18-22	10 Oily Flavor (+15 mus)	5 Indescribable Flavor (Spell Damage: +30)
+altered tumbling orc paste	1	4	decent	1-2	18-22	18-22	18-22	10 Fratty Flavor (+15 mox)	
 oversized ice molecule	1	1	awesome	0	0	0	0	Unspaded
 party balloon	1	2	good	0	10-20	10-20	10-20	50 Lifted Spirits (+25 init, +5 stats/fight)
 Party-in-a-Can&trade;	1	4	crappy	0	1-50	1-50	1-50	50 Party on Your Skin (+50% HP, +50% MP, +5 familiar weight, +3 all res)
-patent antipsychotics	1	1	good	0	0	10-12	0
+dried pulsating patent antipsychotics	1	1	EPIC	0	0	10-12	0		
 pearlescent oyster egg	1	5	EPIC	0	0	0	0	50 Pearly Vision (+25% item drop)
-penguin paste	4	4	good	5-10	18-22	18-22	18-22	10 Penguinny Flavor (cold dmg/res)
+altered tumbling penguin paste	1	4	good	2-3	18-22	18-22	18-22	10 Penguinny Flavor (cold dmg/res)	
 pewter shavings	1	4	good	0	0	0	0	Unspaded
-pirate paste	4	4	good	5-10	18-22	18-22	18-22	10 Piratey Flavor (+5% critical)
-polyesterene powder	2	1	good	5	0	0	0
-porcelain powder	3	1	awesome	0	100-120	100-120	100-120
-powdered gold	4	1	good	5-10	20-30	20-30	20-30
+powdered shaking pirate paste	1	4	good	2-3	18-22	18-22	18-22	10 Piratey Flavor (+5% critical)	
+denatured narrow polyesterene powder	1	1	good	2-3	0	0	0		
+dehydrated squat powder	1	1	decent	0	100-120	100-120	100-120		
+modified mirror maroon 	1	1	EPIC	4-6	20-30	20-30	20-30		
 powdered oxygen	3	4	good	0	0	0	0	10 Hyperoxygenated Blood (Breath Underwater)
-prismatic wad	3	7	good	5-7	50-60	50-60	50-60	10 Rainbow Bright (+30% all, prismatic dmg/res)
+vaporized pulsating lime green prismatic wad	1	7	good	2-3	50-60	50-60	50-60	10 Rainbow Bright (+30% all, prismatic dmg/res)	15 Bitterskin (Slime Hates It: +1)
 prototype stimulant	1	1	good	0	0	0	0	Unspaded, 50 Proto-Stimulated (+20 all stats)
 denatured skewed puce oyster egg	1	1	awesome	0	11-15	11-15	0		30 Smugness (Moxie: +5)
 boiled jittery ghostly puce oyster egg	1	1	good	0	11-15	0	11-15		
@@ -163,40 +163,40 @@ mixed huge gray Purple Beast energy drink	1	1	decent	0	10-20	10-20	10-20	+3 PvP 
 denatured ghostly gray oyster egg	1	1	EPIC	0	0	11-15	0	31-35 HP	
 twisted cyan oyster egg	1	1	EPIC	0	0	0	11-15	31-35 HP	
 diluted maroon oyster egg	1	1	crappy	0	11-15	0	0	31-35 HP	5 5 Pounds Lighter (Initiative: +10, Moxie: +5)
-residual zeal	5	20	EPIC	0	25000-35000	25000-35000	25000-35000
+mixed olive residual zeal	1	20	awesome	0	25000-35000	25000-35000	25000-35000		40 Elbow Sauce (Weapon Damage Percent: +50)
 sachet of strange powder	1	4	good	0	30-50	30-50	30-50	40 Powder Power (+5 prismatic damage)
 scintillating oyster egg	1	5	EPIC	0	0	0	0	20 Eggscitingly Colorful (+3 all res)
 sea jelly	1	1	crappy	0	30-40	30-40	30-40	10 Fishy
-single atom	1	1	decent	1	0	0	0
+pickled single atom	1	1	crappy	1	0	0	0		
 sleaze jelly	1	1	crappy	0	0	0	50-60	50 Sleazy Jellied (+3 mox stats/fight, +5 sleaze damage, +30% mox), 10% off next NPC purchase (not Gift shop)
 distilled sleaze wad	1	6	crappy	0	20-30	20-30	50-60	20 Supafly (+30% mox, +15% mus, +15% mys, sleaze dmg/res)	
 compressed slimy alveolus	1	5	decent	0	0	0	0	50 Slimebreath (+50 ML, slime res)	
-slimy paste	4	4	good	5-10	18-22	18-22	18-22	10 Slimy Flavor (sleaze dmg/res)
-SMOOCH coffee cup	2	6	good	4-6	0	0	10-20
+mixed blue slimy paste	1	4	decent	1-2	18-22	18-22	18-22	10 Slimy Flavor (sleaze dmg/res)	
+denatured SMOOCH coffee cup	1	6	crappy	1	0	0	10-20		
 spooky jelly	1	1	crappy	0	15-20	15-20	15-20	50 Spooky Jellied (+5 stats/fight, +5 spooky damage, +10% all stats), next monster defeated drops all items
 powdered tumbling wobbly wad	1	6	crappy	0	10-20	50-60	30-40	20 Spooky Demeanor (+30% mys, +20% mox, +10% mus, spooky dmg/res)	
 compressed steel-scented air freshener	1	5	EPIC	0	0	0	0	Spleen of Steel skill	
 stench jelly	1	1	crappy	0	15-20	15-20	15-20	50 Stench Jellied (+30 item drop, +5 stench damage, +10% all stats), sets combat frequency to 0 til next non-combat
 compressed stench wad	1	6	crappy	0	30-40	50-60	10-20	20 Stenchtastic (+30% mys, +20% mus, +10% mox, stench dmg/res)	
-strange paste	4	4	good	5-10	18-22	18-22	18-22	10 Weird Flavor (???)
+vaporized twirling cyan paste	1	4	EPIC	4-6	18-22	18-22	18-22	10 Weird Flavor (???)	
 dehydrated upside-down strongness elixir	1	1	good	0	1-3	0	0		
 denatured suntan lotion of moxiousness	1	3	decent	0	0	0	8-10		50 Slimy Hands (Sleaze Damage: +10)
 boiled blurry synthetic marrow	1	1	awesome	0	30-40	0	0		
-The Author's ink	1	4	awesome	0	0	0	0	200 It's a Good Life! (+10 stat gain, +200% all)
-The Inquisitor's unidentifiable object	1	6	EPIC	0	50-100	50-100	50-100	100 The Inquisitor's Unknown Effect (+10 fam weight, +25 DR, +100% init, +100% meat, +100% item, +100% MP, +100% weapon dmg, +200% spell dmg)
+twisted shaking jittery The Author's ink	1	4	good	0	0	0	0	200 It's a Good Life! (+10 stat gain, +200% all)	
+altered mirror The Inquisitor's unidentifiable object	1	6	decent	0	50-100	50-100	50-100	100 The Inquisitor's Unknown Effect (+10 fam weight, +25 DR, +100% init, +100% meat, +100% item, +100% MP, +100% weapon dmg, +200% spell dmg)	
 mixed the funk	1	1	EPIC	0	0	0	30-40		
-thermos of brew	2	1	good	3-5	25-40	25-40	25-40	LWA ring (1 time)
-transdermal smoke patch	1	5	good	2-3	-10-15	-10-15	-10-15
+dried ghostly thermos of brew	1	1	awesome	3-5	25-40	25-40	25-40	LWA ring (1 time)	
+boiled pulsating wobbly shaking transdermal smoke patch	1	5	crappy	1	-10-15	-10-15	-10-15		50 Moon-Eyed (Mysticality: +30)
 vaporized red tube of hair oil	1	6	good	0	0	0	18-20	10 Got Your Boots On (+10% mox)	35 Blessing of the Frozen Tortellini (Cold Spell Damage: +20, Stench Resistance: +2)
 turkey blaster	2	4	crappy	0	0	0	0	Restore 500-1000 HP/MP first 3 uses per day
 mixed twinkly wad	1	6	good	0	15-20	15-20	15-20	20 Aspect of the Twinklefairy (+10% all, +weapon/spell dmg)	
 dried ultimate wad	1	13	awesome	0	0	0	0	+1 level	
-Unconscious Collective Dream Jar	4	1	good	5-10	20-30	20-30	20-30
-vibrating mushroom	2	4	decent	0	0	0	0	30 Weird Vibrations (+25 init)
+twisted Unconscious Collective Dream Jar	1	1	crappy	1	20-30	20-30	20-30		15 White Blooded (Maximum HP: +50)
+boiled yellow vibrating mushroom	1	4	EPIC	0	0	0	0	30 Weird Vibrations (+25 init)	
 vitamin G pill	1	6	good	0	0	0	0	5 Riboflavin' (Pickin' Pockets like a G)
 dried shaking voodoo snuff	1	13	decent	1-2	0	100-150	0		
 modified watered-down Red Minotaur	1	1	good	0	0	0	0	+1 PvP fight, 5 Water Wings	20 Elvish (Muscle Percent: +10, Mysticality Percent: +10, Moxie Percent: +10)
-wickerbits	2	12	good	0	0	0	0	Unspaded
+vaporized wobbly wickerbits	1	12	decent	0	0	0	0	Unspaded	
 twisted purple flakes	1	12	awesome	0	1000-2000	1000-2000	1000-2000		
 yellow paisley oyster egg	1	1	awesome	0	0	11-15	0	20 Egg-headedness (+10% mys)
 yellow polka-dot oyster egg	1	1	awesome	0	0	0	11-15	20 Egg-cellent Vocabulary (+10% mox)
