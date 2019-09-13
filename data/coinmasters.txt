@@ -7,7 +7,7 @@
 Dimemaster	sell	3	therapeutic beer bong of the scaredy-cat
 Dimemaster	sell	1	beer helmet of Calamity Jane
 Dimemaster	sell	1	twirling Fonzie's bejeweled pledge pin
-Dimemaster	sell	3	blue class ring
+Dimemaster	sell	3	jittery class ring
 Dimemaster	sell	1	bottle opener belt buckle
 Dimemaster	sell	1	Jim Carey's distressed denim pants of incineration
 Dimemaster	sell	3	aromatic greasy Elmley shades
@@ -17,9 +17,9 @@ Dimemaster	sell	1	blurry asbestos-lined keg shield of the ox
 Dimemaster	sell	2	forbidden kick-ass kicks of the sewer
 Dimemaster	sell	2	PADL Phone
 Dimemaster	sell	1	bouncing narrow thinker's perforated battle paddle
-Dimemaster	sell	1	red class ring
+Dimemaster	sell	1	blinking class ring
 Dimemaster	sell	2	greasy war tongs of the sewer
-Dimemaster	sell	5	white class ring
+Dimemaster	sell	5	class ring
 
 # Things you can buy with dimes
 
@@ -27,9 +27,9 @@ Dimemaster	buy	1	water pipe bomb
 Dimemaster	buy	1	ferret bait
 Dimemaster	buy	2	filthy poultice
 Dimemaster	buy	3	carbonated soy milk
-Dimemaster	buy	4	macrame net
-Dimemaster	buy	5	fancy seashell necklace
-Dimemaster	buy	10	Hippy Army MPE
+Dimemaster	buy	4	shaking macrame net
+Dimemaster	buy	5	shaking seashell necklace
+Dimemaster	buy	10	upside-down Hippy Army MPE
 Dimemaster	buy	15	jittery knitted Gaia beads of the dark arts
 Dimemaster	buy	15	greasy healthy Lockenstock&trade; sandals
 Dimemaster	buy	20	educational pipe of the boozehound
@@ -39,8 +39,8 @@ Dimemaster	buy	35	dance instructor's didgeridooka
 Dimemaster	buy	40	huge fortified groovy fire poi
 Dimemaster	buy	50	driftwood sculpture of James Dean of the scaredy-cat
 Dimemaster	buy	50	avaricious Temple Grandin's massive sitar
-Dimemaster	buy	2	patchouli oil bomb
-Dimemaster	buy	2	exploding hacky-sack
+Dimemaster	buy	2	bouncing patchouli oil bomb
+Dimemaster	buy	2	teal exploding hacky-sack
 
 # Things you can sell to get quarters
 
@@ -50,13 +50,13 @@ Quartersmaster	sell	2	dance instructor's didgeridooka
 Quartersmaster	sell	3	huge fortified groovy fire poi
 Quartersmaster	sell	2	dog trainer's hardened flowing hippy skirt
 Quartersmaster	sell	2	jittery knitted Gaia beads of the dark arts
-Quartersmaster	sell	5	green clay bead
+Quartersmaster	sell	5	ghostly clay bead
 Quartersmaster	sell	3	wobbly supercharged hippy medical kit of the businessman
 Quartersmaster	sell	1	hippy protest button
 Quartersmaster	sell	1	educational pipe of the boozehound
 Quartersmaster	sell	2	greasy healthy Lockenstock&trade; sandals
 Quartersmaster	sell	1	pink clay bead
-Quartersmaster	sell	3	purple clay bead
+Quartersmaster	sell	3	clay bead
 Quartersmaster	sell	1	spinning wizardly reinforced beaded headband
 Quartersmaster	sell	3	lard-coated stanky round sunglasses
 Quartersmaster	sell	1	shaking wizardly round sunglasses
@@ -65,12 +65,12 @@ Quartersmaster	sell	2	wicker shield of the blizzard
 # Things you can buy with quarters
 
 Quartersmaster	buy	1	beer bomb
-Quartersmaster	buy	1	sake bomb
-Quartersmaster	buy	2	gauze garter
-Quartersmaster	buy	3	Monstar energy beverage
+Quartersmaster	buy	1	bouncing skewed sake bomb
+Quartersmaster	buy	2	blurry gauze garter
+Quartersmaster	buy	3	twirling Monstar energy beverage
 Quartersmaster	buy	4	superamplified boom box
-Quartersmaster	buy	5	commemorative war stein
-Quartersmaster	buy	10	Frat Army FGF
+Quartersmaster	buy	5	green commemorative war stein
+Quartersmaster	buy	10	huge pulsating Frat Army FGF
 Quartersmaster	buy	15	finger of Leguizamo
 Quartersmaster	buy	15	forbidden kick-ass kicks of the sewer
 Quartersmaster	buy	20	greasy war tongs of the sewer
@@ -80,176 +80,176 @@ Quartersmaster	buy	35	bouncing narrow thinker's perforated battle paddle
 Quartersmaster	buy	40	therapeutic beer bong of the scaredy-cat
 Quartersmaster	buy	50	Sherlock's cast-iron legacy paddle of dire peril
 Quartersmaster	buy	50	gray Tesla beer-a-pult of mayonnaise
-Quartersmaster	buy	2	tequila grenade
+Quartersmaster	buy	2	mirror olive tequila grenade
 Quartersmaster	buy	2	molotov cocktail cocktail
 
 # Things you can buy with filthy lucre
 
 Bounty Hunter Hunter	buy	1	decent bouncing purple bowl of Bounty-Os
 Bounty Hunter Hunter	buy	1	bad Oreille Divis&eacute;e brandy
-Bounty Hunter Hunter	buy	1	odor extractor
+Bounty Hunter Hunter	buy	1	upside-down odor extractor
 Bounty Hunter Hunter	buy	15	upside-down padded bounty-hunting helmet
 Bounty Hunter Hunter	buy	15	jittery savvy bounty-hunting rifle
 Bounty Hunter Hunter	buy	15	bouncing Van der Graaf bounty-hunting pants
-Bounty Hunter Hunter	buy	100	pompadour'd puppy
+Bounty Hunter Hunter	buy	100	blue pompadour'd puppy
 Bounty Hunter Hunter	buy	200	Manual of Transcendent Olfaction
 
 # Things you can buy with sand dollars
 
-Big Brother	buy	13	black glass
-Big Brother	buy	1	dolphin whistle
+Big Brother	buy	13	skewed glass
+Big Brother	buy	1	narrow dolphin whistle
 Big Brother	buy	5	dry sea grease
-Big Brother	buy	10	rusty valve wheel
+Big Brother	buy	10	valve wheel
 Big Brother	buy	10	waterlogged bootstraps
-Big Brother	buy	20	decaying wooden oar
-Big Brother	buy	20	giant fishhook
-Big Brother	buy	20	rusty old lantern
+Big Brother	buy	20	decaying oar
+Big Brother	buy	20	fishhook
+Big Brother	buy	20	lantern
 Big Brother	buy	25	map to the Skate Park
-Big Brother	buy	25	folder (dancing dolphins)
-Big Brother	buy	50	map to Madness Reef
+Big Brother	buy	25	twirling folder (dancing dolphins)
+Big Brother	buy	50	blinking map to Madness Reef
 Big Brother	buy	50	map to the Marinara Trench
-Big Brother	buy	50	map to Anemone Mine
+Big Brother	buy	50	tumbling map to Anemone Mine
 Big Brother	buy	50	map to the Dive Bar
-Big Brother	buy	50	damp old boot
+Big Brother	buy	50	jittery damp boot
 Big Brother	buy	50	sushi-rolling mat
 
 # Things you can buy with Crimbux
 
 Crimbo Cartel	buy	1	battered Crimbo Crate
-Crimbo Cartel	buy	5	dusty Crimbo crate
-Crimbo Cartel	buy	10	sturdy Crimbo crate
-Crimbo Cartel	buy	100	Crimbo wreath
-Crimbo Cartel	buy	100	string of Crimbo lights
-Crimbo Cartel	buy	100	plastic Crimbo reindeer
+Crimbo Cartel	buy	5	blurry Crimbo crate
+Crimbo Cartel	buy	10	mirror sturdy Crimbo crate
+Crimbo Cartel	buy	100	squat tumbling Crimbo wreath
+Crimbo Cartel	buy	100	pulsating twirling string of Crimbo lights
+Crimbo Cartel	buy	100	shaking plastic Crimbo reindeer
 Crimbo Cartel	buy	500	gingerbread house
-Crimbo Cartel	buy	1000	leftover Crimbo rations
+Crimbo Cartel	buy	1000	pulsating leftover Crimbo rations
 Crimbo Cartel	buy	1000	A Crimbo Carol, Ch. 1
 Crimbo Cartel	buy	1000	A Crimbo Carol, Ch. 2
 Crimbo Cartel	buy	1000	A Crimbo Carol, Ch. 3
-Crimbo Cartel	buy	1000	A Crimbo Carol, Ch. 4
+Crimbo Cartel	buy	1000	shaking A Crimbo Carol, Ch. 4
 Crimbo Cartel	buy	1000	A Crimbo Carol, Ch. 5
-Crimbo Cartel	buy	1000	A Crimbo Carol, Ch. 6
-Crimbo Cartel	buy	2000	snow hat
-Crimbo Cartel	buy	2000	snow belly
-Crimbo Cartel	buy	2000	snow pants
-Crimbo Cartel	buy	5000	pile of loose snow
+Crimbo Cartel	buy	1000	maroon A Crimbo Carol, Ch. 6
+Crimbo Cartel	buy	2000	pulsating green horrifying snow hat
+Crimbo Cartel	buy	2000	snow belly of wisdom
+Crimbo Cartel	buy	2000	snow pants of courage
+Crimbo Cartel	buy	5000	cyan pile of loose snow
 Crimbo Cartel	buy	10000	Crimbough
 
 # Things you can buy with Game Grid tickets
 
 Arcade Ticket Counter	buy	1	finger cuffs	ROW359
-Arcade Ticket Counter	buy	2	little parachute guy	ROW360
-Arcade Ticket Counter	buy	5	superduperball	ROW361
-Arcade Ticket Counter	buy	10	coffee pixie stick	ROW363
-Arcade Ticket Counter	buy	25	plastic spider ring	ROW364
-Arcade Ticket Counter	buy	50	folder (Jackass Plumber)	ROW377
-Arcade Ticket Counter	buy	100	cheap plastic kazoo	ROW366
-Arcade Ticket Counter	buy	100	inflatable baseball bat	ROW367
-Arcade Ticket Counter	buy	250	googly-star hat	ROW368
-Arcade Ticket Counter	buy	250	googly-ball hat	ROW369
-Arcade Ticket Counter	buy	250	googly-heart hat	ROW370
+Arcade Ticket Counter	buy	2	parachute guy	ROW360
+Arcade Ticket Counter	buy	5	blurry bouncing superduperball	ROW361
+Arcade Ticket Counter	buy	10	denatured green jittery coffee pixie stick	ROW363
+Arcade Ticket Counter	buy	25	fuchsia ribald plastic spider ring	ROW364
+Arcade Ticket Counter	buy	50	huge folder (Jackass Plumber)	ROW377
+Arcade Ticket Counter	buy	100	brawny plastic kazoo	ROW366
+Arcade Ticket Counter	buy	100	smartaleck's inflatable baseball bat	ROW367
+Arcade Ticket Counter	buy	250	toasty hale googly-star hat	ROW368
+Arcade Ticket Counter	buy	250	nasty Temple Grandin's googly-ball hat	ROW369
+Arcade Ticket Counter	buy	250	razor-sharp googly-heart hat of the boozehound	ROW370
 Arcade Ticket Counter	buy	2000	Game Grid valued membership card	ROW371
-Arcade Ticket Counter	buy	5000	super-sweet boom box	ROW372
-Arcade Ticket Counter	buy	1000	Space Trip safety headphones	ROW373
-Arcade Ticket Counter	buy	1000	sinister demon mask	ROW365
-Arcade Ticket Counter	buy	1000	Dungeon Fist gauntlet	ROW374
-Arcade Ticket Counter	buy	1000	streetfighting champion's belt	ROW375
-Arcade Ticket Counter	buy	1000	Meteoid ice beam	ROW376
+Arcade Ticket Counter	buy	5000	spinning frightening super-sweet boom box of temperance	ROW372
+Arcade Ticket Counter	buy	1000	electrified Space Trip safety headphones of the cougar of James Dean	ROW373
+Arcade Ticket Counter	buy	1000	baleful groovy sinister demon mask of the overflowing toilet	ROW365
+Arcade Ticket Counter	buy	1000	narrow up-at-dawn friendly Dungeon Fist gauntlet of the detective	ROW374
+Arcade Ticket Counter	buy	1000	nasty Socratic streetfighting champion's belt of horror	ROW375
+Arcade Ticket Counter	buy	1000	jittery Van der Graaf extremely unsafe personal trainer's Meteoid ice beam	ROW376
 
 # Things you can buy with bone chips
 
-Altar of Bones	buy	50	bone meal
-Altar of Bones	buy	50	bone aperitif
-Altar of Bones	buy	100	bonerang
-Altar of Bones	buy	200	bone and arrows
-Altar of Bones	buy	100	boning knife
-Altar of Bones	buy	200	bone crusher
-Altar of Bones	buy	300	bone spurs
-Altar of Bones	buy	300	bonedanna
-Altar of Bones	buy	300	boneana hammock
+Altar of Bones	buy	50	immense stale squat bone meal
+Altar of Bones	buy	50	mediocre practically non-alcoholic upside-down bone aperitif
+Altar of Bones	buy	100	purple ruddy bonerang
+Altar of Bones	buy	200	fuchsia friendly bone and arrows
+Altar of Bones	buy	100	upside-down brawny boning knife
+Altar of Bones	buy	200	bone crusher of the overflowing toilet
+Altar of Bones	buy	300	Temple Grandin's bone spurs
+Altar of Bones	buy	300	inspector's sinister bonedanna
+Altar of Bones	buy	300	padded boneana hammock of the brute
 
 # Things you can buy with CRIMBCO scrip
 
-CRIMBCO Gift Shop	buy	5	paperclip
-CRIMBCO Gift Shop	buy	10	Workytime Tea
-CRIMBCO Gift Shop	buy	25	CRIMBCO lanyard
+CRIMBCO Gift Shop	buy	5	narrow paperclip
+CRIMBCO Gift Shop	buy	10	spinning Workytime Tea
+CRIMBCO Gift Shop	buy	25	CRIMBCO lanyard of the scaredy-cat
 CRIMBCO Gift Shop	buy	50	bottle of Blank-Out
-CRIMBCO Gift Shop	buy	200	portable photocopier
+CRIMBCO Gift Shop	buy	200	twirling photocopier
 CRIMBCO Gift Shop	buy	1000	CRIMBCO Employee Handbook (chapter 1)
-CRIMBCO Gift Shop	buy	1000	CRIMBCO Employee Handbook (chapter 2)
-CRIMBCO Gift Shop	buy	1000	CRIMBCO Employee Handbook (chapter 3)
-CRIMBCO Gift Shop	buy	1000	CRIMBCO Employee Handbook (chapter 4)
-CRIMBCO Gift Shop	buy	1000	CRIMBCO Employee Handbook (chapter 5)
+CRIMBCO Gift Shop	buy	1000	blurry CRIMBCO Employee Handbook (chapter 2)
+CRIMBCO Gift Shop	buy	1000	bouncing CRIMBCO Employee Handbook (chapter 3)
+CRIMBCO Gift Shop	buy	1000	blurry CRIMBCO Employee Handbook (chapter 4)
+CRIMBCO Gift Shop	buy	1000	tumbling CRIMBCO Employee Handbook (chapter 5)
 CRIMBCO Gift Shop	buy	10000	deluxe fax machine
 
 # Things you can sell to get store credits
 
-Game Shoppe	sell	1	Alice's Army Swordsman
+Game Shoppe	sell	1	huge Alice's Army Swordsman
 Game Shoppe	sell	1	Alice's Army Spearsman
 Game Shoppe	sell	1	Alice's Army Halberder
-Game Shoppe	sell	1	Alice's Army Guard
-Game Shoppe	sell	1	Alice's Army Wallman
+Game Shoppe	sell	1	teal Alice's Army Guard
+Game Shoppe	sell	1	maroon Alice's Army Wallman
 Game Shoppe	sell	1	Alice's Army Ninja
 Game Shoppe	sell	1	Alice's Army Alchemist
-Game Shoppe	sell	1	Alice's Army Page
+Game Shoppe	sell	1	bouncing Alice's Army Page
 Game Shoppe	sell	1	Alice's Army Shieldmaiden
 Game Shoppe	sell	1	Alice's Army Mad Bomber
 Game Shoppe	sell	1	Alice's Army Nurse
-Game Shoppe	sell	5	Alice's Army Hammerman
+Game Shoppe	sell	5	red Alice's Army Hammerman
 Game Shoppe	sell	5	Alice's Army Bowman
 Game Shoppe	sell	5	Alice's Army Lanceman
-Game Shoppe	sell	5	Alice's Army Horseman
-Game Shoppe	sell	5	Alice's Army Coward
-Game Shoppe	sell	5	Alice's Army Cleric
-Game Shoppe	sell	50	Alice's Army Sniper
+Game Shoppe	sell	5	purple Alice's Army Horseman
+Game Shoppe	sell	5	olive Alice's Army Coward
+Game Shoppe	sell	5	teal Alice's Army Cleric
+Game Shoppe	sell	50	narrow Alice's Army Sniper
 Game Shoppe	sell	50	Alice's Army Dervish
 Game Shoppe	sell	50	Alice's Army Martyr
 Game Shoppe	sell	50	Alice's Army Foil Swordsman
-Game Shoppe	sell	50	Alice's Army Foil Spearsman
+Game Shoppe	sell	50	mirror Alice's Army Foil Spearsman
 Game Shoppe	sell	50	Alice's Army Foil Halberder
-Game Shoppe	sell	50	Alice's Army Foil Guard
+Game Shoppe	sell	50	ghostly Alice's Army Foil Guard
 Game Shoppe	sell	50	Alice's Army Foil Wallman
 Game Shoppe	sell	50	Alice's Army Foil Ninja
 Game Shoppe	sell	50	Alice's Army Foil Alchemist
 Game Shoppe	sell	50	Alice's Army Foil Page
-Game Shoppe	sell	50	Alice's Army Foil Shieldmaiden
+Game Shoppe	sell	50	upside-down Alice's Army Foil Shieldmaiden
 Game Shoppe	sell	50	Alice's Army Foil Mad Bomber
 Game Shoppe	sell	50	Alice's Army Foil Nurse
-Game Shoppe	sell	250	Alice's Army Foil Hammerman
-Game Shoppe	sell	250	Alice's Army Foil Bowman
+Game Shoppe	sell	250	gray Alice's Army Foil Hammerman
+Game Shoppe	sell	250	huge Alice's Army Foil Bowman
 Game Shoppe	sell	250	Alice's Army Foil Lanceman
-Game Shoppe	sell	250	Alice's Army Foil Horseman
-Game Shoppe	sell	250	Alice's Army Foil Coward
-Game Shoppe	sell	250	Alice's Army Foil Cleric
-Game Shoppe	sell	2500	Alice's Army Foil Sniper
+Game Shoppe	sell	250	upside-down Alice's Army Foil Horseman
+Game Shoppe	sell	250	olive Alice's Army Foil Coward
+Game Shoppe	sell	250	narrow blue Alice's Army Foil Cleric
+Game Shoppe	sell	2500	huge squat Alice's Army Foil Sniper
 Game Shoppe	sell	2500	Alice's Army Foil Dervish
-Game Shoppe	sell	2500	Alice's Army Foil Martyr
+Game Shoppe	sell	2500	upside-down shaking Alice's Army Foil Martyr
 
 # Things you can buy with store credits
 
 Game Shoppe	buy	100	Single Alice's Army Foil
-Game Shoppe	buy	750	Pack of Alice's Army Foil Cards
-Game Shoppe	buy	2500	card sleeve
+Game Shoppe	buy	750	mirror Pack of Alice's Army Foil Cards
+Game Shoppe	buy	2500	deadly card sleeve
 Game Shoppe	buy	10000	Alice's Army Foil tattoo
 
 # Things you can buy with Ye Wizard's Shack snack vouchers
 
-Game Shoppe Snacks	buy	1	wasabi pocky
-Game Shoppe Snacks	buy	1	tobiko pocky
-Game Shoppe Snacks	buy	1	natto pocky
-Game Shoppe Snacks	buy	1	wasabi-infused sake
-Game Shoppe Snacks	buy	1	tobiko-infused sake
-Game Shoppe Snacks	buy	1	natto-infused sake
-Game Shoppe Snacks	buy	1	wasabi marble soda
-Game Shoppe Snacks	buy	1	tobiko marble soda
-Game Shoppe Snacks	buy	1	natto marble soda
+Game Shoppe Snacks	buy	1	diet decent maroon skewed wasabi pocky
+Game Shoppe Snacks	buy	1	bland enchanted miniature bouncing tobiko pocky
+Game Shoppe Snacks	buy	1	spoiled bite-sized natto pocky
+Game Shoppe Snacks	buy	1	enchanted lousy wasabi-infused sake
+Game Shoppe Snacks	buy	1	watered-down drinkable tobiko-infused sake
+Game Shoppe Snacks	buy	1	fortified mediocre natto-infused sake
+Game Shoppe Snacks	buy	1	Vulcanized triple-pickled wasabi marble soda
+Game Shoppe Snacks	buy	1	double-cold-filtered boiled altered narrow tobiko marble soda
+Game Shoppe Snacks	buy	1	chilled activated natto marble soda
 
 # Things you can buy with A. W. O. L. commendations
 
-A. W. O. L. Quartermaster	buy	1	Ultrasoldier Serum
+A. W. O. L. Quartermaster	buy	1	Vulcanized gray Ultrasoldier Serum
 A. W. O. L. Quartermaster	buy	5	Field Guide to Skeletal Anatomy
-A. W. O. L. Quartermaster	buy	20	mirrored aviator shades
-A. W. O. L. Quartermaster	buy	50	leather aviator's cap
+A. W. O. L. Quartermaster	buy	20	bouncing gray Usain Bolt's mirrored aviator shades of the cheetah
+A. W. O. L. Quartermaster	buy	50	blinking vibrating aviator's cap of the dark arts of mayonnaise
 
 # Special handling for these non-items was removed
 # A. W. O. L. Quartermaster	buy	1	A. W. O. L. Tattoo #1
@@ -263,30 +263,30 @@ A. W. O. L. Quartermaster	buy	50	leather aviator's cap
 Isotope Smithery	buy	1000	Mint-in-box Moonthril Circlet	ROW193
 Isotope Smithery	buy	1250	Mint-in-box Moonthril Flamberge	ROW194
 Isotope Smithery	buy	1500	Mint-in-box Moonthril Longbow	ROW195
-Isotope Smithery	buy	1750	Mint-in-box Moonthril Greaves	ROW196
+Isotope Smithery	buy	1750	cyan Mint-in-box Moonthril Greaves	ROW196
 Isotope Smithery	buy	2000	Mint-in-box Moonthril Cuirass	ROW197
 
-Dollhawker's Emporium	buy	100	plush alielf	ROW198
-Dollhawker's Emporium	buy	150	plush dogcat	ROW199
-Dollhawker's Emporium	buy	200	plush hamsterpus	ROW200
-Dollhawker's Emporium	buy	300	plush ferrelf	ROW201
-Dollhawker's Emporium	buy	400	plush mutated alielf	ROW202
-Dollhawker's Emporium	buy	500	plush alien hamsterpus	ROW203
-Dollhawker's Emporium	buy	1000	plush mutated alielephant	ROW204
+Dollhawker's Emporium	buy	100	squat plush alielf of the overflowing toilet	ROW198
+Dollhawker's Emporium	buy	150	asbestos-lined plush dogcat	ROW199
+Dollhawker's Emporium	buy	200	plush hamsterpus of the boozehound	ROW200
+Dollhawker's Emporium	buy	300	teal friendly plush ferrelf	ROW201
+Dollhawker's Emporium	buy	400	Usain Bolt's plush mutated alielf	ROW202
+Dollhawker's Emporium	buy	500	lime green upside-down hardened plush alien hamsterpus	ROW203
+Dollhawker's Emporium	buy	1000	green Da Vinci's smooth plush mutated alielephant	ROW204
 
-Lunar Lunch-o-Mat	buy	10	Saison du Lune	ROW205
-Lunar Lunch-o-Mat	buy	50	Moonthril Schnapps	ROW206
-Lunar Lunch-o-Mat	buy	100	Wrecked Generator	ROW207
-Lunar Lunch-o-Mat	buy	10	Spaghetti with Moonballs	ROW208
-Lunar Lunch-o-Mat	buy	50	Crepes a la Lune	ROW209
-Lunar Lunch-o-Mat	buy	100	Moon Pie	ROW210
-Lunar Lunch-o-Mat	buy	1	Comet Pop	ROW211
-Lunar Lunch-o-Mat	buy	5	Flan in the Moon	ROW212
-Lunar Lunch-o-Mat	buy	10	1/6th Pound Cake	ROW213
+Lunar Lunch-o-Mat	buy	10	practically non-alcoholic bad tumbling Saison du Lune	ROW205
+Lunar Lunch-o-Mat	buy	50	lousy ghostly Moonthril Schnapps	ROW206
+Lunar Lunch-o-Mat	buy	100	watered-down tolerable skewed Wrecked Generator	ROW207
+Lunar Lunch-o-Mat	buy	10	small spoiled Spaghetti with Moonballs	ROW208
+Lunar Lunch-o-Mat	buy	50	flavorless special Crepes a la Lune	ROW209
+Lunar Lunch-o-Mat	buy	100	snack-sized yummy special skewed Moon Pie	ROW210
+Lunar Lunch-o-Mat	buy	1	dry modified Comet Pop	ROW211
+Lunar Lunch-o-Mat	buy	5	concentrated deionized anodized huge Flan in the Moon	ROW212
+Lunar Lunch-o-Mat	buy	10	non-dry spinning 1/6th Pound Cake	ROW213
 
 # Things you can buy with yeti furs
 
-The Trapper	buy	1	yak skin	ROW14
+The Trapper	buy	1	blue yak skin	ROW14
 The Trapper	buy	3	hippopotamus skin	ROW15
 The Trapper	buy	5	penguin skin	ROW13
 
@@ -299,19 +299,19 @@ Vending Machine	buy	1	twirling miser's Boris's ring	ROW96
 Vending Machine	buy	1	shaking Jarlsberg's earring of mayonnaise	ROW97
 Vending Machine	buy	1	arcane researcher's Sneaky Pete's breath spray	ROW98
 Vending Machine	buy	1	potato sprout	ROW99
-Vending Machine	buy	1	sewing kit	ROW292
+Vending Machine	buy	1	upside-down sewing kit	ROW292
 Vending Machine	buy	15	Spellbook: Walberg's Dim Bulb	ROW101
-Vending Machine	buy	15	Spellbook: Singer's Faithful Ocelot	ROW102
-Vending Machine	buy	15	Spellbook: Drescher's Annoying Noise	ROW103
+Vending Machine	buy	15	wobbly Spellbook: Singer's Faithful Ocelot	ROW102
+Vending Machine	buy	15	skewed Spellbook: Drescher's Annoying Noise	ROW103
 Vending Machine	buy	27	dried gelatinous cube	ROW100
 
 # Things you can buy with fudgecules
 
-Fudge Wand	buy	100	Fudgie Roll
+Fudge Wand	buy	100	concentrated colloidal cyan skewed Fudgie Roll
 Fudge Wand	buy	200	fudge spork
-Fudge Wand	buy	343	fudge cube
-Fudge Wand	buy	1000	fudge bunny
-Fudge Wand	buy	2500	fudgecycle
+Fudge Wand	buy	343	olive fudge cube
+Fudge Wand	buy	1000	toothsome massive fudge bunny
+Fudge Wand	buy	2500	lightning-fast crafty fudgecycle of doom
 
 # Things you can sell to get Candy Credits
 
@@ -319,207 +319,207 @@ Crimbo 2011	sell	50	abandoned candy
 Crimbo 2011	sell	10	tarnished ionized green blinking alphabet gum
 Crimbo 2011	sell	5	denatured magnetized Angry Farmer candy
 Crimbo 2011	sell	25	wet triple-improved spinning Angry Farmer's Wife Candy
-Crimbo 2011	sell	25	Atomic Pop
+Crimbo 2011	sell	25	nitrogenated vacuum-sealed irradiated Atomic Pop
 Crimbo 2011	sell	25	bag of many confections
-Crimbo 2011	sell	200	banana supersucker
-Crimbo 2011	sell	100	bananagate
-Crimbo 2011	sell	250	bananarama bangle
+Crimbo 2011	sell	200	extra-unsweetened banana supersucker
+Crimbo 2011	sell	100	skewed huge bananagate
+Crimbo 2011	sell	250	prompt bananarama bangle
 Crimbo 2011	sell	5	flattened unsweetened bazookafish bubble gum
 Crimbo 2011	sell	10	frozen fuchsia Bit O' Ectoplasm
-Crimbo 2011	sell	10	BitterSweetTarts
-Crimbo 2011	sell	25	black candy heart
-Crimbo 2011	sell	100	blood 'n' plenty
+Crimbo 2011	sell	10	denatured cold-filtered BitterSweetTarts
+Crimbo 2011	sell	25	dry unsweetened upside-down purple candy heart
+Crimbo 2011	sell	100	non-colloidal Blood 'n' Plenty
 Crimbo 2011	sell	50	irradiated red breath mint
 Crimbo 2011	sell	5	small rotten brown sugar cane
 Crimbo 2011	sell	10	altered galvanized squat skewed kobold
-Crimbo 2011	sell	10	candy brain
+Crimbo 2011	sell	10	double-denatured colloidal candy brain
 Crimbo 2011	sell	5	adequate candy cane
 Crimbo 2011	sell	100	candy cane candygram
-Crimbo 2011	sell	100	candy kneecapping stick
-Crimbo 2011	sell	100	candy knuckles
-Crimbo 2011	sell	25	candy skeleton
-Crimbo 2011	sell	50	candy stake
+Crimbo 2011	sell	100	thick tasty candy kneecapping stick
+Crimbo 2011	sell	100	double-paned candy knuckles
+Crimbo 2011	sell	25	quantum activated twirling bouncing candy skeleton
+Crimbo 2011	sell	50	gigantic flavorless candy stake
 Crimbo 2011	sell	25	irradiated children of the candy corn
-Crimbo 2011	sell	250	chocolate cigar
-Crimbo 2011	sell	25	chocolate disco ball
+Crimbo 2011	sell	250	irradiated bouncing chocolate cigar
+Crimbo 2011	sell	25	adjusted polarized narrow chocolate disco ball
 Crimbo 2011	sell	10	quadruple-pickled chocolate filthy lucre
-Crimbo 2011	sell	25	chocolate pasta spoon
-Crimbo 2011	sell	25	chocolate saucepan
-Crimbo 2011	sell	25	chocolate seal-clubbing club
-Crimbo 2011	sell	25	chocolate stolen accordion
-Crimbo 2011	sell	25	chocolate turtle totem
-Crimbo 2011	sell	25	chocolate-covered caviar
+Crimbo 2011	sell	25	super-magnetized skewed chocolate pasta spoon
+Crimbo 2011	sell	25	extra-vacuum-sealed concentrated chocolate saucepan
+Crimbo 2011	sell	25	denatured twirling chocolate seal-clubbing club
+Crimbo 2011	sell	25	nitrogenated chocolate stolen accordion
+Crimbo 2011	sell	25	enhanced chocolate turtle totem
+Crimbo 2011	sell	25	altered skewed wobbly chocolate-covered caviar
 Crimbo 2011	sell	5	super-tarnished alkaline galvanized wobbly Cold Hots candy
-Crimbo 2011	sell	25	Comet Drop
-Crimbo 2011	sell	1	Comet Pop
-Crimbo 2011	sell	10	cotton candy bale
+Crimbo 2011	sell	25	super-quantum Comet Drop
+Crimbo 2011	sell	1	dry modified Comet Pop
+Crimbo 2011	sell	10	upside-down cotton candy bale
 Crimbo 2011	sell	10	cotton candy cone
 Crimbo 2011	sell	10	cotton candy pillow
 Crimbo 2011	sell	5	cotton candy pinch
 Crimbo 2011	sell	10	cotton candy plug
 Crimbo 2011	sell	10	cotton candy skoshe
-Crimbo 2011	sell	10	cotton candy smidgen
+Crimbo 2011	sell	10	shaking cotton candy smidgen
 Crimbo 2011	sell	5	snack-sized enchanted moldy crazy Turkish delight
-Crimbo 2011	sell	100	CRIMBCOIDS mints
-Crimbo 2011	sell	25	Crimbo candied pecan
-Crimbo 2011	sell	25	Crimbo fudge
-Crimbo 2011	sell	25	Crimbo peppermint bark
+Crimbo 2011	sell	100	huge rotten CRIMBCOIDS mints
+Crimbo 2011	sell	25	ionized concentrated upside-down wobbly Crimbo pecan
+Crimbo 2011	sell	25	alkaline moist energized Crimbo fudge
+Crimbo 2011	sell	25	super-liquefied Vulcanized Crimbo peppermint bark
 Crimbo 2011	sell	5	anodized blurry Daffy Taffy
-Crimbo 2011	sell	25	delicious comfit?
-Crimbo 2011	sell	25	double-ice gum
-Crimbo 2011	sell	25	dubious peppermint
-Crimbo 2011	sell	25	elderly jawbreaker
+Crimbo 2011	sell	25	tarnished moist aerosolized purple comfit?
+Crimbo 2011	sell	25	quadruple-vacuum-sealed double-ice gum
+Crimbo 2011	sell	25	super-liquefied Vulcanized super-tarnished purple dubious peppermint
+Crimbo 2011	sell	25	nitrogenated double-dry elderly jawbreaker
 Crimbo 2011	sell	10	frozen narrow Elvish delight
 Crimbo 2011	sell	25	electrified mirror Everlasting Deckswabber
-Crimbo 2011	sell	10	explosion-flavored chewing gum
-Crimbo 2011	sell	250	fancy but probably evil chocolate
-Crimbo 2011	sell	250	fancy chocolate
-Crimbo 2011	sell	250	fancy chocolate car
+Crimbo 2011	sell	10	oxidized polymerized explosion-flavored chewing gum
+Crimbo 2011	sell	250	aerosolized modified shaking but probably evil chocolate
+Crimbo 2011	sell	250	flattened ionized aerosolized chocolate
+Crimbo 2011	sell	250	improved olive squat chocolate car
 Crimbo 2011	sell	25	irradiated wobbly frostbite-flavored Hob-O
 Crimbo 2011	sell	25	wet fry-oil-flavored Hob-O
-Crimbo 2011	sell	500	fudge bunny
+Crimbo 2011	sell	500	toothsome massive fudge bunny
 Crimbo 2011	sell	50	fudge spork
-Crimbo 2011	sell	25	Fudgie Roll
+Crimbo 2011	sell	25	concentrated colloidal cyan skewed Fudgie Roll
 Crimbo 2011	sell	25	ionized moist mirror garbage-juice-flavored Hob-O
-Crimbo 2011	sell	100	giant candy cane
-Crimbo 2011	sell	25	giant green gummi bear
-Crimbo 2011	sell	25	giant green gummi ingot
-Crimbo 2011	sell	25	giant red gummi bear
-Crimbo 2011	sell	25	giant red gummi ingot
-Crimbo 2011	sell	25	giant yellow gummi bear
-Crimbo 2011	sell	25	giant yellow gummi ingot
+Crimbo 2011	sell	100	olive candy cane of the cougar
+Crimbo 2011	sell	25	immense toothsome gummi bear
+Crimbo 2011	sell	25	maroon gummi ingot
+Crimbo 2011	sell	25	yummy immense wobbly gummi bear
+Crimbo 2011	sell	25	gummi ingot
+Crimbo 2011	sell	25	adequate green gummi bear
+Crimbo 2011	sell	25	cyan gummi ingot
 Crimbo 2011	sell	25	enhanced unsweetened Good 'n' Slimy
-Crimbo 2011	sell	1	green candy heart
-Crimbo 2011	sell	50	green drunki-bear
-Crimbo 2011	sell	10	green gummi ingot
-Crimbo 2011	sell	1000	gummi ammonite
-Crimbo 2011	sell	1000	gummi belemnite
-Crimbo 2011	sell	1000	gummi trilobite
-Crimbo 2011	sell	25	Gummi-DNA
+Crimbo 2011	sell	1	aerosolized corrupted candy heart
+Crimbo 2011	sell	50	bland miniature pulsating ghostly drunki-bear
+Crimbo 2011	sell	10	yellow wobbly gummi ingot
+Crimbo 2011	sell	1000	deionized olive gummi ammonite
+Crimbo 2011	sell	1000	super-warmed quantum gray wobbly gummi belemnite
+Crimbo 2011	sell	1000	modified boiled gummi trilobite
+Crimbo 2011	sell	25	polymerized Gummi-DNA
 Crimbo 2011	sell	10	pressed Gummi-Gnauga
-Crimbo 2011	sell	100	Gummy Brains
-Crimbo 2011	sell	25	holly-flavored Hob-O
+Crimbo 2011	sell	100	electrified pressed quadruple-tarnished Gummy Brains
+Crimbo 2011	sell	25	irradiated holly-flavored Hob-O
 Crimbo 2011	sell	10	pressed shaking cyan honey stick
-Crimbo 2011	sell	5	honey-dipped locust
-Crimbo 2011	sell	50	irradiated candy cane
+Crimbo 2011	sell	5	pulsating mirror honey-dipped locust
+Crimbo 2011	sell	50	normal irradiated candy cane
 Crimbo 2011	sell	1	dry tarnished jaba&ntilde;ero-flavored chewing gum
-Crimbo 2011	sell	250	jawbruiser
-Crimbo 2011	sell	100	kumquartz
-Crimbo 2011	sell	250	kumquartz ring
-Crimbo 2011	sell	200	kumquat supersucker
-Crimbo 2011	sell	1	lavender candy heart
+Crimbo 2011	sell	250	spoiled jawbruiser
+Crimbo 2011	sell	100	red kumquartz
+Crimbo 2011	sell	250	squat twirling careful kumquartz ring
+Crimbo 2011	sell	200	unsweetened kumquat supersucker
+Crimbo 2011	sell	1	altered pulsating candy heart
 Crimbo 2011	sell	25	licorice boa
-Crimbo 2011	sell	100	licorice garrote
-Crimbo 2011	sell	25	licorice root
-Crimbo 2011	sell	200	lime supersucker
+Crimbo 2011	sell	100	snack-sized normal licorice garrote
+Crimbo 2011	sell	25	altered licorice root
+Crimbo 2011	sell	200	adjusted electrified lime supersucker
 Crimbo 2011	sell	1	colloidal ionized blinking lime-and-chile-flavored chewing gum
-Crimbo 2011	sell	100	Lobos Mints
+Crimbo 2011	sell	100	deionized Lobos Mints
 Crimbo 2011	sell	250	polymerized wet yellow lump of Saccharine Maple sap
 Crimbo 2011	sell	1	vacuum-sealed wet marzipan skull
 Crimbo 2011	sell	5	dry Mr. Mediocrebar
-Crimbo 2011	sell	25	nanite-infested candy cane
-Crimbo 2011	sell	25	necbro wafers
-Crimbo 2011	sell	25	Now and Earlier
-Crimbo 2011	sell	25	Nuclear Blastball
-Crimbo 2011	sell	25	orange and black Crimboween candy
-Crimbo 2011	sell	1	orange candy heart
-Crimbo 2011	sell	5	pack of chewing gum
+Crimbo 2011	sell	25	moldy tiny nanite-infested candy cane
+Crimbo 2011	sell	25	corrupted Necbro wafers
+Crimbo 2011	sell	25	nitrogenated Vulcanized Now and Earlier
+Crimbo 2011	sell	25	nitrogenated polymerized Nuclear Blastball
+Crimbo 2011	sell	25	double-diffused and Crimboween candy
+Crimbo 2011	sell	1	tarnished narrow candy heart
+Crimbo 2011	sell	5	narrow pack of chewing gum
 Crimbo 2011	sell	25	ionized polarized Pain Dip
-Crimbo 2011	sell	250	pair of pearidot earrings
-Crimbo 2011	sell	25	peanut brittle shield
-Crimbo 2011	sell	200	pear supersucker
-Crimbo 2011	sell	100	pearidot
+Crimbo 2011	sell	250	maroon pair of pearidot earrings of horror
+Crimbo 2011	sell	25	gray blinking deadly peanut brittle shield
+Crimbo 2011	sell	200	non-colloidal polymerized pear supersucker
+Crimbo 2011	sell	100	ghostly pearidot
 Crimbo 2011	sell	100	peppermint crook
 Crimbo 2011	sell	100	peppermint parasol
-Crimbo 2011	sell	100	peppermint patty
+Crimbo 2011	sell	100	moldy peppermint patty
 Crimbo 2011	sell	50	peppermint sprout
-Crimbo 2011	sell	50	peppermint twist
+Crimbo 2011	sell	50	enhanced huge blue peppermint twist
 Crimbo 2011	sell	1	triple-anodized twirling pickle-flavored chewing gum
-Crimbo 2011	sell	10	Piddles
+Crimbo 2011	sell	10	adjusted bouncing bouncing Piddles
 Crimbo 2011	sell	25	triple-tarnished frozen piece of after eight
 Crimbo 2011	sell	10	pile of candy
-Crimbo 2011	sell	1	pink candy heart
+Crimbo 2011	sell	1	unsweetened pink candy heart
 Crimbo 2011	sell	10	adjusted spinning pixellated candy heart
 Crimbo 2011	sell	25	alkaline pulsating PlexiPips
-Crimbo 2011	sell	10	Polka Pop
+Crimbo 2011	sell	10	quantum energized Polka Pop
 Crimbo 2011	sell	250	normal radio button candy
-Crimbo 2011	sell	100	Rattlin' Chains
-Crimbo 2011	sell	50	red drunki-bear
-Crimbo 2011	sell	10	red gummi ingot
-Crimbo 2011	sell	25	ribbon candy
+Crimbo 2011	sell	100	modified cyan Rattlin' Chains
+Crimbo 2011	sell	50	snack-sized spoiled drunki-bear
+Crimbo 2011	sell	10	jittery gummi ingot
+Crimbo 2011	sell	25	irradiated ribbon candy
 Crimbo 2011	sell	5	extra-activated boiled enhanced wobbly wobbly Rock Pops
 Crimbo 2011	sell	5	electrified jittery Senior Mints
-Crimbo 2011	sell	50	spooky sap
+Crimbo 2011	sell	50	denatured adjusted sap
 Crimbo 2011	sell	10	activated aerosolized Steal This Candy
 Crimbo 2011	sell	25	triple-oxidized ionized sterno-flavored Hob-O
 Crimbo 2011	sell	25	stick of "gum"
-Crimbo 2011	sell	200	strawberry supersucker
+Crimbo 2011	sell	200	non-diffused strawberry supersucker
 Crimbo 2011	sell	25	dry ionized fuchsia twirling blinking strawberry-flavored Hob-O
 Crimbo 2011	sell	100	strawberyl
-Crimbo 2011	sell	250	strawberyl necklace
-Crimbo 2011	sell	25	sugar chapeau
+Crimbo 2011	sell	250	fortified strawberyl necklace
+Crimbo 2011	sell	25	coward's vibrating therapeutic sugar chapeau
 Crimbo 2011	sell	10	super-tarnished Sugar Cog
-Crimbo 2011	sell	25	sugar shank
-Crimbo 2011	sell	10	sugar shard
+Crimbo 2011	sell	25	dangerous sugar shank
+Crimbo 2011	sell	10	mirror sugar shard
 Crimbo 2011	sell	25	sugar sheet
-Crimbo 2011	sell	25	sugar shield
-Crimbo 2011	sell	25	sugar shillelagh
-Crimbo 2011	sell	25	sugar shirt
-Crimbo 2011	sell	25	sugar shorts
-Crimbo 2011	sell	25	sugar shotgun
-Crimbo 2011	sell	10	sugar-coated pine cone
-Crimbo 2011	sell	100	Sweet Sword
+Crimbo 2011	sell	25	upside-down sugar shield
+Crimbo 2011	sell	25	razor-sharp sugar shillelagh
+Crimbo 2011	sell	25	Oprah's sugar shirt
+Crimbo 2011	sell	25	tumbling electrified sugar shorts
+Crimbo 2011	sell	25	bouncing tumbling shellacked sugar shotgun
+Crimbo 2011	sell	10	concentrated anodized jittery sugar-coated pine cone
+Crimbo 2011	sell	100	adjusted boiled gray Sweet Sword
 Crimbo 2011	sell	1	extra-galvanized galvanized adjusted skewed tamarind-flavored chewing gum
 Crimbo 2011	sell	5	wet Tasty Fun Good rice candy
-Crimbo 2011	sell	100	tourmalime
-Crimbo 2011	sell	250	tourmalime tourniquet
-Crimbo 2011	sell	250	vitachoconutriment capsule
+Crimbo 2011	sell	100	huge ghostly tourmalime
+Crimbo 2011	sell	250	supercharged tourmalime tourniquet
+Crimbo 2011	sell	250	deionized super-aerosolized vitachoconutriment capsule
 Crimbo 2011	sell	25	modified colloidal Wax Flask
-Crimbo 2011	sell	1	white candy heart
+Crimbo 2011	sell	1	double-moist candy heart
 Crimbo 2011	sell	5	stale miniature special chocolate chips
 Crimbo 2011	sell	5	extra-diffused corrupted Wint-O-Fresh mint
 Crimbo 2011	sell	250	normal special skewed yam candy
-Crimbo 2011	sell	1	yellow candy heart
-Crimbo 2011	sell	50	yellow drunki-bear
-Crimbo 2011	sell	10	yellow gummi ingot
+Crimbo 2011	sell	1	polymerized candy heart
+Crimbo 2011	sell	50	rotten half-sized shaking drunki-bear
+Crimbo 2011	sell	10	bouncing gummi ingot
 Crimbo 2011	sell	5	moist improved Yummy Tummy bean
 
 # Things you can buy with Candy Credits
 
 Crimbo 2011	buy	500	Fuzzby
 Crimbo 2011	buy	1000	Jackass Plumber home game
-Crimbo 2011	buy	1500	Trivial Avocations board game
+Crimbo 2011	buy	1500	narrow Trivial Avocations board game
 Crimbo 2011	buy	2500	Tickle-Me Emilio
-Crimbo 2011	buy	100	pack of pogs
-Crimbo 2011	buy	50	jerky coins
-Crimbo 2011	buy	50	Go-Wassail
-Crimbo 2011	buy	30	Uncle Greenspan's Bathroom Finance Guide
-Crimbo 2011	buy	30	bottle of bubbles
-Crimbo 2011	buy	30	wind-up meatcar
+Crimbo 2011	buy	100	wobbly pack of pogs
+Crimbo 2011	buy	50	stale jumbo jerky coins
+Crimbo 2011	buy	50	perfectly mixed practically non-alcoholic Go-Wassail
+Crimbo 2011	buy	30	deionized Uncle Greenspan's Bathroom Finance Guide
+Crimbo 2011	buy	30	Vulcanized corrupted squat bottle of bubbles
+Crimbo 2011	buy	30	double-colloidal wind-up meatcar
 
 # Things you can buy with swagger
 
-The Swagger Shop	buy	50	Huggler Radio
+The Swagger Shop	buy	50	teal Huggler Radio
 The Swagger Shop	buy	1000	strapping insulting hat
 The Swagger Shop	buy	2000	blinking horrifying offensive moustache
 The Swagger Shop	buy	3000	How to Hold a Grudge
-The Swagger Shop	buy	5000	fettucini &eacute;pines Inconnu recipe
+The Swagger Shop	buy	5000	fuchsia fettucini &eacute;pines Inconnu recipe
 The Swagger Shop	buy	5000	slap and slap again recipe
-The Swagger Shop	buy	10000	cursed microwave
-The Swagger Shop	buy	10000	cursed pony keg
+The Swagger Shop	buy	10000	squat microwave
+The Swagger Shop	buy	10000	pony keg
 The Swagger Shop	buy	2000	hairshirt of the dark arts
-The Swagger Shop	buy	2000	How to Tolerate Jerks
+The Swagger Shop	buy	2000	yellow How to Tolerate Jerks
 The Swagger Shop	buy	100	puppet strings
-The Swagger Shop	buy	500	bagged stuffed &quot;L&quot;
-The Swagger Shop	buy	500	stuffed club
-The Swagger Shop	buy	1000	Black Bart's Booty
+The Swagger Shop	buy	500	purple bagged &quot;L&quot;
+The Swagger Shop	buy	500	club
+The Swagger Shop	buy	1000	jittery Black Bart's Booty
 The Swagger Shop	buy	1000	Holiday Hal's Happy-Time Fun Book!
 The Swagger Shop	buy	1000	Antagonistic Snowman Kit
 The Swagger Shop	buy	1234	Map to Kokomo
 The Swagger Shop	buy	1000	Essence of Bear
 The Swagger Shop	buy	1000	Manual of Numberology
-The Swagger Shop	buy	1000	ROM of Optimality
-The Swagger Shop	buy	1000	School of Hard Knocks Diploma
+The Swagger Shop	buy	1000	shaking ROM of Optimality
+The Swagger Shop	buy	1000	tumbling School of Hard Knocks Diploma
 The Swagger Shop	buy	1000	upside-down blue A Guide to Safari
 The Swagger Shop	buy	1000	[glitch season reward name]
 The Swagger Shop	buy	5000	Essence of Annoyance
@@ -530,35 +530,35 @@ Topiary Nuggletcrafting	buy	3	super-sized moldy purple bowl of topioca	ROW424
 Topiary Nuggletcrafting	buy	6	blurry scorching healthy tope&eacute;	ROW421
 Topiary Nuggletcrafting	buy	6	topiary necktie of dire peril	ROW422
 Topiary Nuggletcrafting	buy	6	jittery squat friendly topiary tights of the cougar	ROW423
-Topiary Nuggletcrafting	buy	15	topiary skunk	ROW425
+Topiary Nuggletcrafting	buy	15	twirling topiary skunk	ROW425
 
 # Things you can buy with BURTs
 
-Bugbear Token	buy	2	bugbear purification pill
-Bugbear Token	buy	3	pacification grenade
+Bugbear Token	buy	2	blurry gray bugbear purification pill
+Bugbear Token	buy	3	huge wobbly pacification grenade
 Bugbear Token	buy	5	key-o-tron
 Bugbear Token	buy	25	slick bugbear detector
 Bugbear Token	buy	50	skewed UV monocular of terror
-Bugbear Token	buy	60	quantum disintegrator pistol
+Bugbear Token	buy	60	quantum disintegrator pistol of the detective
 Bugbear Token	buy	70	blurry hardy phase-tuned shield generator belt
 
 # Things you can buy with FDKOL commendations
 
-FDKOL Tent	buy	3	bottle of fire	ROW12
+FDKOL Tent	buy	3	improved warmed bottle of fire	ROW12
 FDKOL Tent	buy	100	FDKOL tattoo	ROW3
-FDKOL Tent	buy	500	fireman's helmet	ROW4
-FDKOL Tent	buy	1500	fire axe	ROW7
-FDKOL Tent	buy	1500	FDKOL fire hose	ROW11
-FDKOL Tent	buy	1500	enchanted fire extinguisher	ROW8
-FDKOL Tent	buy	3500	Hjodor's Guide to Arctic Dalmatians	ROW9
+FDKOL Tent	buy	500	crafty fireman's helmet of Leguizamo	ROW4
+FDKOL Tent	buy	1500	asbestos-lined fire axe	ROW7
+FDKOL Tent	buy	1500	aromatic FDKOL fire hose	ROW11
+FDKOL Tent	buy	1500	twirling frightening stiffened Newton's fire extinguisher	ROW8
+FDKOL Tent	buy	3500	fuchsia Hjodor's Guide to Arctic Dalmatians	ROW9
 
 # Things you can buy with Freddy Kruegerands
 
 The Terrified Eagle Inn	buy	1	hot Dreadsylvanian cocoa	ROW156
 The Terrified Eagle Inn	buy	10	tasty fuchsia Dreadsylvanian stew	ROW149
 The Terrified Eagle Inn	buy	10	acceptable mirror Dreadsylvanian	ROW150
-The Terrified Eagle Inn	buy	25	Dreadsylvanian skeleton key	ROW147
-The Terrified Eagle Inn	buy	25	folder (tranquil landscape)	ROW157
+The Terrified Eagle Inn	buy	25	jittery Dreadsylvanian skeleton key	ROW147
+The Terrified Eagle Inn	buy	25	wobbly folder (tranquil landscape)	ROW157
 The Terrified Eagle Inn	buy	100	galvanized frozen blinking Dreadsylvanian flask	ROW151
 The Terrified Eagle Inn	buy	100	pressed huge Dreadsylvanian flask	ROW152
 The Terrified Eagle Inn	buy	200	weak lousy bottle of Bloodweiser	ROW774
@@ -567,60 +567,60 @@ The Terrified Eagle Inn	buy	250	Tales of Dread	ROW146
 The Terrified Eagle Inn	buy	500	gravedigger's dreadful fedora of incineration	ROW153
 The Terrified Eagle Inn	buy	500	hardened dreadful sweater	ROW154
 The Terrified Eagle Inn	buy	500	yellow healthy dreadful glove	ROW155
-The Terrified Eagle Inn	buy	1000	Official Seal of Dreadsylvania	ROW148
+The Terrified Eagle Inn	buy	1000	jittery lime green Official Seal of Dreadsylvania	ROW148
 
 # Things you can buy with Shore Inc. Ship Trip Scrip
 
-The Shore, Inc. Gift Shop	buy	1	dude ranch souvenir crate	ROW180
+The Shore, Inc. Gift Shop	buy	1	shaking dude ranch souvenir crate	ROW180
 The Shore, Inc. Gift Shop	buy	1	tropical island souvenir crate	ROW181
 The Shore, Inc. Gift Shop	buy	1	ski resort souvenir crate	ROW182
 The Shore, Inc. Gift Shop	buy	1	meat globe	ROW178
-The Shore, Inc. Gift Shop	buy	3	cheap toaster	ROW179
-The Shore, Inc. Gift Shop	buy	1	UV-resistant compass	ROW183
+The Shore, Inc. Gift Shop	buy	3	wobbly toaster	ROW179
+The Shore, Inc. Gift Shop	buy	1	blurry maroon UV-resistant compass	ROW183
 The Shore, Inc. Gift Shop	buy	3	dinghy plans	ROW176
-The Shore, Inc. Gift Shop	buy	5	fuzzy dice	ROW177
+The Shore, Inc. Gift Shop	buy	5	huge fuzzy dice	ROW177
 
 # Things you can buy with warbear whosits
 
-Warbear Black Box	buy	10	blind-packed die-cast metal toy	ROW224
-Warbear Black Box	buy	50	warbear helm fragment	ROW221
-Warbear Black Box	buy	50	warbear trouser fragment	ROW222
-Warbear Black Box	buy	50	warbear accoutrements chunk	ROW223
-Warbear Black Box	buy	100	warbear requisition box	ROW225
-Warbear Black Box	buy	200	warbear dress greaves	ROW242
-Warbear Black Box	buy	300	warbear dress bracers	ROW243
-Warbear Black Box	buy	400	warbear dress helmet	ROW244
-Warbear Black Box	buy	500	warbear officer requisition box	ROW226
+spinning warbear box	buy	10	blind-packed die-cast toy	ROW224
+spinning warbear box	buy	50	lime green warbear helm fragment	ROW221
+spinning warbear box	buy	50	warbear trouser fragment	ROW222
+spinning warbear box	buy	50	wobbly warbear accoutrements chunk	ROW223
+spinning warbear box	buy	100	warbear requisition box	ROW225
+spinning warbear box	buy	200	miser's warbear dress greaves of the pedagogue	ROW242
+spinning warbear box	buy	300	warbear dress bracers of chilblains of mayonnaise	ROW243
+spinning warbear box	buy	400	squat Fonzie's warbear dress helmet of the businessman	ROW244
+spinning warbear box	buy	500	fuchsia warbear officer requisition box	ROW226
 
 # Things you can buy with odd silver coins
 
-Paul's Boutique	buy	2	cinnamon cannoli	ROW245
-Paul's Boutique	buy	3	expensive champagne	ROW246
-Paul's Boutique	buy	3	polo trophy	ROW247
-Paul's Boutique	buy	4	fancy oil painting	ROW248
-Paul's Boutique	buy	5	solid gold rosary	ROW249
+Paul's Boutique	buy	2	decent fancy super-sized cinnamon cannoli	ROW245
+Paul's Boutique	buy	3	boozy perfectly mixed expensive champagne	ROW246
+Paul's Boutique	buy	3	cold-filtered polo trophy	ROW247
+Paul's Boutique	buy	4	oil painting	ROW248
+Paul's Boutique	buy	5	rosary	ROW249
 Paul's Boutique	buy	5	ornate dowsing rod	ROW250
 
 # Things you can buy with Beach Bucks
 
-The Frozen Brogurt Stand	buy	1	regular-size brogurt	ROW293
-The Frozen Brogurt Stand	buy	3	super-size brogurt	ROW294
-The Frozen Brogurt Stand	buy	10	broberry brogurt	ROW295
-The Frozen Brogurt Stand	buy	10	brocolate brogurt	ROW296
-The Frozen Brogurt Stand	buy	10	French bronilla brogurt	ROW297
+The Frozen Brogurt Stand	buy	1	watered-down bad regular-size brogurt	ROW293
+The Frozen Brogurt Stand	buy	3	boozy acceptable super-size brogurt	ROW294
+The Frozen Brogurt Stand	buy	10	tolerable watered-down broberry brogurt	ROW295
+The Frozen Brogurt Stand	buy	10	acceptable twirling brocolate brogurt	ROW296
+The Frozen Brogurt Stand	buy	10	hand-crafted French bronilla brogurt	ROW297
 
-Taco Dan's Taco Stand	buy	1	Taco Dan's Basic Taco Dan Taco	ROW298
-Taco Dan's Taco Stand	buy	2	Taco Dan's Taco Fish Fish Taco	ROW301
+Taco Dan's Taco Stand	buy	1	normal half-sized Taco Dan's Basic Taco Dan Taco	ROW298
+Taco Dan's Taco Stand	buy	2	stale enchanted diet Taco Dan's Taco Fish Fish Taco	ROW301
 Taco Dan's Taco Stand	buy	3	Taco Dan's Super Taco-Riffic Taco Sauce!	ROW300
 Taco Dan's Taco Stand	buy	1	Pastaco shell	ROW299
 
-Buff Jimmy's Souvenir Shop	buy	15	industrial strength anti-fungal spray	ROW310
+Buff Jimmy's Souvenir Shop	buy	15	narrow shaking industrial strength anti-fungal spray	ROW310
 Buff Jimmy's Souvenir Shop	buy	100	one-day ticket to Spring Break Beach	ROW309
-Buff Jimmy's Souvenir Shop	buy	200	Brogre brolo shirt	ROW306
-Buff Jimmy's Souvenir Shop	buy	200	Brogre brorts	ROW305
-Buff Jimmy's Souvenir Shop	buy	200	Brogre bucket hat	ROW307
-Buff Jimmy's Souvenir Shop	buy	300	History's Most Offensive Jokes, Vol. IX	ROW302
-Buff Jimmy's Souvenir Shop	buy	300	Now You're Cooking With Grease	ROW303
+Buff Jimmy's Souvenir Shop	buy	200	bouncing dangerous Brogre brolo shirt	ROW306
+Buff Jimmy's Souvenir Shop	buy	200	Brogre brorts of the boozehound	ROW305
+Buff Jimmy's Souvenir Shop	buy	200	veiny Brogre bucket hat	ROW307
+Buff Jimmy's Souvenir Shop	buy	300	tumbling History's Most Offensive Jokes, Vol. IX	ROW302
+Buff Jimmy's Souvenir Shop	buy	300	red Now You're Cooking With Grease	ROW303
 Buff Jimmy's Souvenir Shop	buy	300	Sloppy Seconds Diner Employee Handbook	ROW304
 Buff Jimmy's Souvenir Shop	buy	1000	Spring Break Beach tattoo coupon	ROW308
 
@@ -630,7 +630,7 @@ The Neandermall	buy	25	snack-sized moldy red rack of dinosaur ribs	ROW312
 The Neandermall	buy	25	high-proof tolerable upside-down scotch on the rocks	ROW313
 The Neandermall	buy	100	studded wooly loincloth of Gandalf	ROW315
 The Neandermall	buy	100	educational stylish yabba dabba doo rag	ROW314
-The Neandermall	buy	300	strange helix fossil	ROW311
+The Neandermall	buy	300	helix fossil	ROW311
 
 Legitimate Shoe Repair, Inc.	buy	25	liquefied denatured jittery dog ointment	ROW316
 Legitimate Shoe Repair, Inc.	buy	200	wool Fonzie's gumshoes	ROW317
@@ -644,7 +644,7 @@ The Applecalypse Store	buy	600	lightning-fast sinister Newton's earbuds	ROW357
 The Applecalypse Store	buy	900	up-at-dawn supercharged iFlail of temperance	ROW358
 
 Ni&ntilde;a Store	buy	10	corrupted lime green invisible potion	ROW690
-Ni&ntilde;a Store	buy	200	time shuriken	ROW691
+Ni&ntilde;a Store	buy	200	maroon time shuriken	ROW691
 Ni&ntilde;a Store	buy	1000	ghostly reassuring brawny beefy ninjammies	ROW692
 
 Ye Newe Souvenir Shoppe	buy	25	rotten tomato	ROW756
@@ -659,54 +659,54 @@ Freshwater Fishbonery	buy	5	fishbone bracers	ROW325
 Freshwater Fishbonery	buy	5	fishbone facemask	ROW324
 Freshwater Fishbonery	buy	10	fishbone corset	ROW322
 Freshwater Fishbonery	buy	15	fishbone kneepads	ROW321
-Freshwater Fishbonery	buy	30	fishbone catcher's mitt	ROW320
+Freshwater Fishbonery	buy	30	skewed fishbone catcher's mitt	ROW320
 Freshwater Fishbonery	buy	20	fishbone fins	ROW323
 
 # Things you can buy with Coins-spiracy
 
-The SHAWARMA Initiative	buy	2	initiative shawarma	ROW342
-The SHAWARMA Initiative	buy	4	warm war shawarma	ROW341
-The SHAWARMA Initiative	buy	7	karma shawarma	ROW343
+The SHAWARMA Initiative	buy	2	jumbo toothsome initiative shawarma	ROW342
+The SHAWARMA Initiative	buy	4	moldy warm war shawarma	ROW341
+The SHAWARMA Initiative	buy	7	rotten bouncing karma shawarma	ROW343
 
-The Canteen	buy	1	Jungle Juice	ROW344
-The Canteen	buy	3	Amnesiac Ale	ROW345
-The Canteen	buy	6	Highest Bitter	ROW346
+The Canteen	buy	1	fortified artisanal Jungle Juice	ROW344
+The Canteen	buy	3	acceptable Amnesiac Ale	ROW345
+The Canteen	buy	6	hand-crafted Highest Bitter	ROW346
 
 The Armory	buy	1	specialty ammo bandolier	ROW349
 The Armory	buy	15	Agent Mauve	ROW378
-The Armory	buy	50	mercenary pistol	ROW347
-The Armory	buy	50	mercenary rifle	ROW348
+The Armory	buy	50	pulsating boxer's mercenary pistol of Gandalf	ROW347
+The Armory	buy	50	pulsating knitted energetic mercenary rifle	ROW348
 The Armory	buy	100	Merc Core deployment orders	ROW350
-The Armory	buy	300	Merc Core Field Manual: Sanity Maintenance	ROW351
+The Armory	buy	300	pulsating Merc Core Field Manual: Sanity Maintenance	ROW351
 The Armory	buy	300	Merc Core Field Manual: Intimidation Techniques	ROW352
 The Armory	buy	1000	Merc Core challenge coin	ROW353
 
 # Things you can sell to get Crimbo Credits
 
 Crimbo 2014	sell	1	peppermint tailings (10)	ROW397
-Crimbo 2014	sell	1	recovered elf toothbrush	ROW390
+Crimbo 2014	sell	1	wobbly recovered elf toothbrush	ROW390
 Crimbo 2014	sell	1	recovered elf magazine	ROW389
 Crimbo 2014	sell	2	recovered elf sleeping pills	ROW391
-Crimbo 2014	sell	2	recovered elf underpants	ROW392
+Crimbo 2014	sell	2	purple recovered elf underpants	ROW392
 Crimbo 2014	sell	3	recovered elf pocketwatch	ROW394
 Crimbo 2014	sell	3	recovered elf wallet	ROW393
 Crimbo 2014	sell	4	recovered elf photo album	ROW395
-Crimbo 2014	sell	5	recovered elf smartphone	ROW396
+Crimbo 2014	sell	5	blurry recovered elf smartphone	ROW396
 
 # Things you can buy with Crimbo Credits
 
-Crimbo 2014	buy	5	choco-Crimbot	ROW398
-Crimbo 2014	buy	10	fitness wristband	ROW410
-Crimbo 2014	buy	10	smart watch	ROW399
-Crimbo 2014	buy	10	augmented-reality shades	ROW400
-Crimbo 2014	buy	75	toy Crimbot mega face	ROW401
-Crimbo 2014	buy	75	toy Crimbot power glove	ROW402
-Crimbo 2014	buy	75	toy Crimbot super fist	ROW403
-Crimbo 2014	buy	75	toy Crimbot rocket legs	ROW404
-Crimbo 2014	buy	5	Crimbot battery	ROW405
-Crimbo 2014	buy	300	Crimbot ROM: Rapid Prototyping	ROW406
+Crimbo 2014	buy	5	frozen oxidized purple choco-Crimbot	ROW398
+Crimbo 2014	buy	10	enhanced polarized teal mirror fitness wristband	ROW410
+Crimbo 2014	buy	10	moist huge smart watch	ROW399
+Crimbo 2014	buy	10	denatured magnetized red shaking augmented-reality shades	ROW400
+Crimbo 2014	buy	75	pulsating flame-wreathed toy Crimbot mega face	ROW401
+Crimbo 2014	buy	75	crafty toy Crimbot power glove	ROW402
+Crimbo 2014	buy	75	Fonzie's toy Crimbot super fist	ROW403
+Crimbo 2014	buy	75	squat ghostly chilly toy Crimbot rocket legs	ROW404
+Crimbo 2014	buy	5	Vulcanized Crimbot battery	ROW405
+Crimbo 2014	buy	300	spinning Crimbot ROM: Rapid Prototyping	ROW406
 Crimbo 2014	buy	300	Crimbot ROM: Mathematical Precision	ROW407
-Crimbo 2014	buy	300	Crimbot ROM: Ruthless Efficiency	ROW408
+Crimbo 2014	buy	300	blurry purple Crimbot ROM: Ruthless Efficiency	ROW408
 Crimbo 2014	buy	500	Mini-Crimbot crate	ROW409
 
 # Things you can buy with Ka coins
@@ -717,144 +717,144 @@ Everything Under the World	buy	15	compressed mirror mummified beef haunch	ROW428
 Everything Under the World	buy	1	purple holy spring water	ROW436
 Everything Under the World	buy	2	purple spirit beer	ROW432
 Everything Under the World	buy	3	mirror sacramental wine	ROW433
-Everything Under the World	buy	1	linen bandages	ROW429
-Everything Under the World	buy	3	cotton bandages	ROW430
-Everything Under the World	buy	5	silk bandages	ROW431
-Everything Under the World	buy	3	ancient cure-all	ROW435
-Everything Under the World	buy	2	talisman of Thoth	ROW434
-Everything Under the World	buy	1	talisman of Renenutet	ROW439
+Everything Under the World	buy	1	huge fuchsia linen bandages	ROW429
+Everything Under the World	buy	3	wobbly cotton bandages	ROW430
+Everything Under the World	buy	5	squat silk bandages	ROW431
+Everything Under the World	buy	3	cure-all	ROW435
+Everything Under the World	buy	2	mirror talisman of Thoth	ROW434
+Everything Under the World	buy	1	cyan talisman of Renenutet	ROW439
 Everything Under the World	buy	5	double-dry electrified shaking talisman of Horus	ROW693
 
 # Things you can buy with FunFunds&trade;
 
-The Dinsey Company Store	buy	1	Dinsey face paint	ROW701
-The Dinsey Company Store	buy	2	Dinsey food-cone	ROW699
-The Dinsey Company Store	buy	2	Dinsey Whinskey	ROW700
-The Dinsey Company Store	buy	20	one-day ticket to Dinseylandfill	ROW715
-The Dinsey Company Store	buy	25	stinky fannypack	ROW702
-The Dinsey Company Store	buy	25	garbage sticker	ROW703
-The Dinsey Company Store	buy	25	hazmat helmet	ROW704
+The Dinsey Company Store	buy	1	double-flattened electrified pressed Dinsey face paint	ROW701
+The Dinsey Company Store	buy	2	moldy small Dinsey food-cone	ROW699
+The Dinsey Company Store	buy	2	perfectly mixed Dinsey Whinskey	ROW700
+The Dinsey Company Store	buy	20	purple shaking one-day ticket to Dinseylandfill	ROW715
+The Dinsey Company Store	buy	25	sizzling fannypack of the brazier	ROW702
+The Dinsey Company Store	buy	25	Usain Bolt's inspector's occult garbage sticker of vim and vigor of the bloodbag of temperance	ROW703
+The Dinsey Company Store	buy	25	Jim Carey's Samson's hazmat helmet of the scaredy-cat of the sewer of temperance	ROW704
 The Dinsey Company Store	buy	50	Scratch-and-Sniff Guide to Dinseylandfill	ROW705
 The Dinsey Company Store	buy	50	Trash, a Memoir	ROW706
 The Dinsey Company Store	buy	50	Dinsey Maintenance Manual	ROW707
-The Dinsey Company Store	buy	100	Dinsey tattoo kit	ROW708
+The Dinsey Company Store	buy	100	tumbling Dinsey tattoo kit	ROW708
 
 # Things you can buy with toxic globules
 
-Toxic Chemistry	buy	5	Lemonade-235	ROW710
-Toxic Chemistry	buy	5	toxo	ROW709
-Toxic Chemistry	buy	50	isotophat	ROW711
-Toxic Chemistry	buy	50	Three Mile Island shorts	ROW712
-Toxic Chemistry	buy	50	toxic mop	ROW713
-Toxic Chemistry	buy	500	inert sludgepuppy	ROW714
+Toxic Chemistry	buy	5	enchanted mediocre Lemonade-235	ROW710
+Toxic Chemistry	buy	5	flavorless small tumbling squat lime green toxo	ROW709
+Toxic Chemistry	buy	50	mirror censurious isotophat of the glutton	ROW711
+Toxic Chemistry	buy	50	sharpshooter's educational Three Mile Island shorts	ROW712
+Toxic Chemistry	buy	50	yellow scorching dangerous toxic mop	ROW713
+Toxic Chemistry	buy	500	skewed inert sludgepuppy	ROW714
 
 # Things you can buy with Volcoinos
 
-Disco GiftCo	buy	1	liquid rhinestones	ROW744
-Disco GiftCo	buy	1	disco biscuit	ROW745
-Disco GiftCo	buy	1	Quaatorade&trade;	ROW746
+Disco GiftCo	buy	1	activated wet cold-filtered twirling liquid rhinestones	ROW744
+Disco GiftCo	buy	1	small spoiled disco biscuit	ROW745
+Disco GiftCo	buy	1	practically non-alcoholic aged Quaatorade&trade;	ROW746
 Disco GiftCo	buy	3	one-day ticket to That 70s Volcano	ROW754
-Disco GiftCo	buy	5	biker's hat	ROW747
-Disco GiftCo	buy	5	feathered headdress	ROW748
-Disco GiftCo	buy	5	electrician's hardhat	ROW749
-Disco GiftCo	buy	10	Lava Miner's Daughter	ROW750
+Disco GiftCo	buy	5	supercool biker's hat of the wise owl of the boozehound	ROW747
+Disco GiftCo	buy	5	twirling lard-coated flame-wreathed Tesla feathered headdress	ROW748
+Disco GiftCo	buy	5	lightning-fast Herculean electrician's hardhat of the boozehound	ROW749
+Disco GiftCo	buy	10	blurry Lava Miner's Daughter	ROW750
 Disco GiftCo	buy	10	Psycho From The Heat	ROW751
 Disco GiftCo	buy	10	The Firegate Tapes	ROW752
 Disco GiftCo	buy	30	&quot;DEBBIE&quot; tattoo kit	ROW753
 
 # Things you can buy with Wal-Mart gift certificates
 
-Wal-Mart	buy	5	shoulder-warming lotion	ROW763
-Wal-Mart	buy	15	iceberg lettuce	ROW764
-Wal-Mart	buy	15	ice wine	ROW765
+Wal-Mart	buy	5	vacuum-sealed cold-filtered shoulder-warming lotion	ROW763
+Wal-Mart	buy	15	decent iceberg lettuce	ROW764
+Wal-Mart	buy	15	hand-crafted watered-down bouncing ice wine	ROW765
 Wal-Mart	buy	50	one-day ticket to The Glaciest	ROW773
-Wal-Mart	buy	75	Wal-Mart snowglobe	ROW766
-Wal-Mart	buy	75	Wal-Mart nametag	ROW767
-Wal-Mart	buy	75	Wal-Mart overalls	ROW768
+Wal-Mart	buy	75	red skewed therapeutic baleful savvy Wal-Mart snowglobe	ROW766
+Wal-Mart	buy	75	Fonzie's Wal-Mart nametag of incineration of the glutton	ROW767
+Wal-Mart	buy	75	dog trainer's Jim Carey's Da Vinci's Wal-Mart overalls	ROW768
 Wal-Mart	buy	150	To Build an Igloo	ROW769
 Wal-Mart	buy	150	The Chill of the Wild	ROW770
 Wal-Mart	buy	150	Cold Fang	ROW772
-Wal-Mart	buy	250	Wal-Mart tattoo kit	ROW771
+Wal-Mart	buy	250	shaking Wal-Mart tattoo kit	ROW771
 
 # Things you can Bat-Fabricate
 
-Bat-Fabricator	buy	3	bat-oomerang	ROW782
-Bat-Fabricator	buy	3	bat-jute	ROW783
-Bat-Fabricator	buy	3	bat-o-mite	ROW784
+Bat-Fabricator	buy	3	mirror bat-oomerang	ROW782
+Bat-Fabricator	buy	3	jittery bat-jute	ROW783
+Bat-Fabricator	buy	3	mirror bat-o-mite	ROW784
 
 # Things you can buy with dangerous chemicals
 
-ChemiCorp	buy	3	experimental gene therapy	ROW785
+ChemiCorp	buy	3	lime green experimental gene therapy	ROW785
 ChemiCorp	buy	1	ultracoagulator	ROW787
 
 # Things you can buy with incriminating evidence
 
-Gotpork P. D.	buy	3	self-defense training	ROW788
+Gotpork P. D.	buy	3	cyan self-defense training	ROW788
 Gotpork P. D.	buy	1	fingerprint dusting kit	ROW789
 
 # Things you can buy with kidnapped orphans
 
-Gotpork Orphanage	buy	3	confidence-building hug	ROW790
-Gotpork Orphanage	buy	1	exploding kickball	ROW791
+Gotpork Orphanage	buy	3	bouncing huge confidence-building hug	ROW790
+Gotpork Orphanage	buy	1	squat exploding kickball	ROW791
 
 # Things you can buy with buffalo dimes
 
-LT&T Gift Shop	buy	3	steel knuckles	ROW795
-LT&T Gift Shop	buy	3	Shrub's Premium Baked Beans	ROW793
-LT&T Gift Shop	buy	3	reliable sixgun	ROW794
-LT&T Gift Shop	buy	10	western-style skinning knife	ROW792
-LT&T Gift Shop	buy	10	inflatable LT&T telegraph office	ROW803
-LT&T Gift Shop	buy	20	Hell and How I Bent It	ROW797
-LT&T Gift Shop	buy	40	Tales of Western Braggadoccio	ROW796
-LT&T Gift Shop	buy	60	The Western Look	ROW798
-LT&T Gift Shop	buy	100	LT&T tattoo kit	ROW799
-LT&T Gift Shop	buy	15	Western Slang Vol. 1: Violence	ROW800
+LT&T Gift Shop	buy	3	wobbly narrow steel knuckles of wisdom	ROW795
+LT&T Gift Shop	buy	3	wobbly twirling weightlifter's Shrub's Premium Baked Beans of the storm of the brazier	ROW793
+LT&T Gift Shop	buy	3	skewed reliable sixgun	ROW794
+LT&T Gift Shop	buy	10	crafty hardy western-style skinning knife	ROW792
+LT&T Gift Shop	buy	10	mirror inflatable LT&T telegraph office	ROW803
+LT&T Gift Shop	buy	20	spinning Hell and How I Bent It	ROW797
+LT&T Gift Shop	buy	40	fuchsia Tales of Western Braggadoccio	ROW796
+LT&T Gift Shop	buy	60	bouncing The Western Look	ROW798
+LT&T Gift Shop	buy	100	pulsating LT&T tattoo kit	ROW799
+LT&T Gift Shop	buy	15	squat Western Slang Vol. 1: Violence	ROW800
 LT&T Gift Shop	buy	15	Western Slang Vol. 2: Cooking	ROW801
 LT&T Gift Shop	buy	15	Western Slang Vol. 3: Fraud	ROW802
 
 # BACON
 Internet Meme Shop	buy	20	viral video	ROW821
 Internet Meme Shop	buy	74	plus one	ROW824
-Internet Meme Shop	buy	100	gallon of milk	ROW825
-Internet Meme Shop	buy	111	print screen button	ROW826
-Internet Meme Shop	buy	150	daily dungeon malware	ROW827
+Internet Meme Shop	buy	100	moldy massive shaking gallon of milk	ROW825
+Internet Meme Shop	buy	111	mirror print screen button	ROW826
+Internet Meme Shop	buy	150	teal daily dungeon malware	ROW827
 Internet Meme Shop	buy	37	internet point	ROW822
-Internet Meme Shop	buy	50	meme generator	ROW823
+Internet Meme Shop	buy	50	teal meme generator	ROW823
 Internet Meme Shop	buy	150000	First Post shirt package	ROW829
 Internet Meme Shop	buy	5000	infinite BACON machine	ROW828
 
 # Things you can buy with cop dollars
 
-Precinct Materiel Division	buy	4	hardboiled egg	ROW839
-Precinct Materiel Division	buy	4	Falcon&trade; Maltese Liquor	ROW835
-Precinct Materiel Division	buy	10	shoe gum	ROW834
-Precinct Materiel Division	buy	50	detective roscoe	ROW830
-Precinct Materiel Division	buy	200	noir fedora	ROW836
-Precinct Materiel Division	buy	200	trench coat	ROW837
-Precinct Materiel Division	buy	1000	detective tattoo	ROW838
+Precinct Materiel Division	buy	4	miniature moldy hardboiled egg	ROW839
+Precinct Materiel Division	buy	4	watered-down smooth Falcon&trade; Maltese Liquor	ROW835
+Precinct Materiel Division	buy	10	alkaline quadruple-warmed blurry shoe gum	ROW834
+Precinct Materiel Division	buy	50	gray fireproof mansplainer's ruddy detective roscoe	ROW830
+Precinct Materiel Division	buy	200	bouncing executive inspector's noir fedora of the cheetah	ROW836
+Precinct Materiel Division	buy	200	cyan aromatic Jim Carey's MacGyver's trench coat	ROW837
+Precinct Materiel Division	buy	1000	squat detective tattoo	ROW838
 
 # Things you can buy with cashews
 
-A traveling Thanksgiving salesman	buy	1	glass casserole dish	ROW900
-A traveling Thanksgiving salesman	buy	1	can opener	ROW902
-A traveling Thanksgiving salesman	buy	1	potato masher	ROW905
-A traveling Thanksgiving salesman	buy	2	mini-marshmallow dispenser	ROW899
-A traveling Thanksgiving salesman	buy	2	glass pie plate	ROW904
+A traveling Thanksgiving salesman	buy	1	rosewater-soaked resourceful stiffened glass casserole dish	ROW900
+A traveling Thanksgiving salesman	buy	1	yellow jittery gravedigger's sizzling can opener	ROW902
+A traveling Thanksgiving salesman	buy	1	shaking horrifying potato masher of temperance	ROW905
+A traveling Thanksgiving salesman	buy	2	frightening mini-marshmallow dispenser of the scaredy-cat	ROW899
+A traveling Thanksgiving salesman	buy	2	healthy dangerous glass pie plate	ROW904
 A traveling Thanksgiving salesman	buy	2	bread mold	ROW907
-A traveling Thanksgiving salesman	buy	3	stuffing fluffer	ROW901
-A traveling Thanksgiving salesman	buy	3	turkey blaster	ROW903
+A traveling Thanksgiving salesman	buy	3	pulsating bouncing stuffing fluffer	ROW901
+A traveling Thanksgiving salesman	buy	3	twisted huge turkey blaster	ROW903
 A traveling Thanksgiving salesman	buy	3	gravy boat	ROW906
 
 # Things you can buy with priceless diamonds
 
-The Black Market	buy	1	Red Zeppelin ticket	ROW290
+The Black Market	buy	1	squat Red Zeppelin ticket	ROW290
 
 # Things you can buy with Spacegate Research
 
 Spacegate Fabrication Facility	buy	50	flavorless miniature enchanted Aldebaran sardines	ROW943
 Spacegate Fabrication Facility	buy	50	drinkable Centauri fish wine	ROW944
 Spacegate Fabrication Facility	buy	100	dehydrated oxygen	ROW945
-Spacegate Fabrication Facility	buy	1000	portable Spacegate	ROW947
+Spacegate Fabrication Facility	buy	1000	Spacegate	ROW947
 Spacegate Fabrication Facility	buy	3000	toasty ruddy Spacegate scientist's insignia	ROW948
 Spacegate Fabrication Facility	buy	3000	skewed scorching medical-grade Spacegate military insignia	ROW949
 Spacegate Fabrication Facility	buy	3000	zippy slick Spacegate diplomat's insignia of the blizzard	ROW950
@@ -871,19 +871,19 @@ Cheer-o-Vend 3000	buy	100	mirror Temple Grandin's cheerful Crimbo sweater of the
 Cheer-o-Vend 3000	buy	100	pulsating extremely unsafe weightlifter's cheerful pajama pants	ROW972
 Cheer-o-Vend 3000	buy	150	warehouse key	ROW979
 Cheer-o-Vend 3000	buy	1000	The Journal of Mime Science Vol. 1	ROW973
-Cheer-o-Vend 3000	buy	1000	The Journal of Mime Science Vol. 2	ROW974
+Cheer-o-Vend 3000	buy	1000	spinning The Journal of Mime Science Vol. 2	ROW974
 Cheer-o-Vend 3000	buy	1000	The Journal of Mime Science Vol. 3	ROW975
-Cheer-o-Vend 3000	buy	1000	The Journal of Mime Science Vol. 4	ROW976
+Cheer-o-Vend 3000	buy	1000	narrow The Journal of Mime Science Vol. 4	ROW976
 Cheer-o-Vend 3000	buy	1000	The Journal of Mime Science Vol. 5	ROW977
-Cheer-o-Vend 3000	buy	1000	The Journal of Mime Science Vol. 6	ROW978
+Cheer-o-Vend 3000	buy	1000	upside-down The Journal of Mime Science Vol. 6	ROW978
 
 # Pocket Familiars
 The Pok&eacute;mporium	buy	5	bronze	ROW994
-The Pok&eacute;mporium	buy	5	ginseng	ROW997
+The Pok&eacute;mporium	buy	5	yellow ginseng	ROW997
 The Pok&eacute;mporium	buy	5	metandienone	ROW992
 The Pok&eacute;mporium	buy	5	piracetam	ROW995
-The Pok&eacute;mporium	buy	5	riboflavin	ROW993
-The Pok&eacute;mporium	buy	5	ultracalcium	ROW996
+The Pok&eacute;mporium	buy	5	shaking riboflavin	ROW993
+The Pok&eacute;mporium	buy	5	tumbling twirling ultracalcium	ROW996
 The Pok&eacute;mporium	buy	50	fireproof Team Avarice cap	ROW998
 The Pok&eacute;mporium	buy	50	Team Sloth cap	ROW999
 The Pok&eacute;mporium	buy	50	thinker's Team Wrath cap	ROW1000
@@ -895,11 +895,11 @@ FantasyRealm Rubee&trade; Store	buy	100	hand-crafted FantasyRealm mead	ROW1012
 FantasyRealm Rubee&trade; Store	buy	100	normal FantasyRealm turkey leg	ROW1011
 FantasyRealm Rubee&trade; Store	buy	150	red LyleCo premium magnifying glass	ROW1008
 FantasyRealm Rubee&trade; Store	buy	150	squat LyleCo premium monocle	ROW1007
-FantasyRealm Rubee&trade; Store	buy	300	LyleCo premium pickaxe	ROW1004
+FantasyRealm Rubee&trade; Store	buy	300	maroon LyleCo premium pickaxe	ROW1004
 FantasyRealm Rubee&trade; Store	buy	300	LyleCo premium rope	ROW1005
 FantasyRealm Rubee&trade; Store	buy	350	FantasyRealm guest pass	ROW1018
 FantasyRealm Rubee&trade; Store	buy	500	map to the Cursed Village	ROW1016
-FantasyRealm Rubee&trade; Store	buy	500	map to the Mystic Wood	ROW1014
+FantasyRealm Rubee&trade; Store	buy	500	spinning map to the Mystic Wood	ROW1014
 FantasyRealm Rubee&trade; Store	buy	500	map to the Putrid Swamp	ROW1015
 FantasyRealm Rubee&trade; Store	buy	500	map to the Sprawling Cemetery	ROW1017
 FantasyRealm Rubee&trade; Store	buy	500	map to the Towering Mountains	ROW1013
@@ -915,19 +915,19 @@ G-Mart	buy	3	crude oil congealer	ROW1021
 G-Mart	buy	11	gattoo	ROW1019
 
 # PirateRealm
-PirateRealm Fun-a-Log	buy	20	aromatic experienced slick PirateRealm party hat	ROW1064
-PirateRealm Fun-a-Log	buy	100	crabsicle	ROW1053
-PirateRealm Fun-a-Log	buy	100	diffused pirate shaving cream	ROW1057
-PirateRealm Fun-a-Log	buy	100	mediocre bottle of dark rhum	ROW1054
-PirateRealm Fun-a-Log	buy	100	bottle of extra-dark rhum	ROW1055
-PirateRealm Fun-a-Log	buy	100	special lousy bottle of super-extra-dark rhum	ROW1056
-PirateRealm Fun-a-Log	buy	600	PirateRealm guest pass	ROW1067
-PirateRealm Fun-a-Log	buy	1000	hardy Samson's conquistador's breastplate	ROW1058
-PirateRealm Fun-a-Log	buy	1000	stanky piratical blunderbuss of the bloodbag	ROW1063
-PirateRealm Fun-a-Log	buy	1000	huge toasty plush sea serpent	ROW1062
-PirateRealm Fun-a-Log	buy	1000	spinning greedy studded pirate radio ring	ROW1059
-PirateRealm Fun-a-Log	buy	2000	stale mirror pirate fork	ROW1065
-PirateRealm Fun-a-Log	buy	2000	Scurvy and Sobriety Prevention	ROW1066
-PirateRealm Fun-a-Log	buy	2000	ring	ROW1068
-PirateRealm Fun-a-Log	buy	3000	Island Drinkin', a Tiki Mixology Odyssey	ROW1060
-PirateRealm Fun-a-Log	buy	5000	Red Roger tattoo kit	ROW1061
+olive PirateRealm fun-a-log	buy	20	aromatic experienced slick PirateRealm party hat	ROW1064
+olive PirateRealm fun-a-log	buy	100	delicious skewed crabsicle	ROW1053
+olive PirateRealm fun-a-log	buy	100	diffused pirate shaving cream	ROW1057
+olive PirateRealm fun-a-log	buy	100	mediocre bottle of dark rhum	ROW1054
+olive PirateRealm fun-a-log	buy	100	delicious bottle of extra-dark rhum	ROW1055
+olive PirateRealm fun-a-log	buy	100	special lousy bottle of super-extra-dark rhum	ROW1056
+olive PirateRealm fun-a-log	buy	600	PirateRealm guest pass	ROW1067
+olive PirateRealm fun-a-log	buy	1000	hardy Samson's conquistador's breastplate	ROW1058
+olive PirateRealm fun-a-log	buy	1000	stanky piratical blunderbuss of the bloodbag	ROW1063
+olive PirateRealm fun-a-log	buy	1000	huge toasty plush sea serpent	ROW1062
+olive PirateRealm fun-a-log	buy	1000	spinning greedy studded pirate radio ring	ROW1059
+olive PirateRealm fun-a-log	buy	2000	stale mirror pirate fork	ROW1065
+olive PirateRealm fun-a-log	buy	2000	Scurvy and Sobriety Prevention	ROW1066
+olive PirateRealm fun-a-log	buy	2000	ring	ROW1068
+olive PirateRealm fun-a-log	buy	3000	cyan Island Drinkin', a Tiki Mixology Odyssey	ROW1060
+olive PirateRealm fun-a-log	buy	5000	Red Roger tattoo kit	ROW1061
